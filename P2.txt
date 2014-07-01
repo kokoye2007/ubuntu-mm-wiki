@@ -1,0 +1,2059 @@
+﻿
+
+
+........................................................Pg 51 မွ 97 အထိ 
+
+
+Coming Soon!!!
+
+Video Applications
+
+Webcam Applications
+
+ဤေဆာ့၀ဲမ်ားသည္ Webcam အသံုးျပဳေသာေဆာ့၀ဲမ်ားျဖစ္ပါသည္။မိမိတို႔ပံုမ်ားကို Effect မ်ား ထည့္သံုး၍ 
+အလြယ္တကူအသံုးျပဳႏုိင္ေသာ ေဆာ့၀ဲမ်ားျဖစ္သည္။
+
+Cheese
+-Cheese (http://projects.gnome.org/cheese/)သည္ Gnome-based webcam
+ ေဆာ့၀ဲတစ္ခုျဖစ္ၿပီး ေဆာ့၀ဲ ၍ window size ကိုလဲ လိုအပ္သလို ျပဳလုပ္အသံုးျပဳႏုိင္ပါသည္။
+
+Terminal မွ သြင္းရန္
+
+sudo apt-get install cheese
+
+Kamoso
+ 
+-Kamoso (https://kde-apps.org/content/show.php/Kamoso?content=111750)သည္
+KDE-base webcam ေဆာ့၀ဲတစ္ခုျဖစ္သည္။
+
+sudo apt-get install kamoso
+
+Camorama
+-Camorama(http://camorama.fixedgear.org/index.php)သည္ Cheese ကဲ့သို႔ေသာ webcam 
+ေဆာ့၀ဲတစ္ခုျဖစ္ၿပီး Gtk based ေဆာ့၀ဲတစ္ခုျဖစ္သည္။
+
+sudo apt-get install camorama
+
+Xawtv
+
+-Xawtv(http://git.linuxtv.org/xawtv4.git) သည္ Cheese ကဲ့သို႔ေသာ webcam
+ေဆာ့၀ဲတစ္ခုျဖစ္ၿပီး Gtk based ေဆာ့၀ဲတစ္ခုျဖစ္သည္။ ScreenCasts ျပဳလုပ္ရန္ အသံုးတည့္ေသာ 
+အမ်ဳိးအစားျဖစ္သည္။
+
+Click on X in the window bar-Advanced -No Border(ticked)
+
+sudo apt-get-install xawtv
+
+ဤေဆာ့၀ဲမ်ားကို Gnome/KDE Ubuntu ႏွင့္ Kubuntu မ်ားတြင္ အသံုးျပဳႏိုင္ပါသည္။
+
+
+
+
+
+
+
+Office Suites
+
+Open Office
+
+Open Office(http://www.openoffice.org) ကို Ubuntu တြင္ ပံုမွန္အေနျဖင့္ ထည့္သြင္းၿပီးျဖစ္သည္။
+ပါ၀င္ေသာ ေဆာ့၀ဲမ်ားႏွင့္ ႏႈိင္းယွဥ္ျပရလွ်င္ --Writer (Word ကဲ့သို႔ သံုးႏိုင္သည္),Presentation (PowerPoint 
+ကဲ့သို႔  သံုးႏိုင္သည္),Calc spreadsheet (Excel ကဲ့သို႔ သံုးႏုိင္သည္) , ႏွင့္ Base relational database (Access 
+ကဲ့သို႔ သံုးႏိုင္သည္)
+
+Open Word 2007 Documents in Open Office
+
+Word 2007 အား Open Office တြင္ အသံုးျပဳျခင္း
+
+ေနာက္ဆံုးထြက္ Open Office  သည္ .docx ဖိုင္ (Word 2007) ဖိုင္မ်ားအား ပံုမွန္အတိုင္း အသံုးျပဳႏုိင္ၿပီ ျဖစ္သည္။
+
+Libre Office
+
+Libre Office (https://www.libreoffice.org/)သည္ free and open source (GPL-licensed)office suite
+တစ္ခုျဖစ္ၿပီး ယခင္က OpenOffice ႏွင့္ အတူတူပင္ျဖစ္သည္။ Install ျပဳလုပ္ရန္:
+
+sudo add-apt-repository ppa:libreoffice/ppa
+sudo apt-get update
+sudo apt-get install libreoffice libreoffice-gnoma
+
+KOffice
+
+KOffice(http://www.koffice.org/) သည္ KDE project ၏ တစိတ္တေဒသျဖစ္ၿပီး OpenOffice suite
+၏ လုပ္ေဆာင္ခ်က္မ်ားအား OpenOffice လိုင္စင္ေအာက္မွ မဟုတ္ဘဲ အသံုးျပဳႏိုင္ရန္ျဖစ္သည္။ ဤ 
+program အား မည္သည့္ ubuntu ဗားရွင္းတြင္မဆို အသံုးျပဳႏုိင္သည္။ Install ျပဳလုပ္ရန္
+
+sudo apt-get install koffice
+
+Abi Word
+
+Abi Word (http://www.abisource.com/) သည္ လွ်င္ျမန္ၿပီး စုေပါင္းလုပ္ေဆာင္ႏုိင္ေသာ စာစီစာရိုက္
+စနစ္ျဖစ္သည္။ ေနာက္ဆံုးထြက္ ဗားရွင္းအား ၾကည့္ရန္ the Abi Word website 
+(http://abisource.com/com/wiki/Install-on-Ubuntu) ကို သြားပါ။ Repositories မွ install လုပ္ရန္
+
+sudo apt-get install abiword
+
+Xournal
+
+Xournal (http://xournal.sourceforge.net/) သည္ အခမဲ့ (GPL-licensed) ျဖစ္ၿပီး မွတ္စု ေရးသားျခင္း။
+ပံုၾကမ္းဆြဲျခင္း (သို႔မဟုတ္) stylus အသံုးျပဳ၍ ဂ်ာနယ္မ်ား သိမ္းဆည္းျခင္းမ်ားအတြက္ GTK/Gnome 
+အား အေျခခံထားသည့္ အသံုးခ် software ျဖစ္သည္။ Install ျပဳလုပ္ရန္ universe repositories အား enable
+ျပဳလုပ္ထားရမည္။
+
+sudo apt-get install xournal
+
+PDF Files
+
+PDF (https://en.wikipedia.org/wiki/Portable-Document-Format) ဖိုင္သည္ Adobe Acrobat (အျခား
+e-book readers မ်ားတြင္ ဖတ္ရႈႏုိင္ေသာ) Format တစ္ခုျဖစ္သည္။ Ubuntu တြင္ PDF ကဲ့သို႔ ဖိုင္မ်ားအတြက္
+အသံုး၀င္သည့္ program အမ်ားအျပားရွိပါသည္။ Synaptic Package Manager တြင္ pdf 
+ကို ရိုက္၍ ရွာေဖြၾကည့္ပါ။
+
+Print to a PDF File
+
+(K) Ubuntu သည္ မည္သည့္ Document (စာရြက္စာတမ္း) ကိုမဆို PDF Format သို႔ အလိုအေလ်ာက္
+ထုတ္ခြင့္ျပဳပါသည္။ မည္သည့္ application မွမဆို]
+
+File- Print -Print to File - Output:PDF
+
+View a PDF document
+
+Evince (http://projects.gnome.org/evince/) သည္ PDF ဖိုင္မ်ား ၾကည့္ရႈရန္အတြက္
+အလိုအေလ်ာက္ ထည့္သြင္းၿပီးသားျဖစ္သည္။ PDF ဖိုင္မ်ားသည္ Evince ႏွင့္ အလိုအေလ်ာက္ဖြင့္ႏုိင္သည္။
+ထို႔ေၾကာင့္ PDF ကို click  လုပ္လိုက္ပါက (Nautilus ကဲ့သို႔ေသာ File manager မွ ဖြင့္ပါက) Evince
+ႏွင့္ အလိုအေလ်ာက္ပြင့္မည္ျဖစ္သည္။ Evince ကို ဤသို႔လည္း စတင္အသံုးျပဳႏုိင္သည္။
+
+
+Menu- Office - Evince
+
+!---
+
+Print PDF documents
+
+The CUPS Print manager has a plugin to seamlessly print PDF documents. Install:
+
+sudo apt-get install cups-pdf
+
+---
+
+Scan to a PDF file
+
+Gscan2pdf (http:// gscan2pdf.sourceforge.net/) is a utility to do exactly that: scan to a PDF file.
+Multiple options for scanning can be set.Install:
+
+sudo apt-get install gscan2pdf
+
+PDF -Shuffler (PDF file management)
+
+PDF - Shuffler (http://sourceforge.net/projects/pdfshuffler/files/) is a free GTK-based utility to
+manipulate multiple PDF files,allowing individual pages or entire PDF documents to be re-
+arranged, rotated, merged, or deleted. This is an essential tool for working with PDF files.Install:
+
+sudo apt-get install pdf-shuffler
+
+
+Run:
+
+Menu - Office - PDF - Shuffler
+
+Max View (PDF File management)
+
+Max View (http://sourceforge.net/projects/maxview/) is utility to capture , manipulate and
+rearrange,and print .pdf and .max files. Written in Qt, it is similar in some respects to Paperport.
+
+-Download (http://sourceforge.net/projects/max view 0.7-2/) and install the 
+.deb package (use i386 instead of amd64 if using a 32-bit OS):
+
+wget - O maxview current.deb nowikihttp://sourceforge.net/projects/maxview/files/maxviewo.7-2/maxvie
+sudo dpkg- i  maxview current .deb
+
+
+Start Max View in a GUI by creating a menu item with the Command: maxview
+/home/user, where/ home/user is the directory in which you wish Max View to start.
+
+PDF edit (PDF File editor)
+
+
+PDF edit (http://pdfedit.petricek.net/en/index.html) is a free (GPL - licensed), Qt - based PDF  file 
+editing and manipulation program that uses a GUI for editing.Install:
+
+sudo apt-get install pdf edit
+
+Import PDF files into a word processor
+
+Import PDF files into Open Office Writer
+
+PDF files can be imported (htt://extensions.services.openoffice.org/project/pdfimport) into the 
+OpenOffice Writer word processor as a hybrid document ( not a scanned character document ) by 
+installing:
+
+sudo apt-get install openoffice.org-pdf import
+
+Import PDF files into K Word
+
+Kword is the Word Processor package in K Office.It allows the importing of PDF files by 
+default.
+
+PDF- X Change (PDF file editor)
+
+PDF-X Change (http://www.tracker-software.com/product/pdf-xchange-viewer) is a free
+Windows-based application to view,modify,or perform simple editing of PDF files.It works 
+under Wine.
+
+Personal Information Managers
+
+Coming Soon !!!
+
+you can contribute.
+
+
+Groupware
+
+Groupware တြင္  ေ၀မွ်သံုးေသာ ျပကၡဒိန္မ်ား၊ Email server စုစည္းထားမႈမ်ား၊ အစုအသင္းမ်ား၏ လိပ္စာ
+စာရင္းမ်ား၊ အသင္းအဖြဲ႔မ်ား၏ စီမံကိန္းမ်ား ႏွင့္ အသင္းအဖြဲ႔မ်ားအတြင္း message ပို႔ျခင္းမ်ား ပါ၀င္သည္။
+ ၎တို႔သည္ LAMP (သို႔) အလားတူ ဆာဗာမ်ား တစ္ခု (သို႔) တစ္ခုထက္ပို၍ လိုအပ္သည္။
+
+
+Groupware Servers
+
+Groupware servers မ်ားမွာ Server platform ေပၚတြင္ အသံုးျပဳရန္ ရည္ရြယ္ထားျခင္းျဖစ္သည္။
+သင့္အေနျဖင့္ သီးသန္႔ အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ဆာဗာတစ္ခုအတြက္ (အျမန္ႏႈန္းေကာင္းေစရန္အတြက္) Ubuntu server 
+version အား တပ္ဆင္ထားသင့္သည္။
+
+Kolab
+
+Kolab (http://www.kolab.org/) သည္အျပည့္စံုဆံုးေသာ  Open- source groupware ျဖစ္ၿပီး platform 
+မ်ဳိးစံုအတြက္ ျဖန္႔ခ်ီထားသည္။ ၎တို႔သည္ Ubuntu (Evolution အပါအ၀င္) KDE/Kunbuntu (Kcontact
+အပါအ၀င္) တို႔ႏွင့္ ေကာင္းစြာ ေပါင္းစပ္အလုပ္လုပ္ႏုိင္သည္။   ၎သည္ အခမဲ့၊ GPL လိုင္စင္ျဖင့္
+ပြင့္လင္းရင္းျမစ္ျဖစ္ေသာ္လည္း (အျခားအုပ္စုဖြဲ႔ ေဆာ့၀ဲမ်ားႏွင့္ မတူသည့္အခ်က္မွာ )
+စီးပြားေရးလုပ္ငန္းသံုးအတြက္ အကူအညီရျခင္းပင္ျဖစ္သည္။  ၎သည္ ႀကီးမားေသာ အဖြဲ႔အစည္းမ်ားအတြက္
+ အသံုးျပဳႏိုင္သည့္အျပင္ Outlook (MS -Exchange) ႏွင့္ Mozilla တို႔ႏွင့္လည္း တြဲဖက္ႏိုင္သည္။ သို႔ေသာ္ 
+ဂ်ာမန္ထုတ္ျဖစ္သည့္အတြက္ အဂၤလိပ္ဘာသျဖင့္ အသံုးျပဳနည္းတြင္ အကန္႔အသတ္မ်ား ရံဖန္ရံခါ ရွိတတ္သည္။
+Kolab ၀က္ဘ္ဆိုက္တြင္ ရင္းျမစ္မွ တပ္ဆင္ပံု (ယခုလက္ရွိ ဗ.၂.၂) အတြက္ ညႊန္ၾကားခ်က္မ်ား ေပးထားသည္။ ဗ
+၂.၂ တြင္ Horde ၀က္ဘ္ပံုစံပါ၀င္သည္။ လက္ရွိ ဘီတာအဆင့္ ဒီဘီရန္းအတြက္ ညႊန္ၾကားခ်က္မ်ားမွာ [ HERE
+-http://wiki.kolab.org/index.php/Debian - Administrators - Kolab-Installation] (သို႔) OpenPkg
+အတြက္ ညြန္ၾကားခ်က္မ်ားမွာ [ HERE - http:// files.kolab.org/server/release/kolab-server-2.2.4/ix 86 -
+debian 5.0/1st.README ] မွတ္ခ်က္ ။ Kolab သည္   ၎ကိုယ္ပိုင္ ဆာဗာအစိတ္အပိုင္းမ်ားကို အသံုးျပဳျခင္းျဖင့္ 
+Kolab ကို သီးသန္႔ဆာဗာေပၚတြင္ အသံုးျပဳျခင္းသည္ အေကာင္းဆံုးျဖစ္သည္။ သို႔ေသာ္လည္း မတူညီေသာ port 
+မ်ားကို ေရြးခ်ယ္ေပးျခင္းျဖင့္ အျခားေသာ ဆာဗာမိုဂ်ဴးမ်ားျဖင့္ ပဋိပကၡ ျဖစ္ျခင္းကို ေရွာင္လႊဲကာ
+စက္တစ္လံုးတည္းေပၚတြင္ အျခားေသာ ဆာဗာမ်ားကိုပါ တပ္ဆင္အသံုးျပဳႏုိင္သည္။  compiler ႏွင့္
+အျခားေသာ လုိအပ္သည့္ အရာမ်ားကို တပ္ဆင္ရန္
+
+sudo apt-get install build-essential
+
+Kolab Ubuntu package
+
+-အသံုးျပဳနည္း မပါ၀င္ေသးေသာ Kolab version အသစ္ (v.2.2) Ubuntu/ Kubuntu
+ အတြက္လည္း ရွိပါသည္။ တပ္ဆင္ရန္မွာ
+
+sudo apt-get install kolabd
+
+Manual Kolab installation
+
+-Kolab တပ္ဆင္ရန္အတြက္ ဖိုလ္ဒါတစ္ခုေဆာက္ပါ။ ၎ကို အားလံုး အသံုးျပဳခြင့္ေပးပါ။
+
+sudo mkdir/ kolab
+sudo chmod 777 / kolab
+
+
+-Optional: kolab ကို   ၎ အတြက္ ကိုယ္ပိုင္ အပိုင္းတြင္ တပ္ဆင္လိုပါက ဦးစြာ အပိုင္းသစ္ အရင္ျပဳလုပ္ပါ။
+(ဥပမာ - Gparted ကို သံုး ၍ ) ထို႔ေနာက္  ၎အပိုင္းအတြက္ နာမည္ေပးပါ။
+
+sudo rdisk - 1
+
+၎သည္ / dev / sda 3 ကဲ့သို႔ ျဖစ္ရမည္။
+အဆိုပါ / deb /sda 3 (သင္ျပဳလုပ္ေသာအပိုင္း ) ကို /etc/ fstab ျပဳလုပ္ျခင္းအားျဖင့္  /kolab အျဖစ္တင္ပါ။
+
+sudo nano / etc /fstab 
+
+ထို႔ေနာက္ ေနာက္တစ္ေၾကာင္း ထပ္ေပါင္းပါ။
+
+/dev /sda 3 /kolab  ext 3   defaults , rw  0  0
+
+ထို႔ေနာက္ restart ျပဳလုပ္ျခင္းျဖင့္ အမွား ကင္းျခင္း ရွိမရွိ စစ္ေဆးပါ။
+kolab အား download ျပဳလုပ္ထားသည့္  ေနရာတြင္  folder တစ္ခုျပဳလုပ္ပါ။
+
+-လက္ရွိ  Kolab file မ်ားအား Download ျပဳလုပ္ရန္  Folder တစ္ခု တည္ေဆာက္ပါ။
+
+cd / tmp
+mkdir   / kolabtmp
+
+-ေနာက္ဆံုးထြက္ရွိသည့္  Kolab file မ်ားအား Download ျပဳလုပ္ပါ။
+
+cd / tmp /kolabtmp
+
+! --- wget -r-11-nd--no-parent nowikihttp://files.kolab.org/server/release/kolab-server-
+2.2.2 /ix 86 -debian 4.0 // nowiki ---
+
+wget - r - 11 - nd -- no - parent nowikihttp:// files.kolab.org/server/release/kolab - server- 2.2.2 /sources /
+
+Root အေနျဖင့္ sudo-s ကို အသံုးျပဳကာ Kolab အား install ျပဳလုပ္ပါ :
+
+sudo-s
+sh install - kolab.sh 21  l  tee kolab - install .log
+
+သင့္ ကြန္ပ်ဴတာအား restart ျပဳလုပ္ပါ။
+Kolab service မ်ားအား ရပ္ဆိုင္း၍  Configuration utility ကို ဖြင့္ပါ း
+
+sudo / kolab /bin /openpky rc all stop
+sudo / kolob / sbin /kolab bootstrap -b
+
+သင့္အေနျဖင့္ မိမိ၏ အခ်က္အလက္မ်ားျဖစ္သည့္ host ၏ အမည္ ၊ ( ၎ ကို  hostname - f ျဖင့္ သိႏိုင္သည္ )
+domain အေသးစိတ္အခ်က္အလက္ စသည္တို႔အား ဤအဆင့္ မျပဳလုပ္မီတြင္ သိရွိထားသင့္ပါသည္။
+Kolab သည္ slabd open LDAP server တို႔ကို အသံုးျပဳမည္ျဖစ္ေသာေၾကာင့္ Open LDAP
+(http://www.openldap .org /) ႏွင့္ LDAP (http://en.wikipedia.org/ wiki /LDAP)
+၏ အေျခခံအခ်က္အလက္မ်ားႏွင့္ ရင္းႏွီးကၽြမ္း၀င္မႈ မရွိေသးပါက သင့္အေနျဖင့္ ေလ့လာထားသင့္ပါသည္။]
+
+-Kolab ၏ service မ်ားအားလံုးအား ျပန္လည္စတင္ပါ။
+
+sudo / kolab /bin /openpkg rc all start
+
+-Manager အား အသံုးျပဳ ၍ bootstrap configuration တြင္ ထည့္သြင္းထားသည့္ password ျဖင့္ web
+administrator interface သို႔ Login ျပဳလုပ္ပါ။
+
+nowikihttp://yourhost.yourdomain.name/admin/nowiki
+
+Citadel
+
+Citadel (http://www.citadel.org/) သည္ အသင့္သံုး open source groupware ျဖစ္ၿပီး KDE ႏွင့္ Kolab-
+1 ႏွစ္မ်ဳိးလံုးျဖင့္ တြဲဖက္အသံုးျပဳႏုိင္သည္။ လြန္ခဲ့သည့္ ႏွစ္ေပါင္း ၂၀ေက်ာ္မွ Bulletin - board ပံုစံ framework
+အား အသံုးျပဳထားေသာေၾကာင့္  ၎သည္ KDE , Gnome ႏွစ္မ်ဳိးစလံုးျဖင့္ ရ ၀က္ဘ္ အေျချပဳ ပံုစံလည္း 
+သံုးစြဲႏို္င္သည္။ WebDAV ႏွင့္လည္း တြဲဖက္ႏို္င္ၿပီး Thunderbird ျဖင့္ လည္း အသံုးျပဳႏုိင္သည္။
+
+-Install the Citadel server:
+
+sudo apt - get install citadel - server
+
+-Install the Citadel client:
+
+sudo apt - get install citadel - client
+
+-Install both:
+
+sudo apt - get install citadel -suite
+
+eGroupware
+
+eGroupware (http://www.egroupware.org/) သည္ အေျခခံခိုင္မာ တည္ၿငိမ္ေသာ (GPL လိုင္စင္ျဖင့္)
+ပြင့္လင္းရင္းျမစ္ အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ျဖစ္ၿပီး LAMP (ဦးဘႏၱဳ ဆာဗာျဖင့္ တပါတည္း ပါရွိေသာ ဆာဗာ) ႏွင့္ Postfix
+mail (ႏွစ္မ်ဳိးစလံုးကို ဦးတည္ထည့္သြင္းထားသင့္ပါသည္ )ေပၚတြင္ အေျခခံထားသည္။ ဗားရွင္းအသစ္ကို 
+မၾကာေသးမီကပင္ ရရွိႏုိင္ၿပီး ဂ်ာမနီမွ ေကာ္ပိုရိတ္စပြန္စာျဖင့္ စီးပြားေရးလုပ္ငန္းသံုး ဗားရွင္းတို႔ပါ၀င္သည္။
+Clients မ်ားျဖင့္ တြဲဖက္အသံုးျပဳႏိုင္မႈမွာ မ်ားစြာတိုးတက္လာပါသည္။ eGroupware သည္ 
+အစုအဖြဲ႔ ေဆာ့၀ဲလ္မ်ားအားလံုးတြင္ အလြယ္ကူဆံုးႏွင့္ အျမန္ဆံုးေသာ တပ္ဆင္ခ်ိန္ကို ေပးစြမ္းႏုိင္ပါသည္။
+အားနည္းခ်က္မွာ လက္ရွိ ဗားရွင္းအတြက္ အသံုးျပဳနည္းအမ်ားစုကို အဂၤလိပ္ဘာသာျဖင့္ 
+မရရွိႏို္င္ေသးျခင္းပင္ျဖစ္သည္။
+
+Open - Xchange
+
+Open - Xchange (http://www.open-xchange.com/wiki/index.php?
+title = Quick - install -guide -for-the-Server-Edition-Ubuntu 8.04) သည္ ပုဂၢလိကပိုင္ 
+အသင္းအဖြဲ႔ ေဆာ့၀ဲလ္ (MS - Exchange ကို အစားထိုးရန္ ရည္ရြယ္သည္ )ျဖစ္ၿပီး ၎ကို အဖြဲ႔အစည္းပံုစံသစ္ျဖင့္
+ထုတ္ေ၀ျခင္းကို စီးပြားျဖစ္ ဗားရွင္းေပၚတြင္ အေျခခံထားျခင္းျဖစ္သည္။ ေနာက္ဆံုး .deb package သည္ Hardy
+Heron 8.04 အတြက္ ျဖစ္သည္။ ၎သည္ အျခားေသာ clients မ်ား ျဖစ္သည့္ Kontact,Outlook,Palm PDAs
+မ်ားျဖင့္လည္း တြဲဖက္အသံုးျပဳႏုိင္သည္။ ျပည့္စံုေသာ တပ္ဆင္ပံုညႊန္ၾကားခ်က္မ်ားကို
+၀က္ဘ္ဆိုဒ္တြင္ ေလ့လာႏုိင္သည္။
+
+
+Open Guoupware
+
+OpenGroupware (http://www.opengroupware.org/) သည္ postgre SQL ေဒတာေဘ့စ္အေပၚတြင္ 
+အေျချပဳထားေသာ အစုအဖြဲ႔ ေဆာ့၀ဲလ္ ျဖစ္သည္။ ၎တြင္ စီးပြားျဖစ္ပံုစံႏွင့္ ပြင့္လင္းရင္းျမစ္ပံုစံ (၂၀၀၈ တြင္ 
+တိုးတက္မႈ ရပ္ဆိုင္းသြားသည္ )ရွိသည္။ အသစ္မထြက္ေတာ့ေသာေၾကာင့္ တပ္ဆင္မႈကို Source မွ တိုက္ရိုက္ 
+ထည့္သြင္းရမည္။ အေသးစိတ္ကို ၀က္ဘ္တြင္ၾကည့္ပါ။
+
+Zarafa
+
+Zarafa (http:// zarafa.com/?q=en/content/community -O) သည္ ဥေရာပ၏ ဦးေဆာင္ MS-Exchange
+ အစားထိုး အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ျဖစ္သည္။  ၎သည္ ယခင္က ပုဂၢလိကပိုင္ ၊ေနာက္ပိုင္း (မွတ္ပံုတင္အမွတ္မွလြဲ၍)
+GPL လိုင္စင္ျဖင့္ ပြင့္လင္းရင္းျမစ္ အဖြဲ႔အစည္းပံုစံကို ၂၀၀၈တြင္ ထုတ္လုပ္ခဲ့သည္။ ေဒါင္းလုပ္ ရယူႏုိင္သည့္ 
+အခ်က္အလက္မ်ားကို ၀က္ဘ္ဆိုက္တြင္ ေဖာ္ျပထားသည္။
+
+Zimbra
+
+Zimbra (http://www.zimbra.com/downloads/os-download.html) သည္ ပုဂၢလိကပိုင္ အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္
+ျဖစ္ၿပီး (ယခု VMWare မွ ပိုင္ဆိုင္သည္ ) ပြင့္လင္းရင္းျမစ္ အဖြဲ႔အစည္းပံုစံကို ထုတ္ေပးထားသည္။ လက္ရွိတြင္ 
+အခမဲ့ေပးေသာ္လည္း အဖြဲ႔အစည္းပံုစံတြင္ ကန္႔သတ္ခ်က္မ်ားရွိၿပီး GPL လိုင္စင္မေပးေပ။ တင္သြင္းလိုက္ေသာ 
+ေျပာင္းလဲမႈမ်ား၊ပါ၀င္ေရးသားမႈမ်ားသည္ VMWare ၏ ပိုင္ဆိုင္မႈမ်ားျဖစ္သြားသည္။  Zimbra wiki 
+(http://wiki.zimbra.com/wiki/Main-Page) ကိုၾကည့္ပါ။ Lucid Lynx 10.04 LTS အတြက္
+ဘီတာဗားရွင္းကို ၆၄ဘစ္ အသံုးျပဳသူမ်ားအတြက္ ရရွိႏုိင္ၿပီး အေဟာင္း Hardy 8.04 ကိုလည္း
+အသံုးျပဳႏုိင္ပါသည္။
+
+
+School Tool
+
+School Tool (http://www.schooltool.org/) သည္ အေျခခံႏွင့္ အလယ္တန္းအဆင့္ ေက်ာင္းမ်ားအတြက္ 
+ျပကၡဒိန္၊ ပညာရည္မွတ္တမ္း ၊ေက်ာင္းေခၚခ်ိန္ ၊ေက်ာင္းသား အခ်က္အလက္ သိမ္းဆည္းရာမ်ားအတြက္ 
+ပြင့္လင္းရင္းျမစ္ အုပ္စုဖြဲ႔ေဆာ့၀ဲလ္ ျဖစ္သည္။ ၎ကို ဦးဘႏၱဳ မွ စပြန္ဆာေပးထားေသာ Shuttleworth
+ေဖာင္ေဒးရွင္း၏ အကူအညီျဖင့္ ဖန္တီးခဲ့ျခင္းျဖစ္သည္။ တပ္ဆင္ရန္အတြက္ ညႊန္ၾကားခ်က္မ်ားကို ၾကည့္ပါ။
+installation instructions (http://book.schooltool.org/htmlhelp/install.html)
+
+
+Sugar CRM Community Editon
+
+Sugar CRM (http://www.sugarcrm.com/crm/download) သည္ ေဖာက္သည္ဆိုင္ရာ စီမံခန္႔ခြဲမႈစနစ္ျဖစ္ၿပီး
+အေရာင္းအင္အားစုမ်ား (အေရာင္း ၊ေစ်းကြက္ျမွင့္တင္ေရး၊ ေထာက္ပံ့ေရး၊ စီမံခန္႔ခြဲမႈ ၊ အခ်ိန္ခြဲေ၀မႈမ်ား) 
+အၾကားတြင္ ေပါင္းစပ္ညွိႏႈိင္းရာတြင္ သံုးေလ့ရွိသည္။ Sugar CRM အဖြဲ႔အစည္းပံုစံကို
+က်ယ္က်ယ္ျပန္႔ျပန္သံုးစြဲၾကသည္။ LAMP ဆာဗာကို ဦးစြာတပ္ဆင္သင့္သည္။ (sudo tasksel install lamp-
+server ) Sugar CRM ကို /var/www သို႔ ျဖည္ထုတ္ပါ။ ထို႔ေနာက္ nowikihttp:// localhost/SUGAR-
+FOLDER/nowiki သို႔ Logon ၀င္ပါ။ အျခားေရြးခ်ယ္စရာအျဖစ္ SugarCRM ဆာဗာအသစ္ကို LAMP ႏွင့္ 
+ွSugarCRM အဖြဲ႔အစည္းပံုစံ အသင့္ပါၿပီး တပ္ဆင္ရန္ (ဘိုင္နာရီ) instrallation
+(http://www.sugarcrm.com/crm/download #installers) ပံုစံျဖင့္လည္း ရႏိုင္ပါသည္။
+
+
+Guoupware Clients
+
+အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္မ်ားသည္ Kontact/KMail/,Mozilla Thunderbird (သို႔) SeaMonkey
+ တို႔ျဖင့္ ဆက္သြယ္မႈမ်ား ေဆာင္ရြက္ႏုိင္ၾကသည္။
+
+
+Evolution Exchange 
+
+Evolution Exchange သည္ MS  Exchange 2000 2003 သို႔ (Outlook Web Access ) ကို အသံုးျပဳ၍
+ဆက္သြယ္ႏုိင္သည္။ Install:
+
+sudo apt - get install evolution - exchange
+
+
+Kontact Personal Information Manager
+
+Kontact  Personal Information Manager တကုိယ္ရည္သံုး အခ်က္အလက္မန္ေနဂ်ာသည္ ဦးဘႏၱဳ တြင္
+တပါတည္းပါ၀င္ၿပီးျဖစ္ၿပီး အျခားေသာ အစုဖြဲ႔ ေဆာ့၀ဲလ္မ်ားျဖင့္ ေကာင္းစြာအလုပ္လုပ္ႏုိင္သည္။ interfaces
+with many groupware servers (http://kontact.kde.org/groupwareservers.php).
+
+
+KDE Groupware Wizard
+
+KDE အုပ္စုဖြဲ႔ေဆာ့၀ဲလ္ အလိုအေလ်ာက္ေဆာင္ရြက္မႈ  Kubuntu သည္ အလိုအေလ်ာက္ေဆာင္ရြက္မႈ (Script)
+ျဖင့္ အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ဆာဗာႏွင့္ clients (Kontact / Kmail စသည္မ်ား ) ကို ဆက္သြယ္ႏုိင္ေစရန္ ကူညီေပးသည္။
+ယခုလက္ရွိ ေထာက္ပံ့ႏို္င္ေသာ အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္မ်ားမွာ Kolab, eGroupware, SUSE Linux Openexchange  
+ႏွင့္ Novell Groupwise တို႔ျဖစ္ၾကသည္။
+
+
+Zimbra Desktop 
+
+
+Zimbra Desktop (http://www.zimbra.com/products/desktop.html) သည္ Zimbra ဆာဗာအတြက္
+အသံုးျပဳႏိုင္သည္။ Zimbra Desktop FQA မ်ား ကို ၾကည့္ပါ။ ပိုမိုသိရွိလိုပါက Ubuntu Forums Zimbra 
+Desktop Installation thread [1] (http://ubuntuforums.org/showthread.pmp?p=10634207)
+
+
+Oracle Calendar Desktop Client
+
+
+Oracle Calendar Desktop Client 
+(http://www.oracle.com/ technology /products/ cs /user _ info / ocalendar /desktop _ index.html) သည္ 
+oracle အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ ႏွင့္ ေဒတာေဘ့စ္ ႏွင့္ အသံုးျပဳရန္အတြက္ ပုဂၢလိကပိုင္ ျပကၡဒိန္ေဆာ့၀ဲလ္ ျဖစ္သည္ ။
+Oracle Calendar Desktop Client ကို ေဒါင္းလုပ္ဆြဲရန္ 
+
+wget  nowikihttp: // ww.k_state.edu /infotech /calendar /oracle _10 _ clients / DesktopClients/ Linux /cal  linu
+
+
+
+ျဖည္ထုတ္ရန္ 
+
+tar _ xvf  cal _linux  _1011.tar.gz
+
+
+
+ျဖည္ထုတ္ၿပီးေသာ ဖိုင္မ်ားကို ဖိုလ္ဒါထဲသို႔ ေနရာေျပာင္းပါ။
+
+cd  Cracle Calendar_ inst /
+
+
+
+ဖိုင္မ်ားကို ျပင္ဆင္ပါ။
+
+mv  cal_ linux  cal _ linux.bak; cat cal _ linux . bak  l   sed s/export  LD  _ ASSUME - KERNEL /  # Xport  LD _ASSUME _KERN
+
+
+
+ခြင့္ျပဳမႈကို ျပင္ဆင္ပါ။
+
+chmod + x gui _ install .sh cal _ linux
+
+
+GUI ျဖင့္ ထည့္သြင္းမႈကို စတင္ပါ။
+
+sudo sh gui _ install .sh
+
+
+Group Calendars
+
+အစုအဖြဲ႔ ျပကၡဒိန္မ်ား
+
+DA Vi Cal  Calendar Server
+
+DA Vi Cal (http://wiki. davical. org/ w/ Main_ Page) သည္ CalDAV
+(http://en.wikipedia.org/wiki/CalDAV) , postgre SQL, Apache php တို႔ကို အေျခခံထားၿပီး Mozilla
+Thunderbird/Lightning/Sunbird,Evolution ႏွင့္ အျခားေသာ ျပကၡဒိန္ client မ်ားျဖင့္ ေကာင္းစြာ
+အလုပ္လုပ္ႏိုင္သည္။ install:
+
+sudo apt - get install davical
+
+အေသးစိတ္အခ်က္အလက္မ်ား   (http://wiki.davical.org/w/Ubunty_Maverick)
+
+Darwin Calendar Server
+
+Darwin Calendar Server (http://trac.calendarserver.org/) ျပကၡဒိန္ ဆာဗာသည္ Apple ၏ CalDAV 
+(http://en.wikipedia.org / wiki /CalDAV ) ပြင့္လင္းရင္းျမစ္ port ကို အေျခခံထားေသာ ျပကၡဒိန္ဆာဗာ ျဖစ္ၿပီး 
+ Mozilla Thunderbird / Lightening/Sunbird,Evolution ႏွင့္ အျခားေသာ ျပကၡဒိန္ client မ်ားျဖင့္ ေကာင္းစြာ
+အလုပ္လုပ္ႏုိင္သည္။ ဗားရွင္း ၁.၂ ကို သိမ္းဆည္းထားေသာ ေနရာမ်ားမွ တပ္ဆင္ရန္မွာ
+(အေသးစိ္တ္ညႊန္ၾကားခ်က္မ်ားကို ၀က္ဘ္ဆိုက္တြင္ ၾကည့္ရႈပါ။ )
+
+sudo apt - get install calendarserver
+
+
+WebCalaendar
+
+WebCalaendar (http://www.k5n.us/webcalaendar.php?topic=About) သည္ ICS 
+(http://en.wikipedia.org/wiki/I Calendar) ကို အေျခခံထားေသာ အုပ္စုဖြဲ႔ ျပကၡဒိန္မ်ားအတြက္ ဆာဗာျဖစ္ၿပီး 
+အမ်ဳိးမ်ဳိးေသာ ေဒတာေဘ့မ်ားျဖင့္ တြဲဖက္သုံးႏိုင္သည္။  PHP ျဖင့္ ေရးသားထားၿပီး Sunbird/Thunderbird
+(Lightning) , Apple iCal, and Evolution စသည့္ clients မ်ားျဖင့္ တြဲဖက္သံုးႏိုင္သည္။ ေနာက္ဆံုးဗားရွင္းကို 
+RSS( http://en.wikipedia.org/wiki/RSS ) clients သံုးကာ ၾကည့္ရႈႏိုင္သည္။ ေနာက္ဆံုး ဗားရွင္း (၁.၂) ကို 
+တပ္ဆင္ရန္ ၀က္ဘ္ဆိုဒ္ ႏွင့္ the wiki (http://www.k5n.us/wiki/index.pmp? title = Main  _Page)
+ကို ၾကည့္ပါ။ ဗားရွင္းအေဟာင္း (၁.၀၅) ထည့္သြင္းရန္ 
+
+sudo apt - get install webcalendar
+
+
+
+Mail Servers
+
+Postfix / Dovecot (Mail Server)
+
+Postfix (http://www.postfix.org/) သည္ ပြင့္လင္းရင္းျမစ္ ေမးဆာဗာျဖစ္သည္။ ၎သည္ Dovecot 
+(http://www.dovecot.org/) , ပြင့္လင္းရင္းျမစ္ IMAP
+(http://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) POP3
+(http://en.wikipedia.org/wiki/Post_Office_Protocol) ဆာဗာမ်ားျဖင့္ တိုက္ရိုက္ခ်ိတ္ဆက္သည္။
+ထပ္မံသိရွိလိုပါက official Ubuntu documentation
+
+(http://help.ubuntu.com/11.04/serverguide/C/email_services.html) တြင္ ၾကည့္ပါ။ dovecot - postfix
+metapackage သည္ အစိတ္အပိုင္းမ်ား တပ္ဆင္ၿပီး Maildir (mail spooling) ဖိုလ္ဒါစနစ္ကို 
+အသံုးျပဳႏိုင္ရန္အတြက္ ခ်ိန္ညွိမႈဆိုင္ရာ ဖိုင္မ်ားကို ျပဳျပင္သည္။ Imap and Pop3 မိုဂ်ဴး၊ SMTP ႏွင့္  
+SASL/TLS (သက္ေသခံလက္မွတ္ပါေသာ) မ်ားကို အလိုအေလ်ာက္တပ္ဆင္သည္။
+
+sudo apt - get install dovecot - postfix
+
+
+
+iRed Mail
+
+iRed Mail (http://code.google.com/p/iredmail/wiki/installation_on_Ubuntu) သည္ Dovecot,
+Postfix, a choice of Open LDAP (with phpLDAPAdmin) or MySQL ေဒတာေဘ့စ္၊
+၀က္ဘ္အေျချပဳ ေမးလ္အတြက္  Roundcubemail or Squirrelmail ၊ phpAdmin, Postfix Admin, and
+A Wstats တို႔ကို ပါ၀င္ေသာ package ျဖစ္သည္။ ၎သည္ Lucid 10.04 LTS တြင္ အေကာင္းဆံုးျဖစ္ေစရန္
+စီမံထားၿပီး ဆာဗာအသစ္ေပၚတြင္ တပ္ဆင္ရန္ အေကာင္းဆံုးျဖစ္သည္။ (၎သည္ အီးေမးလ္ ဆိုင္ရာ ခ်ိန္ညွိမႈဖိုင္ 
+မ်ားစြာကို မူလအေနအထားျဖစ္ေစရန္ ျပဳျပင္ေသာေၾကာင့္ျဖစ္သည္ ) ၎၏ အဖြဲ႔အစည္းပံုစံတြင္ 
+စီးပြားျဖစ္ထုတ္လုပ္ေသာ ပံုစံ၏ အရည္အေသြးမ်ားစြာပါ၀င္သည္။
+
+
+
+Financial Software
+
+For a brief introduction, see this list of 10 Linux financial tools
+http://ubuntudoctor.com/content/news/10-linux-financial-tools).
+
+
+KMyMoney (Personal Fiance Management)
+
+KMyMoney  (http://kmymoney2.sourceforge.net/index-home.html) ကို
+ကၽြမ္းက်င္အေကာင့္ (Accountants) သမားေတြ အသံုးျပဳသလို အသံုးျပဳႏုိင္ပါသည္။ KMyMoney မွာလည္းပဲ
+MyMoney ႏွင့္ Intuit Quicken ကဲ့သို႔ ေငြစာရင္းေတြကို  double - accounting နဲ႔ အသံုးျပဳႏိုင္သလို ၊ 
+လုပ္ငန္းအတြက္လဲ သက္ဆိုင္ရာ အမ်ဳိးအစားအလိုက္ စီမံႏိုင္တဲ့ ေဆာ့၀ဲလ္ျဖစ္ပါသည္။ ကို KDE/Kubuntu 
+အတြက္ ျပဳလုပ္ထားတာျဖစ္ၿပီး Gnome/Ubuntu တို႕မွာလဲ သြင္းယူအသံုးျပဳႏို္င္ပါသည္။
+
+Install:
+
+sudo apt - get install kmymoney2
+
+
+Gnu Cash (Personal Finance Management)
+
+GnuCash (http://www.gnucash.org/) ဟာ အခမဲ့ေပးထားတဲ့ ပရိုဂရမ္တစ္ခုျဖစ္ၿပီး GPL 
+လိုင္စင္နဲ႔ အသံုးျပဳႏိုင္တဲ့ ပြင့္လင္းရင္းျမစ္ေဆာ့ဖ္၀ဲ ျဖစ္ပါသည္။GnuCash မွာ ေငြစာရင္းေတြကို double-
+accounting နဲ႔ အသံုးျပဳႏုိင္သလို ကၽြမ္းက်င္အေကာင့္ (Accountants) သမားေတြကဲ့သို႔ အသံုးျပဳႏုိင္ပါသည္။ ကို
+GTK - based (Gnome 2) ကို အေျခခံၿပီး ျပဳလုပ္ထားျခင္းျဖစ္ပါသည္။ အခု ေနာက္ဆံုးဗားရွင္းကို source files 
+ကေန သြင္းယူလို႔ရေနပါၿပီ။ Gnu Cash (http://www.gnucash.org/) မွာ ထည့္သြင္းမႈပံုစံေတြနဲ႔ 
+ရႏုိင္တဲ့ ဗားရွင္းေတြကို ေတြ႔ရမွာျဖစ္ပါသည္။
+
+Install:
+
+sudo apt - get install gnucash
+
+
+
+Skrooge (Personal Finance Management)
+
+Skrooge (http://skrooge.org/) ဟာ အခမဲ့ေပးထားတဲ့ ပရိုဂရမ္တစ္ခုျဖစ္ၿပီး GPL လို္င္စင္နဲ႔ အသံုးျပဳႏိုင္တဲ့
+ပြင့္လင္းရင္းျမစ္ေဆာ့ဖ္၀ဲျဖစ္ပါသည္။ Skrooge ကို KDE ေတြမွာ အသံုးျပဳႏိုင္ေအာင္ ျပဳလုပ္ထားတာျဖစ္ၿပီး 
+တျခား ေငြေၾကးစီမံခန္႔ခြဲမႈပရိုဂရမ္ေတြနဲ႔ တြဲၿပီး အသံုးျပဳႏုိင္ရန္အတြက္ ေဒတာေတြကို import/export
+လုပ္ႏုိင္တဲ့လုပ္ေဆာင္ခ်က္ထည့္သြင္းေပးထားပါသည္။
+
+
+Install
+
+sudo apt - get install skrooge
+
+
+Moneydance (Personal Finance Management)
+
+Moneydance (http://moneydance.com/) ဟာ ကဲ့သို႔ စီးပြားျဖစ္ေရာင္းခ်တဲ့ ပရိုဂရမ္တစ္ခုျဖစ္ပါသည္။ Java
+အား အေျချပဳ ဖန္တီးထားတာျဖစ္ၿပီး Operation System အမ်ဳိးမ်ဳိးအတြက္ အသံုးျပဳႏုိင္ေအာင္
+ဖန္တီးထားတာျဖစ္ပါသည္။ အသံုးခ်ခြင့္လိုင္စင္အတြက္  တစ္ခုခ်င္းကို ေဒၚလာ ၅၀ ကုန္က်မွာျဖစ္ပါသည္။
+
+
+
+ွSQL - Ledger (Enterprise Fianance Management)
+
+SQL - Ledger ERP (http://www.sql-ledger.org/) က double-accounting စနစ္နဲ႔ အသံုးျပဳႏိုင္ၿပီး
+Operation System မေရြးတဲ့ ၊ အခမဲ့ရရွိႏုိင္တဲ့ ပြင့္လင္းရင္းျမစ္ေဆာ့ဖ္၀ဲျဖစ္ပါသည္။ ေနာက္ၿပီး SQL database
+server (PostgreSQL/Oracle/Mysql databases) ေတြကို အသံုးျပဳကာ inventory ,work and purchase
+orders,taxes ကဲ့သို႔ေသာ လုပ္ငန္းအခ်က္အလက္ေတြကို ခန္႔ခြဲႏိုင္တဲ့ ပရိုဂရမ္တစ္ခုျဖစ္ပါသည္။
+ကိုအသံုးျပဳမယ္ဆိုရင္ ၀ဘ္ဘေရာက္ဇာ (Internet exploer ,Mozilla Fox ) ကေနတစ္ဆင့္ အသံုးျပဳရမွာျဖစ္ပါသည္။
+ကို က်ယ္ျပန္႔စြာ အသံုးျပဳႏုိင္ၿပီး ဘာသာစကားအမ်ားစုကိုလဲ အေထာက္အပံ့ေပးထားပါသည္။
+
+Install:
+
+sudo apt - get install sql-ledger
+
+Wiki software
+
+မျပင္ဆင္ရေသးပါ။ မၾကာမွီ ျပင္ဆင္မည္။
+
+you can contribute
+
+Wiki 
+
+
+software allows an organization to have a manual that can be edited by a number of collaborators.Wikipedia is the best known example.
+
+Media Wiki
+
+Media Wiki (http://www.mediawiki.org) is the free. မၾကာမီျပင္ဆင္ျဖည့္စြတ္မည္။
+
+Twiki
+
+Twiki  (http://twiki.org)is an open source wiki engin used by many small to medium size companies internally. မၾကာမွီျပင္ဆင္ျဖည့္စြတ္မည္။
+
+sudo  apt- get  install   twiki
+
+Moin Moin
+
+Moin Moin (http:moin moin.in)is free ,open source (GPL-Licensed) wiki မၾကမွီျပင္ဆင္
+ျဖည့္စြတ္မည္။
+
+sudo  apt-get  install  python-moinmoin
+
+Tiddly  Wiki
+
+Tiddly  Wiki (http://www.tiddlywiki.com/)is an open source personal wiki. မၾကာမွီျပင္ဆင္
+ျဖည့္စြတ္မည္။
+
+Wed  Publishing
+
+Drupal (Web  content  publishing)
+
+Drupal (http://drupal.org/)သည္ website မ်ားဖန္တီးျခင္းႏွင့္ပူးေပါင္းေဆာင္ရြက္ျခင္းတို႕တြင္္ 
+အသံုးျပဳေနၾကသည္႕tool  မ်ားထဲတြင္ ထိပ္ဆံုးမွရပ္တည္ေနသည္႕ open-source  တစ္ခုျဖစ္သည္။ရုိးရွင္းေသာ 
+ website  မ်ားမွသည္အလြန္ရႈပ္ေထြးေသာ website မ်ားအထိ အခ်ိန္အနည္းငယ္ေပးေလ့လာရံုျဖင့္
+ဖန္တီးေရးဆြဲႏို္င္သည့္ module အေျချပဳ wetside ဖန္တီးသည့္ toolျဖစ္သည္။ စတင္သံုးစြဲနည္းတြင္ 
+သတင္းအခ်က္အလက္မ်ား စံုစံုလင္လင္ ရာယူႏို္င္ပါသည္။ Drupal အသံုးျပဳရန္အတြက္ LAMP server အား 
+(Install မလုပ္ရေသးပါက Install ျပဳလုပ္ရန္လိုအပ္ၿပီး Drupal ႏွင့္ တပါတည္း Install  ျပဳလုပ္ႏုိင္ပါသည္။
+Drupal ကို MySQL database (LAMP ရွိ M) ႏွင့္အလြယ္တကူ အသံုးျပဳႏုိ္င္ၿပီး PostgreSQL( Install 
+ျပဳလုပ္ထားပါက ) ႏွင့္လည္း အသံုးျပဳႏုိင္ပါသည္။
+
+
+
+Drupal 17
+
+Drupal 17 ၏ Debian package အား [2] (https://packages.debian.org/sid/all/drupal7/ ဤေနရာတြင္)
+ရရွိႏုိင္ပါသည္။ သင့္ system (32 bit သို႔မဟုတ္ 64 bit) အတြက္ package အား download ျပဳလုပ္ကာ package
+အား Synaptic သုိ႔မဟုတ္ Kpackage Kit စသည့္ package manager မ်ား အသံုးျပဳၿပီး  Install ျပဳလုပ္ႏုိ္င္သည္။
+(K) Ubuntu OS အသစ္တြင္ တိုက္ရိုက္ Install ျပဳလုပ္ႏုိင္ရံုသာမက Debian respository ကိုပါ (Download
+page တြင္ ေဖာ္ျပထားသည့္ လမ္းညႊန္ခ်က္အတိုင္း ) ထည့္သြင္းႏိုင္ၿပီး Install ျပဳလုပ္ႏို္င္သည္။
+
+-Drupal6 မွ Drupal7 သို႔ေျပာင္းလဲရန္အတြက္ ဤလမ္းညႊန္ခ်က္ (http://drupal.org/node/570162)
+မ်ားအတိုင္း ျပဳလုပ္ႏို္င္ပါသည္။
+
+
+Drupal6 (Web content publishing)
+
+Drupal6 အား package အျဖစ္ရယူႏိုင္ၿပီး command - line terminal မွ လည္းရရွိႏိုင္သည္။၏
+
+sudo apt - get install drupal6
+
+install ျပဳလုပ္ၿပီးပါက (ျဖစ္လာႏုိင္သည့္  ျပသနာအနည္းငယ္အား ေအာက္တြင္ေဖာ္ျပထားသည္ ) apache2
+server အား restart ျပဳလုပ္ပါ။
+
+sudo/etc/init.d/apache2 restart
+
+သင့္ browser မွတစ္ဆင့္ installation အား အၿပီးသတ္ေပးပါ။
+
+http://localhost/drupal6/install.php
+
+Install ျပဳလုပ္ျခင္းအတြက္ သင့္ browser မွ တစ္ဆင့္ ဤ installation tips မ်ားအားဖတ္ရႈပါ။ ၿပီးေနာက္ Durpal
+site building tip မ်ားအား ၾကည့္ရႈပါ။ Drupal /Ubuntu အသံုးျပဳသည့္ Group အား Drubuntu တြင္
+ေတြ႔ရွိႏုိင္ပါသည္။
+
+
+
+Installation quirks
+
+libgd 2- xpm
+
+
+When I installed my Ubuntu server, it installed libgd 2-noxpm
+(http://package.ubuntu.com/jaunty/libgd2-noxpm). This is a graphics library (without X
+pixmap (XPM) (http://en.wikipedia.org/wiki/X_PixMap) or font configuration (fontconfig)
+support). However, Drupal requires libgd2-xpm.(http://packages.ubuntu.com/jaunty/libgd2-
+xpm),which is used instead of libgd2-Xpm.Removing libgd 2-xpm doesn't appear to be trivial,
+however.I could not remove it using apt,Adept,or KPackageKit.
+ 
+However, Synaptic Package Manager does appear to remove libgd2-noxpm successfully,and
+then libgd2-xpm can be installed.---
+
+Exim vs. Postfix
+
+Exim(http://www.exim.org/) ႏွင့္ Postfix (http://www.postfix.org/) တို႔သည္ mail ထိန္းခ်ဳပ္သည့္ 
+software မ်ားျဖစ္ပါသည္။ Drupal6 သည္ Exim ကို အသံုးျပဳထားသည့္အတြက္  Postifix အား install
+ျပဳလုပ္ထားပါက ျဖဳတ္ပစ္ၿပီး Exim ကို အသံုးျပဳထားသည့္အတြက္ Postfix ကို အသံုးျပဳထားေသာ 
+mail server တြင္ Drupal6 အား အသံုးမျပဳပါက ပိုေကာင္းပါသည္။
+
+
+WordPress
+
+WordPress (http://wordpress.org/) သည္ အစပိုင္းတြင္ Blog ေရးရာတြင္ အသံုးျပဳသည့္ tool အျဖစ္မွ
+ေနာက္ပိုင္းတြင္ online စာေပေရးသားထုတ္ျပန္ရာတြင္ လိုအပ္သည့္ လိုအပ္ခ်က္မ်ားကိုပါ
+ေပါင္းစပ္ေပးထားေသာ လူၾကိဳက္မ်ားသည့္ open source web content manager တစ္ခုျဖစ္သည္။ Blogger  
+မ်ားႏွင့္ website အေသးစားမွ အလယ္အလတ္ အရြယ္အစားမ်ားအတြက္ Wordpress မွ ျမန္ႏႈန္းျမင့္ install 
+ျပဳလုပ္ျခင္းႏွင့္ module မ်ားျဖင့္ တန္ဆာဆင္ျခင္းမ်ားအား ေထာက္ပံ့ေပးထားပါသည္။ Wordpress အတြက္
+LAMP server အား ဦးစြာ install ျပဳလုပ္ထားရန္လိုအပ္ပါသည္။ ထို႔ေနာက္ install လုပ္ရန္
+
+sudo apt - get install wordpress
+
+-Wordpress ႏွင့္ တြဲဖက္အသံုးျပဳရန္အတြက္ သင့္ Apache2 ၏ www folder မွ install ျပဳလုပ္မည့္ 
+folder သို႔ သေကၤတ link ျပဳလုပ္ရမည္ျဖစ္ၿပီး  Localhost အမည္ျဖင့္ MySQL database
+အသစ္ေဆာက္ရန္ လိုအပ္မည္ျဖစ္ပါသည္။
+
+sudo in -s /usr/share/wordpress/var/www/wordpress
+sudo bash/usr/share/doc/wordpress/examples/set up-mysql -n wordpress local host
+
+-မွတ္ခ်က္။ အကယ္၍ Wordpress အတြက္ သင့္ (virtual )host URL အမည္ကို သိၿပီးသားဆိုပါက 
+localhost အစား သင့္ (virtual)host URL အမည္ကို ထည့္သြင္းပါ။
+
+ဥပမာ သင့္ URL သည္ mysite_x.homeserve.org ျဖစ္သည္ဆိုပါစုိ႔ ။သင္ေရးရမည့္ command သည္ 
+sudo bash/usr/share/doc/wordpress/examples/setup-mysql-n wordpress
+mysite_x.homeserve.org
+
+-အကယ္၍ virtual host တစ္ခုမွ သင့္ Wordpress server အားခ်ိတ္ဆက္လိုပါက /etc/apache 2/site-
+available folder တြင္ သင့္ virtual host အတြက္ configuration ဖိုင္တစ္ခု ဖန္တီးပါ။  ဖိုင္အား
+ဖန္တီးတည္းျဖတ္ၿပီးပါက ထိုဖိုင္မွ /etc/apache 2/sites-enabled folder သို႔ သေကၤတ link 
+ျပဳလုပ္ေပးပါ။ Apache 2 အား restart ျပဳလုပ္ပါ။
+
+
+sudo/etc/init.d/apache 2 restart
+
+Browser  မွ တဆင့္ Wordpress အား Install ျပဳလုပ္ပါ။
+
+့့http://localhost/wordpress
+
+
+သို႔မဟုတ္ သင့္ virtual host မွ တဆင့္ install ျပဳလုပ္ပါ။
+
+http://mysite_x.homeserve.org/wordpress
+
+-မွတ္ခ်က္။ Jaunty expositories တြင္ version 2.7.1 ပါရွိၿပီး Security Worm အျဖစ္သတ္မွတ္
+ခံထားရပါမည္။ အကယ္၍ ထို version အား install ျပဳလုပ္ထားပါက Tools - Upgrade menu မွ 
+လက္ရွိ version သို႔ ခ်က္ခ်င္း Update ျပဳလုပ္ေပးပါ။ (သို႔မဟုတ္ website မွတဆင့္ လက္ရွိ version 
+အား install ျပဳလုပ္ပါ)
+
+အလိုအေလ်ာက္ update ျပဳလုပ္လိုပါက Wordpress ၏  files မ်ားႏွင့္ Subfolder မ်ားကို www-
+data(apache 2 လုပ္ေဆာင္ခ်က္မ်ားအား ပိုင္ဆိုင္သည္) မွ update ျပဳလုပ္ရန္ ပိုင္ဆိုင္ရန္ လိုအပ္ပါသည္။
+
+sudo chown-R www-data/usr/share/wordpress
+
+
+
+Joomla (Web content publishing)
+
+Joomla (http://www.joomla.org/) သည္ website မ်ား ျပဳလုပ္ရာတြင္ ရိုးရွင္းသည့္ ပံုစံမ်ားမွ ရႈပ္ေထြးေသာ 
+ပူးေပါင္းေဆာင္ရြက္မ်ားအထိ အသံုးျပဳႏိုင္ေသာ စြမ္းအားျမင့္ open source tool ျဖစ္သည္။ စတင္အသံုးျပဳရန္
+info for beginners (http://docs.joomla.org/Beginners) ကို ၾကည့္ရႈသင့္သည္။
+
+Scribus (Desktop publishing)
+
+Scribus(http://www.scribus.net/) သည္ desktop publishing အတြက္  professional တစ္ခုအျဖစ္
+အသံုးျပဳႏိုင္ေသာ open-source package တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္
+
+sudo apt - get install scribus
+
+Plone (Content Management System)
+
+Plone (https://plone.org/) သည္ ကမ ၻာအႏွံ႔ရွိ လုပ္ငန္းႀကီးမ်ားတြင္ အသံုးျပဳေနသည့္ content management 
+system ျဖစ္ၿပီး platform မ်ဳိးစံုတြင္ အခမဲ့ အသံုးျပဳႏို္င္ေသာ  open source (GPL - licensed ) system ျဖစ္သည္။
+Installer ကို ဒီေနရာ (http://plone.org/products/plone) တြင္ ရယူႏိုင္သည္။ Python ကို
+ေျပာင္းလဲထားေသာေၾကာင့္ အခ်ဳိ႕အသံုးျပဳသူမ်ားအေနျဖင့္ Jaunty တြင္ အခက္အခဲေတြ႔ႏိုင္ပါသည္။
+
+Gallery (Photo album website)
+
+Gallery (http://gallery.menalto.com/) သည္ PHP ကို အေျချပဳထားၿပီး ဓာတ္ပံု အယ္လ္ဘမ္မ်ားအား 
+website တြင္ ျပသႏိုင္ေအာင္ ျပဳလုပ္ေပးသည့္ tool တစ္ခုျဖစ္သည္။ Drupal အတြက္ Gallery 2 Drupal
+interface အား ရရွိႏိုင္ပါသည္။ Install ျပဳလုပ္ရန္
+
+php BB (Forums)
+php BB (http://www.php BB.com/) သည္ Forum မ်ားတည္ေဆာက္ရန္ အသံုးျပဳသည့္ အခမဲ့  open source 
+platform တစ္ခုျဖစ္သည္။ LAMP server (သို႔မဟုတ္) PostgreSQL database အား install ျပဳလုပ္ထားရန္
+လိုအပ္သည္။ Install ျပဳလုပ္ရန္အတြက္  universe repositories အား enable ျပဳလုပ္ထားရန္
+အထူးလိုအပ္သည္။ Install ျပဳလုပ္ရန္
+
+sudo apt - get install phpbb3
+
+
+
+Distance teaching
+
+Moodle
+
+Moodle သည္ အြန္လိုင္း သင္ၾကားေရး cource မ်ား hosting ျပဳလုပ္ႏုိင္ရန္အတြက္ အခမဲ့ open source
+platform တစ္ခုျဖစ္သည္။ Webinar software ျဖင့္လည္း တြဲဖက္အသံုးျပဳႏိုင္သည္။ LAMP server အား
+Install ျပဳလုပ္ထားရန္ (sudo tasksel install lamp-server) လိုအပ္သည္။ Moodle ၏ အခမဲ့ theme
+မ်ားအား ဤေနရာတြင္ ရယူႏုိင္သည္။ Install ျပဳလုပ္ရန္
+
+
+sudo apt - get moode
+
+Moodle အတြက္ Database server software (mysql-server-) ထည့္သြင္းလိုပါက ေဖာ္ျပပါ
+လမ္းညႊန္ခ်က္မ်ားအား လုပ္ေဆာင္ပါ။ Moodle အား ထည့္သြင္းထားသည့္ computer ေပၚတြင္ database 
+အား တည္ေဆာက္၍ localhost option အား acept လုပ္ပါ။ လိုအပ္ပါက Moodle configuration အား 
+တည္းျဖတ္ပါ။
+
+sudo gedit/etc/moodle/config.php
+
+လုိအပ္ပါက Moodle apache 2 configuration file အား တည္းျဖတ္ပါ။
+
+sudo gedit/etc/moodle/apache.conf
+
+Browser မွတဆင့္ install ျပဳလုပ္ျခင္းအား အဆံုးသတ္ပါ။ (unattended install ျပဳလုပ္ျခင္းမွာ
+ပိုသင့္ေတာ္ပါသည္။)
+
+http://localhost/moodle/admin
+
+စံုလင္စြာေလ့လာရန္အတြက္ အေသးစိတ္အခ်က္အလက္မ်ားတြင္ ၾကည့္ရႈပါ။
+
+
+Claroline
+
+Claroline (http://www.claroline.net/) သည္ e-learning course မ်ား hosting ျပဳလုပ္ရန္ႏွင့္
+ေက်ာင္းသား/ေက်ာင္းသူမ်ား အြန္လိုင္းတြင္ ပူးေပါင္းလုပ္ေဆာင္ႏုိင္ရန္အတြက္ ျပဳလုပ္ထားသည့္ အခမဲ့ open-source
+platform တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္အတြက္ LAMP server အား install ျပဳလုပ္ထားရန္လိုအပ္သည္။
+installation အတြက္ source file အား ၎ website တြင္ရယူႏိုင္ၿပီး လမ္းညႊန္ခ်က္မ်ားအား ဤေနရာတြင္ 
+(http://www.claroline.net/documentation/tutorials.html) ေတြ႔ႏုိင္သည္။
+
+
+
+Dokeos
+
+Dokeos (http://www.dokeos.com/) သည္ အခမဲ့ သင္ၾကားေရး platform တစ္ခုျဖစ္ၿပီး ေဆးပညာဆိုင္ရာ
+ပံုမ်ား၊ case presentation မ်ားပါ ပါ၀င္သည္။ ဥေရာပတြင္  က်ယ္က်ယ္ျပန္႔ျပန္႔ အသံုးျပဳေနၾကပါသည္။
+
+
+Software Development
+
+ျပဳျပင္ရန္ လိုအပ္ေနေသးသည္။ you can contribute.
+
+Kompozer Web Development Editor
+
+Kompozer (http://kompozer.net/) is a Gecko
+(http://en.wikipedia.org/wiki/Gecko_(Layout_engine))
+
+sudo apt - get install kompozer
+
+
+
+Quanta Plus (Web IDE )
+
+Quanta Plus (http://quanta.kdewebdev.org/)
+
+sudo apt - get install quanta kompare kxsldbg cervisia
+
+
+Netbeans IDE
+
+Netbeans (http://www.netbeans.org/features/) is a free open-source
+
+sudo apt-get install netbeans
+
+
+BlueFish Web Development Editor
+
+BludFish (http://bluefish.openoffice.nl/) is a GTK-based (Gnome - oriented) editor to write
+websites,scripts and programming code. It supports perl, Python, pHp, CSS, XML , Java, 
+Javascript, C, SQL , and other formats.
+
+sudo apt - get install bluefish
+
+Gobby ( Multi - user development) 
+
+Gobby ( http://gobby.0x539.de/trac/) is a free, multi - platform open source collaborative editor
+supporting multiple documents in one session and a multi - user chat. Install:
+
+sudo apt - get install gobby
+
+
+Eclipse IDE
+
+Eclipse (http://www.eclipse.org/home/newcomers.php) is a free open - source cross - platform
+integrated development environment with plug in support for a large set of programming
+languages, e.g. Java,C/C++,Python ,PHP.
+
+sudo apt - get install eclipse
+
+Science, Technology ,and Engineering
+Applications
+
+What ..you thought Ubuntu was just for pay? Also see Ubuntu Science
+(http://help.ubuntu.com/community/OtherSoftware) . မၾကာမီ ျပင္ဆင္ျဖည့္စြက္မည္။
+
+
+Amateur Electronics
+
+Arduino
+
+Arduino (http://www.arduino.cc/) is an open - source electronics prototyping platform based on 
+flexible, easy - to -use hardware and software. It's intended for artists, designer ,and bobbyists
+interested in creating interactive objects or environments.See this tutotial
+(http://www.codetorment.com/2009/11/02/tutorial - getting - started -with -arduino -ide -on- linux-
+ubuntu - 9- 10/)
+
+
+La TeX
+
+La TeX (http://www.latex.project.org/) is a LaTeX is a free high- quality typesetting sytstem for
+the production of technical and scientific documention.
+
+
+LyX
+
+LyX (http://www.lyx.org/) is a WYSIWYG frontend and GUI interface useful in creating
+documents formatted for La TeX. Install:
+
+sudo apt - get install Lyx
+
+
+La TeX Reference Managers
+
+-The standard La TeX bibliography (Bib TeX) tool can be manipulated with one of several
+tools:
+
+-nbibtex. Install:
+
+	sudo apt - get install nbibtex
+
+
+
+-jabref. Install:
+
+	sudo apt - get install jabref
+
+
+
+-biblatex. Install:
+
+	sudo apt - get install biblatex
+
+
+
+-kbibtex (for KDE) .Install:
+
+	sudo apt - get install kbibtex
+
+
+-Zotero (http://www.zotero.org) is a Firefox plugin that allows culling references (and 
+reference content ) from online references.
+
+
+Utilities
+
+Utilities facilitate everyday tasks, such as keeping the clock up to date, archiving utilities , and
+more.
+
+Archiving Utilities
+
+ZIP
+
+The command - line terminal utility ZIP (http://linux.die.net/man/1/zip) creates files that are
+compatible with the time - honored PKZIP and WinZip. It is included in (K) Ubuntu by default.
+Extracting zip files can be done with unzip utility.using the -P option allows using a 
+password for the files.
+
+zip - r - p mypassword desination.zip
+
+Notes: The -r option indicates to include all subdirectories recursively.
+
+FileRoller (Archiving GUI)
+
+FileRoller (http://fileroller.sourceforge.net/features.html) is a GUI for many types of archival
+utilities.
+
+X-archiver (Archiving GUI)
+
+Xarchiver (http://xarchiver.sourceforge.net/) is a GTK - based GUI front -end for many archiving
+utilities. Install:
+
+sudo apt - get install xarchiver
+
+
+
+Rar
+
+Rar archives files into the proprietary .rar format.
+
+sudo apt - get install rar
+
+
+This application is a 40-day trial.
+
+Unrar
+
+Unrar extracts files archived with the proprietary .rar format. A free version can be installed:
+
+sudo apt - get install unrar-free
+
+
+or the proprietary version (also free for noncommercial use) can be installed with the ubuntu-
+restricted-extras package or with:
+
+sudo apt - get install unrar
+
+
+
+7-Zip
+
+The open - source 7-Zip archive format was originally designed for Windows (and DOS) but is 
+also available for Ubuntu. The GNU/Linux version of  7-Zip does not come with a GUI, but Ark 
+can hook into 7-Zip to handle 7z archives.Install:
+
+sudo apt - get install p7zip - full
+
+
+To allow the 7-Zip extension for Ark to extract .rar files ,also install:
+
+sudo apt - get install  p7zip-rar
+
+
+Hard Drive Utilities
+
+K Disk Free (Hard drive properties monitor)
+
+K Disk Free (http://docs.kde.org/stable/en/kdeutils/kdf/using-kdf.html) is a KDE utility for 
+monitoring free disk space,etc.
+
+sudo apt - get install kdf
+
+
+
+Clock Utilties
+
+Screensavers
+
+A screensaver is useful as a security precaution as well as a power and screen element saver.
+Using even a simple Blank Screen screensaver with a password can slow a potentially malicious
+passerby from gaining access to your keyboard and computer while you are away from your 
+desk.
+
+	Menu - System - Preferences - Screen Saver
+
+-Set a security password:
+
+	Screen Saver - Lock screen when screensaver is active (ticked)
+
+Partition Managers
+
+Also see these tips for partitioning scheme suggetions, other partitioning tools and methods, and
+usage of multiple partitions for multiple OSs.
+
+
+
+G Parted Partition Manager
+
+Gparted (http://gparted.sourceforge.net/) သည္ Hard Drive Partitions ခြဲရာတြင္ အသံုးျပဳႏိုင္ေသာ GTK
+
+(Gnome) အေျချပဳ ေဆာ့လ္၀ဲ တစ္ခုျဖစ္ပါသည္။ KDE တြင္လည္း အသံုးျပဳႏိုင္ပါသည္။
+
+
+-ဤေဆာ့လ္၀ဲကို LiveCD ေပၚမွ အသံုးျပဳပါက အေကာင္းဆံုးျဖစ္ပါသည္။ ေနာက္ပိုင္းထြက္ရွိေသာ Ubuntu
+LiveCD မ်ားတြင္ GParted ေဆာ့လ္၀ဲကို ထည့္သြင္းထားၿပီးျဖစ္သည္။ Ubuntu ကို စက္ထဲတြင္ Install
+မလုပ္ဘဲ၊ CD မွ တိုက္ရိုက္ အသံုးျပဳၿပီး GParted ကို စတင္ႏုိင္ပါသည္။]
+
+
+
+	Menu-System-Administration -GParted
+
+-အျခားနည္းလမ္းတစ္ခုကား GParted .iso ဖိုင္ကို ဤေနရာမွ 
+(http://sourceforge.net/project/showfiles.php?group _id=115843 package_id=271779)
+ရယူႏုိင္ပါသည္။ ထို .iso ဖိုင္ကို GPartet LiveCD ျပဳလုပ္ရန္ ဤ CD Burning Guide
+(http://help.ubuntu.com/community/BurningIsoHowto) ကို ဖတ္ပါ။ G Parted LiveCD
+ကို အသံုးျပဳၿပီး partitions ခြဲႏိုင္မည္ျဖစ္သည္။
+
+-Ubuntu ကို Hard Drive အတြင္း  Install လုပ္ထားပါက Terminal တြင္ ေအာက္ပါ Command
+ကို ရိုက္ထည့္ၿပီး GParted ကုိ Install လုပ္ႏုိင္မည္ျဖစ္သည္။
+
+sudo apt-get install gparted
+
+
+System Backup and Recovery
+
+Comming Soon!!!
+
+	you can contribute
+
+
+
+System Rescue and Cloning Utilities
+
+System Rescue CD
+
+SystemRescueCD (http://www.sysresccd.org/Main_Page) is a LiveCD that includes important
+utilities such as GParted,Partimage,ddrescue, Rsync , and FSArchiver. Several of these utilities
+cannot be used from within a running partition, so using them from a LiveCD is often necessary.
+Download (http://www.sysresccd.org/Download) and burn
+(http://help.ubuntu.com/community/BurningIsoHowto) the LiveCD from the website.
+
+
+Clonezilla
+
+Clonezilla (http://clonezilla.org/)allows the backup or duplication of a partition for a single
+machine or for multiple machines over a network. (It is similar to North Ghost.)It includes
+Partimage, partclone (http://sourceforge.net/projects/partclone/),and other utilities.It is
+available (http://sourceforget.net/projects/clonezilla/files) as a LiveCD which can then be burned
+(https://help.ubuntu.com/community/BurningIsoHowto).(A serious limitation of Clonezilla is
+its inability to backup/restore split image files to/from multiple media (e.g.spanned DVDs/CDs),
+limiting its usefulness as an inexpensive cloning and distribution solution.Partition image
+backup/restoration must be to/from a single hard drive,large capacity USB stick,or networked
+storage space)
+
+Disk Imaging software
+G4U (http://sourceforge.net/projects/g4u/)is a utility to image a disk bit by bit.
+G4L (http://sourceforge.net/projects/g4l/) is a  utility to image a disk bit by bit.It inkcludes a
+GUI interface.
+
+Ubuntu Customization Kit
+
+Ubuntu Customization Kit (http://sourceforge.net/projects/uck)is a utility to customize a (K) Ubuntu LiveCD.Install:
+sudo apt-get install uck
+
+Remastering software
+Debian and (K) Ubuntu Linux operating systems can be remastered and customized (using one of
+ a number off utilities) for re-distribution.(See thisWikipedia list
+(http://en.wikipedia.org/wiki/List-of-rematering for distribution among its members,while
+preserving the intrinsic architecture and function of (K)Ubuntu.The customized (K) Ubuntu OS
+can than be distributed on a CD or a USB flashdrive. Users are then free to futher customize
+the OS,or even to revent back to the original default(K)   settings. Also see the Ubuntu
+wiki (http://help.ubuntu.com/community/Install  CDCustomization).
+
+oem-config-gtk
+
+sudo apt-get install oem-comfig-gtk
+
+!---[http://sourceforge.net/projects/remastersys/Remastersys for Ubuntu
+(http://www.geekconneection.org/remastersys/ubuntu.html---) .For tips, see this page.
+Reconstructor(https://www.reconstructor.org/projects/reconstuctor/wiki/UserGuide).
+The open source engine can be downloaded
+(https://www.reconstructor.org/projects/reconstutor/files)and installed a.deb package. 
+
+
+.For tips,see this page.
+
+
+Run Ubuntu LiveCD from a USB pendrive
+
+The Ubuntu LiveCD can be installed on and run from a USB pendrive. Settings ca be 
+persistently saved (but the LiveCD kerned modules can not be upgraded). Programs can be
+installed and run,however ,and files saved to the USB drive. (The installed programs will remain
+installed). An Ubuntu Live CD is needed to do the installation. For additional info, see the
+Ubuntu Community documentation
+(http://help.ubuntu.com/community/Installation/FromUSB Stick) or the Pendrivelinux
+instructions (http://www.pendrivelinux.com/creating-an-ubuntu-live-usb-from-cd/).
+
+The USB LiveCD can be used to install Ubuntu on computers (including netbooks) that do not
+have CD-ROM/DBD drives.
+
+USB pendrives to be used to run Ubuntu should have a minimum of 2 Gb(preferably 4 Gb).If
+you wish to install a fast, fully functional Linux system on a pendrive that has less memory than
+that, use PuppyLinux (http://www.puppylinux.org/) or Lubuntu
+(https://wiki.ubuntu.com/Lubuntu).
+
+
+USB Creator
+
+You can make a LiveCD on a USB pendrive using USB Creator and either a LiveCD or an .iso
+version of the LiveCD stored on your hard drive. USB Creator is installed by default in Ubuntu.
+If not,install:
+
+sudo apt - get install usb -creator-gtk
+
+
+-Run:
+	Menu - System - Startup Disk Creator
+
+Create a boot CD to allow booting from the USB drive
+
+Many computers do not allow booting from a USB drive (but they do allow booting from the
+CD-ROM). You can create a CD-ROM using these Pendrivelinux instrctions
+(http://www.pendrivelinux.com/make-a-usb-boot-cd-for-ubuntu-9-10/) and set your BIOS to 
+boot from this CD-ROM. When you boot from this CD-ROOM, it will use the bootup files on the
+Ubuntu USB drive you previously created (in the step above).
+
+
+System Administration
+
+GRUB boot manager settings
+
+Grub2
+
+Ubuntu 11.04 (Natty) တြင္ boot manager အျဖစ္ (customize လုပ္ရန္ ရႈပ္ေထြးေသာ) Grub2 
+(http://www.gnu.org/software/grub/maunal/grub.html) ပါလာပါသည္။ (Grub2 ႏွင့္ grub-pc သည္ 
+တစ္မ်ဳိးတည္းသာ ျဖစ္သည္။) Grub2 အတြက္ ညႊန္ၾကားခ်က္မ်ားကို Ubuntu wiki
+(http://wiki.ubuntu.com/Grub2) သို႔မဟုတ္ Ubuntu forums
+(http://ubuntuforums.org/showthread.php?t=1195275) မ်ားတြင္ ၾကည့္ရႈႏုိင္သည္။ အၾကမ္းအားျဖင့္
+
+sudo nano /etc /default /grub
+sudo grub-mkconfig--output=/boot/grub/grub.cfg
+
+
+အျခားေသာနည္းလမ္းအေနျဖင့္ ေအာက္ပါ command ကို အသံုးျပဳႏိုင္သည္။
+
+sudo update-grub
+
+!---
+
+Turn off ACPI through GRUB
+
+The new Linux kernel , starting with Karmic ,will attempt to throttle the CPU every few seconds
+based on lm-sensors read of CPU temperature and fan speed. If your hardward is not supported
+by lm-sensors (like mine), this will cause your system to show down dramatically or even freeze.
+As always, this is an ACPI problems, so disabling it at boot often takes of the problem.Edit
+the GRUB configuration as above and add the line:
+
+GRUB _ CMDLINE _ LINUX =acpi=off
+
+-----
+
+Grub2 background image,colors,fonts
+
+	-Grub2 အတြက္ ေနာက္ခံပုံရိပ္မ်ား၊ အေရာင္မ်ား ၊ Font ္မ်ား ဤေနရာတြင္
+	  (့http://ubuntuforums.org/showthread.php?p=10720685#post 10720685) ၾကည့္ပါ။
+	-Grub2 တြင္ မည္သည့္ ေနာက္ခံပံုကို သံုးသည္ျဖစ္ေစ အသံုးျပဳမည့္ပံုကို /boot/grub ဖိုင္တြဲတြင္ ထည့္၍
+	 Grub2 ကို configure လုပ္ျခင္းျဖင့္ အသံုးျပဳႏုိင္သည္။
+
+sudo update - grub
+
+အသံုးျပဳမည့္ပံုသည္ /etc /default /grub တြင္ ရွိသည့္ Grub 2 စတင္လုပ္ေဆာင္ရန္ သတ္မွတ္ထားေသာ
+ပံုအရည္အေသြးႏွင့္ တူညီရမည္။ (ဥပမာ 1024 x 768)
+
+
+-ေရြးခ်ယ္ထားေသာ splashimage မ်ားကို /usr/share/image/grub ဖိုင္တြဲတြင္ ထည့္သြင္း၍ 
+  အသံုးျပဳႏိုင္သည္။
+
+sudo apt - get install grub2-splashimages
+
+	-အသံုးျပဳလိုေသာ ပံုရိပ္တစ္ခုကို /boot/grub ဖို္င္တြဲတြင္ ထည့္၍ splashimage အေနျဖင့္
+	 အသံုးျပဳႏိုင္သည္။ ဥပမာ
+
+sudo in -s /usr /share /images /grub /Plasma-lamp.tga/boot/grub
+sudo update-grub
+
+
+
+Protecting Grub2 from cracking
+
+Grub 2 အား ခ်ဳိးေဖာက္၀င္ေရာက္ျခင္း မျပဳႏုိင္ရန္ ကာကြယ္ျခင္း
+
+	-Grub2 ကို ကာကြယ္ရန္ အေရးႀကီးေသာ အခ်က္မ်ားကို Grub Manual
+	 (http://www.gnu.org/software/grub/manual/grub.html#Security ) တြင္ ၾကည့္ပါ။
+
+	-စကား၀ွက္ထည့္သြင္းရန္အတြက္ /etc/grut.d/40_custom configuration file တြင္ ေအာက္ပါ
+	  command ကို ရိုက္ထည့္ပါ။
+
+set superusers=user1
+#password_pbkdf2 user1 grub.pbkdf2.sha512.10000.biglongstring
+password user1 insecurecleartextpassword
+
+
+စကား၀ွက္ေနရာတြင္ insecurecleartextpassword အစား သင္၏ စကား၀ွက္ ထည့္သြင္းအသံုးျပဳရပါမည္။
+သို႔မဟုတ္ ဤေနရာ (http://www.gnu.org/software/grub/manual/grub.html#Security) တြင္ ျပထားေသာ
+pbkdf2-encrypted နည္းလမ္းကို အသံုးျပဳ၍ ကာကြယ္ႏုိင္သည္။ သင္၏ Ubuntu OS Grub2 
+လံုျခံဳေရးႏွင့္ ပတ္သက္၍ အေသးစိတ္ကို ဤ Blog (http://www.panoet.com/set-grub-2-password-
+protection-149) တြင္ ဖတ္ရႈႏိုင္သည္။
+
+GRUB Legacy
+
+Boot partition တစ္ခုႏွင့္ အသံုးျပဳရန္ GRUB ၏ version အေဟာင္းျဖစ္သည့္ (Grub Legacy
+(http://www.gnu.org/software/grub/manual/legacy/grub.html) ကို ရယူႏုိင္သည္။ Grub Legacy ကို
+ထည့္သြင္းရန္အတြက္
+
+sudo apt - get install grub
+
+
+	-အကယ္၍ သင့္ကြန္ပ်ဴတာတြင္ operation system တစ္ခုထပ္ပိုရွိေနပါက multiple operation systems
+	 (OS) ျဖစ္ေနၿပီး သင္သည္ Grub Legacy boot manager ကို သံုးစြဲဖူးၿပီး ျဖစ္ေကာင္းျဖစ္ႏုိင္သည္။ Grub 
+	 Legacy ၏ option မ်ားကို menu.1st configuration file တြင္
+	 တည္းျဖတ္ျပင္ဆင္ႏုိင္သည္။ အေသးစိတ္ကို ၾကည့္ရႈႏိုင္သည္။
+
+sudo nano /boot /grub /menu.1st
+
+
+	(text editor အျဖစ္ nano အစား gedit ကို အသံုးျပဳႏိုင္သည္။)
+
+
+
+Chainloading Grub2 from Grub Legacy
+
+Grub Legacy မွ data မ်ား ရယူ၍ Grub2 တြင္ ျပန္လည္ အသံုးျပဳျခင္း
+
+Grub Legacy မွ data မ်ားရယူ၍ Grub2 တြင္ အသံုးျပဳရန္အတြက္ Grub Legacy ၏ menu.1st
+configuration file တြင္ ဤပံုစံျဖင့္ မိမိ OS မ်ားကို ျဖည့္သြင္းပါ။ (menu.1st ဖိုင္ကို boot partition တြင္ 
+သိမ္းဆည္းထားသည္။)
+
+title Kubuntu Maverisk OS (chainloader)
+rootnoverity (hdo,6)
+kernel /boot /grub /core.img
+
+!---
+
+		သို႔မဟုတ္
+title Kubuntu Maverick OS (chainloader)
+rootnoverify  (hdo,6)
+configfile/boot/grub.cfg
+
+---
+t
+Protecting Grub Legacy From cracking
+
+Grub Legacy ကိုခ်ိဳးေဖာက္၀င္ေရာက္ျခင္းမျပဳႏုိင္ရန္ ကာကြယ္ျခင္း
+
+	-Grub Legacy ကိုကာကြယ္ရန္ အေရးၾကီးေသာအခ်က္မ်ားကို this section of the Grub Manual 
+	  (http://www.gnu.org/software/grub/manual/legacy/grub.htm#Security) တြင္ ၾကည့္ပါ။
+
+	-စကား၀ွက္ထည့္သြင္း ကာကြယ္ရန္အတြက္ /boot/grub/menu.1st configuration file တြင္ ေအာက္ပါ
+	 command line ကို uncomment လုပ္ပါ (hash သေကၤတကို ဖယ္ထုတ္ပါ။)
+
+#password topsecret
+
+ထို႔ေနာက္ စကား၀ွက္ထည့္သြင္း၍ သို႔မဟုတ္ ဤေနရာ
+(http://www.gnu.org/software/grub/manual/legacy/grub.html1#Security ) တြင္ ျပထားေသာ md5-
+encrypted နည္းလမ္းကို အသံုးျပဳ၍ ကာကြယ္ႏုိင္သည္။ menu item မ်ားကို စကား၀ွက္ျဖင့္ ကာကြယ္ရန္ 
+မည္သည့္ item menu ၏ ေခါင္းစဥ္ေအာက္တြင္မဆို ကာကြယ္ထားေၾကာင္း အမွတ္အသားျဖစ္သည့္ lock ကို 
+ထည့္သြင္းျခင္းျဖင့္ လုပ္ေဆာင္ႏိုင္သည္။
+
+
+Default Applications
+
+Ubuntu ၏ ယခင္ version မ်ားတြင္ သင္ သတ္မွတ္ထားေသာ လုပ္ငန္းမ်ားအတြက္ မည္သည့္ program အား
+ပံုေသအသံုးျပဳမည္ကို သင့္အေနျဖင့္ ဤေနရာမွ ေရြးခ်ယ္ႏို္င္သည္။
+
+Menu - System - Administration - Default Applications
+
+(သို႔မဟုတ္) ဖိုင္တစ္ခုအား right click ႏွိပ္၍ Open with Other Application .. ျဖင့္လည္း ေရြးခ်ယ္ႏုိင္သည္။
+
+Default Application munu သည္ လက္ရွိ Ubuntu version တြင္ မပါရွိေတာ့ပါ။ သို႔ေသာ္ ဤ function အား
+ျပဳလုပ္ခြင့္ေပးေသာ GUI ႏွင့္ Ubuntu ႏွင့္ Multiple similar Ubuntu system twesk မ်ားအတြက္ Ubuntu
+Tweak (http://ubuntu-tweak.com/) ကို install ျပဳလုပ္၍ အသံုးျပဳႏိုင္ပါသည္။
+
+wget nowikihttp://launchpad.net/ubuntu-tweak/0.5.x/0.5.8/+ download/ubuntu-tweak_0.5.8-1all.deb
+sudo dpkg -i ubuntu- tweak _ 0.5.8-1_all.deb/nowiki
+Kill a process
+Sometimes a program (or process) just freezes. To kill (or end) the program/process:
+	Menu- System- Administration- System Monitor- highlight the errant process- Kill
+process
+From the command line:
+sudo killall process
+	where process is the name of the frozen program,such as firebox.
+တစ္ခါတစ္ရံမွာ Program တစ္ခု (သို႕မဟုတ္) process တစ္ခုဟာ အသံုးျပဳေနစဥ္မွာပဲ ရပ္တန္႔ (hang) 
+သြားတတ္ပါတယ္။ထိုကဲ႔သို႔ေသာ program (သို႔မဟုတ္) process မ်ားအား kill (သို႕မဟုတ္) ပိတ္ပစ္ရန္အတြက္
+	Menu- System- Administration- System Monitor- highlight the errant process -Kill
+process
+
+မွပိတ္ႏိုင္ပါတယ္။
+command line မွလည္း
+sudo killall process ဟုရိုက္ကာ ပိတ္ႏိုင္ပါတယ္။
+process ေနရာတြင္ ရပ္တန္႕ေနေသာ program ( firefox ဆိုပါက firefox) ဟုထည့္ေပးရပါမယ္။
+
+
+Enabling NUM LOCK On Startup
+
+	Menu - System -Administration -Keyboard Mouse - Keyboard - turn on Numlock on
+	Startup
+
+Working with Menus
+
+Create an encrypted folder
+
+သင့္အေနျဖင့္ encrypted  ျပဳလုပ္ထားသည့္ အရာမ်ားပါ၀င္ေသာ folder တစ္ခု ဤလမ္းညႊန္ခ်က္မ်ား  
+(http://help.ubuntu.com/community/EncryptedPrivatedDirectory) အား ၾကည့္ရႈ၍ ဖန္တီးႏိုင္ပါသည္။
+
+Create a symlink from a file to another location
+
+symbolic link (http://en.wikipedia.org/wiki/Symbolic_link) (သို႔) symlink ဟုလည္း သိၾကသည့္
+သေကၤတလင့္သည္ Linux ၏ file သုိ႔မဟုတ္ directory တစ္ခုအား တစ္ေနရာမွ အျခားေနရာသို႔ 
+ညႊန္ျပသည့္ နည္းလမ္းတစ္ခုျဖစ္သည္။ အသံုးျပဳပံု
+
+Ln -s /path /to /source/path/to/destination
+
+အကယ္၍ /path/to/destination မွ superuser ျဖစ္ရန္လိုအပ္ပါက ေအာက္ပါ command အား အသံုးျပဳပါ။
+
+sudo Ln-s /path /to/source /path/to/destination
+
+ဤနည္းသည္ ယခင္ window user မ်ား အကၽြမ္းတ၀င္ရွိၾကမည့္  Shoutcut မ်ားဖန္တီးသည့္ ပံုစံျဖင့္
+ဆင္တူေသာ္လည္း ပို၍ အဆင့္ျမင့္ (စြမ္းအားျမင့္) ပါသည္။
+
+Assign a root password
+
+Root သုိ႔ တို္က္ရိုက္ log in  ျပဳလုပ္ႏိုင္ရန္အတြက္  root password ထည့္သြင္းေပးရန္လိုအပ္ပါသည္။ password
+ထည့္သြင္းရန္အတြက္ 
+
+sudo passwd rood
+
+ထို႔ေနာက္ သင့္အေနျဖင့္
+
+su
+
+ကို အသံုးျပဳ၍ root သုိ႔သြားပါ။ ထုိ႔ေနာက္ root password အား ထည့္သြင္းေပးပါ။
+
+
+Get a root prompt without using a root password
+ 
+If you have not set a root password (or don't konw it), you can obtain root user privileges
+anyway. From the command -line Terminal:
+
+   sudo - s
+	or
+
+   sudo su
+	or
+
+   sudo bash
+
+You will use your own user password instead of a root password.
+You could also get a prompt to become any other user on the computer by typing:
+
+sudo su username
+
+
+
+Use the File Managers as root
+
+sudo nautilus
+	or
+
+gksudo nautilus
+
+
+
+Maunally Mount and Unmount a device
+
+To manually mount a device:
+
+mount /dev/hda
+
+
+replace /dev/hda/with the location of the device.
+
+To manually unmount a device.
+
+umount/dev/hda
+
+
+replace/dev/hda with the location of the device.
+
+
+
+
+Hardware
+
+Coming Soon!!!
+
+ 	you can contribute
+
+
+Networking
+
+တစ္ခုတည္းေသာ Network manager အား GUI interface ျဖင့္ စတင္လုပ္ေဆာင္ေစႏိုင္ပါသည္။ Network-
+Manager သည္ ပံုမွန္အေနျဖင့္ ပါ၀င္ၿပီးျဖစ္သည္။ သို႔ေသာ္လည္း အသံုးျပဳသူမ်ားသည္ Wicd Network 
+Manager (http://wicd.sourceforge.net/)  ကို ပို၍ ႏွစ္သက္ၾကသည္။
+
+
+Network Manager
+
+Network Manager သည္ ubuntu တြင္ ပံုမွန္အေနျဖင့္ ထည့္သြင္းထားၿပီးျဖစ္သည္။ ၎သည္ Notification 
+ေနရာတြင္ internet connections (wireless APs သို႔မဟုတ္ wired connection တို႔ကို )ခ်ိတ္ဆက္ရန္
+သို႔မဟုတ္ အသံုးမျပဳရန္ ေရြးခ်ယ္ႏုိင္ပါသည္။
+
+
+Wicd Network Manager
+
+Wicd Network Manager (http://wicd.sourceforget.net/) is a GTK -dependent networking manager
+written in Python that can be used in all variants of Ubuntu. Many users (including me) report it 
+to be faster and more stable than Network Manager. To avoid networking conflicts, Wicd
+requires the removal of Network Manager prior to installation.
+
+sudo apt - get remove network - manager
+sudo reboot
+sudo apt - get install wicd
+
+
+Set a static IP address
+
+I have never been able to ger Network Manager to accept my static IP address settings. If you 
+only use only a wire interface, you do not neekd a network manager and it can be removed.
+
+	-Remove Network Manager:
+
+sudo apt - get remove network - manager
+sudo reboots
+
+	-Edit the /etc /network/interfaces files:
+
+
+GPPP
+
+GPPP သည္ ယခင္ Ubuntu versions ေတြရဲ႕  default modem dailing application ျဖစ္ခဲ့ပါသည္။
+
+	Menu - Applications - Internet - GPPP Internet Dail - up
+
+Remote Access
+
+Remote Access နည္းလမ္းမ်ဳိးစံုရွိပါသည္။ VNC Sharing ကို သံုးျခင္းျဖင့္ ရီမုတ္လုပ္ထားေသာ ကြန္ပ်ဴတာ၏ 
+Desktop ကို ၾကည့္ႏိုင္၊ ထိန္းခ်ဳပ္ႏုိင္ပါသည္။ (Windows သံုးသူမ်ားသည္ အလားတူ (remote desktop
+protocol,RDP ) ဟု ေခၚေသာ သီးျခားအဖြဲ႔အစည္း တစ္ခုပိုင္ ပရိုတိုေကာကို သံုးၾကသည္။) XDMCP (X
+Display Manager Control Protocol) ျဖင့္ လည္း X-windows ကို အေျခခံသည့္ ၿပီးျပည့္စံုေသာ Remote
+Login ကို ျပဳလုပ္ႏိုင္ပါသည္။ ခြင့္မျပဳသင့္ေသာ ၀င္ေရာက္ျခင္းမ်ား ၊ေဒတာအခ်က္အလက္ ပို႔ေဆာင္ျခင္းမ်ားကို 
+ကာကြယ္ေပးေသာ သင့္ေတာ္သည့္ ၾကိဳတင္ကာကြယ္မႈမ်ားမရွိလွ်င္ Remote Connection သည္ လံုျခံဳေရးအရ 
+အႏ ၱရာယ္ရွိေပသည္။ 
+
+ွSSH 
+
+Secure Shell သုိ႔မဟုတ္ SSH လို႔ေခၚေသာ  network protocol တစ္ခုျဖစ္ပါသည္။ ၎ Protocol သည္ 
+ကြန္ပ်ဴတာ ႏွစ္ခုၾကားတြင္ Secure channel (သို႔မဟုတ္ tunnel ) မွ တဆင့္ အခ်က္အလက္ေတြကို ဖလွယ္ႏိုင္ရန္ 
+အေထာက္အပံ့ေပးပါသည္။ Encryption လုပ္ျခင္းျဖင့္ သတင္းအခ်က္အလက္မ်ားကို တိက်လံုျခံဳမႈ ရွိေစပါတယ္။
+OpenSSH client ကိုေတာ့ Ubuntu တြင္ default အေနနဲ႔ install လုပ္ထားၿပီး အျခား SSH server run
+ေနေသာ ကြန္ပ်ဴတာတစ္ခုႏွင့္ ခ်ိတ္ဆက္ေပးႏုိင္မွာျဖစ္ပါတယ္။
+
+
+Tips Tricks
+
+Run Command
+
+Run Command အသံုးျပဳျခင္း သင့္ရဲ႕ စက္အတြင္းက  Application မ်ားကို Run Command မွတဆင့္ 
+အသံုးျပဳႏုိင္ပါတယ္။ Alt + 2 ကိုသံုးပါ။
+
+Turn off Hot Keys
+
+Hot Keys မ်ားအား ပိတ္ျခင္း
+
+ကၽြန္ေတာ့အျမင္မွာေတာ့ ဒါဟာ အလြန္အႏ ၱရာယ္ရွိတဲ့ လုပ္ေဆာင္ခ်က္တစ္ခုျဖစ္ပါတယ္။။ အစက္ေလးတစ္စက္ဟာ
+ထင္မွတ္မထားတဲ့ ဘယ္လို အျဖစ္အပ်က္မ်ဳိးကို မဆုိ ျဖစ္သြားေစႏိုင္ပါတယ္။ စိတ္မေကာင္းစရာအျဖစ္န႔ဲပဲ 
+ဒါဟာ ျပသနာတစ္ခုအျဖစ္နဲ႔ Operation System ထဲမွာ ရွိေနၿပီး  turn off လုပ္ဖုိ႔လည္း ခက္ခဲပါတယ္။
+
+	Menu - System -Administration -Advanced - Input Actions -General Settings - check
+	Disable KHotKeys daemon
+
+		Menu- System -Administration -Advanced- Input Actions - Gestures Settings -
+		check Disable mouse gestures globally
+
+တကယ္လို႔သင္က Disable mouse gestures globally ကို ေရြးခ်ယ္ခ်င္ပါတယ္ဆိုရင္ေတာ့  (တခါတရံမွာ
+အလုပ္မလုပ္ပါ) Desktop ေပၚက မလိုအပ္တဲ့ Hotkey ေတြကို disable လုပ္ပါ။
+
+	Menu - System - Administration -Advanced -Keyboard Mouse - Keyboard Shortcuts
+ၿပီးေတာ့ သင္က linking gestures to sticky and slow keys ကို deactivate လုပ္ခ်င္တယ္ဆိုရင္ေတာ့
+	Menu - System -Administration -Accessibility -Activation Gestures -uncheck Use
+	gestures for activating sticky keys and slow keys
+
+မွတ္ခ်က္။        ။သင့္အေနနဲ႔ application အေတာ္မ်ားမ်ားကို အသံုးျပဳမယ္ဆိုရင္  hotkeys ေတြကို  disable
+လုပ္ထားရပါမယ္။
+
+	Synaptic Touchpad မွ hotkeys မ်ားကေတာ့ Ubuntu documentation
+ 	(https://help.ubuntu.com/community/Synaptics Touchpad#Ubuntu) ကို အသံုးျပဳၿပီး ေရြးခ်ယ္
+	turned off ျပဳလုပ္ႏိုင္ပါတယ္။
+
+Associate default applications
+
+သက္ဆိုင္ရာ application မ်ားအား အလိုအေလ်ာက္ပြင့္ရန္
+
+	-Dvd player အလိုအေလ်ာက္ပြင့္လာရန္အတြက္ DVD playback လုပ္ေဆာင္ႏိုင္စြမ္းကို
+	ဖြင့္ထားရန္လိုအပ္ပါသည္။ ပထမဦးစြာ
+	
+	Menu - System - Administration - Advanced - File Associations - x - content - video - dvd -
+	Applications Preferance order - Add...
+	တြင္ မိမိႏွစ္သက္ရာ media player အား ေရြးခ်ယ္ပါ။ ၎တြင္ Blu - Ray ႏွင့္ HD DVD 
+	အတြက္ ဆင္တူေသာ ေရြးခ်ယ္မႈဇယားရွိပါသည္။ တစ္ခုခ်င္းစီအား ေရြးခ်ယ္သတ္မွတ္ေပးပါ။
+
+
+	-MPEG ႏွင့္ အျခား ရုပ္သံ Format မ်ားအတြက္ အလိုအေလ်ာက္ player မ်ားသတ္မွတ္ရန္
+	 Menu - System -Administration - Advanced - File Associations - video -mpeg -
+	Applications Preference order - Add....
+	တြင္ သင့္စိတ္ၾကိဳက္  media player ကို ေရြးခ်ယ္ပါ။ .wmv) x -ms -wmv, သို႔မဟုတ္ Microsoft ၏
+	WMV format) ,.flv (x-flv, သို႔မဟုတ္ Flash video ), quicktime စသည္
+	ရုပ္သံဖိုင္ေပါင္းမ်ားစြာအတြက္ လက္ခံဖြင့္ႏုိင္မည့္ player အားေရြးခ်ယ္အသံုးျပဳႏုိင္ပါသည္။
+
+
+	-Audacious မွတဆင့္ .pls အသံ stream မ်ားကို သတ္မွတ္ေပးရန္အတြက္ Audacious:
+
+	Menu - System - Administration - Advanced -File Associatons - audio - x -scpls -
+	Applications Preference order - Audacious အား အေပၚဆံုးသို႔ ေရႊ႕ေျပာင္း၍ (သို႔မဟုတ္)
+	ထည့္ေပးျခင္းျဖင့္ လုပ္ေဆာင္ႏုိင္ပါတယ္။
+
+	Filename Patterns Section ထဲတြင္ေတာ့ * .pls  ရွိေနရန္လုိအပ္သည္။
+
+
+
+Automatic user login
+
+user စကား၀ွက္အသံုးျပဳရန္ မလိုပဲ ၀င္ေရာက္ေသာစနစ္
+
+	-သြားေရာက္ျပင္ဆင္ရန္အတြက္ (မွတ္ခ်က္ ၊ User အတြက္ password လိုအပ္ေနဆဲျဖစ္ပါသည္။ )
+
+	Menu - System -System Settings -Login Manager -Convenience -Enable Auto -Login
+	(အမွန္ခ်စ္) - Lock session (အမွန္ခ်စ္)
+
+		-Pre - select user: Specified :Choose primary user
+
+	-ဒါကို ျပဳလုပ္ရင္ေတာ့ screensaver ကို Password - Portected နဲ႔တြဲၿပီး လုပ္သင့္ပါတယ္။
+
+
+Autostart a program at bootup
+
+Program မ်ားအား bootup လုပ္စဥ္ အလုိအေလ်ာက္စတင္ေစျခင္း
+
+မည္သည့္ program မဆို ~/.config/autostart folder သုိ႔ program သေကၤတ
+လမ္းေၾကာင္း ဖန္တီးေပးျခင္းအားျဖင့္ bootup ၌ စတင္ေစလိုပါက သေကၤတလမ္းေၾကာင္း ဖန္တီးေပးရပါမည္။
+
+sudo in -s /usr/bin/firefox ~/.config/autostart
+
+
+Choose Bootup /Startup services
+
+Bootup /Startup service မ်ားေရြးခ်ယ္ျခင္း
+
+ွSystem ၏ လုပ္ေဆာင္ခ်က္မ်ား တိုးတက္ေစရန္အတြက္ Startup ျပဳလုပ္စဥ္တြင္ မလုိအပ္ေသာ/ 
+အသံုးမျပဳလိုေသာ service မ်ား စတင္ျခင္းမ်ား မျဖစ္ေအာင္ ကာကြယ္ရပါမည္။
+
+	-GTK အား အေျချပဳထားေသာ Bootup - Manager အား Install ျပဳလုပ္ရန္
+
+sudo apt - get install bum
+
+	
+	-Bootup-Manager အား အသံုးျပဳရန္
+	 Menu - System - Bootup - Manager 
+
+Run a script from a menu item
+
+Menu item မွ Script အား အသံုးျပဳျခင္း
+
+(password စသည့္ )တံု႔ျပန္ေမးခြန္းမ်ား ေမးျမန္းျခင္းမ်ားအား ေျဖဆိုရန္ script တိုေလးမ်ားအား Menu item
+ထဲတြင္ ထည့္သြင္းႏိုင္ပါသည္။ ေအာက္တြင္ SSH Negotiation ျပဳလုပ္စဥ္ password ထည့္ေပးႏိုင္သည့္ 
+ဥပမာအား ေဖာ္ျပေပးထားပါသည္။ ပထမဦးစြာ အသံုး၀င္  expect (http://linux.die.net/man/1/expect)
+program အား install ျပဳလုပ္ပါ။
+
+sudo apt -get install expect
+
+Menu item တြင္ shortcut (သို႔) command အသံုးျပဳျခင္း
+
+expect apt -c 'spawn ssh -1 sshuser -L 5900:127.0.0.1:5900 remoteserver.remotedomain .org -p 22;expect
+ျဖစ္ပါသည္။
+
+ဤ password ဥပမာသည္ ssh program မွ password လိုအပ္ေသာအခါ sshpassword ကို သြားေစပါသည္။
+Expect သည္ command-line terminal မွ စာလံုးအခ်ဳိ႕ကိုေစာင့္ဆိုင္း ရယူၿပီး စာမ်ားျပန္ထုတ္ေပးသည္။
+ထို႔ေၾကာင့္ Menu Iten ကို terminal တြင္သာ run   ေစရမည္ျဖစ္္္္္္သည္။
+
+
+SHC (Encrypt scripts)
+
+SHC (http://www.datsi.fi.upm.es/~frosal/) သည္ code ႏွင့္ password စသည္မ်ားကို မျမင္ေအာင္
+ျပဳလုပ္ေပးၿပီး ထို script မ်ားကို binary အျဖစ္သို႔ ေျပာင္းလဲေပးသည့္ ရိုးရွင္းေသာ script compiler
+တစ္ခုျဖစ္သည္။ အသံုးျပဳပံုမ်ားအား ဤေနရာတြင္ (http://www.datsi.fi.upm.es/~frosal/sources/shc.html)
+ၾကည့္ရႈႏိုင္ပါသည္။ Debian Etch respository ကို ထည့္သြင္းျခင္းျဖင့္ install ျပဳလုပ္ႏိုင္ပါသည္။
+
+sudo add - apt - repository http://archive.debian.org/debian/etc main
+
+ထို႔ေနာက္ shc package အား install ျပဳလုပ္ပါ။
+
+sudo apt - get install shc
+
+
+Capture a screenshot 
+
+Screenshot ျပဳလုပ္ျခင္း ဤ Tutorial (http://tips.webdesign 10.com/how-to-take-a-screenshot-on-
+ubuntu-linux) တြင္ ၾကည့္ပါ။
+
+Customize desktop to look like KDE
+
+Desktop အား KDE  ကဲ့သို႔ ေျပာင္းလဲျခင္း
+
+ေနာက္ဆံုးထြက္ Ubuntu ဗားရွင္းတြင္ Gnome desktop အား ျပဳျပင္၍ cleaner KDE desktop
+အျဖစ္ ျပင္ဆင္ႏုိင္ပါသည္။ (ျပဳျပင္ျခင္းသည္ အလြန္ ကိုယ္ေရးကိုယ္တာက်သျဖင့္ ဤအပိုင္းသည္
+လမ္းညႊန္အျဖစ္သာ ေဖာ္ျပေပးထားသည္။ )
+
+	-Desktop Customization ျပဳျပင္ျခင္းကို ၾကည့္ပါ။
+
+Run a KDE 4 desktop from Ubuntu
+
+Ubuntu တြင္  KDE 4 Desktop အသံုးျပဳျခင္း
+
+Kubuntu တြင္ အလိုအေလ်ာက္ပါၿပီးျဖစ္ေသာ KDE4 အေျချပဳ Desktop အား Ubuntu တြင္ install
+လုပ္ႏုိင္ပါသည္။
+
+apt - get  install kubuntu - desktop
+
+KDE4 အား install လုပ္ရာတြင္ အသံုးမလိုေသာ feature မ်ားျပားျခင္းႏွင့္  Module  မ်ားအၾကား
+လိုက္ေလ်ာညီေထြမႈမရွိျခင္း ျပသနာမ်ားၾကံဳေတြ႔ရတတ္ပါသည္။ Login ျပဳလုပ္ရာ၌ KDE (Kubuntu)
+Desktop ျဖင့္ ျဖစ္ေစ၊ Gnome (Ubuntu) Desktop ျဖင့္ျဖစ္ေစ၊ ႀကိဳက္ႏွစ္သက္ရာျဖင့္ ျပဳလုပ္ႏုိင္သည္။
+သို႔ေသာ္လည္း Desktop တစ္ခုခ်င္းစီမွ Modules ၂ခုသည္  function တစ္ခုအား လုပ္ေဆာင္မည္ဆိုပါက
+အခက္အခဲ(ကြဲလြဲျခင္း)မ်ား ျဖစ္ႏိုင္ပါသည္။
+
+Run a KDE 3 desktop from Ubuntu
+
+KDE 3 Desktop အား Ubuntu  တြင္ အသံုးျပဳျခင္း
+
+သင့္အေနျဖင့္ ယခင္ Lucid (သို႔မဟုတ္) မည္သည့္ KDE 3 application မွ KDE 3 Desktop ကို Ubuntu တြင္
+install လုပ္ႏုိင္ပါသည္။	
+
+	-ေဖာ္ျပပါ KDE 3 repositories အား ထည့္ပါ။
+
+sudo add - apt - repository ppa:kde3 -maintainers
+
+	-KDE 3.5 desktop အား install လုပ္ပါ။
+
+sudo apt - get update
+sudo apt - get install kubuntu - desktop -kde 3
+
+	-မည္သည့္  KDE 3 application ကိုမဆို install ျပဳလုပ္လိုပါက package အမည္တြင္  -kde 3 ဟူေသာ
+	 စာလံုးကို ထပ္ျဖည့္ေပးရပါမည္။ အခ်က္အလက္ အျပည့္အစံုအတြက္ Pearson Computing
+	(http://apt.pearsoncompution.net/) ကို ၾကည့္ပါ။
+
+
+Kill (end) a process 
+
+Process (application) အား ပိတ္ျခင္း (သို႔မဟုတ္) အဆံုးသတ္ျခင္း
+
+	-Frozen PC ကို ျပင္ဆင္ရန္ နည္းလမ္းအေတာ္မ်ားမ်ား ရွိပါသည္။ Alt + F2 ကို ႏွိပ္ပါ။ ထို႔ေနာက္  frozen
+	Application ကို ပိတ္ရန္ Killall ကို အသံုးျပဳပါ။ ဥပမာ:
+
+sudo killall amarok
+sudo killall firefox
+
+	-ထစ္ေနေသာ Graphic ႏွင့္ ဆိုင္သည့္ application မ်ားကို ပိတ္ရန္အတြက္ xkill utility ကို သံုးပါ။
+	Alt+F2 ကို ႏွိပ္ပါ။ xkill ဟု ရိုက္ၿပီး run ကို ႏွိပ္ပါ။  သင္ပိတ္လိုေသာ  application ေပၚတြင္ Mouse ၏
+	၀ဲလက္ခလုတ္ကို ႏွိပ္ပါ။ ဤနည္းျဖင့္  သင္ပိတ္လိုသည့္ application မ်ားကို ပိတ္ႏိုင္ပါသည္။
+
+skill
+
+	-အျခားနည္းအေနျဖင့္ AltGr+SysRq+K (Right Alt +Print Screen + K) ကို ႏွိပ္ပါ။ ဒီနည္းက သင့္ကို log
+	out ျဖစ္ေစမွာျဖစ္ပါတယ္။ တကယ္လို႔ ဒီနည္းက အလုပ္မျဖစ္ဘူးဆိုရင္ေတာ့  Ctrl + Alt + F1 ကိုႏွိပ္ၿပီး
+	login လုပ္ပါ။ ၿပီးေတာ့ သင့္ password ကို ႏွိပ္ၿပီး run ပါ။
+
+sudo killall gdm
+sudo startx
+
+
+Veew hidden files 
+
+Hidden File မ်ားအား ၾကည့္ရႈျခင္း  Nautilus Manager မွာ ဒါေလးကို ႏွိပ္ပါ။
+
+ctrl + H
+
+
+
+
+Mute notifications (alerts)
+
+Notification (အခ်က္ျပျခင္း ) ေတြကို အသံေဖ်ာက္ရန္
+
+	-အခ်က္ေပးသံေတြကို disable ျပဳလုပ္ဖို႔အတြက္
+	Menu - System - Preferences - Sound -Sound Effects - Sound theme: -No sounds - Close
+
+	-GNOME အခ်က္ေပးခ်က္ေတြဟာ အသံျဖင့္ အလိုအေလ်ာက္ ဆက္စပ္ေနပါတယ္။ ဒါကို သီးျခား disable
+	ျပဳရပါမယ္။
+	Alt - F2 - gconf - editor -/apps/indicators - sound - volume _mute (အမွန္ျခစ္ေပးပါ။ )
+
+	-Login အခ်က္ေပး အသံကို ပိတ္ရန္အတြက္
+
+	Menu - System -Preferences - Startup Applications - Startup Programs - GNOME Login
+	Sound (အမွန္ ျခစ္ျဖဳတ္ေပးပါ။ ) - Close
+	-Menu - System - Administration - Login Screen - Unlock - Play login sound
+	(အမွန္ျခစ္ျဖဳတ္ေပးပါ။) -Close
+
+
+Random password generator
+
+က်ပန္း password geneartor
+
+	-Pwgen သည္ က်ပန္း password စာလံုးစုမ်ားထုတ္ေပးရန္အတြက္  အသံုး၀င္သည့္ command line
+	တစ္ခုျဖစ္သည္။ Kubuntu တြင္ Konsole မွ တဆင့္ ၊Ubuntu တြင္ Terminal မွတဆင့္
+	အသံုးျပဳႏိုင္သည္။ Install ျပဳလုပ္ရန္ ----
+
+sudo apt - get install pwgen
+
+	-Pwgen အား အသံုးျပဳရန္
+pwgen
+
+
+	-UUIDgen သည္ က်ပန္း UUID မ်ားအား ထုတ္ေပးသည့္ အသံုး၀င္ေသာ
+	အလိုအေလ်ာက္ ထည့္သြင္းေပးထားသည့္ program တစ္ခုျဖစ္သည္။ အသံုးျပဳရန္ း
+uuidgen
+
+
+ဆႏၵရွိပါက က်ပန္း UUID အား password အေနျဖင့္လည္း အသံုးျပဳနိုင္ပါသည္။
+
+
+
+
+Password chceker and enforcement
+
+John the Ripper (http://www.openwall.com/john/) Password စစ္ေဆးမႈႏွင့္ အတည္ျပဳမႈ
+
+John the Ripper သည္ Dictionary ၏ password မ်ားအား ဖ်က္ရန္အတြက္ အခမဲ့အသံုးျပဳႏိုင္ေသာ open
+source ျဖစ္ၿပီး ေယဘုယ်အားျဖင့္ ၄သန္းခန္႔ ဘာသာေပါင္းစံုျဖင့္ အသံုးျပဳေနၾကသည္။ အဘယ္ေၾကာင့္ဆိုေသာ္
+ဤ program သည္ က်ယ္က်ယ္ျပန္႔ျပန္႔ႏွင့္ လြယ္လင့္တကူ ရႏိုင္ေသာေၾကာင့္ ျဖစ္ၿပီး  မိမိ၏ ကြန္ျပဴတာ ႏွင့္  
+LAN ၏  password မ်ားအား  စစ္ေဆးျခင္း၊ လံုျခံဳေအာင္ ျပဳလုပ္ျခင္းမ်ားအတြက္လည္း ၏
+အသံုး၀င္ေသာေၾကာင့္ျဖစ္သည္။ Install ျပဳလုပ္ရန္
+
+sudo apt - get install john
+
+	-Passwdqc (http://www.openwall.com/passwdqc/) သည္ password မ်ား၏ ၾကံ့ခိုင္မႈအား
+	အတည္ျပဳေပးရန္အတြက္ သံုးေသာ module တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္
+
+sudo apt - get install passwdqc
+
+
+MD5Sum
+
+File တစ္ခု၏ MD5 sum မ်ားအား စစ္ေဆးရန္အတြက္ သံုးေသာ command line တစ္ခုျဖစ္သည္။
+
+md5sum filename
+
+
+Filenames with spaces
+
+Spaces ခံ၍ အမည္ေပးထားေသာ File မ်ား
+
+	-Spaces ခံ၍ ရိုက္ႏွိပ္ထားေသာ File ႏွင့္ Folder အမည္မ်ားအား မ်က္ေတာင္ အဖြင့္ အပိတ္မ်ား ( )မ်ား
+	ထည့္အသံုးျပဳသင့္သည္။ ဥပမာအားျဖင့္ This Dir အမည္ေပးထားေသာ directory တစ္ခု သို႔မဟုတ္
+	/home/This Dir အမည္ရွိ directory တစ္ခုအား ေျပာင္းလဲခ်င္ပါက ေအာက္ပါ command 
+	အား အသံုးျပဳရမည္။
+
+cd This Dir
+
+	သုိ႔မဟုတ္
+
+cd/home/This Dir
+
+	-တစ္နည္းအားျဖင့္ backslash (/) ကို space ေနရာမွာ အစားထုိးျခင္းျဖင့္လည္း အသံုးျပဳႏုိင္ပါသည္။
+	This Dir အမည္ေပးထားေသာ directory တစ္ခု သို႔မဟုတ္ /home/This Dir အမည္ရွိ directory 
+	တစ္ခုအား ေျပာင္းလဲခ်င္ပါက 
+
+cd This /Dir 
+	သို႔မဟုတ္
+
+cd/home/This /Dir
+
+
+Alien
+
+Alien (http://kitenet.net/~joey/code/alien/) သည္ (Red Hat) .rpm packages မ်ားကို  (Debian).deb
+packages မ်ားအျဖစ္သို႔ ေျပာင္းလဲေပးေသာ ဖိုင္ေျပာင္းနည္းတစ္ခုျဖစ္သည္။ ဒီနည္းဟာ
+စိတ္ခ်ရတဲ့နည္းမဟုတ္သလို ေျပာင္းလိုက္တဲ့ package ေတြရဲ႕ function ေတြကို 
+ေသခ်ာျပန္စစ္ေဆးေပးဖို႔လိုအပ္ပါတယ္။ မ်ားေသာအားျဖင့္ စာေၾကာင္းေတြ ျပန္ေျပာင္းေပးဖို႔ လိုအပ္ပါတယ္။
+Source ကေန (Debian).deb package ကို ေျပာင္းေပးျခင္းက ပိုၿပီးစိတ္ခ်ရပါတယ္။ Alien software ရဲ႕
+maintainer ေတြ ကို္ယ္တိုင္ကိုက important package ေတြကို ဖိုင္ေျပာင္းတဲ့အခါ Alien 
+ကို အသံုးမျပဳေစခ်င္ၾကပါဘူး။ Alien ကို version နံပါတ္ေတြ ေျပာင္းတာကေန ထိန္းထားခ်င္တယ္ဆိုရင္ေတာ့
+ေဖာ္ျပပါ command ကို ရိုက္ထည့္ေပးပါ။
+
+alien - k rpm _file _name.rpm
+
+	.rpm ကို .deb အျဖစ္ေျပာင္းနည္း
+
+alien - d package - name .rpm
+
+	.rpm ကို .deb အျဖစ္ေျပာင္းၿပီး ရလာတဲ့ file ကို တစ္ခါတည္း install လုပ္ရန္
+
+alien - i package - name .rpm
+
+	.rpm ကို Debian အျဖစ္ေျပာင္းရန္
+
+sudo alien - k  .rpm
+
+
+
+
+Softwar Troubleshooting 
+
+Permissions error on program startup
+
+Program အစတြင္ လုပ္ပိုင္ခြင့္ Error တက္ျခင္း
+
+အကယ္၍  သင့္တြင္ လုပ္ပိုင္ခြင့္ Error တစ္ခုတက္လာပါက ေဖာ္ျပပါအတိုင္း လုပ္ေဆာင္ပါ။
+
+sudo chown - R user /home/user
+
+	မွတ္ခ်က္ ။    user ဆိုေသာ ေနရာတြင္ သင့္ username အမွန္အား ထည့္ေပးပါ။ ဤ command သည္ 
+	folder ၏ ပိုင္ရွင္အား ေျပာင္းလဲေပးမည္ျဖစ္သည္။ -R အပါအ၀င္  (recursively ) ကိုဆိုလိုၿပီး 
+	folder အခြဲမ်ားပါ ပါ၀င္ပါသည္။
+
+
+CD - ROM Troubleshooting
+
+CD - ROM Error အားေျဖရွင္းျခင္း
+
+အကယ္၍ သင္ CD burner အသံုးျပဳၿပီး  burn ေန႔စဥ္အတြင္းမွာ cdrecord has no permission to open the
+device ဆိုတဲ႔ Error တက္လာပါက terminal ကို ဖြင့္ၿပီး
+
+sudo chmod 777 /dev /scd0
+လို႔ ရိုက္လိုက္ပါ။
+
+	မွတ္ခ်က္။ /dev/scd0 ေနရာတြင္ သင့္ device အားထည့္ေပးပါ။
+	မွတ္ခ်က္။ chmod 777 သည္ folder အား လုပ္ပိုင္ခြင့္အျပည့္အစံုေပးလိုက္သည့္ universal option
+	ျဖစ္သည္။ 777 ဆုိေသာ ဂဏန္းသည္ ေရးျခင္း၊ ဖတ္ျခင္း ၊လုပ္ေဆာင္ျခင္း စသည့္ လုပ္ပိုင္ခြင့္ တု႔ိကို
+	အသံုးျပဳသူအား အျပည့္အ၀ ေပးလိုက္သည္ဟု အဓိပၸါယ္ ရသည္။
+
+
+..........................................
+
+............................................
+.......................................
+
+............................................Pg 95 to 96
+
+........................................
+
+................................
+
+
+Requests
+
+Place your requests here.
+
+	-How can i contribute?
+	 Register and then add your suggestions directly to the wiki.
+
+
+e Book version of this guide
+
+	-See the Books Category (http://www.kubuntuguide.info/index.php/Category:Books) for
+	 free Ubuntu EN PDF eBooks based on this help guide.
+
+	-ယခု Ubuntu Myanmar Wiki သည္ ပထမဆံုး ထုတ္ေ၀ေသာ အဆင့္သာရွိေသးသျဖင့္
+	 အမွားအယြင္းရွိေနႏုိင္ၿပီး လိုအပ္ေနေသာ အပိုင္းမ်ားက်န္ေနေသးပါသည္။ အခ်က္အလက္မ်ားကို Local
+	 Server တြင္ ျပဳျပင္လ်က္ရွိပါသည္။ မၾကာမီ RC2 ထပ္မံ ထုတ္ေ၀မည္ျဖစ္ၿပီး အကုန္ျပဳျပင္ျပင္ဆင္ၿပီး 
+	 အေကာင္းဆံုးအေျခအေနအထိ ႀကိဳးစားၿပီးပါက PDF/LocalWiki တို႔အျပင္ စာအုပ္အေနျဖင့္ပင္ 
+	 ရရွိႏိုင္မည္ျဖစ္ပါသည္။
+
+	- အကယ္၍ လက္ရွိ Wiki ကိုသာ ျမန္မာဘာသာျဖင့္ PDF ရရွိလိုပါက ေအာက္ပါအတိုင္း ရယူႏိုင္သည္။
+
+	(Chrome/Mozila):
+	
+		File - Print - Print to File - Output Format:PDF
+
+Retrieved from ''http://wiki.u4mm.com/index.php? title=Ubuntu:Natty''
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+-This page was last modified on 24 October 2011,at 13:04.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KDE 3 Desktop အား Ubuntu တြင္ အသံုးျပဳျခင္း
+
+သင့္အေနျဖင့္ ယခင္ Lucid (သို႔မဟုတ္) မည္သည့္  KDE 3  application မွ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

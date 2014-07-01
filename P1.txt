@@ -1,0 +1,1688 @@
+﻿General Notes
+
+Ubuntu လမ္းညႊန္သည္ ပုဂၢလိကဆိုင္ရာကုမၸၸဏီႏွင့္ေသာ္လည္းေကာင္း
+အျခားစီးပြားေရး လုပ္ငန္းႀကီးမ်ားႏွင့္ေသာ္လည္းေကာင္း စီးပြားေရးအရသက္ဆိုင္မႈမရွိပါ။
+Ubuntu သည္ သံုးစြဲသူေတြကို Menu အသံုးခ်ရုပ္ပံုဆိုင္ရာ Graphical User Interface  (GUI)
+ႏွင့္ေသာ္လည္းေကာင္း စာသားအသံုးခ် command line ဆိုင္ရာ text-based command-line interface 
+(CLI) ေသာ္လည္းေကာင္း အလုပ္ေတြကို လုပ္ေဆာင္ႏိုင္ေစပါတယ္။Ubuntu မွာ(command-line-
+interface)ကို Terminal လို႕ေခၚပါတယ္။Terminal ကိုစဖြင့္မယ္ဆိုရင္ Menu- Applications-
+Accessories - Terminal ခုလို အဆင့္တိုင္းသြားေရာက္ႏိုင္ပါသည္။
+
+ခဲေရာင္မ်ဥ္းအစက္မ်ားအတြင္းမွာ စာသားမ်ားကို Terminal မွာ ထည့္သြင္းအသံုးျပဳႏိုင္ပါသည္။
+
+ကြန္ပ်ဴတာလုပ္ေဆာင္မႈစနစ္မွ ေျပာင္းလဲခ်က္မ်ားကို ေျပာင္းလဲခြင့္ရွိသူ (Admin အခြင့္ရွိတဲ့)
+အသံုးျပဳသူကပဲေဆာင္ရြက္ႏိုင္ပါသည္။ 'sudo' Command က အသံုးျပဳသူကို ေျပာင္းလဲခြင့္ရွိသူ Admin 
+အျဖစ္ ယာယီသတ္မွတ္ေပးသည္။(ဥပမာ ပရိုဂရမ္တစ္ခု သြင္းစဥ္(သို႕)စနစ္ပိုင္းဆိုင္ရာေျပာင္းလဲစဥ္)
+
+နမူနာအေနျဖင့္ ေအာက္တြင္ေဖာ္ၿပထားသည္။
+
+sudo bash
+
+'gksudo'ကို Graphical Application ေတြဖြင့္ရာမွာ 'sudo' အစားRun Command 
+မွလည္းေကာင္း(သို႕)မီႏူးမ်ားမွလည္းေကာင္း အသံုးျပဳႏိုင္ပါတယ္။
+
+နမူနာအေနျဖင့္ ေအာက္တြင္ေဖာ္ၿပထားသည္။
+
+gksudo gedit  / etc / apt / sources. list
+
+ဖိုင္အမ်ားစုရဲ႕ ခန္႕ခြဲမႈေတြကို ရင္းျမစ္ျပင္ဆင္ခြင့္ရွိတဲ့ Admin  အခြင့္ (root Administrative
+privileges)ႏွင့္ Nautilus file မန္ေနဂ်ာကဲ့သို႕ အသံုးျပဳကာနဲ႕ ေဆာင္ရြက္ႏိုင္ပါသည္။Munu 
+မွတဆင့္ အသံုးျပဳမယ္ဆိုရင္ 'gksudo' ကိုအသံုးျပဳပါ။
+
+gksudo nautilus
+
+                  သို႕မဟုတ္
+
+sudo nautilus
+
+man ကေတာ့ ကြန္မန္းေတြအတြက္ အကူအညီလိုလာၿပီဆိုရင္ အသံုးျပဳႏိုင္ပါတယ္။နမူနာအေနနဲ႕ man 
+sudo လို႕ရိုက္ထည့္လိုက္မယ္ဆိုရင္ sudo ကြန္မန္းနဲ႕ဆိုင္တဲ့
+လက္စြဲဖိုင္စာမ်က္ႏွာေတြကိုျမင္ေတြ႕ရမွာျဖစ္ပါသည္။
+
+man sudo
+
+apt-get  ႏွင့္ aptitude ေတြကို ပရိုဂရမ္ေတြ ပက္ေက့ (package) ေတြ
+ထည့္သြင္းရာမွာအျမန္ဆံုးနည္းအေနနဲ႕ အသံုးျပဳပါတယ္။ GUI ထည့္သြင္းမႈအတြက္ Synaptic Package 
+Manager ကိုလဲအသံုးျပဳႏိုင္ပါတယ္။ဒါေပမယ့္ ပရိုဂရမ္ေတြ ပက္ေက့ (package) အမ်ားစုဟာ apt-get
+install ႏွင့္ေရာ Synaptic Package Manager ႏွင့္ပါ ထည့္သြင္းႏိုင္ပါသည္။အခုလမ္းညႊန္မွာ 
+ျမင္ေတြ႕ႏိုင္ပါသည္။
+
+sudo apt-get  install  package 
+
+Synaptic မွာပက္ေက့ေတြ (package) ကိုရွာေဖြပံုနဲ႕ ထည့္သြင္းပံုက ဤသို႕ျဖစ္ပါသည္။
+အမိန္႕ေပးမႈအမ်ားအျပားကို nano စာသား အယ္ဒီတာ အသံုးျပဳခိုင္းေစပါတယ္။နာႏိုက
+လင္းနက္တိုင္းမွာ ရရွိတဲ့ အယ္ဒီတာျဖစ္ပါသည္။တစ္ခါတရံမွာ ဦးဘြန္တုမွာပါတဲ့ gedit
+ထက္အသံုးျပဳရတာပိုလြယ္ပါတယ္။
+Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွိ မီႏူးဘားကို ရည္ညႊန္းပါတယ္။ မိုက္ခရိုေဆာ့ဖ္၀င္းဒိုးမွာရွိတဲ့
+Start menu ၊ Apple Macintosh မွာရွိတဲ့ Menu bar ေတြနဲ႕တူတူပါပဲ။
+တကယ္လို႕ ၆၄ ဘစ္ ဗားရွင္းစနစ္ကို အသံုးျပဳမယ္ဆိုရင္ i386 ကို amd64 နဲ႕ အစားထိုးရမွာ ျဖစ္ပါသည္။
+
+Other Versions
+
+How to find out whict version of Ubuntu your're using
+
+Terminal ေပၚမွာ ဒီလိုရိုက္ထည့္ၿပီး Enter ႏွိပ္ပါ။
+
+1sb_release -a
+
+How to find out which kernel you are using
+
+uname -a
+
+Newer Versions  of Ubuntu 
+
+Ubuntu ကို ၆လလွ်င္တစ္ႀကိမ္ထုတ္ေ၀ၿပီး ႏွစ္စဥ္ ဧၿပီလႏွင့္ေအာက္တိုဘာလတို႕တြင္ ထုတ္ေ၀ပါသည္။
+Oneiric Ocelot (11.10) (http://ubuntuguide.org/wiki/Ubuntu:Oneiric) ,မ်ားမႀကာမီ ေနာက္ဆံုး
+ထြက္ေပၚမည့္ Oneiric ကို ၂၀၁၁ခုႏွစ္ ေအာက္တိုဘာလတြင္ အခမဲ့ ရယူႏိုင္မည္ျဖစ္ပါသည္။သို႕ရာတြင္
+၄င္းသည္ ကာလရွည္ႀကာ ေထာက္ပံ့မႈေပးသည့္ LTS Version မဟုတ္ပါ။
+
+Older Versions of Ubuntu
+
+Maverick Meerkat (10.10) (http://................................
+
+.....................................................................................
+
+.........................................................................................
+
+..............................................................................................
+
+Other Resources 
+
+Ubuntu Forums (http://ubuntuforums.org/) တြင္ အြန္လိုင္းေျဖရွင္းခ်က္မ်ားႏွင့္
+အျခားေသာအေသးစိတ္အခ်က္အလက္မ်ားကို ကူညီေပးရန္ အဖြဲ႕အစည္းမ်ားစြာ ရွိပါသည္။
+ျပည္တြင္း အဖြဲ႕အစည္းအေနျဖင့္ Ubuntu for Myanmar (u4mm) (http://u4mm.com/) ရွိၿပီး
+ျမန္မာဘာသာျဖင့္ Ubuntu အေႀကာင္းေလ့လာႏိုင္ပါမည္။
+
+Ubuntu Resources 
+
+Unity Desktop 
+
+Unity (http://en.wikipedia.org/wiki/Unity_%28desktop_environment%29) ဆိုသည္မွာ Ubuntu 
+တြင္ အသံုးျပဳသည့္ နဂိုမူလပါေသာ Desktop ပံုစံျဖစ္ပါသည္။ (Gnome) ဂႏုမ္းမွ အသံုးျပဳသည့္ GTK 
+ပလက္ေဖာင္းျဖင့္ အဆင္ေျပသင့္ေတာ္ပါသည္။netbook မ်ားတြင္ အသံုးျပဳရန္ ဒီဇိုင္းျပဳလုပ္ထားေသာ္လည္း
+အျခားေသာ စက္ပစၥည္းအမ်ိဳးအစားမ်ားတြင္ပါ အသံုး၀င္ေစရန္ canonical မွ ျပင္ဆင္ေပးထားပါသည္။
+
+
+Gnome Project 
+
+Gnome 3 (http://www.gnome.org/) သည္ Ubuntu အတြက္ ပံုစံအသစ္အေနျဖင့္ ရယူႏိုင္ပါသည္။ Gnome 
+လုပ္ငန္းစဥ္မ်ား(http://projects.gnome.org/) ႀကည့္႐ႈ ရယူႏိုင္ပါသည္။
+
+      installation ျပဳလုပ္ပံု ၁ (https://launchpad.net/~gnome3-team/+archive/gnome3) :
+
+sudo add-apt-repository ppa : gnome3-team/gnome 3
+sudo apt-get update
+sudo apt-get dist-upgrade
+sudo apt-get install gnome-shell
+
+        
+      installation ျပဳလုပ္ပံု ၂ (https://launchpad.net/~ubuntugnometeam) :
+
+sudo add-apt-repository ppa : ubuntugonmeteam/gnome3
+sudo add-apt-repository ppa : ubuntugonmeteam/ppa-gen
+sudo apt-get update
+sudo apt-get install ugr-desktop-g3
+sudo apt-get dist-upgrade
+
+
+Ubuntu Screenshots and Screenshots
+
+What is Ubuntu? (http://www.ubuntu.com/ubuntu)
+Ubuntu 11.04 Unity Desktop (http://www.youtube.com/watch/v=HMztaKt_1_E) and
+other YouTube videos (http://www.youtube.com/results?
+search-query=ubuntu+11.04aq=f).
+မႀကာမီ ျမန္မာဘာသာ သင္ႀကားပို႕ခ်ခ်က္မ်ား ထည့္သြင္းမည္။
+
+News Application Resources 
+
+GetDeb (http://www.getdeb.net)- ေနာက္ဆံုးထြက္ရွိေသာ software မ်ားကို
+တရား၀င္ထိန္းသိမ္းထားရာ ေနရာမ်ားကဲ့သို႕ ရရွိႏိုင္ျခင္း(သို႕) မရရွိႏိုင္ျခင္း အတူတူျဖစ္သည္။ .deb ဖိုင္ပံုစံ
+ျဖင့္ထည့္သြင္းရန္လြယ္ကူပါသည္။(ဤေနရာတြင္ ဆက္လက္ေလ့လာပါ။Apt and Package Basics).
+Top 100 Open source Applications http://ubuntulinuxhelp.com/top-100-of-the-best-
+useful-opensource-applications/)
+Linux Alternatives (http://www.linuxalt.com/)
+See our full list of add-on applications.
+
+Other *buntu guides and help manuals
+
+Kubuntuguide (http://www.kubuntuguide.info)--Kubuntu သည္ နာမည္ေက်ာ္ႀကားေသာ KDE 
+desktop ကို အသံုးျပဳထားပါသည္။
+
+!---* Xubuntu (http://www.xubuntuguide.org)--Xubuntu can run with as little as 256 Mb RAM.It is
+better for older machines with limited resources.---
+
+Lubuntu (https://wiki.ubuntu.com/Lubuntu)--သည္ RAM 256Mb ႏွင့္ပင္ အသံုးျပဳႏိုင္ပါသည္၊
+အိုေဟာင္းေနေသာ စက္မ်ားႏွင့္ပင္ သင့္ေတာ္ပါသည္။
+offical Ubuntu Server  Guide  (https://help.ubuntu.com/10.04/serverguide/C/index.html) --
+Ubuntu server လမ္းညႊန္ - server packages မ်ားအတြက္ ေကာင္းမြန္ေသာ ကိုးကားမႈျဖစ္ပါသည္။
+Ubuntu Dectors Guide (http://www.ubuntudoctorsguild.org/) --
+က်န္းမာေရးႏွင့္သက္ဆိုင္ေသာ ေနရာမ်ားတြင္သံုးေသာ (K)ubuntu Linux မ်ားအတြက္
+စုစည္းထားေသာလမ္းညႊန္ခ်က္မ်ား
+SkoleLinux (http://www.slx.no/en/take-a-tour) -- Debian/Ubuntu Linux (open-source)
+မ်ားအတြက္ ပညာရပ္ဆိုင္ရာမ်ား စုစည္းထားမႈ
+
+Installing Ubuntu
+
+Hardware Requirements
+
+Ubuntu ထည့္သြင္းအသံုးျပဳႏိုင္ရန္ လိုအပ္ခ်က္မ်ား
+
+Ubuntu Natty Narwhal သည္ 384 Mb ပမာဏသည္ RAM ရွိရံဳမွ်ျဖင့္ ေကာင္းစြာလည္ပတ္ႏိုင္သည္။ (GUI
+installer ျဖင့္ထည့္သြင္းလွ်င္ အနည္းဆံုး 256 Mb ပမာဏလိုအပ္ၿပီး၊စာသားျဖင့္သာေဖာ္ၿပေသာ installer ကို
+သံုးလွ်င္ 192 Mb ပမာဏသာလိုအပ္သည္)။ Notebooks မ်ားတြင္ Ubuntu Natty Narwhal ကိုေကာင္းစြာ
+အသံုးျပဳႏိုင္သည္။
+
+Ubuntu ထည့္သြင္းျခင္းသည္ Harddisk ေနရာလြတ္ 3-4 Gb မွ်သာ အသံုးျပဳၿပီး အဆင္ေျပစြာ အသံုးျပဳႏိုင္ရန္
+8-10Gb သာ လိုအပ္သည္။
+
+အကယ္၍ သင့္ကြန္ပ်ဴတာ၏ memory ပမာဏသည္ ယခုေဖာ္ၿပခဲ့သည္ထက္ နည္းပါးေနပါက အျခားေသာ
+ဆင္တူ OS မ်ားျဖစ္ေသာ ေအာက္ပါ OS မ်ားကို အသံုးျပဳႏိုင္သည္။ Lubuntu 
+(https://wiki.ubuntu.com/Lubuntu) (၁၆၀ Mb RAM ပမာဏရွိရံုျဖင့္ အသံုးျပဳႏိုင္သည္။) PuppyLinux
+(http://www.puppylinux.org/) (၂၅၆ Mb RAM ပမာဏရွိရံုျဖင့္ အသံုးျပဳႏိုင္သည္။)သို႕မဟုတ္ DSL 
+(http://damnsmallinux.org) (အနည္းဆံုး RAM ပမာဏ၊Harddisk ေနရာလြတ္ အနည္းငယ္သာရွိရံု၊
+USB drive မွ အသံုးျပဳရန္၊ သို႕မဟုတ္ အျခား Operation System မ်ား အတြင္းမွ softwareတစ္ခုကဲ့သို႕
+အသံုးျပဳရန္)။
+
+Fresh Installation
+
+Ubuntu တစ္ခုတည္း သီးသန္႕ထည့္သြင္းျခင္း
+
+(http://www.ubuntu.com/download/ubuntu/download)မွ Ubuntu ၏
+ေနာက္ဆံုးထြက္ရွိထားေသာ IOS အား download ဆြဲယူပါ။
+
+ထို IOS အား CD ေပၚသို႕ Ubuntu installation CD (LiveCD) အျဖစ္ အသံုးျပဳႏိုင္ရန္ မည္သို႕ေရးသားရမည္ကို
+How To (https://help.ubuntu.com/community/BurningIsoHowto) တြင္ လမ္းညႊန္ထားသည္။
+
+ထိုလမ္းညႊန္ခ်က္အတိုင္း ျပဳလုပ္ထားသည့္ Live CD ကို Ubuntu ထည့္သြင္းရန္အတြက္ အသံုးျပဳသည္။
+
+အျခားနည္းလမ္းတစ္ခုအေနျဖင့္ Server version ကို အရင္ထည့္သြင္းၿပီးမွ Ubuntu desktop version 
+ကို ထည့္သြင္း၍ အသံုးျပဳႏိုင္သည္။
+
+Server version ကဲ့သို႕ ပိုမိုျမန္ဆန္သည့္ စာသားျဖင့္သာေဖာ္ၿပေသာ installer ကို အသံုးျပဳထားသည့္ ISO 
+file ကို Alternative Download (http://www.ubuntu.com/download/ubuntu/alternative-
+download) တြင္ ရယူႏိုင္သည္။ ထို ISO တြင္Desktop CD(Regular Download) ထက္
+ေရြးခ်ယ္ႏိုင္ေသာ installation လုပ္ငန္းစဥ္မ်ား ပိုမိုပါ၀င္သည္။
+
+LiveCD ကို USB flashdrive ေပၚသို႕ (usb-creater-gtk) အသံုးျပဳ၍ ထည့္သြင္းၿပီး ထို flashdrive ကို
+CD drive မပါ၀င္သည့္ ကြန္ပ်ဴတာမ်ားေပၚတြင္ Ubuntu ထည့္သြင္းရန္ အသံုးျပဳႏိုင္သည္။
+
+Ubuntu Community documentation
+(https://help.ubuntu.com/community/Installation/FromUSBStick)
+
+
+Dual-Botting Windows and Ubuntu
+
+Windows ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
+
+ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ Windows ႏွင့္ Ubuntu ယွဥ္တြဲတင္ရာတြင္ အခက္အခဲမ်ားႀကံဳေတြ႕ရႏိုင္ပါသည္။
+Windows ၏ bootloader သည္ Windows သီးသန္႕ကိုသာ ေထာက္ပံ့သည့္အတြက္ ကြန္ပ်ဴတာေပၚတြင္
+Windows ကို ဦးစြာထည့္သြင္းရပါမည္။ပံုမွန္ Windows ထည့္သြင္းသည့္လုပ္ငန္းစဥ္တြင္ Hard drive ၏
+ေနရာရွိသမွ်ကို အသံုးျပဳသည့္အတြက္ Ubuntu ထည့္သြင္းရန္ ေနရာလြတ္ရရွိရန္ဆိုပါက Windows
+မွအသံုးျပဳထားသည့္ Hard drive ကိုခ်ံဳ႕ေပးရန္ လိုအပ္ပါသည္။(Hard drive ပမာဏကိုမေျပာင္းလဲခင္ ဦးစြာ
+မလိုအပ္ေသာ ဖိုင္မ်ားကို ရွင္းလင္း၍ ဖိုင္ၿပန္စီေသာ လုပ္ငန္းစဥ္ကို လုပ္ေဆာင္ထားပါ။)
+
+Windows ၏ Hard drive partition ကိုခ်ံဳ႕ၿပီးပါက  Ubuntu ကို ထည့္သြင္းရန္သို႕မဟုတ္ Hard disk 
+partition မ်ားကို ထပ္မံျပဳျပင္ေျပာင္းလဲႏိုင္ရန္အတြက္ ကြန္ပ်ဴတာကို reboot ျပန္လုပ္ေပးရပါမည္။
+ဤသို႕ျပဳလုပ္ျခင္းအားျဖင့္ Windows စနစ္မွ အသစ္ျပဳျပင္လုပ္ေဆာင္ထားေသာ    Hard drive ကို သိရွိေစၿပီး
+(Windows XP တြင္ chkdsk ကိုအသံုးျပဳၿပီး ေနာက္ပိုင္းထြက္ရွိလာေသာ Windows စနစ္မ်ားတြင္ အျခားေသာ
+Hard drive ကိုစစ္ေဆးသည့္ utilities မ်ားကို အသံုးျပဳသည္။)ထို႕အျပင္ bootup ဖိုင္မ်ားကို
+ေျပာင္းလဲေရးသားေစသည္။ (ထိုကဲ့သို႕ reboot မျပဳလုပ္ခဲ့ပါက Windows အသံုးျပဳေသာ Hard drive partition
+၏ bootup ဖိုင္မ်ားကို Windows Recovery Console အသံုးျပဳ၍ ကိုယ္တိုင္ ျပင္ဆင္ေပးရမည္ျဖစ္သည္။
+
+Windows စနစ္ထည့္သြင္းျခင္းနည္းသစ္မ်ားတြင္ Hard drive primary partition ၂ခုအသံုးျပဳသည္
+(Windows စနစ္စတင္ရန partition  အေသး၁ခုႏွင့္ Windows စနစ္တစ္ခုလံုးအတြက္ partition အႀကီးတစ္ခု)။
+Ubuntu Linux စနစ္ထည့္သြင္းရာတြင္လည္း Hard drive partition ၂ခုလိုအပ္ပါသည္ -- (linus-swap
+partitionႏွင့္ စနစ္တစ္ခုလံုးအတြက္ partition)။ Linux အတြက္ Hard drive partition မ်ားခြဲရာတြင္
+primary partition သို႕မဟုတ္ primary partition ေပၚမွ ျပန္ခြဲေ၀ထားေသာ logical partition  ၂ခု
+အသံုးျပဳရမည္။အခ်ိဳ႕ကြန္ပ်ဴတာေရာင္းခ်သူမ်ားသည္ Hard drive ၏ primary partition ၄ခုလံုးကို
+အသံုးျပဳထားတတ္သည့္အတြက္ Ubuntu  ထည့္သြင္းရန္အတြက္ partition ေနရာလြတ္မရွိေႀကာင္း
+ေဖာ္ျပေနတတ္သည္။Hard drive ၏ primary partition ၁ခုရွိလွ်င္ ထို primary partition  ေပၚတြင္ logical
+partition မ်ားထပ္မံခြဲ၍ Ubuntu  ကိုထည့္သြင္းႏိုင္သည္။ (Ubuntu အတြက္ primary  partition ျဖစ္ေစ
+logical partition ျဖစ္ေစ အသံုးျပဳႏိုင္သည္။)
+
+အကယ္၍ Hard drive ေပၚတြင္ primary partition ၂ခုသာရွိပါက (ထို၂ခုတြင္ ေနရာလြတ္မ်ားစြာရွိေနလွ်င္)
+Ubuntu ကို ဒုတိယ operation system  အျဖစ္ထည့္သြင္းရာတြင္ အခက္အခဲရွိမည္မဟုတ္ပါ။ Ubuntu LiveCD
+ကို "largest available free space" တြင္ ထည့္သြင္းရန္ခြင့္ျပဳလိုက္ရံုျဖင့္ အလိုအေလွ်ာက္ ျပဳလုပ္သြားႏိုင္သည္။
+အျခား Partition ၁ခုတြင္ ေနရာလြတ္ အမ်ားအျပားရွိေနပါက Ubuntu LiveCD သည္ Ubuntu ကို " largest
+available free space" တြင္ ထည့္သြင္းေပးလိမ့္မည္ျဖစ္သည္။
+
+မူလ Windows စနစ္၏ partition သည္ အနည္းဆံုး 20GB  (Vista ႏွင့္ Windows 7 ဆိုလွ်င္ 30GB)
+ရွိရမည္ျဖစ္ၿပီး Ubuntu အတြက္ partition သည္ အနည္းဆံုး 10GB (20GB ေပးႏိုင္ရင္ပိုေကာင္းပါသည္။)
+ရွိရမည္ျဖစ္သည္။သင့္တြင္ Hard drive  ေနရာလြတ္မ်ားစြာရွိေနလွ်င္ သင္ႀကိဳက္သည့္ operation system ကို
+ေနရာႀကိဳက္သေလာက္ ပိုေပးႏိုင္ပါသည္။
+
+အျပန္အလွန္အားျဖင့္ သင့္ကြန္ပ်ဴတာတြင္ Ubuntu ကို အရင္ထည့္သြင္းၿပီးမွ GParted ျဖင့္ primary NTFS
+partition တစ္ခု ဖန္တီး၍ Windows စနစ္ကို ထည့္သြင္းႏိုင္ပါသည္။ (GParted ကို LiveCD/USB တစ္ခုမွေန၍
+အသံုးျပဳ၇ပါမည္။)ထို primary NTFS partition ကိုဖန္တီးၿပီးပါက သင္၏ Windows CD/DVD မွ boot
+လုပ္၍ Windows စနစ္ကိုထို NTFS partition တြင္ထည့္သြင္းရန္ ေရြးခ်ယ္ရမည္။ထည့္သြင္းျခင္း လုပ္ငန္းစဥ္
+ၿပီးဆံုးပါက ကြန္ပ်ဴတာပံုမွန္ အလုပ္လုပ္ေဆာင္ႏိုင္ေစရန္ reboot ျပန္လုပ္ပါ။ထိုလုပ္ငန္းစဥ္အားလံုး
+ၿပီးဆံုးသြားလွ်င္ Ubuntu LiveCD/USB ကိုသံုး၍ GRUBကို MBR တြင္ျပန္လည္ထည့္သြင္းပါ။
+(အဘယ္ေႀကာင့္ဆိုေသာ္ Windows သည္MBR ကိုျပဳျပင္၍ သူ၏ကိုယ္ပိုင္ bootloader ကို master 
+bootloader အျဖစ္ေျပာင္းလဲသြား၍ျဖစ္ပါသည္။) GRUB ကိုထည့္သြင္းၿပီးပါက သင္ႏွစ္သက္ရာ OS ျဖင့္ boot
+လုပ္ႏိုင္မည္ျဖစ္သည္။
+
+အျခားေသာWindows ႏွင့္ Ubuntu ယွဥ္တြဲ ထည့္သြင္းျခင္း နည္းလမ္းမ်ား
+
+`
+Wubi(http://www.ubuntu.com/getubuntu/download-wubi) (Windows-based Ubuntu
+Installer), Ubuntu ကို Windows စနစ္ေပၚတြင္  Hard drive အတုတစ္ခုဖန္တီး၍ အသံုးျပဳႏိုင္ရန္
+လုပ္ေဆာင္ေပးေသာ dual-boot installer ၁ခုျဖစ္သည္ (သို႕ေသာ္Ubuntu ၏စြမ္းေဆာင္ရည္
+က်ဆင္းႏိုင္ပါသည္။ Windows စနစ္ေပၚတြင္ အသံုးျပဳရသည့္အတြက္ ဤနည္းလမ္းကို Ubuntu ကို
+ယာယီ အသံုးျပဳရန္အတြက္သာ သံုးရန္သင့္ေတာ္ပါသည္။ Ubuntu ကိုအျမဲတမ္း အသံုးျပဳမည္ဆိုပါက
+သီးသန္႕ partition,သီးသန္ု႕ filesystem ေပၚတြင္ ထည္႕သြင္းျခင္းသာ အေကာင္းဆံုးနည္းလမ္း
+ျဖစ္ပါသည္။
+
+Easy BCD (http://neosmart.net/dl.php?id=1),Windows စနစ္ေပၚတြင္ အသံုးျပဳရသည့္ အခမဲ့
+Program တစ္ခုျဖစ္သည္။ Windows 7/Vista ၏ bootloader ကို ျပဳျပင္ေျပာင္းလဲျခင္းျဖင့္ Windows 
+7/Vista ႏွင့္ Ubuntu (တျခား operation systems မ်ားအတြက္လည္း အသံုးျပဳႏိုင္သည္။)
+ကြန္ပ်ဴတာ ၁လံုးတည္းေပၚတြင္ အသံုးျပဳႏိုင္ေစသည္။
+
+Installing multiple OS on a single computer
+
+ကြန္ပ်ဴတာတစ္လံုးတည္းေပၚတြင္ Operation System မ်ား ၁ခုထက္ပို၍ အသံုးျပဳျခင္း
+
+သတိျပဳရန္ း း Ubuntu ထည့္သြင္းေသာလုပ္ငန္းစဥ္အတြင္း ေရြးခ်ယ္စရာအဆင့္တစ္ခုရွိပါသည္ (Ready to
+install > Advanced)။ ၄င္းမွာ GRUBF2 bootloader ကို MBR (Master Boot Record) အား
+ေျပာင္းလဲျခင္းမျပဳလုပ္ပဲ (K)Ubuntu OS ထည့္သြင္းထားေသာ Harddisk Partition အတြင္း ထည့္သြင္းရန္
+ေရြးခ်ယ္ျခင္းျဖစ္သည္။ထိုအဆင့္ကိုလုပ္ေဆာင္ရာတြင္ အထူးသတိျပဳရန္လိုအပ္ေသာအခ်က္မွာ သင္၏
+ကြန္ပ်ဴတာစနစ္တြင္ boot လုပ္ရန္အတြက္ သီးျခား Harddisk Partition တစ္ခု(သို႕) Operation System
+၂ခုထပ္ပို၍ အသံုးျပဳထားျခင္း (သို႕) chainloads bootloaders မ်ား အသံုးျပဳထားျခင္းရွိမရွိပင္ ျဖစ္သည္။
+ထိုသို႕ေသာစနစ္မ်ားတြင္ MBR ကိုျပဳျပင္ေျပာင္းလဲျခင္းမလုပ္သည္မွာ အေကာင္းဆံုးပင္ျဖစ္သည္။
+
+ဥပမာ: : Destop version GUI installer ကိုအသံုးျပဳ၍ installation ျပဳလုပ္ေနစဥ္အတြင္း အဆင့္တစ္ခုတြင္
+ေအာက္ပါအတိုင္းေပၚလာမည္ျဖစ္သည္။
+
+Summary > Advanced > Device for boot loader installation: /dev/sda6
+
+အထက္ပါ ဥပမာတြင္ ထိုအေျခအေနအတိုင္း ထားရွိပါက GRUB2 bootloader သည္ /dev/sda6 ((K)Ubuntu
+OS ထည့္သြင္းထားသည့္ Harddisk Partition ) အတြင္းသို႕သာ ေရာက္ရွိသြားမည္ျဖစ္ၿပီး MBR (Master Boot
+Record) ကိုေျပာင္းလဲမည္မဟုတ္ပါ။သို႕ေသာ္ /dev/sda ၏ default setting တြင္ထားရွိလိုက္ပါက GRUB2
+သည္ /dev/sda6((K)Ubuntu OS ထည့္သြင္းထားသည့္ Harddisk Partition ) အတြင္းသို႕
+ေရာက္ရွိသြားမည္ ျဖစ္သည့္အျပင္ MBR  (Master Boot Record) ကိုလည္း ျပဳျပင္ေျပာင္းလဲသြားပါမည္။
+ထိုအခါ GRUB2 သည္ ကြန္ပ်ဴတာေပၚတြင္ ထည့္သြင္းထားသည့္ Operation System  အားလံုး၏ master
+bootloader အျဖစ္ေျပာင္းလဲသြားမည္ျဖစ္သည္။အျခားေသာ bootloader (GRUB2 မဟုတ္သည့္) မ်ားကို
+အသံုးျပဳေနသူျဖစ္လွ်င္ ထိုအေျခအေနသည္ အဆင္ေျပမည္မဟုတ္ပါ။
+
+Use Startup Manager to change Grub settings
+
+Start Manager ကို အသံုးျပဳ၍ Grub ၏ setting မ်ားကို ေျပာင္းလဲျခင္း
+
+Grub သည္ (Operation System ၁ခုထပ္ပို၍ ထည့္သြင္းထားေသာ ကြန္ပ်ဴတာမ်ားတြင္) မည္သည့္ OS ကို ပံုမွန္
+ဦးစားေပးအေနျဖင့္ စတင္လည္ပတ္ေစမည္ကို သတ္မွတ္ျခင္းႏွင့္ အျခားေသာ bootup setting မ်ားကို
+ထိန္းခ်ဳပ္သည့္ bootup utility ၁ခုျဖစ္သည္။ Startup Manager (http://sourceforge.net/projects/startup-
+manager/) ကို အသံုးျပဳ၍ Grub ၏ setting  မ်ားကို ေျပာင္းလဲႏိုင္သည္။ Startup Manager သည္ Grub 
+(Grub Legacy ), Grub 2, Usplash, and Splashy စသည့္ bootloader မ်ား၏ setting မ်ားကို ကြပ္ကဲရာတြင္
+အသံုးျပဳသည့္ software ျဖစ္သည္။ Startup Manager အသံုးျပဳပံုကို 
+[(https://help.ubuntu.com/community/StartUpManager Startup Manager Help)] တြင္
+ႀကည့္ရွုႏိုင္သည္။ Startup Manager ထည့္သြင္းရန္အတြက္
+
+sudo apt-get install startupmanager menu
+
+Startup Manager လည္ပတ္ေစရန္
+
+Menu > System > Administration > Startup Manasger
+
+မွတ္ခ်က္။ ။ Grub setting မ်ားကို command-line interface မွလည္း ေျပာင္းလဲျပင္ဆင္ႏိုင္သည္။
+
+Dual-Booting Mac OS X and Ubuntu
+
+Mac OS X ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးတည္းေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
+
+Mac OS X သည္ Linux ႏွင့္ တည္ေဆာက္ပံု ဆင္တူသည္ (Max OS X သည္ BSD Unix ကို
+အေျခခံထားျခင္းျဖစ္သည္။) Mac OS X ႏွင့္ Ubuntu ကို ယွဥ္တြဲတင္ျခင္းႏွင့္ ပတ္သတ္ေသာ
+အေသးစိတ္လမ္းညႊန္ခ်က္မ်ားကို (http://help.ubuntu.com/community/MacBook) တြင္
+ေလ့လာႏိုင္သည္။
+
+Installing Mac OS X after Ubuntu
+
+Ubuntu ရွိၿပီးသား ကြန္ပ်ဴတာေပၚတြင္ Mac OS X တင္ျခင္း
+
+Ubuntu ကို Mac OS X ႏွင့္ ယွဥ္တြဲတင္မည္ဆိုပါက Ubuntu ကို ထည့္သြင္းမည့္ Harddisk Partition ကို ext2
+ကို ေရြးခ်ယ္ပါ။ (ထိုလုပ္ငန္းစဥ္အတြက္ Super Grub Disk CD သည္ အသံုး၀င္ေသာ utility ျဖစ္သည္။) Super
+Grub ISO ဖိုင္ကို forjamari.linex.org (http://supergrub.forjamari.linex.org) တြင္ download
+ရယူႏိုင္သည္။
+
+Ubuntu ကို ထည့္သြင္းၿပီးပါက Grub start-up list ကို ျပင္ဆင္ေျပာင္းလဲပါ။
+
+sudo nano /boot/ grub/menu.1st
+
+ထို႕ေနာက္ ေအာက္ပါစာေႀကာင္းမ်ားကို ထပ္ေပါင္းထည့္ပါ။
+
+title Mac OS X root (hd0,0) makeactive chainloader + 1
+
+ၿပီးလွ်င္ Mac ကို reboot လုပ္၍ Mac OS X  တြင္ပါ၀င္ေသာ Terminal ကို သြားပါ။ (boot လုပ္ရာတြင္
+အခက္အခဲရွိပါက Mac OS X DVD ကိုအသံုးျပဳ၍ boot လုပ္ပါ။) F8 ကိုႏွိပ္၍ -s ဟု ရိုက္ထည့္ပါ။ ထို႕ေနာက္ 
+ရိုက္ထည့္ရမည့္စာေႀကာင္းမ်ားမွာ 
+
+fdiskn -e /dev/rdisk0 flag 2 (flag 2သည္ ယခုဥပမာ၏ Harddisk Partition number 2ျဖစ္သည္။ သင္၏
+Mac တြင္ အသံုးျပဳထားသည့္ Partition number ေပၚတြင္ လိုက္၍ေျပာင္းလဲႏိုင္သည္။) quit y reboot
+
+ပံုမွန္အလုပ္ လုပ္ေဆာင္ႏိုင္ၿပီဟု မေသခ်ာေသးပါက Super Grub Disk CD ကို အသံုးျပဳ၍ Grub ကို active 
+လုပ္ပါ။
+
+Installing Ubuntu after Mac 0S X 
+
+Mac OS X ရွိၿပီးသား ကြန္ပ်ဴတာေပၚတြင္ Ubuntu တင္ျခင္း
+
+Booth လုပ္ေနစဥ္အတြင္း boothloader တြင္ ပံုမွန္လုပ္ေဆာင္ေနျခင္းမရွိဟု သတင္းပို႕ခ်က္ (ဥပမာ HFS+error)
+မ်ားေပၚလာပါက Super Grub ကိုအသံုးျပဳ၍ Linux GRUB ႏွင့္ MBR (Master Boot Record) ကို
+ျပန္လည္ျပင္ဆင္ႏိုင္သည္။
+
+Ubuntu ကို ထည့္သြင္းၿပီးပါက Grub start-up list ကိုျပင္ဆင္ေျပာင္းလဲပါ။
+
+sudo nano /boot/grub/menu.1st
+
+ထို႕ေနာက္ ထပ္ေပါင္းထည့္ရမည့္ စာေႀကာင္းမ်ားမွာ
+
+title Mac OS X root (hd0,0) makeactive chainloader +1
+
+အကယ္၍ သင္သည္GRUB တြင္ Mac OS X သို႕မဟုတ္ Windows ႏွင့္ပတ္သတ္၍ အခက္အခဲျဖစ္ေနပါက
+Mac OS X ၏ Grub ရွိ entry ကို "root (hd0,1) သို႕ေျပာင္းလဲပါ။ထိုသို႕ေျပာင္းလဲျခင္းျဖင့္
+သင္၏ကြန္ပ်ဴတာသည္ Partition number 1 ကို boot လုပ္ပါလိမ့္မည္။Grub
+မွန္ကန္စြာအလုပ္လုပ္ေဆာင္ႏိုင္သည္အထိ partition number ကိုေျပာင္းလဲႏိုင္သည္။
+
+
+Package Installation and Updates
+
+Apt and Package Basics 
+
+Add Extra Repositories ကိုဖတ္ပါ။
+
+Ubuntu အသံုးျပဳသူအမ်ားစုသည္ Synaptic Package Manager ကို package မ်ားထည့္သြင္းရန္ 
+အသံုးျပဳႀကပါသည္။ ေအာက္ပါ ညႊန္ျပခ်က္မ်ားသည္ package မ်ားကို ကိုpackage မ်ားထည့္သြင္းရန္
+အသံုးျပဳႀကပါသည္။ေအာက္ပါညႊန္ျပခ်က္မ်ားသည္ package မ်ားကို command-line Terminal အသံုးျပဳ၍
+ထည့္သြင္းရန္ နည္းလမ္းမ်ားျဖစ္ပါသည္။ Terminal ကိုစတင္ရန္ : Menu -> Application -> Accessories
+-> Terminal
+
+packages မ်ားထည့္သြင္းရန္  :
+
+sudo apt-get install *packagename* .ဥပမာ : sudo apt-get install mpd sbackup
+
+package မ်ား ဖယ္ရွားရန္  :
+
+sudo apt-get remove *packagename*
+
+package ႏွင့္တကြ ထို package ႏွင့္ သက္ဆိုင္သည္မ်ားအားလံုး ဖယ္ရွားရန္ :
+
+sudo apt-get autoremove . ဥပမာ : sudo apt-get remove mpd sbackup
+
+package မ်ားရွာေဖြရန္ :
+
+apt-cache search < keywords> .ဥပမာ : apt-cache search  Music MP3 apt-cache search "Text
+Editor"
+
+addting/removing repositories ျပဳလုပ္ၿပီး package ၏ database မ်ားကို အဆင့္ၿမႇင့္တင္ရန္ :
+
+sudo apt-get update
+
+package မ်ားကို ugrade လုပ္ရန္ :
+
+sudo apt-get upgrade
+
+Ubuntu စနစ္တစ္ခုလံုးကို upgrade  လုပ္ရန္ (ဥပမာ : Maverick မွ Natty)
+
+sudo apt-get dist-upgrade
+
+Installing .deb packages
+
+deb package မ်ားထည့္သြင္းျခင္း
+
+Debian (.deb) package မ်ားသည္ (Windows ေပၚတြင္installer .exe msi package မ်ား
+အလုပ္လုပ္သကဲ့သို႕) Ubuntu ေပၚတြင္ အသံုးျပဳေသာ package မ်ားျဖစ္သည္။ Ubuntu စနစ္ေပၚတြင္ မည္သည့္
+.deb package ကိုမဆို ထည့္သြင္းႏိုင္သည္။ Ubuntu စနစ္တြင္ မူလပါရွိေသာ installer ႏွင့္ .deb package
+မ်ားကို ဆက္သြယ္ႏိုင္ရန္ ျပဳလုပ္ထားသျဖင့္ .deb ဖိုင္မ်ားကို file manager (Nautilus) တြင္ click ျခင္းျဖင့္
+လြယ္ကူစြာထည့္သြင္းႏိုင္သည္။ ေအာက္ေဖာ္ၿပပါ ညႊန္ျပခ်က္မ်ားမွာ command-line terminal (Terminal) ကို
+အသံုးျပဳႇ၍ package မ်ား ထည့္သြင္းခ်င္သူမ်ားအတြက္ ျဖစ္ပါသည္။
+
+အင္တာနက္မွ ဆြဲယူထားေသာ Debian (Ubuntu) package (.deb) ၁ခု ထည့္သြင္းရန္ :
+
+sudo dpkg -i packagename.deb
+
+Debian (Ubuntu) package (.deb) ကိုဖယ္ရွားရန္ :
+
+sudo dpkg -r packagename . ဥပမာ : sudo dpkg-reconfigure mpd
+
+
+Handling (Tar/GZip) and (Tar/Bzip2) archives
+
+(Tar/GZip) ရဲ႕ extension က .tar.gz ျဖစ္ပါသည္။ (Tar/Bzip2) ရဲ႕ extension က .tar.bz2 ျဖစ္ပါသည္။
+Terminal မွ အသံုးျပဳနည္းမ်ားကို ေအာက္ပါအတိုင္းေဖာ္ျပလိုက္ပါသည္။
+
+ျဖည္ရန္ :
+
+tar xvf  packagename . tar . gz
+
+-x (ျဖည္ရန္) -v ( ) -f ( )
+
+.gz ကိုျဖည္ျခင္း
+
+gunzip filename .gz
+
+.bz2 ကိုျဖည္ျခင္း
+
+.gz အျဖစ္ ႏွစ္သက္ရာဖိုင္ကို compress လုပ္ျခင္း
+
+tar cvfs packagename  .tar.gz folder
+
+.bz2 အျဖစ္ ႏွစ္သက္ရာဖိုင္ကို compress လုပ္ျခင္း
+
+tar cvfj packagename.tar.bz2 folder
+
+Installing a package from source 
+
+Coming Soon !
+
+your can contribute
+
+Aptitude
+
+Aptitude is a terminal-based package manager that can be used instead of apt-get. Aptitude
+marks package that are automatically installed and removes them when no packages depend on
+them. This makes it easy to remove application completely. To use Aptitude, replace apt-get
+with aptitude in the command line.Example
+
+sudo aptitude install packagename
+sudo aptitude remove packagename 
+sudo aptitude update
+sudo aptitude upgrade
+
+For an ncurses-based graphical user interface, type
+
+sudo aptitude
+
+For more information, see the aptitude documentation 
+(http://people.debian.org/~dburrows/aptitude-doc/en/) .
+
+Synaptic Package Manager
+
+While apt-get and aptitude are fast ways of installing programs/packages, you can also use the
+Synaptic Package Manager (Menu - System - Administration - Synaptic Manager ), a GUI
+method for installing programs/packages.Most (but not all) programs/packages available with
+apt-get install will also be available from the Synaptic Package Manager.This is the preferred
+method for most desktop users.In this guide, when you see
+
+sudo apt-get install package
+
+you can simply search for package in Synaptic and install it that way.
+
+Menu-System - Administration - Synaptic Package Manager
+
+Search for the name of the program/package. You can also search for a word in its
+description.
+
+Mark for Installation -Apply
+
+The selected programs(s) will be automatically installed, along with its dependencies.
+
+Ubuntu Software Center (Add/Remove Programs)
+
+Package မ်ားအားလံုးသည္ Terminal (apt-get, aptitude, and Synaptic Package Manager)
+မွာအဆင္သင့္ မရရွိႏိုင္ေသာ္လည္းပဲ Ubuntu Software Center မွရရွိႏိုင္ပါသည္.မည္သို႕ျဖစ္ေစ ၊ Ubuntu
+စတင္အသံုးျပဳသူမ်ား အေနျဖင့္ အလြယ္ကူဆံုး ျမင္ကြင္းမွ packages မ်ားအား ေအာက္ပါအတိုင္း
+ထည့္သြင္းႏိုင္သည္။
+
+Menu -Application - Ubuntu Software Center
+
+သင္ထည့္သြင္းလိုေသာ Program အခ်ိဳ႕အား ရွာေဖြႏိုင္သည္။ဥပမာ -mp3ဟုရိုက္လွ်င္ mp3
+software စာရင္းမ်ား ျမင္ရမည္။
+
+Installation ျပဳလုပ္လိုေသာ program အားေရြးခ်ယ္ပါ -Apply ႏွိပ္ပါ။
+
+ေရြးခ်ယ္ထားေသာ program(s) မ်ားသည္ အလိုအေလ်ာက္ install ျပဳလုပ္သြားမည္။
+
+Manual Updates
+
+General Notes ကိုဖတ္ပါ။
+Add Extra Repositories ကိုဖတ္ပါ။
+
+Terminal မွ တဆင့္ ကိုယ္ကိုတိုင္ျပဳလုပ္ရန္အတြက္ (Command Line Interface ):
+
+sudo apt-get update
+sudo apt-get upgrade
+
+သို႕မဟုတ္
+
+Synptic Package Manager ကို အသံုးခ်နည္း
+
+Menu -System -Administration - Synaptic Package Manager -Reload then Mark all
+upgrades
+
+အကယ္၍ package က updating လုပ္ဖို႕ အဆင္သင့္ျဖစ္ေနမယ္ဆိုရင္ ခ်က္ျခင္း install လုပ္သင့္ပါတယ္။
+
+Automated Updates
+
+Synaptic Package Manager ကို အသံုးခ်ျခင္း
+
+Menu - System - Administration - Synaptic Manager - Settings - Preferences - General -
+Reloading Outdated Package Information - Automatic
+
+Desktop Add-ons
+
+GNOME Desktop အတြက္ အဆင္သင့္အသံုးျပဳႏိုင္တဲ့ Add-on icons ေတြ themes နဲ႕ Wallpapers မ်ား 3-D
+effects မ်ားႏွင့္အတူ အျခားေသာ ကိုယ္ကိုယ္တိုင္ ေရြးခ်ယ္ႏိုင္တာေတြ ရွိပါတယ္။
+
+Gnome Eye-Candy Resources 
+
+Gnome Look (http://www.gnome-look.org) တြင္ wallpapers ေတြ splash screens ေတြ icons
+ေတြနဲ႕အတူ  Windows Mangers အတြက္ (Metacity နဲ႕ Compiz ပါ၀င္သည့္) themes မ်ားႏွင့္
+အျခားေသာ အသံုးျပဳ ေဆာ့၀ဲေတြ (appalication) မ်ားပါရွိပါသည္။
+
+Ubuntu Wallpaper
+
+Maverick Meerkat wallpaper (https://wiki.ubuntu.com/Artwork/Incoming/Maverick)
+ဆိုဒ္မွ အခမဲ့သြားေရာက္ Download ျပဳလုပ္ႏိုင္ပါတယ္။
+
+
+Change Plymouth Splash Screen 
+
+Bootup မွာျမင္ရတဲ့ဟာက ကနဦး Splash Screen ျဖစ္ၿပီး အျခားေသာ Plymouth Themes ေတြကို Package
+Manger မွာသြားေရာက္ ရွာေဖြႏိုင္ပါတယ္။ အသစ္တစ္ခုကို Install ျပဳလုပ္ခ်င္ရင္ေတာ့
+
+sudo update-alternatives --config default.plymouth
+sudo update-initramfs -u
+
+မိမိႀကိဳက္ႏွစ္သက္ရာ Theme ကို ေရြးခ်ယ္၍ တင္ႏိုင္ပါသည္။
+
+Plymouth ကေတာ့ Bootup ျပဳလုပ္ေနတဲ့အခ်ိန္မွာ မႀကာခဏ Blacnk Screen မ်ားေပၚေပါက္ျခင္းနဲ႕ nVidia
+Drivers ေတြ ခ်က္ျခင္း အလုပ္မလုပ္ေဆာင္ႏိုင္ေသးပါဘူး။
+
+Change USplash Boot Screen
+
+...................................................
+.......................................................
+...................................................... p- 24
+........................................................
+..........................................................
+..........................................................
+
+Install:
+
+sudo apt-get install splashy splashy-themes---
+
+Metacity
+
+Metacity ဆိုတာက Gnome မွာပါတဲ့ မူလ Desktop Compositing Manager ပါ။ သူက ေပါ့ပါးျခင္း၊
+ခ်က္ျခင္းေျပာင္းလြဲျခင္း (streamlined) ေတြနဲ႕အတူ မ်ားမ်ားစားစားလဲ ျပဳျပင္ေျပာင္းလြဲစရာမလိုတဲ့ Options
+ေတြပါ၀င္သလို Gnome Look မွာေတာ့ Multiple Themes ေတြ ခ်က္ျခင္းေဆာင္ရြက္ႏိုင္ျပန္တယ္။
+
+
+Compiz Fusion 
+
+Compiz Fusion က window manager နဲ႕ သီးျခားကြဲျပားပါတယ္။ သူက Desktop effects ေတြကို 
+အဆင့္ျမင့္ ေျပာင္းလြဲႏိုင္တာျဖစ္ၿပီး Cube တံုးသဖြယ္မ်ိဳး Desktop ကို ေျပာင္းလဲဖန္တီးႏိုင္တာေတြလဲ
+ပါ၀င္ပါတယ္။Ubuntu Users ေတာ္ေတာ္မ်ားမ်ားက Compiz ကိုေရြးခ်ယ္ အသံုးျပဳႀကပါတယ္။ဒါကို Ubuntu
+မွာ အခ်ိန္ခဏေလးနဲ႕ အလြယ္တကူ Install ျပဳခ်င္ရင္ေတာ့
+
+sudo apt-get install compiz compizconfig-settings-manager compiz-fusion-plugins-main
+compiz-fusion-plugins-extra emerald librsvg2-common
+
+Compiz ကို Window Manager အျဖစ္ထားခ်င္ရင္ေတာ့
+
+Compiz Configuration မွာ ေအာက္ကအတိုင္း သြားေရာက္ေရြးခ်ယ္ေပးယံုပါပဲ
+
+Menu - System -Preferences - CompizConfig Settings Manager
+
+မွတ္ခ်က္ ။ ေျပာင္းလြဲထားတာေတြကို အဆင္ေျပဖို႕က Process ၿပီးသြားရင္ Logout လုပ္ၿပီးေတာ့ Login
+ျပန္လုပ္မွသာ ေျပာင္းလြဲျခင္း effect ကို ျမင္ရမွာျဖစ္ပါတယ္။
+
+Virtualization
+
+Coming Soon!!!
+
+Moonlight
+
+See Moonlight plugin for Firefox
+
+Java
+
+Java install လုပ္ရန္
+
+sudo apt-get install default-jre
+
+DosBox
+
+DosBox (http://www.dosbox.com/) သည္ DOS-emulator (ဆက္စပ္ကိရိယာ) program တစ္ခုျဖစ္သည္။
+၄င္းသည္ CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS,
+Tandy/Hercules/CGA/EGA/VGA/VESA grahpics ႏွင့္ SoundBlaster/Gravis Ultra Sound
+card (ယခင္ဂိမ္းအေဟာင္းမ်ား၏ အသံျဖင့္လိုက္ေလ်ာညီေထြျဖစ္ေစရန္) အသံုးျပဳသည္။ သင္သည္
+ယခုေခတ္ကြန္ပ်ဴတာမ်ားေပၚတြင္ ေဆာ့မရေတာ့ေသာ ယခင္ဂႏၶၶၶ၀င္ ဂိမ္းမ်ားအား
+ျပန္လည္အသက္သြင္းႏိုင္ပါလိမ့္မည္။
+
+sudo apt-get install dosbox
+
+Scumm VM
+
+Scumm VM (http://scummvm.org/) သည္ ရုပ္ပံုမ်ားအားညႊန္ၿပျခင္း ၊Click လုပ္ျခင္းစသည့္
+ဂိမ္းေဟာင္းမ်ားအား လက္ခံ၍ run ေပးပါသည္။(သင့္တြင္ ၄င္းတို႕၏ ေဒတာဖိုင္မ်ားရွိရပါမည္။) Scumm VM
+သည္ executables shipped မ်ားတြင္ ေနရာယူ၍ ဂိမ္းမ်ားကို Linux OSတြင္ ကစားခြင့္ေပးမွာျဖစ္ပါတယ္။
+
+sudo apt-get install scummvm
+
+Edutainment Applications 
+
+
+........................................
+
+..........................................
+
+...........................................p-26(မရိုက္ထား)
+
+...........................................
+
+....................................... 
+
+Google Earth
+
+Google Earth (http://earth.google.com/) မွ သင့္အား ကၽြႏ္ုပ္တို႕ကမၻာၿဂိဳလ္ႀကီးကို အေပၚစီးက
+ျမင္ေတြ႕ခြင့္ေပးမွာျဖစ္ပါတယ္။ဒီ software ဟာ အခမဲ့ package ျဖစ္ပါတယ္။ (ဒီ package ကိုအသံုးျပဳဖို႕အတြက္
+License ကို accept လုပ္ရမွာျဖစ္ပါတယ္။)
+
+sudo apt-get install googleearth-package
+make-googleearth-package --force
+
+ရရွိလာတဲ့ .deb file ကို click ၂ခ်က္ႏွိပ္ပါ။
+
+--သို႕မဟုတ္--
+
+Linux အတြက္ ေနာက္ဆံုးထြက္ရွိထားတဲ့ package ကို install လုပ္ရန္အတြက္ Google Earth downloads
+(http://earth.google.com/intl/en/download-earth.html) ကိုသြားၿပီး Download ဆြဲပါ။ၿပီးရင္ ေအာက္က
+command နဲ႕ install လုပ္ပါ။  wget http://dl.google.com/GoogleEarthLinux.bin/
+
+chmod  +x GoogleEarthLinux.bin
+./GoogleEarthLinux.bin
+
+အသံုးျပဳရန္
+
+Menu - Application -Internet -Google Earth 3D planet viewer
+
+သင့္အေနနဲ႕ Google Earth -View -မွာရွိတဲ့ Atmosphere setting ကို turn off လုပ္ထားသင့္ပါတယ္။
+ဘာေႀကာင့္လဲဆိုေတာ့ တိမ္ေတြဖံုးေနတာေႀကာင့္ ေျမျပင္ကို ျပမွာမဟုတ္လို႕ပါဘဲ။
+
+Troubleshooting
+
+Troubleshooting (ျပင္ဆင္ျခင္း) အကယ္၍ Google Earth ကိုဖြင့္လိုက္တယ္။Loading ျပဳလုပ္တယ္။ loading ျပဳလုပ္တဲ့ screen 
+တတ္လာၿပီး error ျပမယ္။ဒါမွမဟုတ္ ဘာမွမေပၚေတာ့ဘူးဆိုရင္ေတာ့ သင္ဟာ ျဖစ္ေလ့ျဖစ္ထရွိတဲ့ error 
+တတ္ျခင္းကိုေတြ႕ႀကံဳေနရပါၿပီ။အဲဒီလိုျဖစ္ေနခ်ိန္မွာ Google Earth ကို Terminal ကေန ~/google-
+earth/googleearth လို႕ရိုက္ၿပီး run လိုက္ရင္ ./googleearth-bin: relocation error:
+/usr/lib/i686/cmov/libssl.so.0.9.8: symbol BIO-test-flags, version OPENSSL-0.9.8 not defined
+in file libcrypto.so.0.9.8 with link time reference ဆိုတဲ့ error ကိုျပပါလိမ့္မယ္။
+
+ဒီၿပႆနာကိုေျဖရွင္းဖို႕အတြက္ : သင္ Google Earth ကိုသြင္းထားတဲ့ Folder ကိုဖြင့္လိုက္ပါ။ပံုမွန္အားျဖင့္ေတာ့
+Google Earth ဟာ သင့္ home folder ထဲမွာပဲ ရွိေနတတ္ပါတယ္။ ၿပီးရင္ libcrypto.so.0.9.8 ကိုရွာၿပီး
+libcrypto.so.0.9.8.bak လို႕ေျပာင္းလိုက္ပါ။ Google Earth ဟာ ပံုမွန္အတိုင္း သံုးလို႕ရသြားပါလိ္မ့္မယ္။
+
+cd ~/google-earth
+sudo mv libcrypto.so.0.9.8 libcrypto.so.0.9.8.bak
+sudo In -s /usr/lib/libcrypto.so.0.9.8~/google-earth/libcrypto.so.0.9.8
+
+(သတိျပဳရန္ : သင့္အေနနဲ႕ ~/google-earth လို႕ရိုက္မယ့္အစား /home/user/google-earth
+လို႕လဲရိုက္ႏိုင္ပါတယ္)
+
+အျခား ျပႆနာေတြအတြက္ကိုေတာ့ Ubuntu help pages on Google Earth
+(https://help.ubuntu.com/community/GoogleEarth) မွာႀကည့္႐ႈႏိုင္ပါတယ္။
+
+Uninstall Google Earth
+
+Google Earth အား Uninstall ျပဳလုပ္ရန္
+
+Uninstall ျပဳလုပ္ဖို႕အတြက္ /home/user/google-earth Folder (သင္ Google-earth ကို install ထားတဲ့
+္folder) မွာရွိတဲ့ uninstall shell script ကို run ပါ။
+
+FBReader (e-book reader)
+
+FBReader(http://www.fbreader.org/) သည္ GTK platform ကို အေျခခံထားၿပီး အျခား platform
+မ်ားတြင္ပါ အသံုးျပဳႏိုင္သည့္ အခမဲ့ e-book reader တစ္ခုျဖစ္သည္။ install ျပဳလုပ္ရန္ :
+
+sudo apt-get install fbreader
+
+Calibre (e-book reader)
+
+Calibre (http://calibre-ebook.com) သည္ e-book reader ျဖစ္ၿပီး library manager အျဖစ္လည္း
+အသံုးျပဳႏိုင္သည္။Install ျပဳလုပ္ပံုကို ဤေနရာတြင္ (http://calibre-ebook.com/download-linux)
+ႀကည့္ပါ။
+
+Games 
+
+ဂိမ္းမ်ား (K)Ubuntu Linux အတြက္ သဘာ၀က်တဲ့ ဂိမ္းေတြရွိပါတယ္။
+
+Ubuntu Community Wiki -- Games (http://help.ubuntu.com/community/Games).
+Best Linux Games for 2008 (http://whdb.com/2008/top-25-linux-games-for-2008/).
+Best 25 Linux Games of 2007 (http://rangit.com/software/top-8-linux-games-of-2007/).
+
+(K)Ubuntu မွာ ရာေပါင္းမ်ားစြာေသာ အခမဲ့, open-source ဂိမ္းေတြရွိပါတယ္။KDE Games collection
+(http://www.kde.org/application/games/) နဲ႕ Gnome Games
+(http://live.gnome.org/GnomeGames/)collection အပါအ၀င္) အေတာ္မ်ားမ်ားကို သင့္ရဲ႕ Package 
+Manager ထဲက Games Section မွတဆင့္ ရယူႏိုင္ပါတယ္။
+
+ဥပမာတစ္ခ်ိဳ႕ေပးရမယ္ဆိုရင္ :
+
+PouetChess (http://pouetchess.sourceforge.net/) --ၿပီးျပည့္စံုတဲ့ 3-D ခ်က္ထိုးတဲ့ Game တစ္ခုပါ။
+Install ျပဳလုပ္ရန္
+
+sudo apt-get install pouetchess
+
+PokerTH (http://www.pokerth.net/) --အလြန္ကစားရေကာင္းတဲ့ Texas Hold 'Em Poker ပိုကာ
+Game ပါ။ (PPA repository (https://launchpad.net/~pkg-games/+archive/ppa) အသံုးျပဳၿပီး
+install လုပ္ႏိုင္ပါတယ္။)
+Kajongg (http://packages.ubuntu.com/maverick/kajongg)-- လူေတြနဲ႕ပဲျဖစ္ျဖစ္၊
+စက္ရုပ္ေတြနဲ႕ပဲျဖစ္ျဖစ္ တြဲဖက္/ယွဥ္ၿပိဳင္ကစားရမယ့္ MahJongg (မာေက်ာက္)ကစားနည္းစစ္စစ္ပါပဲ။
+Install ျပဳလုပ္ရန္
+
+sudo apt-get install kajongg
+
+Planet Penguin Racer (http://en.wikipedia.org/wiki/Tux-Racer)--ပင္ဂြင္းငွက္ကေလးဟာ
+သံုးဖက္ျမင္ (3-D) အေနအထားနဲ႕ ႏွင္းေလွ်ာစီးသြားမယ္။ငါးေတြကို ဖမ္းရမွာျဖစ္ပါတယ္။ (Extreme Tux
+Racer (http://extremetuxracer.com/) ကေတာ့ ေနာက္ေပၚ ဗားရွင္းျဖစ္ေပမယ့္ 32-bit
+မွာပဲအလုပ္လုပ္ပါတယ္)
+KsirK (http://games.kde.org/game.php?game=ksirk)-- ကြန္ပ်ဴတာနဲ႕ပဲျဖစ္ျဖစ္
+သူငယ္ခ်င္းနဲ႕ခ်ိတ္ဆက္ၿပီးပဲျဖစ္ျဖစ္ သဲထိတ္ရင္ဖိုေဆာ့ကစားရမဲ့ ဂိမ္းပါ။Install ျပဳလုပ္ရန္ sudo apt-get
+install kdegames
+Racer (http://www.racer.nl/)-- တကယ့္ကို စိန္ေခၚယွဥ္ၿပိဳင္ႏိုင္တဲ့ 3-D ၿပိဳင္ကားဂိမ္းပါ။ (Binary
+install ကိုဒီမွာ (http://www.racer.nl/dl_beta_linux.htm)ေတြ႕ႏိုင္ပါတယ္။ ေျပးလမ္းအသစ္နဲ႕
+extra add-ons (http://www.racer.nl/dl_content.htm) ေတြလည္းရွိပါတယ္။
+TORCS (http://torcs.sourceforge.net/)--3-D ၿပိဳင္ကားဂိမ္းျဖစ္ပါတယ္။Install လုပ္ရန္
+
+sudo apt-get install torcs
+
+Supertuxkart (http://supertuxkart.sourceforge.net/) --ၿပိဳင္ကား
+အေသးစားေလးမ်ားကို ေမာင္းႏွင္ရတဲ့ ဂိမ္းျဖစ္ပါတယ္။ Install ျပဳလုပ္ရန္
+
+sudo apt-get install supertuxkart
+
+Pingus (http://pingus.seul.org/) --ရဲ႕ညီအစ္ကိုျဖစ္တဲ့ Lemming (လီမင္) အစား
+ပင္ဂြင္းငွက္ကေလးေတြကို အသံုးျပဳထားတာပါ။Install ျပဳလုပ္ရန္
+
+sudo apt-get install pingus
+
+Frozen Bubble (http://www.frozen-bubble.org/)--ပူေပါင္းေဖာက္ ကစားနည္းတစ္ခုပါ။Install
+ျပဳလုပ္ရန္
+
+sudo apt-get install frozen-bubble
+
+Frets on Fire (http://fretsonfire.sourceforge.net/)--Guitar Hero  နဲ႕ ဆင္တူပါတယ္သင့္အေနနဲ႕
+Community Site ေတြကေနတဆင့္ Guitar Hero
+(http://www.geetarfreaks.webs.com/Viva%20La%20Music.html)ထဲက သီခ်င္းေတြကို
+သြင္းယူႏိုင္ပါတယ္။community sites (http://fretsonfire.wikidot.com/custom-songs) မွာလဲ
+အေသးစိတ္ဖတ္ႏိုင္ပါတယ္။Install ျပဳလုပ္ရန္
+
+sudo apt-get install fretsonfire
+
+Scorched3d (http://www.scorched3d.co.uk/)--ႏွစ္ဘက္ျမင္ကို သံုးဖက္ျမင္ (3-
+D) အျဖစ္ ကစားႏိုင္မယ့္ အေျမာက္ပစ္ဂိမ္းပါ။Install လုပ္ရန္
+
+sudo apt-get install scorched3d
+
+Pyscrabble (http://pyscrabble.sourceforge.net/) (ႏွင့္ pyscrabble-server)-- Online Scrabble(
+စကားလံုးမိတ္ဆက္) ဂိမ္းနဲ႕ server ျဖစ္ပါတယ္။ Install ျပဳလုပ္ရန္
+
+sudo apt-get install pyscrabble pyscrabble-server
+
+(Lexulou နဲ႕ Internet Scrabble Club တို႕မွာလည္း Scrabble နဲ႕ပံုစံတူ browser-based online
+ဂိမ္းေတြရွိပါတယ္။Internet Scrabble Club ကေတာ့ Java ကို install လုပ္ထားဖို႕လိုအပ္ပါတယ္။Java install
+လုပ္ရန္
+
+sudo apt-get install default-jre
+
+Wing Commander Privateer
+
+Wing Commander Linux (http://priv.solsector.net/) ရဲ႕ အခမဲ့ဗားရွင္းကို Binary ဖိုင္အျဖစ္
+ဒီမွာ Download (http://sourceforge.net/projects/privateer/)ယူႏိုင္ပါၿပီ။
+
+Vdrift
+
+Vdrift (http://vdrift.net/) သည္ အခမဲ့ open source ျဖစ္ၿပီး Need For Speed ကဲ့သို႕ေသာ realistic
+physics, multiple drift tracks, and multiplayer မ်ားပါ၀င္ေသာ 3-D ၿပိဳင္ကားဂိမ္းတစ္ခုျဖစ္သည္။
+Joysticks မ်ားျဖင့္ေသာ္လည္းေကာင္း Mice ႏွင့္ keyboard ျဖင့္ေသာ္လည္းေကာင္း အသံုးျပဳႏိုင္သည္။ Linux 
+အတြက္ Binary package အား ထို website မွ download လုပ္၍ ရယူႏိုင္ပါသည္။
+
+Action
+
+အံ့အားသင့္ဖြယ္ရာ အက္ရွင္ဂိမ္းေတြကို (Top 25 မွ ဂိမ္းမ်ားအပါအ၀င္) Ubuntu မွာ ရရွိႏိုင္ပါတယ္။
+အေတာ္မ်ားမ်ားကို
+
+Menu - Application - Ubuntu Software Center - Games
+
+ကေနၿပီး install လုပ္ႏိုင္ပါတယ္။ 
+
+Example အခ်ိဳ႕ကေတာ့-
+
+Alien Arena (http://icculus.org/alienarena/rpa/about.html) --multi-player first person
+shooter အက္ရွင္ဂိမ္းျဖစ္ၿပီး အခမဲ့ server မ်ားနဲ႕ ေဆာ့ကစားႏိုင္ပါတယ္။ (Package : alien- arena)
+(Server : alien-arena-server)
+
+sudo apt-get install alien-arena
+sudo apt-get install alien-arena-server
+
+OpenArena(http://www.openarena.ws/)-- Open-Source multi-player first person shooter
+အက္ရွင္ဂိမ္းျဖစ္ၿပီး အခမဲ့ server မ်ားနဲ႕ ေဆာ့ကစားႏိုင္ပါတယ္။
+
+sudo apt-get install openaren
+sudo apt-get install openarena-server
+
+Tremulous (http://www.tremulous.net) -- Halo နဲ႕ဆင္တူၿပီး multiplayer first person shooter
+action ဂိမ္းျဖစ္ပါတယ္။ ေနာက္ဆံုးထြက္ ဗားရွင္းအတြက္ Repositories ရွိပါတယ္။
+
+sudo apt-get install tremulous
+sudo apt-get install tremulous-server
+
+Sauerbraten (http://sauerbraten.org/) - Cuber မွျဖစ္ၿပီး Graphic ေကာင္းေကာင္းနဲ႕ multiplayer
+ေဆာ့ႏိုင္တဲ့ First person shooter game ျဖစ္ပါတယ္။
+
+sudo apt-get install sauerbraten
+sudo apt-get install sauerbraten-server
+
+Nexuiz (http://www.alientrap.org/nexuiz/) -- (ၿပိဳင္ပြဲမ်ား) ပါ၀င္တဲ့ open-source multi-player
+First person shooter game ျဖစ္ၿပီး free servers မ်ားနဲ႕ေဆာ့ကစားႏိုင္ပါတယ္။
+
+sudo apt-get install nexuiz
+sudo apt-get install nexuiz-server
+
+ေျမပံု ၃၅ခုပါတဲ့ add-on community pack ကိုေတာ့ ဒီေနရာမွာ
+(http://www.alientrap.org/nexuiz/downloads.php) ရရွိႏိုင္ပါတယ္။ အဲတာကို install လုပ္ခ်င္ရင္ေတာ့
+map pack ကို /home/username/.nexuiz/data (ဒါမွမဟုတ္~ /.nexuiz/data)မွာ ျဖည္ခ်ေပးပါ။ မွတ္ခ်က္။
+ဒီထဲက ဂိမ္းေတာ္ေတာ္မ်ားမ်ားဟာ graphics လိုအပ္ခ်က္ေတြရွိပါတယ္။ ဒါေတြကို ေဆာ့မယ္ဆိုရင္ေတာ့
+သင့္အေနနဲ႕ hardware driver ေတြကို လံုလံုေလာက္ေလာက္ activate လုပ္ထားရပါမယ္။
+
+Urban Terror
+
+Urban Terror (http://www.urbanterror.net) သည္ multiplayer first person shooter အက္ရွင္ဂိမ္း
+(ဆာဗာထည့္သြင္းၿပီး) ျဖစ္သည္။ ၄င္းသည္ open-source quake 3 engine ကိုအသံုးျပဳထားၿပီး တကယ့္
+လက္နက္မ်ား၏ အသံုးျပဳႏိုင္မႈမ်ားအား ထည့္သြင္းေပးထားသည္။အခမဲ့ server မ​်ားျဖင့္ multi-player
+ေဆာ့ႏိုင္ေစရန္ ျပဳလုပ္ေပးထားသည္။ဂ်ာမနီႏိုင္ငံတြင္ လူငယ္မ်ားေဆာ့ကစားခြင့္အား ပိတ္ပင္ထားပါသည္။
+Download ျပဳလုပ္ၿပီး ဤအညႊန္း (http://www.urbanterror.info/docs/texts/110) ကိုအသံုးျပဳကာ install
+လုပ္ႏိုင္ပါသည္။
+
+Domm
+
+Skulltag ရဲ႕ZDoom (http://zdoom.org/wiki/Compile_ZDoom_on_Linux) နဲ႕ ProBoom (Freedoom)
+တို႕ဟာ Doom2 ရဲ႕ ဗားရွင္းခြဲေတြျဖစ္ပါတယ္။ Doom3 အတြက္ကိုေတာ့ Ubuntu ေပၚက Doom3
+(http://help.ubuntu.com/community/Doom3) မွာ ႀကည့္႐ႈႏိုင္ပါတယ္။
+
+Skulltag
+
+Skulltag(http://skulltag.net/wiki/Installation_for_Ubuntu) သည္ ZDoom
+(http://zdoom.org/wiki/Compile_ZDoom_on_Linux) ကို အဆင့္ၿမႇင့္တင္ထားေသာ  ဗားရွင္းျဖစ္ၿပီး
+network play ကစားႏိုင္ပါသည္။ (K)Ubuntu တြင္ install လုပ္နည္းအား website 
+(http://skulltage.net/wiki/Installation_for_Ubuntu)တြင္ ႀကည့္႐ႈႏိုင္ပါသည္။(အကယ္၍သင့္တြင္ မူလ
+Doom2.wad မရွိပါက ေအာက္တြင္ ေဖာ္ၿပထားေသာ Freedom Iwad ကို အသံုးျပဳႏိုင္ပါသည္။) မွတ္ခ်က္
+Modules အေတာ္မ်ားမ်ားသည္ Universe repositories မွ သီးျခားလိုအပ္ပါသည္။သင့္အေနျဖင့္ Universe
+repositories ကို enable ျပဳလုပ္ထားရန္လိုအပ္သည္။ Synaptic Package Manager -Settings -
+Repositories - Edit Software Sources - Community-maintained Open Source software (universe)
+-(အမွန္ျခစ္ေပးပါ။))
+
+Install prerequisites:
+
+Install ျပဳလုပ္ရန္ ႀကိဳတင္ျပင္ဆင္မႈ
+
+sudo apt-get install timidity timidity-interfaces-extra
+
+ထို႕ေနာက္ skulltage ၏ repositories မ်ား update မ်ားထည့္၍ skulltage ႏွင့္ DoomSeeker(Skulltag 
+online server) အား install ျပဳလုပ္ပါ။
+
+echo deb http://skulltag.net/download/files/release/deb/ jaunty multiverse / sudo tee /etc/apt/sour
+sudo apt-get update
+sudo apt-get install skulltage doomseeker-skulltag
+
+အကယ္၍ သင့္တြင္ doom2.wad,tnt.wad သို႕မဟုတ္ plutonia.wad မရွိပါက freedoom.wad ကိုသင့္
+~/.skulltag folder သို႕ copy လုပ္ႏိုင္ပါသည္။
+
+cd ~/.skulltag
+wget http:/mirror.cinquix.com/pub/savannah/freedoom/freedoom-iwad/freedoom-iwad-0.6.4.zip/
+unzip freedoom-iwad-0.6.4.zip
+cp freedoom+/doom2.wad.
+rm freedoom-iwad-0.6.4.zip
+
+အကယ္၍ သင့္တြင္ (skulltag-server,firewalls ႏွင့္ skulltag ျဖင့္ port forwarding
+ျပဳလုပ္ျခင္းတို႕အတြက္)အကူအညီမ်ားလိုအပ္ပါက ဤထပ္တိုး လမ္းညႊန္ခ်က္မ်ားအား ႀကည့္ပါ။
+
+Skulltag ကို မည္သည့္ platform, မည္သည့္ graphics, မည္သည့္ စက္တြင္မဆိုအသံုးျပဳႏိုင္ပါသည္။
+၄င္းတြင္ ေထာင္ေပါင္းမ်ားစြာေသာ add-on မ်ား၊ေျမပံုမ်ား၊ gameplay mode မ်ားအား
+ေရြးခ်ယ္မကုန္ႏိုင္ေအာင္ အသံုးျပဳကစားႏိုင္ပါသည္။
+
+PrBoom
+
+PrBoom (http://prboom.sourceforge.net/) သည္ မူလ first person shooter action game ျဖစ္သည့္
+Doom2 (http://en.wikipedia.org/wiki/Doom_II) သည္ အခမဲ့ open source port ျဖစ္သည္။၄င္းတြင္
+ZDoom ၏ advanced option  မ်ားပါ၀င္ျခင္းမရွိပါ။Freedoom သည္မူလ Doom2,wad ကိုေနရာယူမည့္ 
+အခမဲ့ Iwad (ေျမပံုစု)ျဖစ္ပါသည္။
+
+sudo apt-get install prboom freedoom timidity timidity-interfaces-extra
+
+ဤဂိမ္းအတြက္ ေထာင္ေပါင္းမ်ားစြာေသာ ေျမပံု (Wads)
+(http://www.doomword.com/10years/bestwads/) ရွိပါသည္။သင့္ home directory သည္ သင့္
+ေျမပံု (wads) မ်ား သိမ္းဆည္းရန္ အလြယ္ကူဆံုးေနရာျဖစ္ပါသည္။
+
+mkdir /home/user/wads
+
+သို႕မဟုတ္ အေျပာင္းအလဲအေနျဖင့္ /user/share/games/doom folder, ကိုအသံုးျပဳ၍ folder
+အားမည္သူမဆို အသံုးျပဳႏိုင္ေႀကာင္း ေျပာင္းလဲသတ္မွတ္ေပးႏိုင္ပါသည္။
+
+chmod -R 777/usr/share/games/doom
+
+သင့္မူလဂိမ္းထဲမွ doom2.wad,tnt.wad,ႏွင့္ plutonia.wad တို႕အား ဤ folder ထဲတြင္ထည့္ပါ။
+အကယ္ဤသင့္တြင္မရွိပါက usr/share/games/freedoom version မွ doom2.wad ကို ဤ 
+folder သို႕ copy လုပ္ႏိုင္ပါသည္။သင္ internet မွ Download လုပ္ထားေသာ .wad ဖိုင္အသစ္မ်ားကိုလည္း ဤ
+folder ထဲတြင္ပင္ ထည့္သြင္းပါ။ ၿပီးေနာက္ ဂိမ္းအား မူလ ေျမပံုျဖင့္ျဖစ္ေစ၊သင့္ .wad ေျမပံုသစ္ျဖင့္ျဖစ္ေစ
+ကစားႏိုင္ပါသည္။
+
+prboom -iwad /home/user/wads/doom2.wad-file /home/user/wads/new_wad.wad
+
+မွတ္ခ်က္။ doom2,wad,tnt.wad, သို႕မဟုတ္ plutonia.wad တို႕ကိုသာလွ်င္ iwad အျဖစ္အသံုးျပဳ၍ ရပါသည္။
+သင့္အေနျဖင့္ wad အသစ္ထည့္သြင္းအသံုးျပဳလိုပါက အထက္ပါ၃ခုမွ တစ္ခုရွိရပါမည္။ျပႆနာရွိလာပါက
+doom2.wad ကိုသံုးပါ။
+
+မွတ္ခ်က္။ဤဂိမ္းအား Menu -Applications - Ubuntu Software Center -Games ရွိ Freedom မွ
+install လုပ္ယူႏိုင္ပါသည္။ သို႕ေသာ္ timidity ႏွင့္ timidity-interfaces-extra ကို install 
+ျပဳလုပ္ရန္လိုအပ္ပါသည္။
+
+MMORPG
+
+Spring
+
+The Spring Project  (http://spring,clan-sy.com) သည္ Star Wars Imperial Winter
+(http://www.imperialwinter.com/) ႏွင့္ Complete Annihilation (http://spring.clan-
+sy.com/wiki/Complete_Annihilation#Introduction) တို႕ကဲ့သို႕ အခမဲ့ multiplayer ဂိမ္းမ်ားအား
+ေရးဆြဲျခင္း၊ကစားျခင္းတို႕အတြက္ scripting engine platform ျဖစ္သည္။Install ျပဳလုပ္ရန္
+
+sudo apt-get install spring
+
+Regnum Online
+
+Regnum Online MMPORG (http://www.regnumonline.com.ar/index.php?sec=61=1) အတြက္
+အကူအညီလိုအပ္ပါက အေျခခံ installation (http://ubuntuforums.org/showthread.php?t=615246)
+ဲျပဳလုပ္နည္းႏွင့္ help forum (http://www.regnumonline.com.ar/forum/forumdisplay.php?f=15)
+တြင္ႀကည့္ပါ။
+
+PlaneShift 
+
+PlaneShift (http://www.planeshift.it/) သည္ စိတ္ကူးယဥ္မႈေတြ ျပည့္သိပ္ႏွစ္ၿမဳပ္ေနသည့္ online fantasy
+ဂိမ္းတစ္ခုျဖစ္သည္။Client ႏွင့္ patches မ်ားအား ဒီေနရာတြင္ download
+(http://www.planeshift.it/download.html) လုပ္ႏိုင္ပါသည္။
+
+Download လုပ္ထားေသာ Binary Installation ဖိုင္အား executable ျဖစ္ေအာင္ျပဳလုပ္ပါ။
+
+cd /directory_where_downloaded
+chmod +x PlaneShift-v0.5.4-x64.bin
+
+root အေနျဖင့္ executable လုပ္ထားေသာဖိုင္အား run ပါ။
+
+sudo  ./PlaneShift-v0.5.4-x64.bin
+
+Install လုပ္ရမည့္လမ္းညႊန္ခ်က္မ်ားအား လိုက္နာပါ။Whether to manually set permissions
+ဟုေမးလာပါက no ဟုေျဖေပးပါ။
+Install ျပဳလုပ္ေနစဥ္တြင္ အသံုးျပဳသူေတာ္ေတာ္မ်ားမ်ားသည္ ဂိမ္းအား User အားလံုးအသံုးျပဳႏိုင္ရန္ /opt
+တြင္ install လုပ္ျခင္းထက္ user တစ္ဦးတည္း အသံုးျပဳႏိုင္မည့္ /home directory တြင္  install 
+ျပဳလုပ္ျခင္းကို ပိုအေလးေပးႀကသည္။ /opt တြင္install လုပ္ျခင္းသည္ အလုပ္ပိုျခင္းေႀကာင့္ျဖစ္သည္။
+သင့္ user account အား Games Group တြင္ထည့္သြင္းပါ။
+
+Menu - System - Administration - Users and Groups - user- Manager Groups -games-
+Properties - Group Members -user (အမွန္ျခစ္ပါ)-OK
+
+Download the updater patch psupdaterlinux64.zip and unzip it to your download directory.
+Run the updater as root:
+
+chmod +x psupdater
+chmod +x psupdater.bin
+sudo ./psupdater---
+
+PlaneShift Registration (http://www.planeshift.it/register.html)တြင္ စာရင္းသြင္း၍ အခမဲ့
+အေကာင့္တစ္ခုလုပ္ပါ။
+အကယ္၍ သင္သည္ game ကို menu တြင္ထည့္သြင္းထားပါက
+
+Menu - Applications - Lost Found - Client and Setup
+တြင္ရွိပါလိမ့္မည္။
+
+Menu မွ run ခ်င္ပါက Run in terminal ကို အမွန္ျခစ္လုပ္ေပးရပါမည္။ Command-line Terminal မွ run
+ခ်င္ပါက
+
+sudo /opt/PlaneShift/pssetup
+sudo /opt/PlaneShift/psclient
+
+မွတ္ခ်က္။DSL connection ျဖင့္ 32-bit ဗားရွင္း အသံုးျပဳပါက ေလးပါသည္။
+
+Internet Applications
+
+သင့္ရဲ႕ Internet connection အား Internet applications မ်ားျဖင့္ အျပည့္အ၀အသံုးျပဳႏိုင္သည္။Web
+browsers,Email clients, Instant Messengers, ႏွင့္ အမ်ိဳးအစားအမ်ားပါ၀င္သည္။
+
+Web Browsers
+
+Mozilla Firefox 
+
+Mozilla Firefox (http://www.mozilla.com/en-US/) သည္ေနရာအမ်ားတြင္ ေတြ႕ရသည့္ web browser
+ျဖစ္သည္။ open source components တြင္ အေျခခံထားေသာ္လည္း သင္၏ အမည္ သို႕မဟုတ္ ကုန္အမွတ္တံဆိပ္
+ပါ၀င္ထားၿပီး တခုခုေျပာင္းလဲထားျခင္းျဖင့္ ထပ္မံ ျဖန္႕ျဖဴးႏိုင္မည္မဟုတ္ပါ။ လက္ရွိသံုးေနေသာ version
+အားတင္ရန္ :
+
+sudo apt-get install firefox
+
+Firefox Plug-ins
+
+Adblock Plus plug-in (block ads in a web page)
+
+Adblock Plus (http://adblockplus.org/en/)ျဖင့္ web pages မ်ားတြင္ Blocks ads လုပ္ႏိုင္သည္။
+သင့္အေနနဲ႕ subscribe လုပ္ျခင္းျဖင့္ အခမဲ႕ Filter Service ႏွင့္ ေႀကာ္ၿငာမ်ားကို တစ္ခ်က္တည္းႏွင့္ပိတ္ရန္
+အတြက္ထပ္ေပါင္းႏိုင္ပါသည္။
+
+sudo apt-get install xul-ext-adblock-plus
+
+သင့္အေနနဲ႕ ၄င္း extension အား add ရန္ Firefox Tools - Add -on -Get Add -ons -Search All
+Add-ons-AdBlock Plus. (ထိုကဲ့သို႕ လုပ္ေဆာင္လွ်င္ firefox အေနျဖင့္ automatic updates
+လုပ္ေဆာင္ေပးလိမ့္မည္။)
+
+Noscript (http://noscript.net/) သည္ Internet ေပၚတြင္ browsing လုပ္ရာတြင္ Sercuriy တိုင္းတာခ်က္အရ
+အေရးႀကီးပါ၀င္မႈ တစ္ခုျဖစ္သည္။Scripts မ်ားျဖင့္ Internet မွတဆင့္ Viruses မ်ားႏွင့္ Trojans တို႕သည္
+computers သို႕ေရာက္ရွိသည္။၄င္း plugin ျဖင့္ မည္သည့္ scripts အား Allow ႏွင့္ blocks the rest လုပ္မည္ကို
+ေရြးခ်ယ္ႏိုင္သည္။
+
+၄င္း extension အား add ရန္ Firefox - Tools - Add -ons -Get Add-ons -Search All Add -ons-
+Noscript. (ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates လုပ္ေဆာင္ေပးလိမ့္မည္။)
+
+RefreshBlocker plug-in (prevents redirects)
+
+RefreshBlocker (https://addons.mozilla.org/en-US/firefox/addon/refreshblocker/) သည္ မည္သည့္
+website(and pages)အား redirect(based on  META tags within the webpage)ျပဳလုပ္ရန္အတြက္ user
+မ်ားအား ဆံုးျဖတ္ေပးသည္။သို႕ေပေသာ္လည္း Firefox (as of version 3.5) တြင္ အားလံုး directs လုပ္ျခင္းကို
+blocks လုပ္သည္မွာ default ျဖစ္သည္။ စိတ္ႀကိဳက္မဟုတ္သည့္အတြက္ေႀကာင့္ firefox redirect control အား 
+turnoff လုပ္ၿပီး ၄င္းအစား RefreshBlocker သံုးသည္။
+
+သင့္အေနနဲ႕ ၄င္း extension အား add ရန္ Firefox -Tool -Add-ons-Get Add-ons -Search All
+Add-ons-RefreshBlocker.(ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates
+လုပ္ေဆာင္ေပးလိမ့္မည္။
+
+Turn off the Firefox  automatic redirect bloker  
+
+Firefox - Enter about : config in the browser location bar-right-click on
+accessibility:blockautorefresh - Toggle to change the value from true to false
+
+User Agent Switcher plug-in for Firefox
+
+User Agent Switcher (http://chrispederick.com/work/user-agent-switcher/) သည္ အျခားေသာ
+browser  ကဲ့သို႕ အေယာင္ေဆာင္ျခင္းကို ျပဳလုပ္သည္ခြင့္ျပဳျခင္း (အခ်ိန္လြန္) broser-specific
+ပါရွိေသာအေႀကာင္းအရာမ်ားကို displayed ျပဳလုပ္ရန္။
+
+သင့္အေနနဲက ၄င္း extension အား add ရန္ Firefox -Tool -Add-ons-GetAdd-ons- Search All
+Auto-ons-User Agent Switcher. (ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox  အေနျဖင့္ automatic updates
+လုပ္ေဆာင္ေပးလိမ့္မည္။
+
+Video DownloadHelper plug-in for Firefox
+
+Video DownloadHelper (http://addons.mozilla.org/en-US/firefox/addon3006)သည္ youtube
+ကဲ့သို႕ေသာ site မ်ားမွ videos (Flash Videos အပါအ၀င္) ကို download ရယူရန္ျဖစ္သည္။
+
+သင့္အေနနဲ႕ ၄င္းextension အား add ရန္ Fierfox -Tools -Add -ons- Get Add -ons-Search All
+Add-ons-Video DownloadHelper. (ထိုကဲ့သို႕ လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic 
+updates လုပ္ေဆာင္ေပးလိမ့္မည္။) 
+
+Unplug Download Management
+
+UnPlug (https://addons.mozilla.org/en.US/firefox/addon/2254)add-on သည္ webpag ေပၚတြင္
+embedded လုပ္ထားေသာ video ႏွင့္ Audio မ်ားကို Save လုပ္ယူႏိုင္သည္။
+
+သင့္အေနျဖင့္ ၄င္း extension အား add ရန္ Firefox -Tool- Add-ons-Get Add-ons-Browse
+All Add-ons.(ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates
+လုပ္ေဆာင္ေပးလိမ့္မည္။)
+
+Lucifox (eBook reader  extension)
+
+Lucifox (https://addons.mozilla.org/en-US/firefox/addon/lucifox/) (Lucidor for Firefox) သည္ညe-
+book မ်ားကို ဖတ္ရန္ႏွင့္ Firefox window မွေန catalogs မ်ားကို browsed လုပ္ေပးႏိုင္ရန္ျဖစ္သည္။
+
+Install ျပဳလုပ္ရန္ယ website သို႕သြားၿပီး ေနာက္ Dwownload Now ေနရာတြင္ရယူႏိုင္သည္။
+
+Java Runtime Environment (JRE) for Firefox plug-in
+
+ယခု package သည္ Java Runtime Enviroment install ႏွင့္တူညီသည္။(OpenOffice Installed ေသာအခါ
+or ubuntu-restricted -extras installed ေသာအခါ JRE  ပါ၀င္သည္။)
+
+sudo apt-get install sun-java6-jre sun-java6-plugin
+
+မွတ္ခ်က္ : သင့္အေနျဖင့္ product ကိုအသံုးျပဳရန္ product license အား မလြဲမေသြ လက္ခံရမည္။
+
+Adobe Acrobat Reader for Firefox Plug-in
+
+၄င္း pluging သည္ Adobe Acrobat(pdf) files မ်ားကို firefox browser တြင္ ႀကည့္ရန္ျဖစ္သည္။
+
+Read Add Extra Kubuntu Repositories and enable the Natty partner repository :
+
+deb nowikihttp://archive.canonical.com/ubuntu natty partner/nowiki
+
+ၿပီးပါက Adobe Reader ထည့္သြင္းရန္ :
+
+sudo apt-get install acroread
+
+သို႕မဟုတ္ပါက ၄င္း plugin အား the Medibuntu repository list တြင္လည္း ရရွိႏိုင္သည္။
+Medibuntu repository အား သင့္ရဲ႕ repository list တြင္ထည့္ရန္ :
+
+deb nowikihttp://packages.medibuntu.org//nowiki natty free non-free
+
+ၿပီးပါက Adober Reader ထည့္သြင္းရန္ :
+
+sudo apt-get install acroread mozilla-acroread acroread-plugins acroread-fonts
+
+Adobe Flash Player for Firefox Plug-in
+
+Firefox အတြက္ offical Adobe Flash Plugin 10 အား တင္ရန္ :
+
+sudo apt-get install adobe-flashplugin
+
+Gnash Plug-in (Open source Flash Player replacement)
+
+Gnash(http://www.gnashdev.org/) သည္ 32-bit version ကဲ့သို႕ 64-version အတြက္လည္း
+ရယူႏိုင္သည္။၄င္းသည္ Adobe Flashplayer အတြက္ source အား ေျပာင္းလဲႏိုင္သည္။
+
+sudo apt-get install gnash
+
+installing ၿပီးေနာက္, သင့္ web browser ရဲ႕ Preference - Application ထဲရွိ SWF and SPL files မွားကို
+Gnash ျဖင့္သံုးမည္ဟု ေႀကၿငာရမည္။
+
+VLC plug-in for Firefox
+
+၄င္း package သည္ ယခုလက္ရွိ အသံုးမ်ားေသာ VIC player အား Firefox browser ရွိ play media 
+တြင္ အသံုးျပဳသည္။
+
+sudo apt-get install mozilla-plugin-vlc
+
+Gecko MediaPlayer Plug-in for Firefox
+
+Gecko MediaPlayer (http://kdekorte.googlepages.com/gecko-mediaplayer) သည္ Gecko-based
+broswers (Firefox,SeaMonkey,IceApe,Opera) မ်ားတြင္ Mplayer မွ multimedia သို႕ သံုးျပဳသည္။
+
+sudo apt-get install gecko-mediaplayer
+
+ေနာက္တစ္ခုအေနျဖင့္ Firefox အတြက္ mplayer အားသံုးျပဳႏိုင္သည္။
+
+sudo apt-get install mozilla-mplayer
+
+Kaffeine Plug-in for Firefox
+
+၄င္း package ျဖစ္သည့္ the Kaffeine media player (often used in KDE-based desktops) သည္ Firefox 
+browser တြင္ multimedia အျဖစ္လုပ္ေဆာင္သည ္။
+
+sudo apt-get install kaffeine-mozilla
+
+Helix player plug-in for Firefox
+
+၄င္း package ျဖစ္သည့္ Helix player (https://helixcommunity.org/) (the open source player that
+plays Real Player content in Linux) သည္ Firefox browser တြင္ RealMedia အျဖစ္လုပ္ေဆာင္သည္။
+
+sudo apt-get install mozilla-helix-player
+
+Moonlight plugin for Firefox
+
+ Moonlight (http://www.go-mono.com/moonlight) သည္ Silverlight (the Microsoft multimedia
+presentation platform) အား open source အျဖစ္လုပ္ေဆာင္ရန္ ႀကိဳးစားေနေသာ the Novell Mono ၏
+project ျဖစ္သည္။၄င္းသည္ FFMpeg အမ်ိဳးအစားျဖစ္သည္။ Firefox 3 web browser တြင္
+ေကာင္းေကာင္းသံုးႏိုင္ရန္ျပဳလုပ္ထားၿပီး, plugin ကဲ့သို႕(အျခားေသာ mozilla browsers
+ေကာင္းေကာင္းသံုးႏိုင္ရန္ျပဳလုပ္ထားၿပီး, plugin ကဲ့သို႕(အျခားေသာ mozilla browsers
+မ်ားတြင္လည္းလုပ္ႏိုင္သည္။)mozilla-based browsers ျဖစ္ေသာ Version 2.3 တြင္လည္း plugin အျဖစ္
+လုပ္ေဆာင္ႏိုင္သည္။
+
+sudo apt-get install moonlight-plugin-mozilla
+
+stable version 2.4 အား ဒီေနရာတြင္ (http://www.go=mono.com/moonlight/stable.aspx)
+ရႏိုင္သည္။ The Moonlight 3.99 plugin (compatible with most Silverlight 3/4 content) အား
+ဒီေနရာတြင္ (http://www.go--mono.com/moonlight/prerelease.aspx) ရႏိုင္သည္။
+
+Netflix under Moonlight
+
+Netflix streaming အတြက္လိုအပ္ခ်က္ႏွစ္ခုမွာ the capabilities of Silverlight 2.0 ႏွင့္ Digital Rights
+Management modules ျဖစ္သည္။သို႕ေပေသာ္လည္း လက္ရွိအမ်ိဳးအစားျဖစ္ေသာ Moonlight 2.0 တြင္လည္း
+Silverlight content (including Netflix content) သံုးႏိုင္သည္ ,linux အတြက္ Digital Rights 
+Management modules အား Netfilix မွ အဆင္သင့္မျဖစ္ေသးပါ။ေက်းဇူးျပဳၿပီး Netflix
+(http://www.netflix.com/ContactUs) သို႕တိုက္ရိုက္ဆက္သြယ္ၿပီး သတင္းရယူႏိုင္ပါသည္။သို႕မဟုတ္
+ဤေနရာတြင္ မွတ္ပံုတင္ၿပီး (http://www.petitiononline.com/Linflix) ေတာင္းဆိုႏိုင္ပါသည္။
+
+(Chrome browser အတြက္Google မွျပဳလုပ္ေနေသာ)An HTML5 Netflix plugin မႀကာမီ
+သံုးစြဲႏိုင္ေတာ့မည္။အျခားေသာ နည္းလမ္းတစ္ခုအေနနဲ႕ Netflix Android app အား virtual
+Android environment တြင္လည္း သံုးစြဲႏိုင္ေတာ့မည္ျဖစ္သည္။
+
+FireFTP for Firefox
+
+FireFTP (http://fireftp.mozdev.org/) သည္ Firefox extension တြင္ FTP transfers အတြက္ျဖစ္သည္။
+
+Firefox Widgets
+
+Turn off browser bar drop-down list in Firefox
+
+Firefox တြင္ drop-down list ရွိ browser bar အားပိတ္ထားရန္။
+
+၎သည္ Firefox တြင္ တစ္ခါတစ္ရံမွသာ ျဖစ္ေပၚတတ္ေသာ ျပႆနာ ျဖစ္သည္။ drop-down list ရွိ location
+browser bar အား ပိတ္ထားရန္ (http://kb.mozillazine.org/Browser.urlbar.maxRichResults)
+(ထိုသို႕ျပဳလုပ္ျခင္းျဖင့္ သင့္ browsing history အားျပသေတာ့မည္မဟုတ္ပါ။)
+
+Firefox - about:config (in the location browser bar) - browser.urlbar.maxRichResults-
+right-click-Modify-set value to 0 
+
+IceCat
+
+IceCat (http://en.wikipedia.org/wiki/GNU_IceCat) သည္ Mozilla ၏ ကုန္အမွတ္တံဆိပ္ မူပိုင္ခြင့္၊
+တားျမစ္ခ်က္မ်ားမရွိေသာ Firefox အေျချပဳ Browser တစ္ခုျဖစ္သည္။Debian project မွေထာက္ပံ႕ေပးသည္။
+ယခင္က IceWeasel နာမည္ႏွင့္ျဖစ္ၿပီး၊ယခု IceApe Browser နာမည္သို႕ ေျပာင္းလိုက္သည္။ေနာက္ဆံုး
+version ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+
+sudo apt-get install iceape-browser
+
+SeaMonkey
+
+SeaMonkey (http://www.seamonkey-project.org/) သည္ web browser, IM (IRC) client, Email
+client,RSS/News reader ႏွင့္ အျခား web development tools မ်ားပါ၀င္ေသာ အင္တာနက္ application
+တစ္ခုျဖစ္ပါသည္။Mozilla ၏ ထုတ္ကုန္မ်ားကို အေျခခံထားၿပီး၊ Mozilla ၏ မူပိုင္ခြင့္၊ ျဖန္႕ေ၀သံုးစြဲခြင့္မ်ားႏွင့္
+ဆက္စပ္ေနသည္။ Thunderbird ႏွင့္ Firefox ကဲ့သို႕ Seamonkey အတြက္ Plugins အေျမာက္အမ်ားရွိသည္။
+Seamonkey ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+
+sudo apt-get install seamonkey
+
+IceApe
+
+IceApe (http://en.wikipedia.org/wiki/Naming_conflict_between_Debian_and_Mozilla) သည္
+web browser, IM (IRC) client, Email client, RSS/News reader ႏွင့္ web development tools
+မ်ားပါ၀င္ေသာ open-source အင္တာနက္ application တစ္ခုျဖစ္သည္။ Seamonkey ကို အေျခခံထားၿပီး၊
+မူပိုင္ခြင့္ ကန္႕သတ္ထားျခင္းမ်ားမရွိေပ။ Debian project မွေထာက္ပံ႕ေပးထားေသာ application ျဖစ္သည္။
+ေနာက္ဆံုး version ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+
+sudo apt-get install iceape
+
+Opera
+
+Opera (http://www.opera.com/) သည္ မူပိုင္ခြင့္ကန္႕သတ္ခ်က္ရွိေသာ proprietary browser, internet
+suite တစ္ခုျဖစ္သည္။ Mobile devices အခ်ိဳ႕ႏွင့္ game consoles မ်ားတြင္လဲ အသံုးျပဳႏိုင္သည္။ Email,
+address book, IRC chat, integrated BitTorrent ႏွင့္ webfeeds မ်ားပါ၀င္သည္။ Plugins
+အနည္းငယ္လဲရွိသည္။ Install လုပ္ေဆာင္ရန္ Opera ၏ website မွ Download
+(http://www.opera.com/browser/download/) လုပ္ၿပီး၊ လမ္းညႊန္ခ်က္မ်ား ဆက္လုပ္ပါ။ သို႕မဟုတ္
+ေအာက္ပါ command မ်ားကို အသံုးျပဳၿပီး Opera repository မွတဆင့္ Install လုပ္ႏိုင္သည္။
+
+echo nowikideb http://deb.opera.com/opera//nowiki stable non-free I sudo tee /etc/apt/sources.list .
+wget -o -nowikihttp://deb.opera.com/archive.key/nowiki I sudo apt-key add - 
+sudo apt-get install opera
+
+Chromium
+
+Chromium (http://dev.chromium.org/) သည္ Google Chrome browser ကို အေျခခံထားေသာ open-
+source browser တစ္ခုျဖစ္သည္။ Chromium ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္း
+ရိုက္ထည့္ပါ။
+
+sudo apt-get install chromium-browser
+
+Chromium ကို အသံုးျပဳရန္ ေအာက္ပါအတိုင္းသြားပါ။
+
+Menu - Applications - Internet - Chromium Web Browser
+
+Google Chrome
+
+Google Chrome (http://www.google.com/chrome) သည္ Google မွထုတ္ေသာ browser
+တစ္ခုျဖစ္သည္။ Chromium browser ကိုအေျခခံထားၿပီး၊ Google ၏ နာမည္၊ လိုဂိုအမွတ္တံဆိပ္၊
+GoogleUpdate ဟုေခၚသည့္ အလိုအေလ်ာက္ Update စနစ္၊RZL ႏွင့္ အျခား Google add-ons
+မ်ားပါ၀င္သည္။ Google Chrome ကို ဤေနရာမွ (http://www.google.com/chrome/eula.html)
+ေဒါင္းလုတ္လုပ္ၿပီး၊ install လုပ္ပါ။
+
+Download Managers
+
+Browsers မ်ားထက္ ေဒါင္းလုတ္လုပ္ငန္းစဥ္ လြယ္ကူၿပီး၊ပိုမိုျမန္ဆန္ေစရန္၊ အမွားနည္းေစရန္ ျပဳလုပ္ထားေသာ
+ေဆာ့လ္၀ဲမ်ားျဖစ္သည္။အခ်ိဳ႕ Download Managers မ်ားတြင္ အင္တာနက္ ကြန္နက္ရွင္မေကာင္းပါက
+ခဏရပ္တန္႕ထားၿပီး၊ ေနာင္ ကြန္နက္ရွင္ျပန္ေကာင္းမွ ဆက္လက္ေဒါင္းလုတ္ႏိုင္ေသာ Resuming Downloads
+Option လဲပါ၀င္သည္။
+
+MultiGet
+
+MultiGet (http://multiget.sourceforge.net/) သည္ ေဒါင္းလုတ္လုပ္ငန္းစဥ္မ်ား လြယ္ကူေစရန္
+အသံုးျပဳႏိုင္သည့္ Download Manager တစ္ခုျဖစ္သည္။ GTK ကို အေျခခံထားၿပီး GUI (Graphical User
+Interface) ႏွင့္ျဖစ္သည္။ HTTP/FTP စနစ္တို႕ကို ေထာက္ပံ႕ၿပီး၊ Resuming Downloads ကိုလဲ
+လုပ္ေဆာင္ႏိုင္သည္။ SOCKS 4,4a,5 proxy, ftp proxy, http proxy တို႕ႏွင့္လဲ အသံုးျပဳႏိုင္သည္။ MultiGet
+ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါ command ကိုရိုက္ထည့္ပါ။
+
+sudo apt-get install multiget
+
+Usenet Clients
+
+Usenet Clients ဆိုသည္မွာ ယခင္တုန္းက အသံုးျပဳႀကေသာ အင္တာနက္ေပၚရွိ Discussions Group
+တစ္ခုျဖစ္သည္။ယခုေခတ္ အသံုးမ်ားႀကေသာ ဖိုရမ္မ်ား၏ ေရွ႕ေဆာင္လမ္းျပတစ္ခုျဖစ္သည္။ ဖိုရမ္မ်ားကဲ့သို႕ပင္
+ပို႕စ္မ်ားတင္ျခင္း၊ အျခားသူမ်ားတင္ထားေသာ ပို႕စ္မ်ားကို ဖတ္႐ႈျခင္းမ်ား ျပဳလုပ္ႏိုင္သည္။ေဆြးေႏြးခ်က္မ်ား၊
+ပို႕စ္မ်ားကို သက္ဆိုင္ရာ က႑အသီးသီးအလိုက္ စုစည္းထားၿပီး newsgroupဟုေခၚသည္။
+ေဆြးေႏြးခ်က္မ်ားကိုလည္း Threads မ်ားခြဲထားသည္။ Usenet Discussion Group မွ ေဆြးေႏြးခ်က္မ်ားကို 
+ဖတ္႐ႈရန္ Usenet Clients ဟုေခၚေသာ ေဆာ့လ္၀ဲမ်ားသံုးရန္ လိုအပ္သည္။
+
+Pan 
+
+Pan (http://pan.rebelbase.com/) Pan သည္ Usenet မွ ေဆြးေႏြးခ်က္မ်ားကို ဖတ္႐ႈရန္ အသံုးျပဳႏိုင္သည့္
+Gnome-based ေဆာ့လ္၀ဲလ္တစ္ခုျဖစ္သည္။ nzb (http://en.wikipedia.org/wiki/Nzb) binary downloader
+တစ္ခုလဲ ျဖစ္သည္။ Pan ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command ကိုရိုက္ထည့္ပါ။
+
+sudo apt-get install pan 
+
+Kwooty
+
+Kwooty (http://kwooty.sourceforge.net/) သည္ Usenet မွ ေဆြးေႏြးခ်က္မ်ား ဖတ္႐ႈရန္အတြက္ KDE4
+တြင္အသံုးျပဳႏိုင္သည့္ ေဆာ့လ္၀ဲတစ္ခုျဖစ္သည္။ nzb (http://en.wikipedia.org/wiki/Nzb) binary
+downloader တစ္ခုလဲျဖစ္သည္။ Kwooty ကို Install လုပ္ေဆာင္ရန္အတြက္ လိုအပ္ေသာ Files မ်ား၊ PPA 
+repositories မ်ား၊လမ္းညႊန္ခ်က္မ်ားကို Kwooty website တြင္ ႀကည့္႐ႈႏိုင္ပါသည္။
+
+Instant Messengers
+
+mIRC, Gtalk ကဲ့သို႕ ခ်က္တင္လုပ္ျခင္း၊ စကားေျပာျခင္း၊video calling မ်ားလုပ္ေဆာင္ႏိုင္ေသာ
+ေဆာ့လ္၀ဲတစ္မ်ိဳးျဖစ္သည္။
+
+Empathy
+
+Empathy (http://live.gnome.org/Empathy) ဆိုသည္မွာ Open Source IM ေဆာ့လ္၀ဲလ္တစ္ခုျဖစ္ပါသည္။
+ဤေဆာ့လ္၀ဲသည္ Ubuntu (Gnome) အသံုးျပဳေသာ desktop မ်ားတြင္ ပံုမွန္ပါ၀င္ေသာ
+ေဆာ့လ္၀ဲတစ္ခုလည္းျဖစ္သည္။
+
+sudo apt-get install empathy
+
+Pidgin
+
+Pidgin (http://www.pidgin.im/) ေဆာ့လ္၀ဲလ္သည္ Open Source IM ေဆာ့လ္၀ဲလ္တစ္ခုျဖစ္သည္။ ဤေဆာ့လ္၀ဲလ္သည္
+Ubuntu (Gnome) အသံုးျပဳေသာ desktop မ်ားတြင္ ပံုမွန္ပါ၀င္ေသာ ေဆာ့လ္၀ဲလ္တစ္ခုလည္းျဖစ္သည္။ ယခုလက္ရွိ
+Empathy ကိုသာ ပံုမွန္ အစားထိုးသံုးလ်က္ရွိေသာ္လည္း ျမန္မာျပည္၏ MPT လိုင္းႏွင့္ အျခားေသာ Proxy
+ထည့္သြင္းရေသာ လိုင္းမ်ားအတြက္သင့္ေတာ္သည္။
+
+sudo apt-get install pidgin
+
+အသံုးျပဳပံု
+
+Accounts=Add :
+protocol XMPP
+username gmailaccount (@gmail ျဖည့္ရန္မလိုပါ)
+Domain gmail.com
+
+Advanced Force old (port 5223)SSL ကိုအမွန္ျခစ္ေပးပါ။
+connect port တြင္ 443 ျဖည့္ပါ။
+connect server တြင္ talk.google.com ျဖည့္ပါ။
+အားလံုးၿပီးလွ်င္ Add ကိုႏွိပ္ပါ။
+ၿပီးလွ်င္ ခ်ိတ္ဆက္ အသံုးျပဳႏိုင္ပါသည္။
+
+Kopete
+
+Kopete (http://kopete.kde.org/) ဆိုသည္မွာ Kubuntu Os (KDE) အတြက္ default ပါ၀င္ေသာ ခ်က္တင္
+ေဆာ့လ္၀ဲျဖစ္သည္။
+
+sudo apt-get install kopete
+
+Kopete Styles
+
+Kopete အတြက္ ပံုစံ (http://www.kde-look.org/index.php?xcontentmode=24x26) ကို ထည့္သြင္းၿပီး
+Kopete တြင္ မိမိႏွစ္သက္ရာ ပံုစံမ်ားကို ေအာက္ေဖာ္ျပပါေနရာတြင္ ေျပာင္းလဲႏိုင္ပါသည္။
+
+Kopete - Settings - Configure - Chat Windows -Style -Get New...
+
+GoogleTalk on Kopete
+
+Kopete ကိုအသံုးျပဳၿပီး GoogleTalk (http://www.google.com/talk/about.html) Instant Messaging
+အသံုးျပဳႏိုင္ေသာ္လည္း VOIP ကို အသံုးမျပဳႏိုင္သျဖင့္ အသံဆက္သြယ္ျခင္းရမည္မဟုတ္ပါ။ Jabber Protocol
+ကိုသံုးထားသည္။ဤေနရာတြင္ေလ့လာပါ။GoogleTalk instructions
+(http://www.google.com/support/talk/bin/answer.py?answer=57557).
+
+Konversation (IRC client)
+
+Konversation (http://konversation.kde.org/) သည္ kubuntu တြင္ default ပါ၀င္ေသာ IRC ခ်က္
+ေဆာ့လ္၀ဲလ္ျဖစ္သည္။ mIRC အလားတူေဆာ့လ္၀ဲလ္ တစ္ခုျဖစ္သည္။
+
+sudo apt-get install konversation
+
+aMSN
+
+aMSN သည္ MSN ရဲ႕ client ေဆာ့၀ဲကဲ့သို႔   အသံုးျပဳႏိုင္ေသာ ေဆာ့၀ဲတစ္ခုျဖစ္သည္။ Pidgin တြင္လည္း
+အလားတူသံုးႏိုင္သည္။
+
+sudo apt - get install amsn
+
+သင့္အင္တာနက္လိုင္းအေနျဖင့္ အဆင္ေျပႏိုင္မေျပႏိုင္ မသိေသာ္လည္း ဖိုင္မ်ား လြယ္ကူစြာ
+ဆြဲယူကူးေျပာင္းႏိုင္မႈကို Ubuntu Geek (http://www.ubuntugeek.com/how-to-enable-drag-and-drop-
+capabilities-to-amsn.html) တြင္ ဖတ္ရႈႏို္င္သည္။
+
+Emesence
+
+Emesence (http://www.emesene.org/) သည္ ရိုးရွင္းေသာပံုစံျဖင့္ ျပဳလုပ္ထားေသာ MSN messager
+တစ္ခုျဖစ္သည္။ အလားတူပင္ [#Pidgin l Pidgin] တြင္လည္း အသံုးျပဳႏိုင္ပါသည္။
+
+sudo apt - get install emesene
+
+Videoconferencing and VOIP
+
+Videoconferencing  and voice over Internet (VOIP) applications are merging into integrated
+applications.Most of these applications now allow placing calls to non-Internet based telephones
+for a small fee.
+
+
+Ekiga
+
+ယခင္ Gnomemeeting ဟုသိခဲ့ၾကသည့္ Ekiga(http://www.gnomemeeting.org/) သည္ SIP အား 
+အျပည့္အ၀လိုက္နာသည့္ function အျပည့္အစံုပါ VOIP ႏွင့္ Video စနစ္ပါ အသံုးျပဳႏိုင္ေသာ ပရိုဂရမ္ျဖစ္သည္။
+
+sudo apt - get install ekiga
+
+
+Skype
+
+Skype (http://www.skype.com/) သည္ Ekiga ကဲ့သို႔ VOIP ႏွင့္ Video စနစ္သံုး ဆက္သြယ္ေရး
+ပရိုဂရမ္ျဖစ္ေသာ္လည္း Open-Source မဟုတ္ပါ။ Skype ဆက္သြယ္မႈမ်ားအား အသံသြင္းယူျခင္း
+(http://help.ubuntu.com/community.SkypeRecordingHowto)
+
+
+	Install ျပဳလုပ္ရန္ ၾကိဳတင္ျပင္ဆင္ပါ
+
+sudo apt - get install libqt4-dbus libqt4-network libqt4-xml
+
+	-ေနာက္ဆံုးထြက္ ဗားရွင္းအား ရယူရန္ႏွင့္ 32 -bit ဗားရွင္းအား download ႏွင့္ install ျပဳလုပ္ရန္
+
+wget - G skype - ubuntu - current _ i386 . deb nowikihttp://www.skype.com/go/get skype - linux - beta - ubuntu - 32/n
+sudo dpkg - i skype - ubuntu - current _ i386 . deb
+sudo rm skype - ubuntu - current _ i386 . deb
+
+
+	-ယခင္က အခ်ဳိ႕ သံုးစြဲသူမ်ားသည္ ၎တို႔၏ မိုက္ခရိုဖုန္းမ်ားအား 2.1.0.47 ေနာက္ပိုင္း ဗားရွင္းမ်ားတြင္ 
+	သံုးစြဲ၍ မရေသာေၾကာင့္ ေအာက္ေဖာ္ျပပါ command မ်ား သံုးခဲ့ၾကသည္။
+
+
+wget - O skype - ubuntu - current _i386.deb nowikihttp://download.skype.com/linux/skype-debian_2,1.0.47-1
+sudo dpkg - i skype - ubuntu - current _ i386 .deb
+sudo rm skype - ubuntu - current_ i386.deb
+
+ေနာက္တစ္နည္း
+
+wget - O skype - ubuntu - current _ amd64 . deb nowikihttp://download.skype.com/linux/skype-ubuntu-intrepid
+sudo dpkg - i skype - ubuntu - current _amd64.deb
+sudo rm skype - ubuntu -current _ amd64.deb
+
+
+How to install Skype on a 64-bit system
+
+Skype အား 64-bit system မ်ားတြင္ install ျပဳလုပ္နည္း 64-bit system အတြက္ Skype ၏ လက္ရွိ version 
+သည္ 32 bit module အား 64 အတြက္ အသံုးျပဳထားျခင္းျဖစ္သည္။ 64 bit system တြင္ install
+ျပဳလုပ္ရန္အတြက္ အျခား package မ်ားအား ဦးစြာ install ျပဳလုပ္ရန္ လိုအပ္သည္။
+
+sudo apt - get install ia32 - libs lib32asound2 libqt4 - core libqt4 - gui
+
+	ၿပီးေနာက္ လက္ရွိ Skype version ၏ .deb package အား Skype website မွ download ျပဳလုပ္၍ 
+	install ျပဳလုပ္ပါ။
+
+wget - O skype _ ubuntu - current _ amd64 . deb nowikihttp://www.skype.com/go/getskype - linux - beta - ubuntu - 64/
+sudo dpkg - i skype - ubuntu - current _ amd64.deb
+sudo rm skype - ubuntu - current _ amd64.deb
+
+အကယ္၍ 64-bit version သည္ သင့္အတြက္ အလုပ္မလုပ္ပါက 32-bit version အား အသံုးျပဳႏိုင္သည္။
+
+wget - O skype - ubuntu - current _i386.deb nowikihttp://www.skype.com/go/getskype - beta - ubuntu - 32/n
+sudo dpkg - i -- force - architecture skype - ubuntu - current _ i386.deb
+sudo rm skype - ubuntu - current_i386.deb
+
+Installing Skype respository
+
+Skype ၏ respository ထည့္သြင္းျခင္းအားျဖင့္လည္း Skype အား install လုပ္ႏုိင္ပါသည္။
+ဤသို႔ျပဳလုပ္ျခင္းျဖင့္ auto update ျပဳလုပ္ေပးသည့္ အက်ဳိးေက်းဇူးရွိပါသည္။
+
+	-Resopsitory security key အား install လုပ္ရန္ (key server အတြက္ သင့္ firewall ၏ port 11371
+	အား ဖြင့္ထားရန္လိုအပ္သည္။
+
+sudo apt - key adv -- keyserver pgp.mit.edu --recv -keys 0xd66b746e
+
+	-Skype repository,update ထည့္ျခင္းႏွင့္ Skype အား install ျပဳလုပ္ျခင္း။
+
+echo nowikideb http://download.skype.com/linux/repos,debian//nowiki stable non - free l   sudo tee - a
+sudo apt -get update
+sudo apt -get install skype
+
+
+
+
+Proprietary Extras
+
+မူပိုင္ခြင့္အရ မွတ္ပံုတင္ထားေသာ ထပ္ေဆာင္း package မ်ား
+
+ူမူပိုင္ခြင့္အရ မွတ္ပံုတင္ထားသည့္ software မ်ားသည္ အင္တာနက္ အသံုးျပဳရာတြင္ 
+မ်ားစြာအေထာက္အကူျပဳပါလိမ့္မည္။ သို႔ေသာ္ လြတ္လပ္စြာ ရယူသံုးစြဲခြင့္မရွိပါ ။ Multimedia Codecs မ်ား၊
+Java Runtime Environment ႏွင့္ Firefox အတြက္ plug-in မ်ားသည္ ထိုကဲ့သို႔ေသာ software မ်ားျဖစ္သည္။
+
+Restricted Extras
+
+ကန္႔သတ္ထားေသာ ထပ္ေဆာင္း package မ်ား
+
+Ubuntu တြင္ ကန္႔သတ္ထားေသာ ထပ္ေဆာင္း package မ်ားကို ထည့္သြင္းလိုလွ်င္ command-line Terminal 
+တြင္  command တစ္ခုတည္း ရိုက္ထည့္ရံုျဖင့္ လုပ္ေဆာင္ႏုိ္င္ပါသည္။ ထုိ package မ်ားတြင္ Adobe Flash 
+Player, Jave Runtime Environment (JRE) (sun-java-jre) ႏွင့္ Firefox plug-in (icedtea) မ်ား ,
+Microsoft မွ ထုတ္ေ၀ေသာ Font တခ်ဳိ႔ (msttcorefonts) ,multimedia codecs (w32codecs or
+w64codecs), mp3 compatible encoding (lame), FFMpeg, extra Gstreamer codecs, DVD
+decoding အတြက္ package မ်ား (libdvdread4,သို႔ေသာ္ အျခား decoder ျဖစ္သည့္ libdvdcss2 ကို
+ရယူလိုပါက ဤေနရာတြင္ၾကည့္ပါ။) ,unrar archiver,odbc ႏွင့္ cabextract  မ်ားပါ၀င္သည္။ ထို႔အျပင္
+အျခားေသာ အက်ဳိးအျမတ္ရယူသည့္ codecs မ်ားႏွင့္ avutils (libavcodec - unstripped - 52 ႏွင့္ libavutil-
+unstripped - 49) မ်ားကိုလည္း ထည့္သြင္းေပးမည္ျဖစ္သည္။
+
+sudo apt -get install ubuntu - restricted - extras  
+
+မွတ္ခ်က္ : ထည့္သြင္းျခင္း လုပ္ငန္းစဥ္အတြက္ command-line Terminal တြင္ လုပ္ေဆာင္ခ်က္မ်ား
+ၿပီးဆံုးမွသာ ျပည့္စံု၍ အလုပ္လုပ္ေဆာင္ႏုိင္မည္ျဖစ္သည္။  ယခုေဖာ္ျပထားေသာ package အားလံုးကို Package
+Manager အသံုးျပဳ၍ ထည့္သြင္းပါက ျပည့္စံုမည္မဟုတ္ပါ။
+
+Photos and Graphics
+
+သင္၏ဓာတ္ပံုမ်ားကို ျပင္ဆင္ထိန္းသိမ္းျခင္း၊ ရင္သပ္ရႈေမာဖြယ္ 3D ပံုမ်ားႏွင့္ ဂရပ္ဖစ္မ်ားကို ဖန္တီးျခင္္း
+သို႔မဟုတ္ Format ဖိုင္အမ်ဳိးအစား ေျပာင္းလဲျခင္းမ်ား ျပဳလုပ္ရန္။
+
+GIMP (Image Manipulator)
+
+Gimp (http://www.gimp.org/) သည္ အစြမ္းထက္ေသာ စြမ္းရည္ျပည့္၀သည့္ free open-source ျဖစ္ပါသည္။
+ဂရစ္ဖစ္မ်ားႏွင့္ ဓာတ္ပံုမ်ားျပင္ဆင္သည့္ Adobe Photoshop ႏွင့္  ဆင္တူေသာ ေဆာ့ဖ္၀ဲျဖစ္ပါသည္။
+
+sudo apt - get install gimp
+
+GIMP အတြက္ သီးသန္႔ brushe မ်ား palette မ်ားႏွင့္ gradiend မ်ားရိွပါသည္။
+
+sudo apt - get install gimp - data - extras
+
+
+Dia (Diagram editor)
+ 
+Dia (http://live.gnome.org/Dia) သည္ Gnome အတြက္ ျပဳလုပ္ထားသည့္ GTK အေျခခံ diagram
+ဖန္တီးသည့္ open source ပရိုဂရမ္ျဖစ္ပါသည္။ Visio ႏွင့္  ဆင္တူပါသည္။
+
+sudo apt - get install dia
+
+
+Kivio (Diagram editor)
+
+Kivio (http://www.koffice.org/kivio/) သည္ flow-chat မ်ားႏွင့္ diagram မ်ားကို ဖန္တီးသည့္  open
+source ပရိုဂရမ္ျဖစ္ၿပီး KDE အတြက္ ျပဳလုပ္ထားသည့္ KOffice Suite တြင္ ပါ၀င္ပါသည္။ Dia
+ဖေယာင္းမိတၱဴမ်ား ျပဳလုပ္၍ ရပါသည္။
+
+sudo apt - get install kivio
+
+
+Inkscape  Vector Illustrator
+
+Inkscape Vector Illustrator (http://www.inkscape.org/) သည္ Illustrator ၊CorelDraw စသည္တုိ႔ႏွင့္ 
+တူညီသည့္ open source  ပံုဆြဲပရိုဂရမ္ျဖစ္ပါသည္။
+
+sudo apt - get install inkscape
+
+
+Digikam (Photo Organiser)
+
+Digikam (http://www.digikam.org) သည္ ဒစ္ဂ်စ္တယ္ ဓာတ္ပံုမ်ားကို ျပင္ဆင္ စုစည္းသိမ္းဆည္းဖို႔
+အလြန္အဆင္ေျပေသာ open source ျဖစ္ပါသည္။ install လုပ္လိုလွ်င္
+
+sudo apt - get install digikam kipi - plugins digikam - doc
+
+
+F -spot (Photo Organiser)
+
+F -spot (http://htpp://f-spot.org/) သည္ ဒစ္ဂ်စ္တယ္ဓာတ္ပံုမ်ားကို ျပင္ဆင္စုစည္းသိမ္းဆည္းဖို႔
+အလြန္အဆင္ေျပေသာ Gnome Desktop အတြက္ ျပဳလုပ္ထားသည့္ open source ျဖစ္သည္။ install
+လုပ္လိုပါက:
+
+sudo apt -get install f-spot
+
+
+Google Picasa (Photo Organiser)
+
+
+Google Picasa (http://picasa.google.com.mm/linux/) သည္ Digikam ကဲ့သို႔ ပင္
+ဓာတ္ပံုျပင္ဆင္သိမ္းဆည္းရန္ျဖစ္ပါသည္။ အြန္လိုင္းအသံုးျပဳထားပါက Google web server သုိ႔ 
+တိုက္ရိုက္ပံုမ်ားကို upload လုပ္ႏုိင္ပါသည္။ အေသးစိ္တ္သိလိုပါက Picasa for Linux FAQ
+(http://picasa.google.com/linux/faq.html) တြင္ ၾကည့္ပါ ။ Picasa 2.7 Download
+(http://picasa.google.com/linux/download.html#picasa27) ေနရာတြင္ ကုိယ္တိုင္ install လုပ္ႏုိင္သည့္
+.deb ဖိုင္ရရွိႏိုင္ပါသည္။
+
+Shotwell (Photo Organiser)
+
+Shotwell (http://www.yorba.org/shotwell/) အလြယ္တကူ ၾကည့္ရႈ ထိန္းခ်ဳပ္ႏိုင္မည့္
+ေဆာ့၀ဲတစ္ခုျဖစ္ပါသည္။  ဤေနရာ (http://www.youba.org/shotwell/install/) တြင္ အေသးစိတ္
+ၾကည့္ရႈႏိုင္ပါသည္။
+
+	Terminal မွ သြင္းရန္
+
+sudo add - apt - repository ppa:yorba/ppa
+sudo apt - get update
+sudo apt - get install shotwell
+
+
+Tesseract (Optical Character Reader)
+
+Tesseract (http://code.google.com/p/tesseract-ocr/) သည္ command-line ျဖင့္ အသံုးျပဳႏိုင္သည့္ optical
+character reader တစ္ခုျဖစ္ပါသည္။ Install  ျပဳလုပ္ရန္:
+
+sudo apt - get install tesseract -ocr
+
+
+Ocropus (http://code.google.com/p/ocropus/) သည္ Tesseract ကို အသံုးျပဳထားသည့္ document -
+analysis engine တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္:
+
+sudo apt -get install ocropus
+
+
+Xsane (Scanning utility)
+
+Xsane (http://www.xsane.org/) သည္ Scan ဖတ္ရန္ အသံုးျပဳႏိုင္သည့္ ေဆာ့၀ဲလ္တစ္မ်ဳိးျဖစ္ပါသည္။
+Xsane ကို  Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command ကို ရိုက္ထည့္ေပးပါ။
+
+sudo apt - get install xsane
+
+
+Gnome - Scan (Scanning Utility)
+
+Gnome - Scan (http://projects.gnome.org/gnome-scan/) သည္ Scan ဖတ္ရန္ အသံုးျပဳႏိုင္သည့္
+ေဆာ့၀ဲလ္တစ္မ်ဳိးျဖစ္ပါသည္။ Gnome - Scan ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command
+ကို ရိုက္ထည့္ပါ။
+
+sudo apt - get install gnomescan 
+
+
+Gwenview (Image Manipulator)
+
+Gwenview (http://gwenview.sourceforget.net/) သည္ KDE တြင္ ဓာတ္ပံုမ်ားၾကည့္ရန္ အသံုးျပဳႏုိင္ေသာ
+ေဆာ့လ္၀ဲ တစ္မ်ဳိးျဖစ္သည္။ ပံုမ်ားကို rotate လုပ္ျခင္း၊ crop လုပ္ျခင္း၊ resize လုပ္ျခင္း စသည့္
+အေျခခံတည္းျဖတ္မႈမ်ားလည္း ျပဳလုပ္ႏုိင္သည္။ Gwenview ကို Kubuntu တြင္ default
+အေနႏွင့္ ထည့္သြင္းထားသည္။ (K menu - Graphics - Gwenview Image Viewer) Gwenview ကို Install
+လုပ္လိုပါက Terminal တြင္ ေအာက္ပါ Command ကို ရိုက္ထည့္ပါ။
+
+sudo apt - get install openclipart
+
+
+Screencasts and Desktop Recording
+
+
+
+
+....................................
+...................................
+................................   Pg 50 အထိ
