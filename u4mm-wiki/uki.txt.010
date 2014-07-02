@@ -50,7 +50,7 @@ Adobe Acrobat Reader for Firefox Plug-in
 
 Read Add Extra Kubuntu Repositories and enable the Natty partner repository :
 
-deb nowikihttp://archive.canonical.com/ubuntu natty partner/nowiki
+deb http://archive.canonical.com/ubuntu natty partner/
 
 ၿပီးပါက Adobe Reader ထည့္သြင္းရန္ :
 
@@ -59,7 +59,7 @@ sudo apt-get install acroread
 သို႕မဟုတ္ပါက ၄င္း plugin အား the Medibuntu repository list တြင္လည္း ရရွိႏိုင္သည္။
 Medibuntu repository အား သင့္ရဲ႕ repository list တြင္ထည့္ရန္ :
 
-deb nowikihttp://packages.medibuntu.org//nowiki natty free non-free
+deb http://packages.medibuntu.org// natty free non-free
 
 ၿပီးပါက Adober Reader ထည့္သြင္းရန္ :
 

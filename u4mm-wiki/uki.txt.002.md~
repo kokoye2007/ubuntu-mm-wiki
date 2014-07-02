@@ -2,19 +2,19 @@ ttp://projects.gnome.org/) ႀကည့္႐ႈ ရယူႏိုင္ပါ�
 
 ##installation ျပဳလုပ္ပံု ၁ (https://launchpad.net/~gnome3-team/+archive/gnome3) :
 
-sudo add-apt-repository ppa:gnome3-team/gnome 3
-sudo apt-get update
-sudo apt-get dist-upgrade
-sudo apt-get install gnome-shell
+	sudo add-apt-repository ppa:gnome3-team/gnome 3
+	sudo apt-get update
+	sudo apt-get dist-upgrade
+	sudo apt-get install gnome-shell
 
         
 ##installation ျပဳလုပ္ပံု ၂ (https://launchpad.net/~ubuntugnometeam) :
 
-sudo add-apt-repository ppa:ubuntugonmeteam/gnome3
-sudo add-apt-repository ppa:ubuntugonmeteam/ppa-gen
-sudo apt-get update
-sudo apt-get install ugr-desktop-g3
-sudo apt-get dist-upgrade
+	sudo add-apt-repository ppa:ubuntugonmeteam/gnome3
+	sudo add-apt-repository ppa:ubuntugonmeteam/ppa-gen
+	sudo apt-get update
+	sudo apt-get install ugr-desktop-g3
+	sudo apt-get dist-upgrade
 
 
 #Ubuntu Screenshots and Screenshots
@@ -24,15 +24,14 @@ Ubuntu 11.04 Unity Desktop (http://www.youtube.com/watch/v=HMztaKt_1_E) and othe
 search-query=ubuntu+11.04aq=f).
 မႀကာမီ ျမန္မာဘာသာ သင္ႀကားပို႕ခ်ခ်က္မ်ား ထည့္သြင္းမည္။
 
-News Application Resources 
+#News Application Resources 
 
-GetDeb (http://www.getdeb.net)- ေနာက္ဆံုးထြက္ရွိေသာ software မ်ားကိုတရား၀င္ထိန္းသိမ္းထားရာ ေနရာမ်ားကဲ့သို႕ ရရွိႏိုင္ျခင္း(သို႕) မရရွိႏိုင္ျခင္း အတူတူျဖစ္သည္။ .deb ဖိုင္ပံုစံ
-ျဖင့္ထည့္သြင္းရန္လြယ္ကူပါသည္။(ဤေနရာတြင္ ဆက္လက္ေလ့လာပါ။Apt and Package Basics).
+GetDeb (http://www.getdeb.net)- ေနာက္ဆံုးထြက္ရွိေသာ software မ်ားကိုတရား၀င္ထိန္းသိမ္းထားရာ ေနရာမ်ားကဲ့သို႕ ရရွိႏိုင္ျခင္း(သို႕) မရရွိႏိုင္ျခင္း အတူတူျဖစ္သည္။ .deb ဖိုင္ပံုစံ ျဖင့္ထည့္သြင္းရန္လြယ္ကူပါသည္။(ဤေနရာတြင္ ဆက္လက္ေလ့လာပါ။Apt and Package Basics).
 Top 100 Open source Applications http://ubuntulinuxhelp.com/top-100-of-the-best-useful-opensource-applications/)
 Linux Alternatives (http://www.linuxalt.com/) 
 See our full list of add-on applications.
 
-Other *buntu guides and help manuals
+##Other *buntu guides and help manuals
 
 Kubuntuguide (http://www.kubuntuguide.info)--Kubuntu သည္ နာမည္ေက်ာ္ႀကားေသာ KDE desktop ကို အသံုးျပဳထားပါသည္။
 

@@ -55,8 +55,8 @@ address book, IRC chat, integrated BitTorrent ႏွင့္ webfeeds မ်ာ
 (http://www.opera.com/browser/download/) လုပ္ၿပီး၊ လမ္းညႊန္ခ်က္မ်ား ဆက္လုပ္ပါ။ သို႕မဟုတ္
 ေအာက္ပါ command မ်ားကို အသံုးျပဳၿပီး Opera repository မွတဆင့္ Install လုပ္ႏိုင္သည္။
 
-echo nowikideb http://deb.opera.com/opera//nowiki stable non-free I sudo tee /etc/apt/sources.list .
-wget -o -nowikihttp://deb.opera.com/archive.key/nowiki I sudo apt-key add - 
+echo deb http://deb.opera.com/opera// stable non-free I sudo tee /etc/apt/sources.list .
+wget -o -http://deb.opera.com/archive.key/ I sudo apt-key add - 
 sudo apt-get install opera
 
 Chromium

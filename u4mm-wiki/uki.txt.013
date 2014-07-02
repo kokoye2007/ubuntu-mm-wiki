@@ -3,13 +3,13 @@ bqt4 - core libqt4 - gui
 	ၿပီးေနာက္ လက္ရွိ Skype version ၏ .deb package အား Skype website မွ download ျပဳလုပ္၍ 
 	install ျပဳလုပ္ပါ။
 
-wget - O skype _ ubuntu - current _ amd64 . deb nowikihttp://www.skype.com/go/getskype - linux - beta - ubuntu - 64/
+wget - O skype _ ubuntu - current _ amd64 . deb http://www.skype.com/go/getskype - linux - beta - ubuntu - 64/
 sudo dpkg - i skype - ubuntu - current _ amd64.deb
 sudo rm skype - ubuntu - current _ amd64.deb
 
 အကယ္၍ 64-bit version သည္ သင့္အတြက္ အလုပ္မလုပ္ပါက 32-bit version အား အသံုးျပဳႏိုင္သည္။
 
-wget - O skype - ubuntu - current _i386.deb nowikihttp://www.skype.com/go/getskype - beta - ubuntu - 32/n
+wget - O skype - ubuntu - current _i386.deb http://www.skype.com/go/getskype - beta - ubuntu - 32/n
 sudo dpkg - i -- force - architecture skype - ubuntu - current _ i386.deb
 sudo rm skype - ubuntu - current_i386.deb
 
@@ -25,7 +25,7 @@ sudo apt - key adv -- keyserver pgp.mit.edu --recv -keys 0xd66b746e
 
 	-Skype repository,update ထည့္ျခင္းႏွင့္ Skype အား install ျပဳလုပ္ျခင္း။
 
-echo nowikideb http://download.skype.com/linux/repos,debian//nowiki stable non - free l   sudo tee - a
+echo deb http://download.skype.com/linux/repos,debian// stable non - free l   sudo tee - a
 sudo apt -get update
 sudo apt -get install skype
 

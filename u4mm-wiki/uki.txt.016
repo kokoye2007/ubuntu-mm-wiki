@@ -12,10 +12,10 @@ mkdir   / kolabtmp
 
 cd / tmp /kolabtmp
 
-! --- wget -r-11-nd--no-parent nowikihttp://files.kolab.org/server/release/kolab-server-
-2.2.2 /ix 86 -debian 4.0 // nowiki ---
+! --- wget -r-11-nd--no-parent http://files.kolab.org/server/release/kolab-server-
+2.2.2 /ix 86 -debian 4.0 //  ---
 
-wget - r - 11 - nd -- no - parent nowikihttp:// files.kolab.org/server/release/kolab - server- 2.2.2 /sources /
+wget - r - 11 - nd -- no - parent http:// files.kolab.org/server/release/kolab - server- 2.2.2 /sources /
 
 Root အေနျဖင့္ sudo-s ကို အသံုးျပဳကာ Kolab အား install ျပဳလုပ္ပါ :
 
@@ -41,7 +41,7 @@ sudo / kolab /bin /openpkg rc all start
 -Manager အား အသံုးျပဳ ၍ bootstrap configuration တြင္ ထည့္သြင္းထားသည့္ password ျဖင့္ web
 administrator interface သို႔ Login ျပဳလုပ္ပါ။
 
-nowikihttp://yourhost.yourdomain.name/admin/nowiki
+http://yourhost.yourdomain.name/admin/
 
 Citadel
 

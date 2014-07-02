@@ -120,7 +120,7 @@ sudo apt - get install libqt4-dbus libqt4-network libqt4-xml
 
 	-ေနာက္ဆံုးထြက္ ဗားရွင္းအား ရယူရန္ႏွင့္ 32 -bit ဗားရွင္းအား download ႏွင့္ install ျပဳလုပ္ရန္
 
-wget - G skype - ubuntu - current _ i386 . deb nowikihttp://www.skype.com/go/get skype - linux - beta - ubuntu - 32/n
+wget - G skype - ubuntu - current _ i386 . deb http://www.skype.com/go/get skype - linux - beta - ubuntu - 32/n
 sudo dpkg - i skype - ubuntu - current _ i386 . deb
 sudo rm skype - ubuntu - current _ i386 . deb
 
@@ -129,13 +129,13 @@ sudo rm skype - ubuntu - current _ i386 . deb
 	သံုးစြဲ၍ မရေသာေၾကာင့္ ေအာက္ေဖာ္ျပပါ command မ်ား သံုးခဲ့ၾကသည္။
 
 
-wget - O skype - ubuntu - current _i386.deb nowikihttp://download.skype.com/linux/skype-debian_2,1.0.47-1
+wget - O skype - ubuntu - current _i386.deb http://download.skype.com/linux/skype-debian_2,1.0.47-1
 sudo dpkg - i skype - ubuntu - current _ i386 .deb
 sudo rm skype - ubuntu - current_ i386.deb
 
 ေနာက္တစ္နည္း
 
-wget - O skype - ubuntu - current _ amd64 . deb nowikihttp://download.skype.com/linux/skype-ubuntu-intrepid
+wget - O skype - ubuntu - current _ amd64 . deb http://download.skype.com/linux/skype-ubuntu-intrepid
 sudo dpkg - i skype - ubuntu - current _amd64.deb
 sudo rm skype - ubuntu -current _ amd64.deb
 

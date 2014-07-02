@@ -20,8 +20,8 @@ Sugar CRM (http://www.sugarcrm.com/crm/download) သည္ ေဖာက္သည
 အေရာင္းအင္အားစုမ်ား (အေရာင္း ၊ေစ်းကြက္ျမွင့္တင္ေရး၊ ေထာက္ပံ့ေရး၊ စီမံခန္႔ခြဲမႈ ၊ အခ်ိန္ခြဲေ၀မႈမ်ား) 
 အၾကားတြင္ ေပါင္းစပ္ညွိႏႈိင္းရာတြင္ သံုးေလ့ရွိသည္။ Sugar CRM အဖြဲ႔အစည္းပံုစံကို
 က်ယ္က်ယ္ျပန္႔ျပန္သံုးစြဲၾကသည္။ LAMP ဆာဗာကို ဦးစြာတပ္ဆင္သင့္သည္။ (sudo tasksel install lamp-
-server ) Sugar CRM ကို /var/www သို႔ ျဖည္ထုတ္ပါ။ ထို႔ေနာက္ nowikihttp:// localhost/SUGAR-
-FOLDER/nowiki သို႔ Logon ၀င္ပါ။ အျခားေရြးခ်ယ္စရာအျဖစ္ SugarCRM ဆာဗာအသစ္ကို LAMP ႏွင့္ 
+server ) Sugar CRM ကို /var/www သို႔ ျဖည္ထုတ္ပါ။ ထို႔ေနာက္ http:// localhost/SUGAR-
+FOLDER/ သို႔ Logon ၀င္ပါ။ အျခားေရြးခ်ယ္စရာအျဖစ္ SugarCRM ဆာဗာအသစ္ကို LAMP ႏွင့္ 
 ွSugarCRM အဖြဲ႔အစည္းပံုစံ အသင့္ပါၿပီး တပ္ဆင္ရန္ (ဘိုင္နာရီ) instrallation
 (http://www.sugarcrm.com/crm/download #installers) ပံုစံျဖင့္လည္း ရႏိုင္ပါသည္။
 
@@ -71,7 +71,7 @@ Oracle Calendar Desktop Client
 oracle အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ ႏွင့္ ေဒတာေဘ့စ္ ႏွင့္ အသံုးျပဳရန္အတြက္ ပုဂၢလိကပိုင္ ျပကၡဒိန္ေဆာ့၀ဲလ္ ျဖစ္သည္ ။
 Oracle Calendar Desktop Client ကို ေဒါင္းလုပ္ဆြဲရန္ 
 
-wget  nowikihttp: // ww.k_state.edu /infotech /calendar /oracle _10 _ clients / DesktopClients/ Linux /cal  linu
+wget  http: // ww.k_state.edu /infotech /calendar /oracle _10 _ clients / DesktopClients/ Linux /cal  linu
 
 
 

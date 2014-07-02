@@ -67,9 +67,9 @@ Ubuntu ထည့္သြင္းျခင္းသည္ Harddisk ေနရာ
 USB drive မွ အသံုးျပဳရန္၊ သို႕မဟုတ္ အျခား Operation System မ်ား အတြင္းမွ softwareတစ္ခုကဲ့သို႕
 အသံုးျပဳရန္)။
 
-#Fresh Installation
+Fresh Installation
 
-##Ubuntu တစ္ခုတည္း သီးသန္႕ထည့္သြင္းျခင္း
+Ubuntu တစ္ခုတည္း သီးသန္႕ထည့္သြင္းျခင္း
 
 (http://www.ubuntu.com/download/ubuntu/download)မွ Ubuntu ၏
 ေနာက္ဆံုးထြက္ရွိထားေသာ IOS အား download ဆြဲယူပါ။
@@ -90,13 +90,13 @@ download) တြင္ ရယူႏိုင္သည္။ ထို ISO တြ
 LiveCD ကို USB flashdrive ေပၚသို႕ (usb-creater-gtk) အသံုးျပဳ၍ ထည့္သြင္းၿပီး ထို flashdrive ကို
 CD drive မပါ၀င္သည့္ ကြန္ပ်ဴတာမ်ားေပၚတြင္ Ubuntu ထည့္သြင္းရန္ အသံုးျပဳႏိုင္သည္။
 
-###Ubuntu Community documentation
+Ubuntu Community documentation
 (https://help.ubuntu.com/community/Installation/FromUSBStick)
 
 
-##Dual-Botting Windows and Ubuntu
+Dual-Botting Windows and Ubuntu
 
-##Windows ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
+Windows ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
 
 ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ Windows ႏွင့္ Ubuntu ယွဥ္တြဲတင္ရာတြင္ အခက္အခဲမ်ားႀကံဳေတြ႕ရႏိုင္ပါသည္။
 Windows ၏ bootloader သည္ Windows သီးသန္႕ကိုသာ ေထာက္ပံ့သည့္အတြက္ ကြန္ပ်ဴတာေပၚတြင္

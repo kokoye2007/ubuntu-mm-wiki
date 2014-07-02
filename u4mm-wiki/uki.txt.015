@@ -43,7 +43,7 @@ rearrange,and print .pdf and .max files. Written in Qt, it is similar in some re
 -Download (http://sourceforge.net/projects/max view 0.7-2/) and install the 
 .deb package (use i386 instead of amd64 if using a 32-bit OS):
 
-wget - O maxview current.deb nowikihttp://sourceforge.net/projects/maxview/files/maxviewo.7-2/maxvie
+wget - O maxview current.deb http://sourceforge.net/projects/maxview/files/maxviewo.7-2/maxvie
 sudo dpkg- i  maxview current .deb
 
 
