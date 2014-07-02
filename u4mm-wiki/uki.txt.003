@@ -1,4 +1,4 @@
-��ပန္စီေသာ လုပ္ငန္းစဥ္ကို လုပ္ေဆာင္ထားပါ။)
+﻿��ပန္စီေသာ လုပ္ငန္းစဥ္ကို လုပ္ေဆာင္ထားပါ။)
 
 Windows ၏ Hard drive partition ကိုခ်ံဳ႕ၿပီးပါက  Ubuntu ကို ထည့္သြင္းရန္သို႕မဟုတ္ Hard disk 
 partition မ်ားကို ထပ္မံျပဳျပင္ေျပာင္းလဲႏိုင္ရန္အတြက္ ကြန္ပ်ဴတာကို reboot ျပန္လုပ္ေပးရပါမည္။
@@ -62,4 +62,4 @@ Installing multiple OS on a single computer
 
 သတိျပဳရန္ း း Ubuntu ထည့္သြင္းေသာလုပ္ငန္းစဥ္အတြင္း ေရြးခ်ယ္စရာအဆင့္တစ္ခုရွိပါသည္ (Ready to
 install > Advanced)။ ၄င္းမွာ GRUBF2 bootloader ကို MBR (Master Boot Record) အား
-ေျပာင္းလဲျခင္းမျပဳလုပ�
+ေျပာင္းလဲျခင္းမျပဳလုပ
