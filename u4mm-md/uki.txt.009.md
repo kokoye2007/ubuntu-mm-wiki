@@ -1,0 +1,91 @@
+္ေစကစားႏိုင္ပါသည္။
+
+	prboom -iwad /home/user/wads/doom2.wad-file /home/user/wads/new_wad.wad
+
+>**မွတ္ခ်က္** `doom2,wad,tnt.wad` သို႕မဟုတ္ `plutonia.wad` တို႕ကိုသာလွ်င္ `iwad` အျဖစ္အသံုးျပဳ၍ ရပါသည္။ သင့္အေနျဖင့္ `wad` အသစ္ထည့္သြင္းအသံုးျပဳလိုပါက အထက္ပါ၃ခုမွ တစ္ခုရွိရပါမည္။ျပႆနာရွိလာပါက `doom2.wad` ကိုသံုးပါ။   
+
+
+>**မွတ္ခ်က္** ဤဂိမ္းအား `Menu -Applications - Ubuntu Software Center -Games` ရွိ Freedom မွ install လုပ္ယူႏိုင္ပါသည္။ သို႕ေသာ္ `timidity` ႏွင့္ `timidity-interfaces-extra` ကို install ျပဳလုပ္ရန္လိုအပ္ပါသည္။
+
+##MMORPG
+
+###Spring
+
+The Spring Project  (http://spring, clan-sy.com) သည္ [Star Wars Imperial Winter](http://www.imperialwinter.com/) ႏွင့္ [Complete Annihilation](http://springrts.com/wiki/Complete_Annihilation#Introduction) တို႕ကဲ့သို႕ အခမဲ့ multiplayer ဂိမ္းမ်ားအား
+ေရးဆြဲျခင္း၊ကစားျခင္းတို႕အတြက္ scripting engine platform ျဖစ္သည္။ Install ျပဳလုပ္ရန္
+
+	sudo apt-get install spring
+
+###Regnum Online
+
+[Regnum Online MMPORG](http://www.regnumonline.com.ar/index.php?sec=61=1) အတြက္ အကူအညီလိုအပ္ပါက အေျခခံ [installation](http://ubuntuforums.org/showthread.php?t=615246) ဲျပဳလုပ္နည္းႏွင့္ [help forum](http://www.regnumonline.com.ar/forum/forumdisplay.php?f=15) တြင္ႀကည့္ပါ။
+
+###PlaneShift 
+
+[PlaneShift](http://www.planeshift.it/) သည္ စိတ္ကူးယဥ္မႈေတြ ျပည့္သိပ္ႏွစ္ၿမဳပ္ေနသည့္ online fantasy ဂိမ္းတစ္ခုျဖစ္သည္။ Client ႏွင့္ patches မ်ားအား [ဒီေနရာတြင္](http://www.planeshift.it/download.html) download လုပ္ႏိုင္ပါသည္။
+
+Download လုပ္ထားေသာ Binary Installation ဖိုင္အား executable ျဖစ္ေအာင္ျပဳလုပ္ပါ။
+
+	cd /directory_where_downloaded
+	chmod +x PlaneShift-v0.5.4-x64.bin
+
+root အေနျဖင့္ executable လုပ္ထားေသာဖိုင္အား run ပါ။
+
+	sudo  ./PlaneShift-v0.5.4-x64.bin
+
+Install လုပ္ရမည့္လမ္းညႊန္ခ်က္မ်ားအား လိုက္နာပါ။Whether to manually set permissions
+ဟုေမးလာပါက no ဟုေျဖေပးပါ။ Install ျပဳလုပ္ေနစဥ္တြင္ အသံုးျပဳသူေတာ္ေတာ္မ်ားမ်ားသည္ ဂိမ္းအား User အားလံုးအသံုးျပဳႏိုင္ရန္ `/opt` တြင္ install လုပ္ျခင္းထက္ user တစ္ဦးတည္း အသံုးျပဳႏိုင္မည့္ `/home directory` တြင္  install ျပဳလုပ္ျခင္းကို ပိုအေလးေပးႀကသည္။ `/opt` တြင္install လုပ္ျခင္းသည္ အလုပ္ပိုျခင္းေႀကာင့္ျဖစ္သည္။ သင့္ user account အား Games Group တြင္ထည့္သြင္းပါ။
+
+	Menu - System - Administration - Users and Groups - user- Manager Groups -games - Properties - Group Members -user (အမွန္ျခစ္ပါ)-OK
+
+Download the updater patch psupdaterlinux64.zip and unzip it to your download directory. Run the updater as root:
+
+	chmod +x psupdater
+	chmod +x psupdater.bin
+	sudo ./psupdater---
+
+[PlaneShift Registration](http://www.planeshift.it/register.html)တြင္ စာရင္းသြင္း၍ အခမဲ့
+အေကာင့္တစ္ခုလုပ္ပါ။ အကယ္၍ သင္သည္ game ကို menu တြင္ထည့္သြင္းထားပါက `Menu - Applications - Lost Found - Client and Setup` တြင္ရွိပါလိမ့္မည္။
+
+Menu မွ run ခ်င္ပါက Run in terminal ကို အမွန္ျခစ္လုပ္ေပးရပါမည္။ Command-line Terminal မွ run ခ်င္ပါက
+
+	sudo /opt/PlaneShift/pssetup
+	sudo /opt/PlaneShift/psclient
+
+>**မွတ္ခ်က္** DSL connection ျဖင့္ 32-bit ဗားရွင္း အသံုးျပဳပါက ေလးပါသည္။
+
+##Internet Applications
+
+သင့္ရဲ႕ Internet connection အား Internet applications မ်ားျဖင့္ အျပည့္အ၀အသံုးျပဳႏိုင္သည္။Web
+browsers,Email clients, Instant Messengers, ႏွင့္ အမ်ိဳးအစားအမ်ားပါ၀င္သည္။
+
+###Web Browsers
+
+####Mozilla Firefox 
+
+[Mozilla Firefox](http://www.mozilla.com/en-US/) သည္ေနရာအမ်ားတြင္ ေတြ႕ရသည့္ web browser ျဖစ္သည္။ open source components တြင္ အေျခခံထားေသာ္လည္း သင္၏ အမည္ သို႕မဟုတ္ ကုန္အမွတ္တံဆိပ္ ပါ၀င္ထားၿပီး တခုခုေျပာင္းလဲထားျခင္းျဖင့္ ထပ္မံ ျဖန္႕ျဖဴးႏိုင္မည္မဟုတ္ပါ။ လက္ရွိသံုးေနေသာ version အားတင္ရန္ -
+
+	sudo apt-get install firefox
+
+####Firefox Plug-ins
+
+#####Adblock Plus plug-in (block ads in a web page)
+
+[Adblock Plus](http://adblockplus.org/en/ ျဖင့္ web pages မ်ားတြင္ Blocks ads လုပ္ႏိုင္သည္။
+သင့္အေနနဲ႕ subscribe လုပ္ျခင္းျဖင့္ အခမဲ႕ Filter Service ႏွင့္ ေႀကာ္ၿငာမ်ားကို တစ္ခ်က္တည္းႏွင့္ပိတ္ရန္ အတြက္ထပ္ေပါင္းႏိုင္ပါသည္။
+
+	sudo apt-get install xul-ext-adblock-plus
+
+သင့္အေနနဲ႕ ၄င္း extension အား add ရန္ Firefox `Tools - Add -on -Get Add -ons -Search All` Add-ons-AdBlock Plus. (ထိုကဲ့သို႕ လုပ္ေဆာင္လွ်င္ firefox အေနျဖင့္ automatic updates
+လုပ္ေဆာင္ေပးလိမ့္မည္။)
+
+[Noscript](http://noscript.net/) သည္ Internet ေပၚတြင္ browsing လုပ္ရာတြင္ Sercuriy တိုင္းတာခ်က္အရ အေရးႀကီးပါ၀င္မႈ တစ္ခုျဖစ္သည္။Scripts မ်ားျဖင့္ Internet မွတဆင့္ Viruses မ်ားႏွင့္ Trojans တို႕သည္ computers သို႕ေရာက္ရွိသည္။၄င္း plugin ျဖင့္ မည္သည့္ scripts အား Allow ႏွင့္ blocks the rest လုပ္မည္ကို ေရြးခ်ယ္ႏိုင္သည္။ ၄င္း extension အား add ရန္ Firefox - `Tools - Add -ons -Get Add-ons -Search All Add -ons-Noscript.` (ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates လုပ္ေဆာင္ေပးလိမ့္မည္။)
+
+#####RefreshBlocker plug-in (prevents redirects)
+
+[RefreshBlocker](https://addons.mozilla.org/en-US/firefox/addon/refreshblocker/) သည္ မည္သည့္ website(and pages)အား redirect(based on  META tags within the webpage ျပဳလုပ္ရန္အတြက္ user မ်ားအား ဆံုးျဖတ္ေပးသည္။သို႕ေပေသာ္လည္း Firefox (as of version 3.5) တြင္ အားလံုး directs လုပ္ျခင္းကို blocks လုပ္သည္မွာ default ျဖစ္သည္။ စိတ္ႀကိဳက္မဟုတ္သည့္အတြက္ေႀကာင့္ firefox redirect control အား  turnoff လုပ္ၿပီး ၄င္းအစား RefreshBlocker သံုးသည္။ သင့္အေနနဲ႕ ၄င္း extension အား add ရန္ Firefox - `Tool -Add-ons-Get Add-ons -Search All Add-ons-RefreshBlocker.`(ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates လုပ္ေဆာင္ေပးလိမ့္မည္။
+
+#####Turn off the Firefox  automatic redirect bloker  
+
+Firefox - Enter about : config in the browser location bar-right-click on
+accessibility:blockautorefresh - Toggle to change the v
