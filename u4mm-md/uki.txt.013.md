@@ -38,9 +38,9 @@ Skype ၏ respository ထည့္သြင္းျခင္းအားျဖ�
 မ်ားစြာအေထာက္အကူျပဳပါလိမ့္မည္။ သို႔ေသာ္ လြတ္လပ္စြာ ရယူသံုးစြဲခြင့္မရွိပါ ။ Multimedia Codecs မ်ား၊
 Java Runtime Environment ႏွင့္ Firefox အတြက္ plug-in မ်ားသည္ ထိုကဲ့သို႔ေသာ software မ်ားျဖစ္သည္။
 
-Restricted Extras
+#Restricted Extras
 
-ကန္႔သတ္ထားေသာ ထပ္ေဆာင္း package မ်ား
+##ကန္႔သတ္ထားေသာ ထပ္ေဆာင္း package မ်ား
 
 Ubuntu တြင္ ကန္႔သတ္ထားေသာ ထပ္ေဆာင္း package မ်ားကို ထည့္သြင္းလိုလွ်င္ command-line Terminal 
 တြင္  command တစ္ခုတည္း ရိုက္ထည့္ရံုျဖင့္ လုပ္ေဆာင္ႏုိ္င္ပါသည္။ ထုိ package မ်ားတြင္ Adobe Flash 
@@ -52,7 +52,7 @@ decoding အတြက္ package မ်ား (libdvdread4,သို႔ေသာ
 အျခားေသာ အက်ဳိးအျမတ္ရယူသည့္ codecs မ်ားႏွင့္ avutils (libavcodec - unstripped - 52 ႏွင့္ libavutil-
 unstripped - 49) မ်ားကိုလည္း ထည့္သြင္းေပးမည္ျဖစ္သည္။
 
-    sudo apt -get install ubuntu - restricted - extras  
+    sudo apt-get install ubuntu-restricted-extras  
 
 မွတ္ခ်က္ : ထည့္သြင္းျခင္း လုပ္ငန္းစဥ္အတြက္ command-line Terminal တြင္ လုပ္ေဆာင္ခ်က္မ်ား
 ၿပီးဆံုးမွသာ ျပည့္စံု၍ အလုပ္လုပ္ေဆာင္ႏုိင္မည္ျဖစ္သည္။  ယခုေဖာ္ျပထားေသာ package အားလံုးကို Package
@@ -65,70 +65,69 @@ Manager အသံုးျပဳ၍ ထည့္သြင္းပါက ျပ�
 
 ##GIMP (Image Manipulator)
 
-Gimp (http://www.gimp.org/) သည္ အစြမ္းထက္ေသာ စြမ္းရည္ျပည့္၀သည့္ free open-source ျဖစ္ပါသည္။
+[Gimp](http://www.gimp.org/) သည္ အစြမ္းထက္ေသာ စြမ္းရည္ျပည့္၀သည့္ free open-source ျဖစ္ပါသည္။
 ဂရစ္ဖစ္မ်ားႏွင့္ ဓာတ္ပံုမ်ားျပင္ဆင္သည့္ Adobe Photoshop ႏွင့္  ဆင္တူေသာ ေဆာ့ဖ္၀ဲျဖစ္ပါသည္။
 
     sudo apt - get install gimp
 
-GIMP အတြက္ သီးသန္႔ brushe မ်ား palette မ်ားႏွင့္ gradiend မ်ားရိွပါသည္။
+###GIMP အတြက္ သီးသန္႔ brushe မ်ား palette မ်ားႏွင့္ gradiend မ်ားရိွပါသည္။
 
-sudo apt - get install gimp - data - extras
+    sudo apt-get install gimp-data-extras
  
 
-Dia (Diagram editor)
+##Dia (Diagram editor)
  
-Dia (http://live.gnome.org/Dia) သည္ Gnome အတြက္ ျပဳလုပ္ထားသည့္ GTK အေျခခံ diagram
+[Dia](http://live.gnome.org/Dia) သည္ Gnome အတြက္ ျပဳလုပ္ထားသည့္ GTK အေျခခံ diagram
 ဖန္တီးသည့္ open source ပရိုဂရမ္ျဖစ္ပါသည္။ Visio ႏွင့္  ဆင္တူပါသည္။
 
 sudo apt - get install dia
 
 
-Kivio (Diagram editor)
+##Kivio (Diagram editor)
 
-Kivio (http://www.koffice.org/kivio/) သည္ flow-chat မ်ားႏွင့္ diagram မ်ားကို ဖန္တီးသည့္  open
-source ပရိုဂရမ္ျဖစ္ၿပီး KDE အတြက္ ျပဳလုပ္ထားသည့္ KOffice Suite တြင္ ပါ၀င္ပါသည္။ Dia
-ဖေယာင္းမိတၱဴမ်ား ျပဳလုပ္၍ ရပါသည္။
+[Kivio](http://www.koffice.org/kivio/) သည္ flow-chat မ်ားႏွင့္ diagram မ်ားကို ဖန္တီးသည့္  open
+source ပရိုဂရမ္ျဖစ္ၿပီး KDE အတြက္ ျပဳလုပ္ထားသည့္ KOffice Suite တြင္ ပါ၀င္ပါသည္။ Dia ဖေယာင္းမိတၱဴမ်ား ျပဳလုပ္၍ ရပါသည္။
 
-sudo apt - get install kivio
+    sudo apt - get install kivio
 
 
-Inkscape  Vector Illustrator
+##Inkscape  Vector Illustrator
 
-Inkscape Vector Illustrator (http://www.inkscape.org/) သည္ Illustrator ၊CorelDraw စသည္တုိ႔ႏွင့္ 
+[Inkscape Vector Illustrator](http://www.inkscape.org/) သည္ Illustrator ၊CorelDraw စသည္တုိ႔ႏွင့္ 
 တူညီသည့္ open source  ပံုဆြဲပရိုဂရမ္ျဖစ္ပါသည္။
 
-sudo apt - get install inkscape
+    sudo apt-get install inkscape
 
 
-Digikam (Photo Organiser)
+##Digikam (Photo Organiser)
 
-Digikam (http://www.digikam.org) သည္ ဒစ္ဂ်စ္တယ္ ဓာတ္ပံုမ်ားကို ျပင္ဆင္ စုစည္းသိမ္းဆည္းဖို႔
+[Digikam](http://www.digikam.org) သည္ ဒစ္ဂ်စ္တယ္ ဓာတ္ပံုမ်ားကို ျပင္ဆင္ စုစည္းသိမ္းဆည္းဖို႔
 အလြန္အဆင္ေျပေသာ open source ျဖစ္ပါသည္။ install လုပ္လိုလွ်င္
 
-sudo apt - get install digikam kipi - plugins digikam - doc
+    sudo apt-get install digikam kipi-plugins digikam-doc
 
 
-F -spot (Photo Organiser)
+#F -spot (Photo Organiser)
 
-F -spot (http://htpp://f-spot.org/) သည္ ဒစ္ဂ်စ္တယ္ဓာတ္ပံုမ်ားကို ျပင္ဆင္စုစည္းသိမ္းဆည္းဖို႔
+[F -spot](http://htpp://f-spot.org/) သည္ ဒစ္ဂ်စ္တယ္ဓာတ္ပံုမ်ားကို ျပင္ဆင္စုစည္းသိမ္းဆည္းဖို႔
 အလြန္အဆင္ေျပေသာ Gnome Desktop အတြက္ ျပဳလုပ္ထားသည့္ open source ျဖစ္သည္။ install
 လုပ္လိုပါက:
 
-sudo apt -get install f-spot
+    sudo apt-get install f-spot
 
 
-Google Picasa (Photo Organiser)
+##Google Picasa (Photo Organiser)
 
 
-Google Picasa (http://picasa.google.com.mm/linux/) သည္ Digikam ကဲ့သို႔ ပင္
+[Google Picasa](http://picasa.google.com.mm/linux/) သည္ Digikam ကဲ့သို႔ ပင္
 ဓာတ္ပံုျပင္ဆင္သိမ္းဆည္းရန္ျဖစ္ပါသည္။ အြန္လိုင္းအသံုးျပဳထားပါက Google web server သုိ႔ 
 တိုက္ရိုက္ပံုမ်ားကို upload လုပ္ႏုိင္ပါသည္။ အေသးစိ္တ္သိလိုပါက Picasa for Linux FAQ
 (http://picasa.google.com/linux/faq.html) တြင္ ၾကည့္ပါ ။ Picasa 2.7 Download
 (http://picasa.google.com/linux/download.html#picasa27) ေနရာတြင္ ကုိယ္တိုင္ install လုပ္ႏုိင္သည့္
 .deb ဖိုင္ရရွိႏိုင္ပါသည္။
 
-Shotwell (Photo Organiser)
+##Shotwell (Photo Organiser)
 
-Shotwell (http://www.yorba.org/shotwell/) အလြယ္တကူ ၾကည့္ရႈ ထိန္းခ်ဳပ္ႏိုင္မည့္
+[Shotwell](http://www.yorba.org/shotwell/) အလြယ္တကူ ၾကည့္ရႈ ထိန္းခ်ဳပ္ႏိုင္မည့္
 ေဆာ့၀ဲတစ္ခုျဖစ္ပါသည္။  ဤေနရာ (http://www.youba.org/shotwell/install/) တြင္ အေသးစိတ္
 ၾကည\E1\80
