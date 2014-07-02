@@ -163,4 +163,5 @@ GNOME Desktop အတြက္ အဆင္သင့္အသံုးျပဳ�
 
 ###Ubuntu Wallpaper
 
-[Maverick Meerkat wallpaper](https://wiki.ubuntu.com/Artwork/Incoming/Maverick)
+[Trusty Tahr Wallpaper](https://www.flickr.com/groups/2535978@N21)
+[Ubuntu Myanmar wallpaper](http://flickr.com/groups/ubuntu-mm-art)
