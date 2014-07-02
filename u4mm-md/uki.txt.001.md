@@ -35,7 +35,7 @@ Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွ
 
 လက္ရွိအသံုးျပဳေနတဲ့ Ubuntu version ကိုၾကည့္ခ်င္ရင္ Terminal ေပၚမွာ ေအာက္ပါအတိုင္းရိုက္ထည့္ၿပီး Enter ႏွိပ္ပါ။
 
-	1sb_release -a
+	lsb_release -a
 
 လက္ရွိအသံုးျပဳေနတဲ့ kernel ကိုၾကည့္ခ်င္ရင္ရင္ေတာ့ Terminal မွာ ေအာက္ပါအတိုင္းရိုက္ထည့္ၿပီး Enter ႏွိပ္ပါ။
 
@@ -50,14 +50,20 @@ Ubuntu ကို ၆လလွ်င္တစ္ႀကိမ္ထုတ္ေ၀
 ##Other Resources 
 
 Ubuntu Forums (http://ubuntuforums.org/) တြင္ အြန္လိုင္းေျဖရွင္းခ်က္မ်ားႏွင့္ အျခားေသာအေသးစိတ္အခ်က္အလက္မ်ားကို ကူညီေပးရန္ အဖြဲ႕အစည္းမ်ားစြာ ရွိပါသည္။
-ျပည္တြင္း အဖြဲ႕အစည္းအေနျဖင့္ Ubuntu for Myanmar (u4mm) (http://u4mm.com/) ရွိၿပီး ျမန္မာဘာသာျဖင့္ Ubuntu အေႀကာင္းေလ့လာႏိုင္ပါမည္။
+ျပည္တြင္း အဖြဲ႕အစည္းအေနျဖင့္ Ubuntu for Myanmar (ubuntu-mm) (http://ubuntu-mm.net/) ရွိၿပီး ျမန္မာဘာသာျဖင့္ Ubuntu အေႀကာင္းေလ့လာႏိုင္ပါမည္။
+####[ubuntu-mm.net](http://ubuntu-mm.net)
+####[ask.ubuntu.com](http://ask.ubuntu.com)
+####[FB Ubuntu-MM Group](http://fb.com/groups/ubuntu4mm)
+####[FB Pages](http://fb.com/ubuntumm)
+####[Ubuntu Myanmar LoCo Team](http://wiki.ubuntu.com/MyanmarTeam)
+####[Ubuntu-MM LoCo](http://loco.ubuntu.com/teams/ubuntu-mm)
 
 ##Ubuntu Resources 
 
 ###Unity Desktop
 
-Unity (http://en.wikipedia.org/wiki/Unity_%28desktop_environment%29) ဆိုသည္မွာ Ubuntu တြင္ အသံုးျပဳသည့္ နဂိုမူလပါေသာ Desktop ပံုစံျဖစ္ပါသည္။ (Gnome) ဂႏုမ္းမွ အသံုးျပဳသည့္ GTK ပလက္ေဖာင္းျဖင့္ အဆင္ေျပသင့္ေတာ္ပါသည္။ netbook မ်ားတြင္ အသံုးျပဳရန္ ဒီဇိုင္းျပဳလုပ္ထားေသာ္လည္း အျခားေသာ စက္ပစၥည္းအမ်ိဳးအစားမ်ားတြင္ပါ အသံုး၀င္ေစရန္ canonical မွ ျပင္ဆင္ေပးထားပါသည္။
+[Unity](http://en.wikipedia.org/wiki/Unity_%28desktop_environment%29) ဆိုသည္မွာ Ubuntu တြင္ အသံုးျပဳသည့္ နဂိုမူလပါေသာ Desktop ပံုစံျဖစ္ပါသည္။ (Gnome) ဂႏုမ္းမွ အသံုးျပဳသည့္ GTK ပလက္ေဖာင္းျဖင့္ အဆင္ေျပသင့္ေတာ္ပါသည္။ netbook မ်ားတြင္ အသံုးျပဳရန္ ဒီဇိုင္းျပဳလုပ္ထားေသာ္လည္း အျခားေသာ စက္ပစၥည္းအမ်ိဳးအစားမ်ားတြင္ပါ အသံုး၀င္ေစရန္ canonical မွ ျပင္ဆင္ေပးထားပါသည္။
 
 ###Gnome Project 
 
-Gnome 3 (http://www.gnome.org/) သည္ Ubuntu အတြက္ ပံုစံအသစ္အေနျဖင့္ ရယူႏိုင္ပါသည္။ Gnome လုပ္ငန္းစဥ္မ်ား (http://projects.gnome.org/) ႀကည့္႐ႈ ရယူႏိုင္ပါသည္။
+[Gnome 3](http://www.gnome.org/) သည္ Ubuntu အတြက္ ပံုစံအသစ္အေနျဖင့္ ရယူႏိုင္ပါသည္။ Gnome လုပ္ငန္းစဥ္မ်ား (http://projects.gnome.org/) ႀကည့္႐ႈ ရယူႏိုင္ပါသည္။
