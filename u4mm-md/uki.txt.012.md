@@ -119,10 +119,11 @@ sudo rm skype-ubuntu-current_i386.deb
 
 ###ေနာက္တစ္နည္း
 
+```
 wget -O skype-ubuntu-current_amd64.deb http://download.skype.com/linux/skype-ubuntu-intrepid
 sudo dpkg -i skype-ubuntu-current_amd64.deb
 sudo rm skype-ubuntu-current_amd64.deb
-
+```
 
 ###How to install Skype on a 64-bit system
 
