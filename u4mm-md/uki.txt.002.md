@@ -35,7 +35,7 @@ See our full list of add-on applications.
 - [Lubuntu](https://wiki.ubuntu.com/Lubuntu) သည္ RAM 256Mb ႏွင့္ပင္ အသံုးျပဳႏိုင္ပါသည္။ အိုေဟာင္းေနေသာ စက္မ်ားႏွင့္ပင္ သင့္ေတာ္ပါသည္။
 - [Offical Ubuntu Server Guide](https://help.ubuntu.com/10.04/serverguide/C/index.html) Ubuntu server လမ္းညႊန္ - server packages မ်ားအတြက္ ေကာင္းမြန္ေသာ ကိုးကားမႈျဖစ္ပါသည္။
 - [Ubuntu Doctors Guide](http://www.ubuntudoctorsguild.org/) က်န္းမာေရးႏွင့္သက္ဆိုင္ေသာ ေနရာမ်ားတြင္သံုးေသာ (K)ubuntu Linux မ်ားအတြက္
-စုစည္းထားေသာလမ္းညႊန္ခ်က္မ်ား
+စုစည္းထားေသာ လမ္းညႊန္ခ်က္မ်ား
 - [SkoleLinux](http://www.slx.no/en/take-a-tour) -- Debian/Ubuntu Linux (open-source) မ်ားအတြက္ ပညာရပ္ဆိုင္ရာမ်ား စုစည္းထားမႈ
 
 

@@ -31,7 +31,7 @@ Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွ
 
 တကယ္လို႕ ၆၄ ဘစ္ ဗားရွင္းစနစ္ကို အသံုးျပဳမယ္ဆိုရင္ i386 ကို amd64 နဲ႕ အစားထိုးရမွာ ျဖစ္ပါသည္။
 
-#Other Versions
+##Other Versions
 
 လက္ရွိအသံုးျပဳေနတဲ့ Ubuntu version ကိုၾကည့္ခ်င္ရင္ Terminal ေပၚမွာ ေအာက္ပါအတိုင္းရိုက္ထည့္ၿပီး Enter ႏွိပ္ပါ။
 
@@ -41,23 +41,23 @@ Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွ
 
 	uname -a
 
-#Newer Versions  of Ubuntu 
+##Newer Versions  of Ubuntu 
 
 Ubuntu ကို ၆လလွ်င္တစ္ႀကိမ္ထုတ္ေ၀ၿပီး ႏွစ္စဥ္ ဧၿပီလႏွင့္ေအာက္တိုဘာလတို႕တြင္ ထုတ္ေ၀ပါသည္။ Oneiric Ocelot (11.10) (http://ubuntuguide.org/wiki/Ubuntu:Oneiric), မ်ားမႀကာမီ ေနာက္ဆံုးထြက္ေပၚမည့္ Oneiric ကို ၂၀၁၁ခုႏွစ္ ေအာက္တိုဘာလတြင္ အခမဲ့ ရယူႏိုင္မည္ျဖစ္ပါသည္။သို႕ရာတြင္ ၄င္းသည္ ကာလရွည္ႀကာ ေထာက္ပံ့မႈေပးသည့္ LTS Version မဟုတ္ပါ။
 
-#Older Versions of Ubuntu
+##Older Versions of Ubuntu
 
-#Other Resources 
+##Other Resources 
 
 Ubuntu Forums (http://ubuntuforums.org/) တြင္ အြန္လိုင္းေျဖရွင္းခ်က္မ်ားႏွင့္ အျခားေသာအေသးစိတ္အခ်က္အလက္မ်ားကို ကူညီေပးရန္ အဖြဲ႕အစည္းမ်ားစြာ ရွိပါသည္။
 ျပည္တြင္း အဖြဲ႕အစည္းအေနျဖင့္ Ubuntu for Myanmar (u4mm) (http://u4mm.com/) ရွိၿပီး ျမန္မာဘာသာျဖင့္ Ubuntu အေႀကာင္းေလ့လာႏိုင္ပါမည္။
 
-#Ubuntu Resources 
+##Ubuntu Resources 
 
-##Unity Desktop
+###Unity Desktop
 
 Unity (http://en.wikipedia.org/wiki/Unity_%28desktop_environment%29) ဆိုသည္မွာ Ubuntu တြင္ အသံုးျပဳသည့္ နဂိုမူလပါေသာ Desktop ပံုစံျဖစ္ပါသည္။ (Gnome) ဂႏုမ္းမွ အသံုးျပဳသည့္ GTK ပလက္ေဖာင္းျဖင့္ အဆင္ေျပသင့္ေတာ္ပါသည္။ netbook မ်ားတြင္ အသံုးျပဳရန္ ဒီဇိုင္းျပဳလုပ္ထားေသာ္လည္း အျခားေသာ စက္ပစၥည္းအမ်ိဳးအစားမ်ားတြင္ပါ အသံုး၀င္ေစရန္ canonical မွ ျပင္ဆင္ေပးထားပါသည္။
 
-##Gnome Project 
+###Gnome Project 
 
 Gnome 3 (http://www.gnome.org/) သည္ Ubuntu အတြက္ ပံုစံအသစ္အေနျဖင့္ ရယူႏိုင္ပါသည္။ Gnome လုပ္ငန္းစဥ္မ်ား (http://projects.gnome.org/) ႀကည့္႐ႈ ရယူႏိုင္ပါသည္။
