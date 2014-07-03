@@ -1,6 +1,3 @@
-/www.codetorment.com/2009/11/02/tutorial - getting - started -with -arduino -ide -on- linux-
-ubuntu - 9- 10/)
-
 ## La TeX##
 
 [La TeX](http://www.latex.project.org/) is a LaTeX is a free high- quality typesetting sytstem for the production of technical and scientific documention.
