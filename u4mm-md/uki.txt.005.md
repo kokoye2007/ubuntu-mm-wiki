@@ -162,5 +162,7 @@ GNOME Desktop အတြက္ အဆင္သင့္အသံုးျပဳ�
 အျခားေသာ အသံုးျပဳ ေဆာ့၀ဲေတြ (appalication) မ်ားပါရွိပါသည္။
 
 ###Ubuntu Wallpaper
+[Ubuntu wallpaper](https://www.flickr.com/groups/ubuntuwallpaper/)
+[Trusty Tahr Wallpaper](https://www.flickr.com/groups/2535978@N21)
+[Ubuntu Myanmar wallpaper](http://flickr.com/groups/ubuntu-mm-art)
 
-[Maverick Meerkat wallpaper](https://wiki.ubuntu.com/Artwork/Incoming/Maverick)
