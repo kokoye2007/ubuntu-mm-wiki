@@ -1206,34 +1206,34 @@ Ubuntu တြင္ ကန္႔သတ္ထားေသာ ထပ္ေဆာ�
     sudo apt-get install gimp-data-extras
  
 
-####Dia (Diagram editor)
+###Dia (Diagram editor)
  
 [Dia](http://live.gnome.org/Dia) သည္ Gnome အတြက္ ျပဳလုပ္ထားသည့္ GTK အေျခခံ diagram
 ဖန္တီးသည့္ open source ပရိုဂရမ္ျဖစ္ပါသည္။ Visio ႏွင့္  ဆင္တူပါသည္။
 
 sudo apt-get install dia
 
-####Kivio (Diagram editor)
+###Kivio (Diagram editor)
 
 [Kivio](http://www.koffice.org/kivio/) သည္ flow-chat မ်ားႏွင့္ diagram မ်ားကို ဖန္တီးသည့္  open source ပရိုဂရမ္ျဖစ္ၿပီး KDE အတြက္ ျပဳလုပ္ထားသည့္ KOffice Suite တြင္ ပါ၀င္ပါသည္။ Dia ဖေယာင္းမိတၱဴမ်ား ျပဳလုပ္၍ ရပါသည္။
 
     sudo apt-get install kivio
 
-####Inkscape  Vector Illustrator
+###Inkscape  Vector Illustrator
 
 [Inkscape Vector Illustrator](http://www.inkscape.org/) သည္ Illustrator ၊CorelDraw စသည္တုိ႔ႏွင့္ 
 တူညီသည့္ open source  ပံုဆြဲပရိုဂရမ္ျဖစ္ပါသည္။
 
     sudo apt-get install inkscape
 
-####Digikam (Photo Organiser)
+###Digikam (Photo Organiser)
 
 [Digikam](http://www.digikam.org) သည္ ဒစ္ဂ်စ္တယ္ ဓာတ္ပံုမ်ားကို ျပင္ဆင္ စုစည္းသိမ္းဆည္းဖို႔
 အလြန္အဆင္ေျပေသာ open source ျဖစ္ပါသည္။ install လုပ္လိုလွ်င္
 
     sudo apt-get install digikam kipi-plugins digikam-doc
 
-####F -spot (Photo Organiser)
+###F -spot (Photo Organiser)
 
 [F -spot](http://htpp://f-spot.org/) သည္ ဒစ္ဂ်စ္တယ္ဓာတ္ပံုမ်ားကို ျပင္ဆင္စုစည္းသိမ္းဆည္းဖို႔
 အလြန္အဆင္ေျပေသာ Gnome Desktop အတြက္ ျပဳလုပ္ထားသည့္ open source ျဖစ္သည္။ install
@@ -1242,7 +1242,7 @@ sudo apt-get install dia
     sudo apt-get install f-spot
 
 
-####Google Picasa (Photo Organiser)
+###Google Picasa (Photo Organiser)
 
 [Google Picasa](http://picasa.google.com.mm/linux/) သည္ Digikam ကဲ့သို႔ ပင္
 ဓာတ္ပံုျပင္ဆင္သိမ္းဆည္းရန္ျဖစ္ပါသည္။ အြန္လိုင္းအသံုးျပဳထားပါက Google web server သုိ႔ 
@@ -1251,7 +1251,7 @@ sudo apt-get install dia
 (http://picasa.google.com/linux/download.html#picasa27) ေနရာတြင္ ကုိယ္တိုင္ install လုပ္ႏုိင္သည့္
 .deb ဖိုင္ရရွိႏိုင္ပါသည္။
 
-####Shotwell (Photo Organiser)
+###Shotwell (Photo Organiser)
 
 [Shotwell](http://www.yorba.org/shotwell/) အလြယ္တကူ ၾကည့္ရႈ ထိန္းခ်ဳပ္ႏိုင္မည့္ ေဆာ့၀ဲတစ္ခုျဖစ္ပါသည္။  ဤေနရာ (http://www.youba.org/shotwell/install/) တြင္ အေသးစိတ္ ၾကည့္ရႈပါ။
 
@@ -1261,7 +1261,7 @@ sudo apt-get install dia
     sudo apt-get update
     sudo apt-get install shotwell
 
-####Tesseract (Optical Character Reader)
+###Tesseract (Optical Character Reader)
 
 Tesseract (http://code.google.com/p/tesseract-ocr/) သည္ command-line ျဖင့္ အသံုးျပဳႏိုင္သည့္ optical character reader တစ္ခုျဖစ္ပါသည္။ Install  ျပဳလုပ္ရန္:
 
@@ -1271,14 +1271,14 @@ Tesseract (http://code.google.com/p/tesseract-ocr/) သည္ command-line ျ�
 
     sudo apt-get install ocropus
 
-####Xsane (Scanning utility)
+###Xsane (Scanning utility)
 
 [Xsane](http://www.xsane.org/) သည္ Scan ဖတ္ရန္ အသံုးျပဳႏိုင္သည့္ ေဆာ့၀ဲလ္တစ္မ်ဳိးျဖစ္ပါသည္။ Xsane ကို  Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command ကို ရိုက္ထည့္ေပးပါ။
 
     sudo apt-get install xsane
 
 
-####Gnome - Scan (Scanning Utility)
+###Gnome - Scan (Scanning Utility)
 
 [Gnome - Scan](http://projects.gnome.org/gnome-scan/) သည္ Scan ဖတ္ရန္ အသံုးျပဳႏိုင္သည့္
 ေဆာ့၀ဲလ္တစ္မ်ဳိးျဖစ္ပါသည္။ Gnome - Scan ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command
@@ -1287,13 +1287,13 @@ Tesseract (http://code.google.com/p/tesseract-ocr/) သည္ command-line ျ�
     sudo apt-get install gnomescan 
 
 
-####Gwenview (Image Manipulator)
+###Gwenview (Image Manipulator)
 
 Gwenview (http://gwenview.sourceforget.net/) သည္ KDE တြင္ ဓာတ္ပံုမ်ားၾကည့္ရန္ အသံုးျပဳႏုိင္ေသာေဆာ့လ္၀ဲ တစ္မ်ဳိးျဖစ္သည္။ ပံုမ်ားကို rotate လုပ္ျခင္း၊ crop လုပ္ျခင္း၊ resize လုပ္ျခင္း စသည့္အေျခခံတည္းျဖတ္မႈမ်ားလည္း ျပဳလုပ္ႏုိင္သည္။ Gwenview ကို Kubuntu တြင္ defaultအေနႏွင့္ ထည့္သြင္းထားသည္။ (K menu - Graphics - Gwenview Image Viewer) Gwenview ကို Installလုပ္လိုပါက Terminal တြင္ ေအာက္ပါ Command ကို ရိုက္ထည့္ပါ။
 
     sudo apt-get install openclipart
 
-####Screencasts and Desktop Recording
+##Screencasts and Desktop Recording
 
 Coming Soon!!!
 
