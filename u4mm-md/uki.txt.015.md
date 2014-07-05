@@ -44,7 +44,7 @@ Start Max View in a GUI by creating a menu item with the Command: maxview
 
 [PDF edit](http://pdfedit.petricek.net/en/index.html) is a free (GPL - licensed), Qt - based PDF  file editing and manipulation program that uses a GUI for editing.Install:
 
-	sudo apt-get install pdf edit
+	sudo apt-get install pdfedit
 
 ####Import PDF files into a word processor
 

@@ -75,7 +75,7 @@ System ၏ လုပ္ေဆာင္ခ်က္မ်ား တိုးတ�
 
 -GTK အား အေျချပဳထားေသာ Bootup - Manager အား Install ျပဳလုပ္ရန္
 
-	sudo apt - get install bum
+	sudo apt-get install bum
 
 	
 ##Bootup-Manager အား အသံုးျပဳရန္#
@@ -87,6 +87,6 @@ System ၏ လုပ္ေဆာင္ခ်က္မ်ား တိုးတ�
 
 (password စသည့္ )တံု႔ျပန္ေမးခြန္းမ်ား ေမးျမန္းျခင္းမ်ားအား ေျဖဆိုရန္ script တိုေလးမ်ားအား Menu item ထဲတြင္ ထည့္သြင္းႏိုင္ပါသည္။ ေအာက္တြင္ SSH Negotiation ျပဳလုပ္စဥ္ password ထည့္ေပးႏိုင္သည့္ ဥပမာအား ေဖာ္ျပေပးထားပါသည္။ ပထမဦးစြာ အသံုး၀င္  [expect](http://linux.die.net/man/1/expect) program အား install ျပဳလုပ္ပါ။
 
-	sudo apt -get install expect
+	sudo apt-get install expect
 
 Menu item တြင္ shortcut (သို႔) command အသံုးျပဳျခင္း ျဖစ္ပါသည္။

@@ -4,7 +4,7 @@ You can make a LiveCD on a USB pendrive using USB Creator and either a LiveCD or
 version of the LiveCD stored on your hard drive. USB Creator is installed by default in Ubuntu.
 If not,install:
 
-	sudo apt - get install usb -creator-gtk
+	sudo apt-get install usb-creator-gtk
 
 -Run:
 
@@ -59,7 +59,7 @@ Grub2 background image,colors,fonts
 -ေရြးခ်ယ္ထားေသာ splashimage မ်ားကို `/usr/share/image/grub` ဖိုင္တြဲတြင္ ထည့္သြင္း၍ 
   အသံုးျပဳႏိုင္သည္။
 
-	sudo apt - get install grub2-splashimages
+	sudo apt-get install grub2-splashimages
 
 -အသံုးျပဳလိုေသာ ပံုရိပ္တစ္ခုကို `/boot/grub` ဖို္င္တြဲတြင္ ထည့္၍ splashimage အေနျဖင့္အသံုးျပဳႏိုင္သည္။ ဥပမာ
 
@@ -83,7 +83,7 @@ Grub2 background image,colors,fonts
 
 Boot partition တစ္ခုႏွင့္ အသံုးျပဳရန္ GRUB ၏ version အေဟာင္းျဖစ္သည့္ (Grub [Legacy](http://www.gnu.org/software/grub/manual/legacy/grub.html) ကို ရယူႏုိင္သည္။ Grub Legacy ကို ထည့္သြင္းရန္အတြက္
 
-	sudo apt - get install grub
+	sudo apt-get install grub
 
 -အကယ္၍ သင့္ကြန္ပ်ဴတာတြင္ operation system တစ္ခုထပ္ပိုရွိေနပါက multiple operation systems (OS) ျဖစ္ေနၿပီး သင္သည္ Grub Legacy boot manager ကို သံုးစြဲဖူးၿပီး ျဖစ္ေကာင္းျဖစ္ႏုိင္သည္။ Grub Legacy ၏ option မ်ားကို menu.1st configuration file တြင္ တည္းျဖတ္ျပင္ဆင္ႏုိင္သည္။ အေသးစိတ္ကို ၾကည့္ရႈႏိုင္သည္။
 

@@ -27,8 +27,8 @@ Skype ၏ respository ထည့္သြင္းျခင္းအားျဖ�
 ###Skype repository,update ထည့္ျခင္းႏွင့္ Skype အား install ျပဳလုပ္ျခင္း။
 
     echo deb http://download.skype.com/linux/repos,debian/ stable non-free l   sudo tee - a
-    sudo apt -get update
-    sudo apt -get install skype
+    sudo apt-get update
+    sudo apt-get install skype
 
 ##Proprietary Extras
 
@@ -68,7 +68,7 @@ Manager အသံုးျပဳ၍ ထည့္သြင္းပါက ျပ�
 [Gimp](http://www.gimp.org/) သည္ အစြမ္းထက္ေသာ စြမ္းရည္ျပည့္၀သည့္ free open-source ျဖစ္ပါသည္။
 ဂရစ္ဖစ္မ်ားႏွင့္ ဓာတ္ပံုမ်ားျပင္ဆင္သည့္ Adobe Photoshop ႏွင့္  ဆင္တူေသာ ေဆာ့ဖ္၀ဲျဖစ္ပါသည္။
 
-    sudo apt - get install gimp
+    sudo apt-get install gimp
 
 ###GIMP အတြက္ သီးသန္႔ brushe မ်ား palette မ်ားႏွင့္ gradiend မ်ားရိွပါသည္။
 
@@ -80,7 +80,7 @@ Manager အသံုးျပဳ၍ ထည့္သြင္းပါက ျပ�
 [Dia](http://live.gnome.org/Dia) သည္ Gnome အတြက္ ျပဳလုပ္ထားသည့္ GTK အေျခခံ diagram
 ဖန္တီးသည့္ open source ပရိုဂရမ္ျဖစ္ပါသည္။ Visio ႏွင့္  ဆင္တူပါသည္။
 
-sudo apt - get install dia
+sudo apt-get install dia
 
 
 ##Kivio (Diagram editor)
@@ -88,7 +88,7 @@ sudo apt - get install dia
 [Kivio](http://www.koffice.org/kivio/) သည္ flow-chat မ်ားႏွင့္ diagram မ်ားကို ဖန္တီးသည့္  open
 source ပရိုဂရမ္ျဖစ္ၿပီး KDE အတြက္ ျပဳလုပ္ထားသည့္ KOffice Suite တြင္ ပါ၀င္ပါသည္။ Dia ဖေယာင္းမိတၱဴမ်ား ျပဳလုပ္၍ ရပါသည္။
 
-    sudo apt - get install kivio
+    sudo apt-get install kivio
 
 
 ##Inkscape  Vector Illustrator

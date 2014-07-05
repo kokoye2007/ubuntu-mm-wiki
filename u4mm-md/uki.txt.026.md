@@ -6,11 +6,11 @@ John the Ripper သည္ Dictionary ၏ password မ်ားအား ဖ်�
 ဤ program သည္ က်ယ္က်ယ္ျပန္႔ျပန္႔ႏွင့္ လြယ္လင့္တကူ ရႏိုင္ေသာေၾကာင့္ ျဖစ္ၿပီး  မိမိ၏ ကြန္ျပဴတာ ႏွင့္ LAN ၏  password မ်ားအား  စစ္ေဆးျခင္း၊ လံုျခံဳေအာင္ ျပဳလုပ္ျခင္းမ်ားအတြက္လည္း ၏
 အသံုး၀င္ေသာေၾကာင့္ျဖစ္သည္။ Install ျပဳလုပ္ရန္
 
-	sudo apt - get install john
+	sudo apt-get install john
 
 [Passwdqc](http://www.openwall.com/passwdqc/) သည္ password မ်ား၏ ၾကံ့ခိုင္မႈအားအတည္ျပဳေပးရန္အတြက္ သံုးေသာ module တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္
 
-	sudo apt - get install passwdqc
+	sudo apt-get install passwdqc
 
 
 #MD5Sum#

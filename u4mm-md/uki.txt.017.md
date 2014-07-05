@@ -25,7 +25,7 @@ Sugar CRM ကို `/var/www` သို႔ ျဖည္ထုတ္ပါ။ �
 
 Evolution Exchange သည္ MS  Exchange 2000 2003 သို႔ (Outlook Web Access ) ကို အသံုးျပဳ၍ ဆက္သြယ္ႏုိင္သည္။ Install -
 
-	sudo apt - get install evolution - exchange
+	sudo apt-get install evolution-exchange
 
 ####Kontact Personal Information Manager
 
@@ -71,7 +71,7 @@ GUI ျဖင့္ ထည့္သြင္းမႈကို စတင္ပ�
 
 [DA Vi Cal](http://wiki. davical. org/ w/ Main_ Page) သည္ [CalDAV](http://en.wikipedia.org/wiki/CalDAV), postgre SQL, Apache php တို႔ကို အေျခခံထားၿပီး MozillaThunderbird/Lightning/Sunbird,Evolution ႏွင့္ အျခားေသာ ျပကၡဒိန္ client မ်ားျဖင့္ ေကာင္းစြာအလုပ္လုပ္ႏိုင္သည္။ install-
 
-	sudo apt - get install davical
+	sudo apt-get install davical
 
 [အေသးစိတ္အခ်က္အလက္မ်ား](http://wiki.davical.org/w/Ubunty_Maverick)
 
@@ -79,7 +79,7 @@ GUI ျဖင့္ ထည့္သြင္းမႈကို စတင္ပ�
 
 [Darwin Calendar Server](http://trac.calendarserver.org/) ျပကၡဒိန္ ဆာဗာသည္ Apple ၏ [CalDAV](http://en.wikipedia.org/wiki/CalDAV ) ပြင့္လင္းရင္းျမစ္ port ကို အေျခခံထားေသာ ျပကၡဒိန္ဆာဗာ ျဖစ္ၿပီး  Mozilla Thunderbird/ Lightening/ Sunbird/ Evolution ႏွင့္ အျခားေသာ ျပကၡဒိန္ client မ်ားျဖင့္ ေကာင္းစြာအလုပ္လုပ္ႏုိင္သည္။ ရွင္း ၁.၂ ကို သိမ္းဆည္းထားေသာ ေနရာမ်ားမွ တပ္ဆင္ရန္မွာ (အေသးစိ္တ္ညႊန္ၾကားခ်က္မ်ားကို ၀က္ဘ္ဆိုက္တြင္ ၾကည့္ရႈပါ။ )
 
-	sudo apt - get install calendarserver
+	sudo apt-get install calendarserver
 
 
 #####WebCalaendar

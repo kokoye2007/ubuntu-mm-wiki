@@ -9,9 +9,9 @@ xt 3   defaults , rw  0  0
 
 	cd /tmp/kolabtmp
 
-	wget -r-11-nd--no-parent http://files.kolab.org/server/release/kolab-server-2.2.2/ix 86-debian4.0
+	wget -r -11 -nd --no-parent http://files.kolab.org/server/release/kolab-server-2.2.2/ix 86-debian4.0
 	
-	wget - r - 11 - nd -- no - parent http:// files.kolab.org/server/release/kolab - server- 2.2.2 /sources /
+	wget -r -11 -nd --no-parent http://files.kolab.org/server/release/kolab-server-2.2.2/sources/
 
 Root အေနျဖင့္ sudo-s ကို အသံုးျပဳကာ Kolab အား install ျပဳလုပ္ပါ :
 
@@ -40,15 +40,15 @@ administrator interface သို႔ Login ျပဳလုပ္ပါ။
 
 #####Install the Citadel server:
 
-	sudo apt - get install citadel - server
+	sudo apt-get install citadel-server
 
 #####Install the Citadel client:
 
-	sudo apt - get install citadel - client
+	sudo apt-get install citadel-client
 
 #####Install both:
 
-	sudo apt - get install citadel -suite
+	sudo apt-get install citadel-suite
 
 ####eGroupware
 

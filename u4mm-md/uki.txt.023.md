@@ -120,9 +120,9 @@ Network Manager သည္ ubuntu တြင္ ပံုမွန္အေနျ�
 to be faster and more stable than Network Manager. To avoid networking conflicts, Wicd
 requires the removal of Network Manager prior to installation.
 
-	sudo apt - get remove network-manager
+	sudo apt-get remove network-manager
 	sudo reboot
-	sudo apt - get install wicd
+	sudo apt-get install wicd
 
 
 ##Set a static IP address##
@@ -132,7 +132,7 @@ only use only a wire interface, you do not neekd a network manager and it can be
 
 -Remove Network Manager:
 
-	sudo apt - get remove network-manager
+	sudo apt-get remove network-manager
 	sudo reboots
 
 -Edit the /etc /network/interfaces files:

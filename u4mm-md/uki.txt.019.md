@@ -1,6 +1,6 @@
 is an open source wiki engin used by many small to medium size companies internally. မၾကာမွီျပင္ဆင္ျဖည့္စြတ္မည္။
 
-	sudo  apt- get  install   twiki
+	sudo  apt-get  install   twiki
 
 ####Moin Moin
 
@@ -35,7 +35,7 @@ page တြင္ ေဖာ္ျပထားသည့္ လမ္းညႊန�
 
 Drupal6 အား package အျဖစ္ရယူႏိုင္ၿပီး  `command - line terminal` မွ လည္းရရွိႏိုင္သည္။
 
-	sudo apt - get install drupal6
+	sudo apt-get install drupal6
 
 install ျပဳလုပ္ၿပီးပါက( ျဖစ္လာႏုိင္သည့္  ျပသနာအနည္းငယ္အား ေအာက္တြင္ေဖာ္ျပထားသည္ ) apache2
 server အား restart ျပဳလုပ္ပါ။
@@ -72,7 +72,7 @@ mail server တြင္ Drupal6 အား အသံုးမျပဳပါက 
 [WordPress](http://wordpress.org/) သည္ အစပိုင္းတြင္ Blog ေရးရာတြင္ အသံုးျပဳသည့္ tool အျဖစ္မွ ေနာက္ပိုင္းတြင္ online စာေပေရးသားထုတ္ျပန္ရာတြင္ လိုအပ္သည့္ လိုအပ္ခ်က္မ်ားကိုပါ ေပါင္းစပ္ေပးထားေသာ လူၾကိဳက္မ်ားသည့္ open source web content manager တစ္ခုျဖစ္သည္။ Blogger မ်ားႏွင့္ website အေသးစားမွ အလယ္အလတ္ အရြယ္အစားမ်ားအတြက္ Wordpress မွ ျမန္ႏႈန္းျမင့္ install ျပဳလုပ္ျခင္းႏွင့္ module မ်ားျဖင့္ တန္ဆာဆင္ျခင္းမ်ားအား ေထာက္ပံ့ေပးထားပါသည္။ Wordpress အတြက္
 LAMP server အား ဦးစြာ install ျပဳလုပ္ထားရန္လိုအပ္ပါသည္။ ထို႔ေနာက္ install လုပ္ရန္
 
-	sudo apt - get install wordpress
+	sudo apt-get install wordpress
 
 -Wordpress ႏွင့္ တြဲဖက္အသံုးျပဳရန္အတြက္ သင့္ Apache2 ၏ www folder မွ install ျပဳလုပ္မည့္ 
 folder သို႔ သေကၤတ link ျပဳလုပ္ရမည္ျဖစ္ၿပီး  Localhost အမည္ျဖင့္ MySQL database

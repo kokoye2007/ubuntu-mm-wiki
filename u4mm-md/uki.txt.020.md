@@ -7,7 +7,7 @@
 
 [Scribus](http://www.scribus.net/) သည္ desktop publishing အတြက္ professional တစ္ခုအျဖစ္ အသံုးျပဳႏိုင္ေသာ open-source package တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္
 
-	sudo apt - get install scribus
+	sudo apt-get install scribus
 
 #### Plone (Content Management System)
 
@@ -19,7 +19,7 @@
 
 [php BB (Forums) php BB](http://www.php BB.com/) သည္ Forum မ်ားတည္ေဆာက္ရန္ အသံုးျပဳသည့္ အခမဲ့ open source platform တစ္ခုျဖစ္သည္။ LAMP server (သို႔မဟုတ္) PostgreSQL database အား install ျပဳလုပ္ထားရန္ လိုအပ္သည္။ Install ျပဳလုပ္ရန္အတြက္ universe repositories အား enable ျပဳလုပ္ထားရန္ အထူးလိုအပ္သည္။ Install ျပဳလုပ္ရန္
 
-	sudo apt - get install phpbb3
+	sudo apt-get install phpbb3
 
 ###Distance teaching
 
@@ -27,7 +27,7 @@
 
 Moodle သည္ အြန္လိုင္း သင္ၾကားေရး cource မ်ား hosting ျပဳလုပ္ႏုိင္ရန္အတြက္ အခမဲ့ open source platform တစ္ခုျဖစ္သည္။ Webinar software ျဖင့္လည္း တြဲဖက္အသံုးျပဳႏိုင္သည္။ LAMP server အား Install ျပဳလုပ္ထားရန္ (sudo tasksel install lamp-server) လိုအပ္သည္။ Moodle ၏ အခမဲ့ theme မ်ားအား ဤေနရာတြင္ ရယူႏုိင္သည္။ Install ျပဳလုပ္ရန္
 
-	sudo apt - get moode
+	sudo apt-get moode
 
 Moodle အတြက္ Database server software (mysql-server-) ထည့္သြင္းလိုပါက ေဖာ္ျပပါ လမ္းညႊန္ခ်က္မ်ားအား လုပ္ေဆာင္ပါ။ Moodle အား ထည့္သြင္းထားသည့္ computer ေပၚတြင္ database အား တည္ေဆာက္၍ localhost option အား acept လုပ္ပါ။ လိုအပ္ပါက Moodle configuration အား တည္းျဖတ္ပါ။
 
@@ -57,13 +57,13 @@ Browser မွတဆင့္ install ျပဳလုပ္ျခင္းအာ
 
 [Kompozer](http://kompozer.net/) is a [Gecko](http://en.wikipedia.org/wiki/Gecko_(Layout_engine))
 
-	sudo apt - get install kompozer
+	sudo apt-get install kompozer
 
 ####Quanta Plus (Web IDE )
 
 [Quanta Plus](http://quanta.kdewebdev.org/)
 
-	sudo apt - get install quanta kompare kxsldbg cervisia
+	sudo apt-get install quanta kompare kxsldbg cervisia
 
 ####Netbeans IDE
 
@@ -75,19 +75,19 @@ Browser မွတဆင့္ install ျပဳလုပ္ျခင္းအာ
 
 [BludFish](http://bluefish.openoffice.nl/) is a GTK-based (Gnome - oriented) editor to write websites,scripts and programming code. It supports perl, Python, pHp, CSS, XML , Java, Javascript, C, SQL , and other formats.
 
-	sudo apt - get install bluefish
+	sudo apt-get install bluefish
 
 ####Gobby ( Multi - user development)
 
 [Gobby]( http://gobby.0x539.de/trac/) is a free, multi - platform open source collaborative editor supporting multiple documents in one session and a multi - user chat. Install:
 
-	sudo apt - get install gobby
+	sudo apt-get install gobby
 
 ####Eclipse IDE
 
 [Eclipse](http://www.eclipse.org/home/newcomers.php) is a free open - source cross - platform integrated development environment with plug in support for a large set of programming languages, e.g. Java,C/C++,Python ,PHP.
 
-	sudo apt - get install eclipse
+	sudo apt-get install eclipse
 
 Science, Technology ,and Engineering Applications
 

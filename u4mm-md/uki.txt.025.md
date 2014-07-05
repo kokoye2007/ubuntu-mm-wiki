@@ -11,7 +11,7 @@ Expect သည္ command-line terminal မွ စာလံုးအခ်ဳိ�
 
 ထို႔ေနာက္ shc package အား install ျပဳလုပ္ပါ။
 
-	sudo apt - get install shc
+	sudo apt-get install shc
 
 #Capture a screenshot #
 
@@ -28,7 +28,7 @@ Screenshot ျပဳလုပ္ျခင္း ဤ [Tutorial](http://tips.webde
 
 Kubuntu တြင္ အလိုအေလ်ာက္ပါၿပီးျဖစ္ေသာ KDE4 အေျချပဳ Desktop အား Ubuntu တြင္ install လုပ္ႏုိင္ပါသည္။
 
-	sudo apt - get  install kubuntu - desktop
+	sudo apt-get  install kubuntu-desktop
 
 KDE4 အား install လုပ္ရာတြင္ အသံုးမလိုေသာ feature မ်ားျပားျခင္းႏွင့္  Module  မ်ားအၾကား လိုက္ေလ်ာညီေထြမႈမရွိျခင္း ျပသနာမ်ားၾကံဳေတြ႔ရတတ္ပါသည္။ Login ျပဳလုပ္ရာ၌ KDE (Kubuntu) Desktop ျဖင့္ ျဖစ္ေစ၊ Gnome (Ubuntu) Desktop ျဖင့္ျဖစ္ေစ၊ ႀကိဳက္ႏွစ္သက္ရာျဖင့္ ျပဳလုပ္ႏုိင္သည္။ သို႔ေသာ္လည္း Desktop တစ္ခုခ်င္းစီမွ Modules ၂ခုသည္  function တစ္ခုအား လုပ္ေဆာင္မည္ဆိုပါက
 အခက္အခဲ(ကြဲလြဲျခင္း)မ်ား ျဖစ္ႏိုင္ပါသည္။
@@ -44,8 +44,8 @@ install လုပ္ႏုိင္ပါသည္။
 
 -KDE 3.5 desktop အား install လုပ္ပါ။
 
-	sudo apt - get update
-	sudo apt - get install kubuntu - desktop -kde 3
+	sudo apt-get update
+	sudo apt-get install kubuntu-desktop-kde3
 
 -မည္သည့္  KDE 3 application ကိုမဆို install ျပဳလုပ္လိုပါက package အမည္တြင္  `-kde 3` ဟူေသာ	 စာလံုးကို ထပ္ျဖည့္ေပးရပါမည္။ အခ်က္အလက္ အျပည့္အစံုအတြက္ [Pearson Computing](http://apt.pearsoncompution.net/) ကို ၾကည့္ပါ။
 
@@ -103,7 +103,7 @@ Hidden File မ်ားအား ၾကည့္ရႈျခင္း  Nautilus
 	တစ္ခုျဖစ္သည္။ Kubuntu တြင္ Konsole မွ တဆင့္ ၊Ubuntu တြင္ Terminal မွတဆင့္
 အသံုးျပဳႏိုင္သည္။ Install ျပဳလုပ္ရန္ ----
 
-	sudo apt - get install pwgen
+	sudo apt-get install pwgen
 
 -Pwgen အား အသံုးျပဳရန္
 	

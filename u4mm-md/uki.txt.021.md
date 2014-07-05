@@ -6,7 +6,7 @@
 
 [LyX](http://www.lyx.org/) is a WYSIWYG frontend and GUI interface useful in creating documents formatted for La TeX. Install:
 
-	sudo apt - get install Lyx
+	sudo apt-get install Lyx
 
 
 ####La TeX Reference Managers
@@ -16,23 +16,23 @@ tools:
 
 -nbibtex. Install:
 
-	sudo apt - get install nbibtex
+	sudo apt-get install nbibtex
 
 -jabref. Install:
 
-	sudo apt - get install jabref
+	sudo apt-get install jabref
 
 
 
 -biblatex. Install:
 
-	sudo apt - get install biblatex
+	sudo apt-get install biblatex
 
 
 
 -kbibtex (for KDE) .Install:
 
-	sudo apt - get install kbibtex
+	sudo apt-get install kbibtex
 
 
 -[Zotero](http://www.zotero.org) is a Firefox plugin that allows culling references (and reference content ) from online references.
@@ -63,13 +63,13 @@ Notes: The -r option indicates to include all subdirectories recursively.
 
 utilities. Install:
 
-	sudo apt - get install xarchiver
+	sudo apt-get install xarchiver
 
 #### Rar
 
 Rar archives files into the proprietary .rar format.
 
-	sudo apt - get install rar
+	sudo apt-get install rar
 
 Note: This application is a 40-day trial.
 
@@ -77,22 +77,22 @@ Note: This application is a 40-day trial.
 
 Unrar extracts files archived with the proprietary .rar format. A free version can be installed:
 
-	sudo apt - get install unrar-free
+	sudo apt-get install unrar-free
 
 or the proprietary version (also free for noncommercial use) can be installed with the ubuntu-restricted-extras package or with:
 
-	sudo apt - get install unrar
+	sudo apt-get install unrar
 
 ####7-Zip
 
 The open-source 7-Zip archive format was originally designed for Windows (and DOS) but is also available for Ubuntu. The GNU/Linux version of  7-Zip does not come with a GUI, but Ark 
 can hook into 7-Zip to handle 7z archives.Install:
 
-	sudo apt - get install p7zip-full
+	sudo apt-get install p7zip-full
 
 To allow the 7-Zip extension for Ark to extract .rar files ,also install:
 
-	sudo apt - get install  p7zip-rar
+	sudo apt-get install  p7zip-rar
 
 ####Hard Drive Utilities
 
@@ -101,7 +101,7 @@ K Disk Free (Hard drive properties monitor)
 [K Disk Free](http://docs.kde.org/stable/en/kdeutils/kdf/using-kdf.html) is a KDE utility for 
 monitoring free disk space,etc.
 
-	sudo apt - get install kdf
+	sudo apt-get install kdf
 
 
 
