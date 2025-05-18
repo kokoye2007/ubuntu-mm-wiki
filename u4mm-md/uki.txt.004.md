@@ -1,54 +1,54 @@
-﻿**ဥပမာ** Destop version GUI installer ကိုအသံုးျပဳ၍ installation ျပဳလုပ္ေနစဥ္အတြင္း အဆင့္တစ္ခုတြင္ ေအာက္ပါအတိုင္းေပၚလာမည္ျဖစ္သည္။
+﻿**ဥပမာ** Destop version GUI installer ကိုအသုံးပြု၍ installation ပြုလုပ်နေစဉ်အတွင်း အဆင့်တစ်ခုတွင် အောက်ပါအတိုင်းပေါ်လာမည်ဖြစ်သည်။
 
 	Summary > Advanced > Device for boot loader installation: /dev/sda6
 
-အထက္ပါ ဥပမာတြင္ ထိုအေျခအေနအတိုင္း ထားရွိပါက GRUB2 bootloader သည္ `/dev/sda6` ((K)Ubuntu OS ထည့္သြင္းထားသည့္ Harddisk Partition ) အတြင္းသို႕သာ ေရာက္ရွိသြားမည္ျဖစ္ၿပီး MBR (Master Boot Record) ကိုေျပာင္းလဲမည္မဟုတ္ပါ။သို႕ေသာ္ `/dev/sda` ၏ default setting တြင္ထားရွိလိုက္ပါက GRUB2
-သည္ `/dev/sda6` ((K)Ubuntu OS ထည့္သြင္းထားသည့္ Harddisk Partition ) အတြင္းသို႕
-ေရာက္ရွိသြားမည္ ျဖစ္သည့္အျပင္ MBR  (Master Boot Record) ကိုလည္း ျပဳျပင္ေျပာင္းလဲသြားပါမည္။ ထိုအခါ GRUB2 သည္ ကြန္ပ်ဴတာေပၚတြင္ ထည့္သြင္းထားသည့္ Operation System  အားလံုး၏ master bootloader အျဖစ္ေျပာင္းလဲသြားမည္ျဖစ္သည္။အျခားေသာ bootloader (GRUB2 မဟုတ္သည့္) မ်ားကို အသံုးျပဳေနသူျဖစ္လွ်င္ ထိုအေျခအေနသည္ အဆင္ေျပမည္မဟုတ္ပါ။
+အထက်ပါ ဥပမာတွင် ထိုအခြေအနေအတိုင်း ထားရှိပါက GRUB2 bootloader သည် `/dev/sda6` ((K)Ubuntu OS ထည့်သွင်းထားသည့် Harddisk Partition ) အတွင်းသို့သာ ရောက်ရှိသွားမည်ဖြစ်ပြီး MBR (Master Boot Record) ကိုပြောင်းလဲမည်မဟုတ်ပါ။သို့သော် `/dev/sda` ၏ default setting တွင်ထားရှိလိုက်ပါက GRUB2
+သည် `/dev/sda6` ((K)Ubuntu OS ထည့်သွင်းထားသည့် Harddisk Partition ) အတွင်းသို့
+ရောက်ရှိသွားမည် ဖြစ်သည့်အပြင် MBR  (Master Boot Record) ကိုလည်း ပြုပြင်ပြောင်းလဲသွားပါမည်။ ထိုအခါ GRUB2 သည် ကွန်ပျူတာပေါ်တွင် ထည့်သွင်းထားသည့် Operation System  အားလုံး၏ master bootloader အဖြစ်ပြောင်းလဲသွားမည်ဖြစ်သည်။အခြားသော bootloader (GRUB2 မဟုတ်သည့်) များကို အသုံးပြုနေသူဖြစ်လျှင် ထိုအခြေအနေသည် အဆင်ပြေမည်မဟုတ်ပါ။
 
-##Start Manager ကို အသံုးျပဳ၍ Grub ၏ setting မ်ားကို ေျပာင္းလဲျခင္း
+##Start Manager ကို အသုံးပြု၍ Grub ၏ setting များကို ပြောင်းလဲခြင်း
 
-Grub သည္ (Operation System ၁ခုထပ္ပို၍ ထည့္သြင္းထားေသာ ကြန္ပ်ဴတာမ်ားတြင္) မည္သည့္ OS ကို ပံုမွန္ ဦးစားေပးအေနျဖင့္ စတင္လည္ပတ္ေစမည္ကို သတ္မွတ္ျခင္းႏွင့္ အျခားေသာ bootup setting မ်ားကို ထိန္းခ်ဳပ္သည့္ bootup utility ၁ခုျဖစ္သည္။ [Startup Manager](http://sourceforge.net/projects/startup-manager/) ကို အသံုးျပဳ၍ Grub ၏ setting  မ်ားကို ေျပာင္းလဲႏိုင္သည္။ Startup Manager သည္ Grub (Grub Legacy ), Grub 2, Usplash, and Splashy စသည့္ bootloader မ်ား၏ setting မ်ားကို ကြပ္ကဲရာတြင္ အသံုးျပဳသည့္ software ျဖစ္သည္။ Startup Manager အသံုးျပဳပံုကို [ဒီေနရာ](https://help.ubuntu.com/community/StartUpManager) တြင္ႀကည့္ရွုႏိုင္သည္။ Startup Manager ထည့္သြင္းရန္အတြက္
+Grub သည် (Operation System ၁ခုထပ်ပို၍ ထည့်သွင်းထားသော ကွန်ပျူတာများတွင်) မည်သည့် OS ကို ပုံမှန် ဦးစားပေးအနေဖြင့် စတင်လည်ပတ်စေမည်ကို သတ်မှတ်ခြင်းနှင့် အခြားသော bootup setting များကို ထိန်းချုပ်သည့် bootup utility ၁ခုဖြစ်သည်။ [Startup Manager](http://sourceforge.net/projects/startup-manager/) ကို အသုံးပြု၍ Grub ၏ setting  များကို ပြောင်းလဲနိုင်သည်။ Startup Manager သည် Grub (Grub Legacy ), Grub 2, Usplash, and Splashy စသည့် bootloader များ၏ setting များကို ကွပ်ကဲရာတွင် အသုံးပြုသည့် software ဖြစ်သည်။ Startup Manager အသုံးပြုပုံကို [ဒီနေရာ](https://help.ubuntu.com/community/StartUpManager) တွင်ကြည့်ရှုနိုင်သည်။ Startup Manager ထည့်သွင်းရန်အတွက်
 
 	sudo apt-get install startupmanager menu
 
-Startup Manager လည္ပတ္ေစရန္
+Startup Manager လည်ပတ်စေရန်
 
 	Menu > System > Administration > Startup Manasger
 
->**မွတ္ခ်က္** Grub setting မ်ားကို command-line interface မွလည္း ေျပာင္းလဲျပင္ဆင္ႏိုင္သည္။
+>**မှတ်ချက်** Grub setting များကို command-line interface မှလည်း ပြောင်းလဲပြင်ဆင်နိုင်သည်။
 
-##Mac OS X ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးတည္းေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
+##Mac OS X နှင့် Ubuntu ကို ကွန်ပျူတာတစ်လုံးတည်းပေါ်တွင် ယှဉ်တွဲတင်ခြင်း
 
-Mac OS X သည္ Linux ႏွင့္ တည္ေဆာက္ပံု ဆင္တူသည္ (Max OS X သည္ BSD Unix ကို
-အေျခခံထားျခင္းျဖစ္သည္။) Mac OS X ႏွင့္ Ubuntu ကို ယွဥ္တြဲတင္ျခင္းႏွင့္ ပတ္သတ္ေသာ
-အေသးစိတ္လမ္းညႊန္ခ်က္မ်ားကို [ဒီေနရာတြင္](http://help.ubuntu.com/community/MacBook) တြင္ေလ့လာႏိုင္သည္။
+Mac OS X သည် Linux နှင့် တည်ဆောက်ပုံ ဆင်တူသည် (Max OS X သည် BSD Unix ကို
+အခြေခံထားခြင်းဖြစ်သည်။) Mac OS X နှင့် Ubuntu ကို ယှဉ်တွဲတင်ခြင်းနှင့် ပတ်သတ်သော
+အသေးစိတ်လမ်းညွှန်ချက်များကို [ဒီနေရာတွင်](http://help.ubuntu.com/community/MacBook) တွင်လေ့လာနိုင်သည်။
 
-###Ubuntu ရွိၿပီးသား ကြန္ပ်ဴတာေပၚတြင္ Mac OS X တင္ျခင္း
+###Ubuntu ရှိပြီးသား ကွန်ပျူတာပေါ်တွင် Mac OS X တင်ခြင်း
 
-Ubuntu ကို Mac OS X ႏွင့္ ယွဥ္တြဲတင္မည္ဆိုပါက Ubuntu ကို ထည့္သြင္းမည့္ Harddisk Partition ကို ext2 ကို ေရြးခ်ယ္ပါ။ (ထိုလုပ္ငန္းစဥ္အတြက္ Super Grub Disk CD သည္ အသံုး၀င္ေသာ utility ျဖစ္သည္။) Super Grub ISO ဖိုင္ကို [ဒီေနရာတြင္](http://supergrub.forjamari.linex.org) တြင္ download ရယူႏိုင္သည္။
+Ubuntu ကို Mac OS X နှင့် ယှဉ်တွဲတင်မည်ဆိုပါက Ubuntu ကို ထည့်သွင်းမည့် Harddisk Partition ကို ext2 ကို ရွေးချယ်ပါ။ (ထိုလုပ်ငန်းစဉ်အတွက် Super Grub Disk CD သည် အသုံးဝင်သော utility ဖြစ်သည်။) Super Grub ISO ဖိုင်ကို [ဒီနေရာတွင်](http://supergrub.forjamari.linex.org) တွင် download ရယူနိုင်သည်။
 
-Ubuntu ကို ထည့္သြင္းၿပီးပါက Grub start-up list ကို ျပင္ဆင္ေျပာင္းလဲပါ။
+Ubuntu ကို ထည့်သွင်းပြီးပါက Grub start-up list ကို ပြင်ဆင်ပြောင်းလဲပါ။
 
 	sudo nano /boot/ grub/menu.1st
 
-ထို႕ေနာက္ ေအာက္ပါစာေႀကာင္းမ်ားကို ထပ္ေပါင္းထည့္ပါ။
+ထို့နောက် အောက်ပါစာကြောင်းများကို ထပ်ပေါင်းထည့်ပါ။
 
 	title Mac OS X root (hd0,0) makeactive chainloader + 1
 
-ၿပီးလွ်င္ Mac ကို reboot လုပ္၍ Mac OS X  တြင္ပါ၀င္ေသာ Terminal ကို သြားပါ။ (boot လုပ္ရာတြင္
-အခက္အခဲရွိပါက Mac OS X DVD ကိုအသံုးျပဳ၍ boot လုပ္ပါ။) F8 ကိုႏွိပ္၍ -s ဟု ရိုက္ထည့္ပါ။ ထို႕ေနာက္ ရိုက္ထည့္ရမည့္စာေႀကာင္းမ်ားမွာ `fdiskn -e /dev/rdisk0 flag 2` (flag 2သည္ ယခုဥပမာ၏ Harddisk Partition number 2 ျဖစ္သည္။ သင္၏ Mac တြင္ အသံုးျပဳထားသည့္ Partition number ေပၚတြင္ လိုက္၍ေျပာင္းလဲႏိုင္သည္။) quity reboot ပံုမွန္အလုပ္ လုပ္ေဆာင္ႏိုင္ၿပီဟု မေသခ်ာေသးပါက Super Grub Disk CD ကို အသံုးျပဳ၍ Grub ကို active 
-လုပ္ပါ။
+ပြီးလျှင် Mac ကို reboot လုပ်၍ Mac OS X  တွင်ပါဝင်သော Terminal ကို သွားပါ။ (boot လုပ်ရာတွင်
+အခက်အခဲရှိပါက Mac OS X DVD ကိုအသုံးပြု၍ boot လုပ်ပါ။) F8 ကိုနှိပ်၍ -s ဟု ရိုက်ထည့်ပါ။ ထို့နောက် ရိုက်ထည့်ရမည့်စာကြောင်းများမှာ `fdiskn -e /dev/rdisk0 flag 2` (flag 2သည် ယခုဥပမာ၏ Harddisk Partition number 2 ဖြစ်သည်။ သင်၏ Mac တွင် အသုံးပြုထားသည့် Partition number ပေါ်တွင် လိုက်၍ပြောင်းလဲနိုင်သည်။) quity reboot ပုံမှန်အလုပ် လုပ်ဆောင်နိုင်ပြီဟု မသေချာသေးပါက Super Grub Disk CD ကို အသုံးပြု၍ Grub ကို active 
+လုပ်ပါ။
 
-###Mac OS X ရွိၿပီးသား ကြန္ပ်ဴတာေပၚတြင္ Ubuntu တင္ျခင္း
+###Mac OS X ရှိပြီးသား ကွန်ပျူတာပေါ်တွင် Ubuntu တင်ခြင်း
 
-Booth လုပ္ေနစဥ္အတြင္း boothloader တြင္ ပံုမွန္လုပ္ေဆာင္ေနျခင္းမရွိဟု သတင္းပို႕ခ်က္ (ဥပမာ HFS+error) မ်ားေပၚလာပါက Super Grub ကိုအသံုးျပဳ၍ Linux GRUB ႏွင့္ MBR (Master Boot Record) ကို ျပန္လည္ျပင္ဆင္ႏိုင္သည္။ Ubuntu ကို ထည့္သြင္းၿပီးပါက Grub start-up list ကိုျပင္ဆင္ေျပာင္းလဲပါ။
+Booth လုပ်နေစဉ်အတွင်း boothloader တွင် ပုံမှန်လုပ်ဆောင်နေခြင်းမရှိဟု သတင်းပို့ချက် (ဥပမာ HFS+error) များပေါ်လာပါက Super Grub ကိုအသုံးပြု၍ Linux GRUB နှင့် MBR (Master Boot Record) ကို ပြန်လည်ပြင်ဆင်နိုင်သည်။ Ubuntu ကို ထည့်သွင်းပြီးပါက Grub start-up list ကိုပြင်ဆင်ပြောင်းလဲပါ။
 
 	sudo nano /boot/grub/menu.1st
 
-ထို႕ေနာက္ ထပ္ေပါင္းထည့္ရမည့္ စာေႀကာင္းမ်ားမွာ
+ထို့နောက် ထပ်ပေါင်းထည့်ရမည့် စာကြောင်းများမှာ
 
 	title Mac OS X root (hd0,0) makeactive chainloader +1
 
-အကယ္၍ သင္သည္GRUB တြင္ Mac OS X သို႕မဟုတ္ Windows ႏွင့္ပတ္သတ္၍ အခက္အခဲျဖစ္ေနပါက Mac OS X ၏ Grub ရွိ entry ကို "root (hd0,1) သို႕ေျပာင္းလဲပါ။ထိုသို႕ေျပာင္းလဲျခင္းျဖင့္ သင္၏ကြန္ပ်ဴတာသည္ Partition number 1 ကို boot လုပ္ပါလိမ့္မည္။Grub
-မွန္ကန္စြာအလုပ္လုပ္ေဆာင္ႏိုင္သည္အထိ partition number ကို
+အကယ်၍ သင်သည်GRUB တွင် Mac OS X သို့မဟုတ် Windows နှင့်ပတ်သတ်၍ အခက်အခဲဖြစ်နေပါက Mac OS X ၏ Grub ရှိ entry ကို "root (hd0,1) သို့ပြောင်းလဲပါ။ထိုသို့ပြောင်းလဲခြင်းဖြင့် သင်၏ကွန်ပျူတာသည် Partition number 1 ကို boot လုပ်ပါလိမ့်မည်။Grub
+မှန်ကန်စွာအလုပ်လုပ်ဆောင်နိုင်သည်အထိ partition number ကို

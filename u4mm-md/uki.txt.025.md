@@ -1,73 +1,73 @@
-ဤ password ဥပမာသည္ ssh program မွ password လိုအပ္ေသာအခါ sshpassword ကို သြားေစပါသည္။
-Expect သည္ command-line terminal မွ စာလံုးအခ်ဳိ႕ကိုေစာင့္ဆိုင္း ရယူၿပီး စာမ်ားျပန္ထုတ္ေပးသည္။
-ထို႔ေၾကာင့္ Menu Iten ကို terminal တြင္သာ run   ေစရမည္ျဖစ္္္္္္သည္။
+ဤ password ဥပမာသည် ssh program မှ password လိုအပ်သောအခါ sshpassword ကို သွားစေပါသည်။
+Expect သည် command-line terminal မှ စာလုံးအချို့ကိုစောင့်ဆိုင်း ရယူပြီး စာများပြန်ထုတ်ပေးသည်။
+ထို့ကြောင့် Menu Iten ကို terminal တွင်သာ run   စေရမည်ဖြစ်သည်။
 
 
 ###[SHC](Encrypt scripts)
 
-[SHC](http://www.datsi.fi.upm.es/~frosal/) သည္ code ႏွင့္ password စသည္မ်ားကို မျမင္ေအာင္ ျပဳလုပ္ေပးၿပီး ထို script မ်ားကို binary အျဖစ္သို႔ ေျပာင္းလဲေပးသည့္ ရိုးရွင္းေသာ script compiler တစ္ခုျဖစ္သည္။ အသံုးျပဳပံုမ်ားအား ဤေနရာတြင္ (http://www.datsi.fi.upm.es/~frosal/sources/shc.html) ၾကည့္ရႈႏိုင္ပါသည္။ `Debian Etch respository` ကို ထည့္သြင္းျခင္းျဖင့္ install ျပဳလုပ္ႏိုင္ပါသည္။
+[SHC](http://www.datsi.fi.upm.es/~frosal/) သည် code နှင့် password စသည်များကို မမြင်အောင် ပြုလုပ်ပေးပြီး ထို script များကို binary အဖြစ်သို့ ပြောင်းလဲပေးသည့် ရိုးရှင်းသော script compiler တစ်ခုဖြစ်သည်။ အသုံးပြုပုံများအား ဤနေရာတွင် (http://www.datsi.fi.upm.es/~frosal/sources/shc.html) ကြည့်ရှုနိုင်ပါသည်။ `Debian Etch respository` ကို ထည့်သွင်းခြင်းဖြင့် install ပြုလုပ်နိုင်ပါသည်။
 
 	sudo add - apt - repository http://archive.debian.org/debian/etc main
 
-ထို႔ေနာက္ shc package အား install ျပဳလုပ္ပါ။
+ထို့နောက် shc package အား install ပြုလုပ်ပါ။
 
 	sudo apt-get install shc
 
 #Capture a screenshot #
 
-Screenshot ျပဳလုပ္ျခင္း ဤ [Tutorial](http://tips.webdesign10.com/how-to-take-a-screenshot-on-ubuntu-linux) တြင္ ၾကည့္ပါ။
+Screenshot ပြုလုပ်ခြင်း ဤ [Tutorial](http://tips.webdesign10.com/how-to-take-a-screenshot-on-ubuntu-linux) တွင် ကြည့်ပါ။
 
 
-##Desktop အား KDE  ကဲ့သို႔ ေျပာင္းလဲျခင္း##
+##Desktop အား KDE  ကဲ့သို့ ပြောင်းလဲခြင်း##
 
-ေနာက္ဆံုးထြက္ Ubuntu ဗားရွင္းတြင္ Gnome desktop အား ျပဳျပင္၍ cleaner KDE desktop အျဖစ္ ျပင္ဆင္ႏုိင္ပါသည္။ (ျပဳျပင္ျခင္းသည္ အလြန္ ကိုယ္ေရးကိုယ္တာက်သျဖင့္ ဤအပိုင္းသည္ လမ္းညႊန္အျဖစ္သာ ေဖာ္ျပေပးထားသည္။ )
+နောက်ဆုံးထွက် Ubuntu ဗားရှင်းတွင် Gnome desktop အား ပြုပြင်၍ cleaner KDE desktop အဖြစ် ပြင်ဆင်နိုင်ပါသည်။ (ပြုပြင်ခြင်းသည် အလွန် ကိုယ်ရေးကိုယ်တာကျသဖြင့် ဤအပိုင်းသည် လမ်းညွှန်အဖြစ်သာ ဖော်ပြပေးထားသည်။ )
 
-`-Desktop Customization ျပဳျပင္ျခင္းကို ၾကည့္ပါ။`
+`-Desktop Customization ပြုပြင်ခြင်းကို ကြည့်ပါ။`
 
-##Ubuntu တြင္  KDE 4 Desktop အသံုးျပဳျခင္း##
+##Ubuntu တွင်  KDE 4 Desktop အသုံးပြုခြင်း##
 
-Kubuntu တြင္ အလိုအေလ်ာက္ပါၿပီးျဖစ္ေသာ KDE4 အေျချပဳ Desktop အား Ubuntu တြင္ install လုပ္ႏုိင္ပါသည္။
+Kubuntu တွင် အလိုအလျောက်ပါပြီးဖြစ်သော KDE4 အခြေပြု Desktop အား Ubuntu တွင် install လုပ်နိုင်ပါသည်။
 
 	sudo apt-get  install kubuntu-desktop
 
-KDE4 အား install လုပ္ရာတြင္ အသံုးမလိုေသာ feature မ်ားျပားျခင္းႏွင့္  Module  မ်ားအၾကား လိုက္ေလ်ာညီေထြမႈမရွိျခင္း ျပသနာမ်ားၾကံဳေတြ႔ရတတ္ပါသည္။ Login ျပဳလုပ္ရာ၌ KDE (Kubuntu) Desktop ျဖင့္ ျဖစ္ေစ၊ Gnome (Ubuntu) Desktop ျဖင့္ျဖစ္ေစ၊ ႀကိဳက္ႏွစ္သက္ရာျဖင့္ ျပဳလုပ္ႏုိင္သည္။ သို႔ေသာ္လည္း Desktop တစ္ခုခ်င္းစီမွ Modules ၂ခုသည္  function တစ္ခုအား လုပ္ေဆာင္မည္ဆိုပါက
-အခက္အခဲ(ကြဲလြဲျခင္း)မ်ား ျဖစ္ႏိုင္ပါသည္။
+KDE4 အား install လုပ်ရာတွင် အသုံးမလိုသော feature များပြားခြင်းနှင့်  Module  များအကြား လိုက်လျောညီထွေမှုမရှိခြင်း ပြသနာများကြုံတွေ့ရတတ်ပါသည်။ Login ပြုလုပ်ရာ၌ KDE (Kubuntu) Desktop ဖြင့် ဖြစ်စေ၊ Gnome (Ubuntu) Desktop ဖြင့်ဖြစ်စေ၊ ကြိုက်နှစ်သက်ရာဖြင့် ပြုလုပ်နိုင်သည်။ သို့သော်လည်း Desktop တစ်ခုချင်းစီမှ Modules ၂ခုသည်  function တစ်ခုအား လုပ်ဆောင်မည်ဆိုပါက
+အခက်အခဲ(ကွဲလွဲခြင်း)များ ဖြစ်နိုင်ပါသည်။
 
-##KDE 3 Desktop အား Ubuntu  တြင္ အသံုးျပဳျခင္း##
+##KDE 3 Desktop အား Ubuntu  တွင် အသုံးပြုခြင်း##
 
-သင့္အေနျဖင့္ ယခင္ Lucid (သို႔မဟုတ္) မည္သည့္ KDE 3 application မွ KDE 3 Desktop ကို Ubuntu တြင္
-install လုပ္ႏုိင္ပါသည္။	
+သင့်အနေဖြင့် ယခင် Lucid (သို့မဟုတ်) မည်သည့် KDE 3 application မှ KDE 3 Desktop ကို Ubuntu တွင်
+install လုပ်နိုင်ပါသည်။	
 
--ေဖာ္ျပပါ KDE 3 repositories အား ထည့္ပါ။
+-ဖော်ပြပါ KDE 3 repositories အား ထည့်ပါ။
 
 	sudo add - apt - repository ppa:kde3 -maintainers
 
--KDE 3.5 desktop အား install လုပ္ပါ။
+-KDE 3.5 desktop အား install လုပ်ပါ။
 
 	sudo apt-get update
 	sudo apt-get install kubuntu-desktop-kde3
 
--မည္သည့္  KDE 3 application ကိုမဆို install ျပဳလုပ္လိုပါက package အမည္တြင္  `-kde 3` ဟူေသာ	 စာလံုးကို ထပ္ျဖည့္ေပးရပါမည္။ အခ်က္အလက္ အျပည့္အစံုအတြက္ [Pearson Computing](http://apt.pearsoncompution.net/) ကို ၾကည့္ပါ။
+-မည်သည့်  KDE 3 application ကိုမဆို install ပြုလုပ်လိုပါက package အမည်တွင်  `-kde 3` ဟူသော	 စာလုံးကို ထပ်ဖြည့်ပေးရပါမည်။ အချက်အလက် အပြည့်အစုံအတွက် [Pearson Computing](http://apt.pearsoncompution.net/) ကို ကြည့်ပါ။
 
 
 ##Kill (end) a process ##
 
-Process (application) အား ပိတ္ျခင္း (သို႔မဟုတ္) အဆံုးသတ္ျခင္း
+Process (application) အား ပိတ်ခြင်း (သို့မဟုတ်) အဆုံးသတ်ခြင်း
 
--Frozen PC ကို ျပင္ဆင္ရန္ နည္းလမ္းအေတာ္မ်ားမ်ား ရွိပါသည္။ `Alt + F2` ကို ႏွိပ္ပါ။ ထို႔ေနာက္  frozen	Application ကို ပိတ္ရန္ Killall ကို အသံုးျပဳပါ။ 
+-Frozen PC ကို ပြင်ဆင်ရန် နည်းလမ်းအတော်များများ ရှိပါသည်။ `Alt + F2` ကို နှိပ်ပါ။ ထို့နောက်  frozen	Application ကို ပိတ်ရန် Killall ကို အသုံးပြုပါ။ 
 
 ဥပမာ:
 
 	sudo killall amarok
 	sudo killall firefox
 
--ထစ္ေနေသာ Graphic ႏွင့္ ဆိုင္သည့္ application မ်ားကို ပိတ္ရန္အတြက္ `xkill utility` ကို သံုးပါ။`Alt+F2` ကို ႏွိပ္ပါ။ `xkill` ဟု ရိုက္ၿပီး run ကို ႏွိပ္ပါ။  သင္ပိတ္လိုေသာ  application ေပၚတြင္ Mouse ၏ ၀ဲလက္ခလုတ္ကို ႏွိပ္ပါ။ 
+-ထစ်နေသော Graphic နှင့် ဆိုင်သည့် application များကို ပိတ်ရန်အတွက် `xkill utility` ကို သုံးပါ။`Alt+F2` ကို နှိပ်ပါ။ `xkill` ဟု ရိုက်ပြီး run ကို နှိပ်ပါ။  သင်ပိတ်လိုသော  application ပေါ်တွင် Mouse ၏ ဝဲလက်ခလုတ်ကို နှိပ်ပါ။ 
 
-ဤနည္းျဖင့္  သင္ပိတ္လိုသည့္ application မ်ားကို ပိတ္ႏိုင္ပါသည္။
+ဤနည်းဖြင့်  သင်ပိတ်လိုသည့် application များကို ပိတ်နိုင်ပါသည်။
 
 ##skill##
 
--အျခားနည္းအေနျဖင့္ `AltGr+SysRq+K (Right Alt +Print Screen + K)` ကို ႏွိပ္ပါ။ ဒီနည္းက သင့္ကို logout ျဖစ္ေစမွာျဖစ္ပါတယ္။ တကယ္လို႔ ဒီနည္းက အလုပ္မျဖစ္ဘူးဆိုရင္ေတာ့  `Ctrl + Alt + F1` ကိုႏွိပ္ၿပီး login လုပ္ပါ။ ၿပီးေတာ့ သင့္ password ကို ႏွိပ္ၿပီး run ပါ။
+-အခြားနည်းအနေဖြင့် `AltGr+SysRq+K (Right Alt +Print Screen + K)` ကို နှိပ်ပါ။ ဒီနည်းက သင့်ကို logout ဖြစ်စေမှာဖြစ်ပါတယ်။ တကယ်လို့ ဒီနည်းက အလုပ်မဖြစ်ဘူးဆိုရင်တော့  `Ctrl + Alt + F1` ကိုနှိပ်ပြီး login လုပ်ပါ။ ပြီးတော့ သင့် password ကို နှိပ်ပြီး run ပါ။
 
 	sudo killall gdm
 	sudo startx
@@ -75,47 +75,46 @@ Process (application) အား ပိတ္ျခင္း (သို႔မဟ�
 
 ##View hidden files ##
 
-Hidden File မ်ားအား ၾကည့္ရႈျခင္း  Nautilus Manager မွာ ဒါေလးကို ႏွိပ္ပါ။
+Hidden File များအား ကြည့်ရှုခြင်း  Nautilus Manager မှာ ဒါလေးကို နှိပ်ပါ။
 
 	ctrl + H
 
-##Notification (အခ်က္ျပျခင္း ) ေတြကို အသံေဖ်ာက္ရန္##
+##Notification (အချက်ပြခြင်း ) တွေကို အသံဖျောက်ရန်##
 
--အခ်က္ေပးသံေတြကို disable ျပဳလုပ္ဖို႔အတြက္
+-အချက်ပေးသံတွေကို disable ပြုလုပ်ဖို့အတွက်
 
 	Menu - System - Preferences - Sound -Sound Effects - Sound 	theme: -No sounds - Close
 
--GNOME အခ်က္ေပးခ်က္ေတြဟာ အသံျဖင့္ အလိုအေလ်ာက္ ဆက္စပ္ေနပါတယ္။ ဒါကို သီးျခား disable ျပဳရပါမယ္။
+-GNOME အချက်ပေးချက်တွေဟာ အသံဖြင့် အလိုအလျောက် ဆက်စပ်နေပါတယ်။ ဒါကို သီးခြား disable ပြုရပါမယ်။
 	
-`Alt - F2 - gconf - editor -/apps/indicators - sound - volume _mute` (အမွန္ျခစ္ေပးပါ။ )
+`Alt - F2 - gconf - editor -/apps/indicators - sound - volume _mute` (အမှန်ခြစ်ပေးပါ။ )
 
--Login အခ်က္ေပး အသံကို ပိတ္ရန္အတြက္
+-Login အချက်ပေး အသံကို ပိတ်ရန်အတွက်
 
-`Menu - System -Preferences - Startup Applications - Startup Programs - GNOME LoginSound` (အမွန္ ျခစ္ျဖဳတ္ေပးပါ။ ) 
+`Menu - System -Preferences - Startup Applications - Startup Programs - GNOME LoginSound` (အမှန် ခြစ်ဖြုတ်ပေးပါ။ ) 
 
-`-Menu - System - Administration - Login Screen - Unlock - Play login sound` (အမွန္ျခစ္ျဖဳတ္ေပးပါ။)
+`-Menu - System - Administration - Login Screen - Unlock - Play login sound` (အမှန်ခြစ်ဖြုတ်ပေးပါ။)
 
 #Random password generator#
 
-က်ပန္း password geneartor
+ကျပန်း password geneartor
 
-	-Pwgen သည္ က်ပန္း password စာလံုးစုမ်ားထုတ္ေပးရန္အတြက္  အသံုး၀င္သည့္ command line
-	တစ္ခုျဖစ္သည္။ Kubuntu တြင္ Konsole မွ တဆင့္ ၊Ubuntu တြင္ Terminal မွတဆင့္
-အသံုးျပဳႏိုင္သည္။ Install ျပဳလုပ္ရန္ ----
+	-Pwgen သည် ကျပန်း password စာလုံးစုများထုတ်ပေးရန်အတွက်  အသုံးဝင်သည့် command line
+	တစ်ခုဖြစ်သည်။ Kubuntu တွင် Konsole မှ တဆင့် ၊Ubuntu တွင် Terminal မှတဆင့်
+အသုံးပြုနိုင်သည်။ Install ပြုလုပ်ရန် ----
 
 	sudo apt-get install pwgen
 
--Pwgen အား အသံုးျပဳရန္
+-Pwgen အား အသုံးပြုရန်
 	
 	pwgen
 
--UUIDgen သည္ က်ပန္း UUID မ်ားအား ထုတ္ေပးသည့္ အသံုး၀င္ေသာ
-	အလိုအေလ်ာက္ ထည့္သြင္းေပးထားသည့္ program တစ္ခုျဖစ္သည္။ အသံုးျပဳရန္ း
+-UUIDgen သည် ကျပန်း UUID များအား ထုတ်ပေးသည့် အသုံးဝင်သော
+	အလိုအလျောက် ထည့်သွင်းပေးထားသည့် program တစ်ခုဖြစ်သည်။ အသုံးပြုရန် း
 uuidgen
 
 
-ဆႏၵရွိပါက က်ပန္း UUID အား password အေနျဖင့္လည္း အသံုးျပဳနိုင္ပါသည္။
-
+ဆန္ဒရှိပါက ကျပန်း UUID အား password အနေဖြင့်လည်း အသုံးပြုနိုင်ပါသည်။
 
 
 

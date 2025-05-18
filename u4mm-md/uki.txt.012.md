@@ -1,107 +1,107 @@
-သည့္ Gnome-based ေဆာ့လ္ဝဲလ္တစ္ခုျဖစ္သည္။ nzb (http://en.wikipedia.org/wiki/Nzb) binary downloader တစ္ခုလဲ ျဖစ္သည္။ Pan ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command ကို႐ိုက္ထည့္ပါ။
+သည့် Gnome-based ဆော့လ်ဝဲလ်တစ်ခုဖြစ်သည်။ nzb (http://en.wikipedia.org/wiki/Nzb) binary downloader တစ်ခုလဲ ဖြစ်သည်။ Pan ကို Install လုပ်ရန် Terminal တွင် အောက်ပါ Command ကိုရိုက်ထည့်ပါ။
 
     sudo apt-get install pan 
 
 ##Kwooty
 
-Kwooty (http://kwooty.sourceforge.net/) သည္ Usenet မွ ေဆြးေႏြးခ်က္မ်ား ဖတ္႐ႈရန္အတြက္ KDE4 တြင္အသုံးျပဳႏိုင္သည့္ ေဆာ့လ္ဝဲတစ္ခုျဖစ္သည္။ nzb (http://en.wikipedia.org/wiki/Nzb) binary downloader တစ္ခုလဲျဖစ္သည္။ Kwooty ကို Install လုပ္ေဆာင္ရန္အတြက္ လိုအပ္ေသာ Files မ်ား၊ PPA repositories မ်ား၊လမ္းၫႊန္ခ်က္မ်ားကို Kwooty website တြင္ ၾကည့္႐ႈႏိုင္ပါသည္။
+Kwooty (http://kwooty.sourceforge.net/) သည် Usenet မှ ဆွေးနွေးချက်များ ဖတ်ရှုရန်အတွက် KDE4 တွင်အသုံးပြုနိုင်သည့် ဆော့လ်ဝဲတစ်ခုဖြစ်သည်။ nzb (http://en.wikipedia.org/wiki/Nzb) binary downloader တစ်ခုလဲဖြစ်သည်။ Kwooty ကို Install လုပ်ဆောင်ရန်အတွက် လိုအပ်သော Files များ၊ PPA repositories များ၊လမ်းညွှန်ချက်များကို Kwooty website တွင် ကြည့်ရှုနိုင်ပါသည်။
 
 ##Instant Messengers
 
-mIRC, Gtalk ကဲ့သို႔ ခ်က္တင္လုပ္ျခင္း၊ စကားေျပာျခင္း၊video calling မ်ားလုပ္ေဆာင္ႏိုင္ေသာ
-ေဆာ့လ္ဝဲတစ္မ်ိဳးျဖစ္သည္။
+mIRC, Gtalk ကဲ့သို့ ချက်တင်လုပ်ခြင်း၊ စကားပြောခြင်း၊video calling များလုပ်ဆောင်နိုင်သော
+ဆော့လ်ဝဲတစ်မျိုးဖြစ်သည်။
 
 ##Empathy
 
-Empathy (http://live.gnome.org/Empathy) ဆိုသည္မွာ Open Source IM ေဆာ့လ္ဝဲလ္တစ္ခုျဖစ္ပါသည္။ ဤေဆာ့လ္ဝဲသည္ Ubuntu (Gnome) အသုံးျပဳေသာ desktop မ်ားတြင္ ပုံမွန္ပါ၀င္ေသာ ေဆာ့လ္ဝဲတစ္ခုလည္းျဖစ္သည္။
+Empathy (http://live.gnome.org/Empathy) ဆိုသည်မှာ Open Source IM ဆော့လ်ဝဲလ်တစ်ခုဖြစ်ပါသည်။ ဤဆော့လ်ဝဲသည် Ubuntu (Gnome) အသုံးပြုသော desktop များတွင် ပုံမှန်ပါဝင်သော ဆော့လ်ဝဲတစ်ခုလည်းဖြစ်သည်။
 
     sudo apt-get install empathy
 
 ##Pidgin
 
-Pidgin (http://www.pidgin.im/) ေဆာ့လ္ဝဲလ္သည္ Open Source IM ေဆာ့လ္ဝဲလ္တစ္ခု ျဖစ္သည္။ ဤေဆာ့လ္ဝဲလ္သည္ Ubuntu (Gnome) အသုံးျပဳေသာ desktop မ်ားတြင္ ပုံမွန္ပါ၀င္ေသာ ေဆာ့လ္ဝဲလ္တစ္ခုလည္းျဖစ္သည္။ ယခုလက္ရွိ Empathy ကိုသာ ပုံမွန္ အစားထိုးသုံးလ်က္ရွိေသာ္လည္း ျမန္မာျပည္၏ MPT လိုင္းႏွင့္ အျခားေသာ Proxy ထည့္သြင္းရေသာ လိုင္းမ်ားအတြက္သင့္ေတာ္သည္။
+Pidgin (http://www.pidgin.im/) ဆော့လ်ဝဲလ်သည် Open Source IM ဆော့လ်ဝဲလ်တစ်ခု ဖြစ်သည်။ ဤဆော့လ်ဝဲလ်သည် Ubuntu (Gnome) အသုံးပြုသော desktop များတွင် ပုံမှန်ပါဝင်သော ဆော့လ်ဝဲလ်တစ်ခုလည်းဖြစ်သည်။ ယခုလက်ရှိ Empathy ကိုသာ ပုံမှန် အစားထိုးသုံးလျက်ရှိသော်လည်း မြန်မာပြည်၏ MPT လိုင်းနှင့် အခြားသော Proxy ထည့်သွင်းရသော လိုင်းများအတွက်သင့်တော်သည်။
 
     sudo apt-get install pidgin
 
-###အသုံးျပဳပုံ
+###အသုံးပြုပုံ
 
-- Add Account လုပ္ပါ။
-- Basic Tab ထဲမွာ ေအာက္ပါအတိုင္းျဖည့္ပါ။
+- Add Account လုပ်ပါ။
+- Basic Tab ထဲမှာ အောက်ပါအတိုင်းဖြည့်ပါ။
 
 ```
 Login Options
 protocol    : XMPP
-username    : gmailaccount (@gmail ျဖည့္ရန္မလိုပါ)
+username    : gmailaccount (@gmail ဖြည့်ရန်မလိုပါ)
 Domain      : gmail.com
 ```
 
-- Advanced Tab တြင္ ```Force old (port 5223) SSL``` ကိုအမွန္ျခစ္ေပးပါ။
-- ```Connect port``` တြင္ ```443``` ျဖည့္ပါ။
-- ```Connect server``` တြင္ ```talk.google.com``` ျဖည့္ပါ။
-- အားလုံးၿပီးလၽွင္ Add ကိုႏွိပ္ပါ။
+- Advanced Tab တွင် ```Force old (port 5223) SSL``` ကိုအမှန်ခြစ်ပေးပါ။
+- ```Connect port``` တွင် ```443``` ဖြည့်ပါ။
+- ```Connect server``` တွင် ```talk.google.com``` ဖြည့်ပါ။
+- အားလုံးပြီးလျှင် Add ကိုနှိပ်ပါ။
 
-ၿပီးလၽွင္ ခ်ိတ္ဆက္ အသုံးျပဳႏိုင္ပါသည္။
+ပြီးလျှင် ချိတ်ဆက် အသုံးပြုနိုင်ပါသည်။
 
 ##Kopete
 
-Kopete (http://kopete.kde.org/) ဆိုသည္မွာ Kubuntu Os (KDE) အတြက္ default ပါ၀င္ေသာ ခ်က္တင္
-ေဆာ့လ္ဝဲျဖစ္သည္။
+Kopete (http://kopete.kde.org/) ဆိုသည်မှာ Kubuntu Os (KDE) အတွက် default ပါဝင်သော ချက်တင်
+ဆော့လ်ဝဲဖြစ်သည်။
 
     sudo apt-get install kopete
 
 ###Kopete Styles
 
-Kopete အတြက္ ပုံစံ (http://www.kde-look.org/index.php?xcontentmode=24x26) ကို ထည့္သြင္းၿပီး Kopete တြင္ မိမိႏွစ္သက္ရာ ပုံစံမ်ားကို ေအာက္ေဖာ္ျပပါေနရာတြင္ ေျပာင္းလဲႏိုင္ပါသည္။
+Kopete အတွက် ပုံစံ (http://www.kde-look.org/index.php?xcontentmode=24x26) ကို ထည့်သွင်းပြီး Kopete တွင် မိမိနှစ်သက်ရာ ပုံစံများကို အောက်ဖော်ပြပါနေရာတွင် ပြောင်းလဲနိုင်ပါသည်။
 
     Kopete > Settings > Configure > Chat Windows > Style > Get New...
 
 ###GoogleTalk on Kopete
 
-Kopete ကိုအသုံးျပဳၿပီး GoogleTalk (http://www.google.com/talk/about.html) Instant Messaging အသုံးျပဳႏိုင္ေသာ္လည္း VOIP ကို အသုံးမျပဳႏိုင္သျဖင့္ အသံဆက္သြယ္ျခင္း ရမည္မဟုတ္ပါ။ Jabber Protocol ကိုသုံးထားသည္။ဤေနရာတြင္ေလ့လာပါ။GoogleTalk instructions (http://www.google.com/support/talk/bin/answer.py?answer=57557).
+Kopete ကိုအသုံးပြုပြီး GoogleTalk (http://www.google.com/talk/about.html) Instant Messaging အသုံးပြုနိုင်သော်လည်း VOIP ကို အသုံးမပြုနိုင်သဖြင့် အသံဆက်သွယ်ခြင်း ရမည်မဟုတ်ပါ။ Jabber Protocol ကိုသုံးထားသည်။ဤနေရာတွင်လေ့လာပါ။GoogleTalk instructions (http://www.google.com/support/talk/bin/answer.py?answer=57557).
 
 ##Konversation (IRC client)
 
-Konversation (http://konversation.kde.org/) သည္ kubuntu တြင္ default ပါ၀င္ေသာ IRC ခ်က္ ေဆာ့လ္ဝဲလ္ျဖစ္သည္။ mIRC အလားတူေဆာ့လ္ဝဲလ္ တစ္ခုျဖစ္သည္။
+Konversation (http://konversation.kde.org/) သည် kubuntu တွင် default ပါဝင်သော IRC ချက် ဆော့လ်ဝဲလ်ဖြစ်သည်။ mIRC အလားတူဆော့လ်ဝဲလ် တစ်ခုဖြစ်သည်။
 
     sudo apt-get install konversation
 
 ##aMSN
 
-aMSN သည္ MSN ရဲ႕ client ေဆာ့ဝဲကဲ့သို႔   အသုံးျပဳႏိုင္ေသာ ေဆာ့ဝဲတစ္ခုျဖစ္သည္။ Pidgin တြင္လည္း အလားတူသုံးႏိုင္သည္။
+aMSN သည် MSN ရဲ့ client ဆော့ဝဲကဲ့သို့   အသုံးပြုနိုင်သော ဆော့ဝဲတစ်ခုဖြစ်သည်။ Pidgin တွင်လည်း အလားတူသုံးနိုင်သည်။
 
     sudo apt-get install amsn
 
-သင့္အင္တာနက္လိုင္းအေနျဖင့္ အဆင္ေျပႏိုင္မေျပႏိုင္ မသိေသာ္လည္း ဖိုင္မ်ား လြယ္ကူစြာ
-ဆြဲယူကူးေျပာင္းႏိုင္မႈကို Ubuntu Geek (http://www.ubuntugeek.com/how-to-enable-drag-and-drop-capabilities-to-amsn.html) တြင္ ဖတ္႐ႈႏ္ိုင္သည္။
+သင့်အင်တာနက်လိုင်းအနေဖြင့် အဆင်ပြေနိုင်မပြေနိုင် မသိသော်လည်း ဖိုင်များ လွယ်ကူစွာ
+ဆွဲယူကူးပြောင်းနိုင်မှုကို Ubuntu Geek (http://www.ubuntugeek.com/how-to-enable-drag-and-drop-capabilities-to-amsn.html) တွင် ဖတ်ရှုနိုင်သည်။
 
 ##Emesence
 
-Emesence (http://www.emesene.org/) သည္ ႐ိုးရွင္းေသာပုံစံျဖင့္ ျပဳလုပ္ထားေသာ MSN messager တစ္ခုျဖစ္သည္။ အလားတူပင္ [#Pidgin l Pidgin] တြင္လည္း အသုံးျပဳႏိုင္ပါသည္။
+Emesence (http://www.emesene.org/) သည် ရိုးရှင်းသောပုံစံဖြင့် ပြုလုပ်ထားသော MSN messager တစ်ခုဖြစ်သည်။ အလားတူပင် [#Pidgin l Pidgin] တွင်လည်း အသုံးပြုနိုင်ပါသည်။
 
     sudo apt-get install emesene
 
 #Videoconferencing and VOIP
 
-ယခုအခါ Videoconferencing ႏွင့္ Voice Over Internet (VOIP) တို႔တို Application တစ္ခုတည္းအျဖစ္  ေပါင္းစပ္လာၿပီျဖစ္သည္။ တခ်ိဳ႕ဆိုလၽွင္ internet ခ်ိတ္စပ္မထားေသာ ဖုန္းမ်ားကိုပင္ အသက္သာဆုံး ႏႈန္းထားျဖင့္ ေခၚဆိုႏိုင္ေနၿပီျဖစ္သည္။ 
+ယခုအခါ Videoconferencing နှင့် Voice Over Internet (VOIP) တို့တို Application တစ်ခုတည်းအဖြစ်  ပေါင်းစပ်လာပြီဖြစ်သည်။ တချို့ဆိုလျှင် internet ချိတ်စပ်မထားသော ဖုန်းများကိုပင် အသက်သာဆုံး နှုန်းထားဖြင့် ခေါ်ဆိုနိုင်နေပြီဖြစ်သည်။ 
 
 ##Ekiga
 
-ယခင္ Gnomemeeting ဟုသိခဲ့ၾကသည့္ Ekiga(http://www.gnomemeeting.org/) သည္ SIP အား အျပည့္အ၀လိုက္နာသည့္ function အျပည့္အစုံပါ VOIP ႏွင့္ Video စနစ္ပါ အသုံးျပဳႏိုင္ေသာ ပ႐ိုဂရမ္ျဖစ္သည္။
+ယခင် Gnomemeeting ဟုသိခဲ့ကြသည့် Ekiga(http://www.gnomemeeting.org/) သည် SIP အား အပြည့်အဝလိုက်နာသည့် function အပြည့်အစုံပါ VOIP နှင့် Video စနစ်ပါ အသုံးပြုနိုင်သော ပရိုဂရမ်ဖြစ်သည်။
 
     sudo apt-get install ekiga
 
 
 ##Skype
 
-Skype (http://www.skype.com/) သည္ Ekiga ကဲ့သို႔ VOIP ႏွင့္ Video စနစ္သုံး ဆက္သြယ္ေရး
-ပ႐ိုဂရမ္ျဖစ္ေသာ္လည္း Open-Source မဟုတ္ပါ။ Skype ဆက္သြယ္မႈမ်ားအား အသံသြင္းယူျခင္း
+Skype (http://www.skype.com/) သည် Ekiga ကဲ့သို့ VOIP နှင့် Video စနစ်သုံး ဆက်သွယ်ရေး
+ပရိုဂရမ်ဖြစ်သော်လည်း Open-Source မဟုတ်ပါ။ Skype ဆက်သွယ်မှုများအား အသံသွင်းယူခြင်း
 (http://help.ubuntu.com/community.SkypeRecordingHowto)
 
-Install ျပဳလုပ္ႏိုင္ရန္ package တခ်ိဳ႕ လိုအပ္ပါသည္။
+Install ပြုလုပ်နိုင်ရန် package တချို့ လိုအပ်ပါသည်။
 
     sudo apt-get install libqt4-dbus libqt4-network libqt4-xml
 
-ေနာက္ဆုံးထြက္ ဗားရွင္းအား ရယူရန္ႏွင့္ 32 -bit ဗားရွင္းအား download ႏွင့္ install ျပဳလုပ္ရန္
+နောက်ဆုံးထွက် ဗားရှင်းအား ရယူရန်နှင့် 32 -bit ဗားရှင်းအား download နှင့် install ပြုလုပ်ရန်
 
 ```
 wget -O skype-ubuntu-current_i386.deb http://www.skype.com/go/getskype-linux-beta-ubuntu-32
@@ -109,7 +109,7 @@ sudo dpkg -i skype-ubuntu-current_i386.deb
 sudo rm skype-ubuntu-current_i386.deb
 ```
 
-ယခင္က အခ်ိဳ႕ သုံးစြဲသူမ်ားသည္ ၎တို႔၏ မိုက္ခ႐ိုဖုန္းမ်ားအား 2.1.0.47 ေနာက္ပိုင္း ဗားရွင္းမ်ားတြင္ 	သုံးစြဲ၍ မရေသာေၾကာင့္ ေအာက္ေဖာ္ျပပါ command မ်ား သုံးခဲ့ၾကသည္။
+ယခင်က အချို့ သုံးစွဲသူများသည် ၎င်းတို့၏ မိုက်ခရိုဖုန်းများအား 2.1.0.47 နောက်ပိုင်း ဗားရှင်းများတွင်     သုံးစွဲ၍ မရသောကြောင့် အောက်ဖော်ပြပါ command များ သုံးခဲ့ကြသည်။
 
 ```
 wget -O skype-ubuntu-current_i386.deb http://download.skype.com/linux/skype-debian_2,1.0.47-1
@@ -117,7 +117,7 @@ sudo dpkg -i skype-ubuntu-current_i386.deb
 sudo rm skype-ubuntu-current_i386.deb
 ```
 
-###ေနာက္တစ္နည္း
+###နောက်တစ်နည်း
 
 ```
 wget -O skype-ubuntu-current_amd64.deb http://download.skype.com/linux/skype-ubuntu-intrepid
@@ -127,7 +127,7 @@ sudo rm skype-ubuntu-current_amd64.deb
 
 ###How to install Skype on a 64-bit system
 
-Skype အား 64-bit system မ်ားတြင္ install ျပဳလုပ္နည္း 64-bit system အတြက္ Skype ၏ လက္ရွိ version သည္ 32 bit module အား 64 အတြက္ အသုံးျပဳထားျခင္းျဖစ္သည္။ 64 bit system တြင္ install ျပဳလုပ္ရန္အတြက္ အျခား package မ်ားအား ဦးစြာ install ျပဳလုပ္ရန္ လိုအပ္သည္။
+Skype အား 64-bit system များတွင် install ပြုလုပ်နည်း 64-bit system အတွက် Skype ၏ လက်ရှိ version သည် 32 bit module အား 64 အတွက် အသုံးပြုထားခြင်းဖြစ်သည်။ 64 bit system တွင် install ပြုလုပ်ရန်အတွက် အခြား package များအား ဦးစွာ install ပြုလုပ်ရန် လိုအပ်သည်။
 
 ```
 sudo apt-get install ia32-libs lib32asound2 libqt4-core libqt4-gui

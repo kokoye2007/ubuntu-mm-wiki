@@ -1,136 +1,136 @@
 libcrypto.so.0.9.8 libcrypto.so.0.9.8.bak
 sudo In -s /usr/lib/libcrypto.so.0.9.8~/google-earth/libcrypto.so.0.9.8
 
-(သတိျပဳရန္ : သင့္အေနနဲ႕ ~/google-earth လို႕ရိုက္မယ့္အစား /home/user/google-earth
-လို႕လဲရိုက္ႏိုင္ပါတယ္)
+(သတိပြုရန် : သင့်အနေနဲ့ ~/google-earth လို့ရိုက်မယ့်အစား /home/user/google-earth
+လို့လဲရိုက်နိုင်ပါတယ်)
 
-အျခား ျပႆနာေတြအတြက္ကိုေတာ့ Ubuntu help pages on Google Earth
-(https://help.ubuntu.com/community/GoogleEarth) မွာႀကည့္႐ႈႏိုင္ပါတယ္။
+အခြား ပြဿနာတွေအတွက်ကိုတော့ Ubuntu help pages on Google Earth
+(https://help.ubuntu.com/community/GoogleEarth) မှာကြည့်ရှုနိုင်ပါတယ်။
 
 Uninstall Google Earth
 
-Google Earth အား Uninstall ျပဳလုပ္ရန္
+Google Earth အား Uninstall ပြုလုပ်ရန်
 
-Uninstall ျပဳလုပ္ဖို႕အတြက္ /home/user/google-earth Folder (သင္ Google-earth ကို install ထားတဲ့
-္folder) မွာရွိတဲ့ uninstall shell script ကို run ပါ။
+Uninstall ပြုလုပ်ဖို့အတွက် /home/user/google-earth Folder (သင် Google-earth ကို install ထားတဲ့
+်folder) မှာရှိတဲ့ uninstall shell script ကို run ပါ။
 
 FBReader (e-book reader)
 
-FBReader(http://www.fbreader.org/) သည္ GTK platform ကို အေျခခံထားၿပီး အျခား platform
-မ်ားတြင္ပါ အသံုးျပဳႏိုင္သည့္ အခမဲ့ e-book reader တစ္ခုျဖစ္သည္။ install ျပဳလုပ္ရန္ :
+FBReader(http://www.fbreader.org/) သည် GTK platform ကို အခြေခံထားပြီး အခြား platform
+များတွင်ပါ အသုံးပြုနိုင်သည့် အခမဲ့ e-book reader တစ်ခုဖြစ်သည်။ install ပြုလုပ်ရန် :
 
 sudo apt-get install fbreader
 
 Calibre (e-book reader)
 
-Calibre (http://calibre-ebook.com) သည္ e-book reader ျဖစ္ၿပီး library manager အျဖစ္လည္း
-အသံုးျပဳႏိုင္သည္။Install ျပဳလုပ္ပံုကို ဤေနရာတြင္ (http://calibre-ebook.com/download-linux)
-ႀကည့္ပါ။
+Calibre (http://calibre-ebook.com) သည် e-book reader ဖြစ်ပြီး library manager အဖြစ်လည်း
+အသုံးပြုနိုင်သည်။Install ပြုလုပ်ပုံကို ဤနေရာတွင် (http://calibre-ebook.com/download-linux)
+ကြည့်ပါ။
 
 Games 
 
-ဂိမ္းမ်ား (K)Ubuntu Linux အတြက္ သဘာ၀က်တဲ့ ဂိမ္းေတြရွိပါတယ္။
+ဂိမ်းများ (K)Ubuntu Linux အတွက် သဘာဝကျတဲ့ ဂိမ်းတွေရှိပါတယ်။
 
 Ubuntu Community Wiki -- Games (http://help.ubuntu.com/community/Games).
 Best Linux Games for 2008 (http://whdb.com/2008/top-25-linux-games-for-2008/).
 Best 25 Linux Games of 2007 (http://rangit.com/software/top-8-linux-games-of-2007/).
 
-(K)Ubuntu မွာ ရာေပါင္းမ်ားစြာေသာ အခမဲ့, open-source ဂိမ္းေတြရွိပါတယ္။KDE Games collection
-(http://www.kde.org/application/games/) နဲ႕ Gnome Games
-(http://live.gnome.org/GnomeGames/)collection အပါအ၀င္) အေတာ္မ်ားမ်ားကို သင့္ရဲ႕ Package 
-Manager ထဲက Games Section မွတဆင့္ ရယူႏိုင္ပါတယ္။
+(K)Ubuntu မှာ ရာပေါင်းများစွာသော အခမဲ့, open-source ဂိမ်းတွေရှိပါတယ်။KDE Games collection
+(http://www.kde.org/application/games/) နဲ့ Gnome Games
+(http://live.gnome.org/GnomeGames/)collection အပါအဝင်) အတော်များများကို သင့်ရဲ့ Package 
+Manager ထဲက Games Section မှတဆင့် ရယူနိုင်ပါတယ်။
 
-ဥပမာတစ္ခ်ိဳ႕ေပးရမယ္ဆိုရင္ :
+ဥပမာတစ်ချို့ပေးရမယ်ဆိုရင် :
 
-PouetChess (http://pouetchess.sourceforge.net/) --ၿပီးျပည့္စံုတဲ့ 3-D ခ်က္ထိုးတဲ့ Game တစ္ခုပါ။
-Install ျပဳလုပ္ရန္
+PouetChess (http://pouetchess.sourceforge.net/) --ပြီးပြည့်စုံတဲ့ 3-D ချက်ထိုးတဲ့ Game တစ်ခုပါ။
+Install ပြုလုပ်ရန်
 
 sudo apt-get install pouetchess
 
-PokerTH (http://www.pokerth.net/) --အလြန္ကစားရေကာင္းတဲ့ Texas Hold 'Em Poker ပိုကာ
-Game ပါ။ (PPA repository (https://launchpad.net/~pkg-games/+archive/ppa) အသံုးျပဳၿပီး
-install လုပ္ႏိုင္ပါတယ္။)
-Kajongg (http://packages.ubuntu.com/maverick/kajongg)-- လူေတြနဲ႕ပဲျဖစ္ျဖစ္၊
-စက္ရုပ္ေတြနဲ႕ပဲျဖစ္ျဖစ္ တြဲဖက္/ယွဥ္ၿပိဳင္ကစားရမယ့္ MahJongg (မာေက်ာက္)ကစားနည္းစစ္စစ္ပါပဲ။
-Install ျပဳလုပ္ရန္
+PokerTH (http://www.pokerth.net/) --အလွန်ကစားရကောင်းတဲ့ Texas Hold 'Em Poker ပိုကာ
+Game ပါ။ (PPA repository (https://launchpad.net/~pkg-games/+archive/ppa) အသုံးပြုပြီး
+install လုပ်နိုင်ပါတယ်။)
+Kajongg (http://packages.ubuntu.com/maverick/kajongg)-- လူတွေနဲ့ပဲဖြစ်ဖြစ်၊
+စက်ရုပ်တွေနဲ့ပဲဖြစ်ဖြစ် တွဲဖက်/ယှဉ်ပြိုင်ကစားရမယ့် MahJongg (မာကျောက်)ကစားနည်းစစ်စစ်ပါပဲ။
+Install ပြုလုပ်ရန်
 
 sudo apt-get install kajongg
 
-Planet Penguin Racer (http://en.wikipedia.org/wiki/Tux-Racer)--ပင္ဂြင္းငွက္ကေလးဟာ
-သံုးဖက္ျမင္ (3-D) အေနအထားနဲ႕ ႏွင္းေလွ်ာစီးသြားမယ္။ငါးေတြကို ဖမ္းရမွာျဖစ္ပါတယ္။ (Extreme Tux
-Racer (http://extremetuxracer.com/) ကေတာ့ ေနာက္ေပၚ ဗားရွင္းျဖစ္ေပမယ့္ 32-bit
-မွာပဲအလုပ္လုပ္ပါတယ္)
-KsirK (http://games.kde.org/game.php?game=ksirk)-- ကြန္ပ်ဴတာနဲ႕ပဲျဖစ္ျဖစ္
-သူငယ္ခ်င္းနဲ႕ခ်ိတ္ဆက္ၿပီးပဲျဖစ္ျဖစ္ သဲထိတ္ရင္ဖိုေဆာ့ကစားရမဲ့ ဂိမ္းပါ။Install ျပဳလုပ္ရန္ sudo apt-get
+Planet Penguin Racer (http://en.wikipedia.org/wiki/Tux-Racer)--ပင်ဂွင်းငှက်ကလေးဟာ
+သုံးဖက်မြင် (3-D) အနေအထားနဲ့ နှင်းလျှောစီးသွားမယ်။ငါးတွေကို ဖမ်းရမှာဖြစ်ပါတယ်။ (Extreme Tux
+Racer (http://extremetuxracer.com/) ကတော့ နောက်ပေါ် ဗားရှင်းဖြစ်ပေမယ့် 32-bit
+မှာပဲအလုပ်လုပ်ပါတယ်)
+KsirK (http://games.kde.org/game.php?game=ksirk)-- ကွန်ပျူတာနဲ့ပဲဖြစ်ဖြစ်
+သူငယ်ချင်းနဲ့ချိတ်ဆက်ပြီးပဲဖြစ်ဖြစ် သဲထိတ်ရင်ဖိုဆော့ကစားရမဲ့ ဂိမ်းပါ။Install ပြုလုပ်ရန် sudo apt-get
 install kdegames
-Racer (http://www.racer.nl/)-- တကယ့္ကို စိန္ေခၚယွဥ္ၿပိဳင္ႏိုင္တဲ့ 3-D ၿပိဳင္ကားဂိမ္းပါ။ (Binary
-install ကိုဒီမွာ (http://www.racer.nl/dl_beta_linux.htm)ေတြ႕ႏိုင္ပါတယ္။ ေျပးလမ္းအသစ္နဲ႕
-extra add-ons (http://www.racer.nl/dl_content.htm) ေတြလည္းရွိပါတယ္။
-TORCS (http://torcs.sourceforge.net/)--3-D ၿပိဳင္ကားဂိမ္းျဖစ္ပါတယ္။Install လုပ္ရန္
+Racer (http://www.racer.nl/)-- တကယ့်ကို စိန်ခေါ်ယှဉ်ပြိုင်နိုင်တဲ့ 3-D ပြိုင်ကားဂိမ်းပါ။ (Binary
+install ကိုဒီမှာ (http://www.racer.nl/dl_beta_linux.htm)တွေ့နိုင်ပါတယ်။ ပြေးလမ်းအသစ်နဲ့
+extra add-ons (http://www.racer.nl/dl_content.htm) တွေလည်းရှိပါတယ်။
+TORCS (http://torcs.sourceforge.net/)--3-D ပြိုင်ကားဂိမ်းဖြစ်ပါတယ်။Install လုပ်ရန်
 
 sudo apt-get install torcs
 
-Supertuxkart (http://supertuxkart.sourceforge.net/) --ၿပိဳင္ကား
-အေသးစားေလးမ်ားကို ေမာင္းႏွင္ရတဲ့ ဂိမ္းျဖစ္ပါတယ္။ Install ျပဳလုပ္ရန္
+Supertuxkart (http://supertuxkart.sourceforge.net/) --ပြိုင်ကား
+အသေးစားလေးများကို မောင်းနှင်ရတဲ့ ဂိမ်းဖြစ်ပါတယ်။ Install ပြုလုပ်ရန်
 
 sudo apt-get install supertuxkart
 
-Pingus (http://pingus.seul.org/) --ရဲ႕ညီအစ္ကိုျဖစ္တဲ့ Lemming (လီမင္) အစား
-ပင္ဂြင္းငွက္ကေလးေတြကို အသံုးျပဳထားတာပါ။Install ျပဳလုပ္ရန္
+Pingus (http://pingus.seul.org/) --ရဲ့ညီအစ်ကိုဖြစ်တဲ့ Lemming (လီမင်) အစား
+ပင်ဂွင်းငှက်ကလေးတွေကို အသုံးပြုထားတာပါ။Install ပြုလုပ်ရန်
 
 sudo apt-get install pingus
 
-Frozen Bubble (http://www.frozen-bubble.org/)--ပူေပါင္းေဖာက္ ကစားနည္းတစ္ခုပါ။Install
-ျပဳလုပ္ရန္
+Frozen Bubble (http://www.frozen-bubble.org/)--ပူပေါင်းဖောက် ကစားနည်းတစ်ခုပါ။Install
+ပြုလုပ်ရန်
 
 sudo apt-get install frozen-bubble
 
-Frets on Fire (http://fretsonfire.sourceforge.net/)--Guitar Hero  နဲ႕ ဆင္တူပါတယ္သင့္အေနနဲ႕
-Community Site ေတြကေနတဆင့္ Guitar Hero
-(http://www.geetarfreaks.webs.com/Viva%20La%20Music.html)ထဲက သီခ်င္းေတြကို
-သြင္းယူႏိုင္ပါတယ္။community sites (http://fretsonfire.wikidot.com/custom-songs) မွာလဲ
-အေသးစိတ္ဖတ္ႏိုင္ပါတယ္။Install ျပဳလုပ္ရန္
+Frets on Fire (http://fretsonfire.sourceforge.net/)--Guitar Hero  နဲ့ ဆင်တူပါတယ်သင့်အနေနဲ့
+Community Site တွေကနေတဆင့် Guitar Hero
+(http://www.geetarfreaks.webs.com/Viva%20La%20Music.html)ထဲက သီချင်းတွေကို
+သွင်းယူနိုင်ပါတယ်။community sites (http://fretsonfire.wikidot.com/custom-songs) မှာလဲ
+အသေးစိတ်ဖတ်နိုင်ပါတယ်။Install ပြုလုပ်ရန်
 
 sudo apt-get install fretsonfire
 
-Scorched3d (http://www.scorched3d.co.uk/)--ႏွစ္ဘက္ျမင္ကို သံုးဖက္ျမင္ (3-
-D) အျဖစ္ ကစားႏိုင္မယ့္ အေျမာက္ပစ္ဂိမ္းပါ။Install လုပ္ရန္
+Scorched3d (http://www.scorched3d.co.uk/)--နှစ်ဘက်မြင်ကို သုံးဖက်မြင် (3-
+D) အဖြစ် ကစားနိုင်မယ့် အမြောက်ပစ်ဂိမ်းပါ။Install လုပ်ရန်
 
 sudo apt-get install scorched3d
 
-Pyscrabble (http://pyscrabble.sourceforge.net/) (ႏွင့္ pyscrabble-server)-- Online Scrabble(
-စကားလံုးမိတ္ဆက္) ဂိမ္းနဲ႕ server ျဖစ္ပါတယ္။ Install ျပဳလုပ္ရန္
+Pyscrabble (http://pyscrabble.sourceforge.net/) (နှင့် pyscrabble-server)-- Online Scrabble(
+စကားလုံးမိတ်ဆက်) ဂိမ်းနဲ့ server ဖြစ်ပါတယ်။ Install ပြုလုပ်ရန်
 
 sudo apt-get install pyscrabble pyscrabble-server
 
-(Lexulou နဲ႕ Internet Scrabble Club တို႕မွာလည္း Scrabble နဲ႕ပံုစံတူ browser-based online
-ဂိမ္းေတြရွိပါတယ္။Internet Scrabble Club ကေတာ့ Java ကို install လုပ္ထားဖို႕လိုအပ္ပါတယ္။Java install
-လုပ္ရန္
+(Lexulou နဲ့ Internet Scrabble Club တို့မှာလည်း Scrabble နဲ့ပုံစံတူ browser-based online
+ဂိမ်းတွေရှိပါတယ်။Internet Scrabble Club ကတော့ Java ကို install လုပ်ထားဖို့လိုအပ်ပါတယ်။Java install
+လုပ်ရန်
 
 sudo apt-get install default-jre
 
 Wing Commander Privateer
 
-Wing Commander Linux (http://priv.solsector.net/) ရဲ႕ အခမဲ့ဗားရွင္းကို Binary ဖိုင္အျဖစ္
-ဒီမွာ Download (http://sourceforge.net/projects/privateer/)ယူႏိုင္ပါၿပီ။
+Wing Commander Linux (http://priv.solsector.net/) ရဲ့ အခမဲ့ဗားရှင်းကို Binary ဖိုင်အဖြစ်
+ဒီမှာ Download (http://sourceforge.net/projects/privateer/)ယူနိုင်ပါပြီ။
 
 Vdrift
 
-Vdrift (http://vdrift.net/) သည္ အခမဲ့ open source ျဖစ္ၿပီး Need For Speed ကဲ့သို႕ေသာ realistic
-physics, multiple drift tracks, and multiplayer မ်ားပါ၀င္ေသာ 3-D ၿပိဳင္ကားဂိမ္းတစ္ခုျဖစ္သည္။
-Joysticks မ်ားျဖင့္ေသာ္လည္းေကာင္း Mice ႏွင့္ keyboard ျဖင့္ေသာ္လည္းေကာင္း အသံုးျပဳႏိုင္သည္။ Linux 
-အတြက္ Binary package အား ထို website မွ download လုပ္၍ ရယူႏိုင္ပါသည္။
+Vdrift (http://vdrift.net/) သည် အခမဲ့ open source ဖြစ်ပြီး Need For Speed ကဲ့သို့သော realistic
+physics, multiple drift tracks, and multiplayer များပါဝင်သော 3-D ပြိုင်ကားဂိမ်းတစ်ခုဖြစ်သည်။
+Joysticks များဖြင့်သော်လည်းကောင်း Mice နှင့် keyboard ဖြင့်သော်လည်းကောင်း အသုံးပြုနိုင်သည်။ Linux 
+အတွက် Binary package အား ထို website မှ download လုပ်၍ ရယူနိုင်ပါသည်။
 
 Action
 
-အံ့အားသင့္ဖြယ္ရာ အက္ရွင္ဂိမ္းေတြကို (Top 25 မွ ဂိမ္းမ်ားအပါအ၀င္) Ubuntu မွာ ရရွိႏိုင္ပါတယ္။
-အေတာ္မ်ားမ်ားကို
+အံ့အားသင့်ဖွယ်ရာ အက်ရှင်ဂိမ်းတွေကို (Top 25 မှ ဂိမ်းများအပါအဝင်) Ubuntu မှာ ရရှိနိုင်ပါတယ်။
+အတော်များများကို
 
 Menu - Application - Ubuntu Software Center - Games
 
-ကေနၿပီး install လုပ္ႏိုင္ပါတယ္။ 
+ကနေပြီး install လုပ်နိုင်ပါတယ်။ 
 
-Example အခ်ိဳ႕ကေတာ့-
+Example အချို့ကတော့-
 
 Alien Arena (http://icculus.org/alienarena/rpa/about.html) --multi-player first person
-shooter အက္ရွင္ဂိမ္းျဖစ္ၿပ�
+shooter အက်ရှင်ဂိမ်းဖြစ်ပြ?

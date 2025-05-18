@@ -1,3 +1,4 @@
+###Installation ပြုလုပ်ပုံ  - ၁ [(link)](https://launchpad.net/~gnome3-team/+archive/gnome3) 
 ###Installation ျပဳလုပ္ပံု  - ၁ [(link)](https://launchpad.net/~gnome3-team/+archive/gnome3) 
 
 	sudo add-apt-repository ppa:gnome3-team/gnome3   

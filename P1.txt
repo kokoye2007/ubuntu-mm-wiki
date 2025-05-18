@@ -1,67 +1,67 @@
 ﻿General Notes
 
-Ubuntu လမ္းညႊန္သည္ ပုဂၢလိကဆိုင္ရာကုမၸၸဏီႏွင့္ေသာ္လည္းေကာင္း
-အျခားစီးပြားေရး လုပ္ငန္းႀကီးမ်ားႏွင့္ေသာ္လည္းေကာင္း စီးပြားေရးအရသက္ဆိုင္မႈမရွိပါ။
-Ubuntu သည္ သံုးစြဲသူေတြကို Menu အသံုးခ်ရုပ္ပံုဆိုင္ရာ Graphical User Interface  (GUI)
-ႏွင့္ေသာ္လည္းေကာင္း စာသားအသံုးခ် command line ဆိုင္ရာ text-based command-line interface 
-(CLI) ေသာ္လည္းေကာင္း အလုပ္ေတြကို လုပ္ေဆာင္ႏိုင္ေစပါတယ္။Ubuntu မွာ(command-line-
-interface)ကို Terminal လို႕ေခၚပါတယ္။Terminal ကိုစဖြင့္မယ္ဆိုရင္ Menu- Applications-
-Accessories - Terminal ခုလို အဆင့္တိုင္းသြားေရာက္ႏိုင္ပါသည္။
+Ubuntu လမ်းညွှန်သည် ပုဂ္ဂလိကဆိုင်ရာကုမ္ပ္ပဏီနှင့်သော်လည်းကောင်း
+အခြားစီးပွားရေး လုပ်ငန်းကြီးများနှင့်သော်လည်းကောင်း စီးပွားရေးအရသက်ဆိုင်မှုမရှိပါ။
+Ubuntu သည် သုံးစွဲသူတွေကို Menu အသုံးချရုပ်ပုံဆိုင်ရာ Graphical User Interface  (GUI)
+နှင့်သော်လည်းကောင်း စာသားအသုံးချ command line ဆိုင်ရာ text-based command-line interface 
+(CLI) သော်လည်းကောင်း အလုပ်တွေကို လုပ်ဆောင်နိုင်စေပါတယ်။Ubuntu မှာ(command-line-
+interface)ကို Terminal လို့ခေါ်ပါတယ်။Terminal ကိုစဖွင့်မယ်ဆိုရင် Menu- Applications-
+Accessories - Terminal ခုလို အဆင့်တိုင်းသွားရောက်နိုင်ပါသည်။
 
-ခဲေရာင္မ်ဥ္းအစက္မ်ားအတြင္းမွာ စာသားမ်ားကို Terminal မွာ ထည့္သြင္းအသံုးျပဳႏိုင္ပါသည္။
+ခဲရောင်မျဉ်းအစက်များအတွင်းမှာ စာသားများကို Terminal မှာ ထည့်သွင်းအသုံးပြုနိုင်ပါသည်။
 
-ကြန္ပ်ဴတာလုပ္ေဆာင္မႈစနစ္မွ ေျပာင္းလဲခ်က္မ်ားကို ေျပာင္းလဲခြင့္ရွိသူ (Admin အခြင့္ရွိတဲ့)
-အသံုးျပဳသူကပဲေဆာင္ရြက္ႏိုင္ပါသည္။ 'sudo' Command က အသံုးျပဳသူကို ေျပာင္းလဲခြင့္ရွိသူ Admin 
-အျဖစ္ ယာယီသတ္မွတ္ေပးသည္။(ဥပမာ ပရိုဂရမ္တစ္ခု သြင္းစဥ္(သို႕)စနစ္ပိုင္းဆိုင္ရာေျပာင္းလဲစဥ္)
+ကွန်ပျူတာလုပ်ဆောင်မှုစနစ်မှ ပြောင်းလဲချက်များကို ပြောင်းလဲခွင့်ရှိသူ (Admin အခွင့်ရှိတဲ့)
+အသုံးပြုသူကပဲဆောင်ရွက်နိုင်ပါသည်။ 'sudo' Command က အသုံးပြုသူကို ပြောင်းလဲခွင့်ရှိသူ Admin 
+အဖြစ် ယာယီသတ်မှတ်ပေးသည်။(ဥပမာ ပရိုဂရမ်တစ်ခု သွင်းစဉ်(သို့)စနစ်ပိုင်းဆိုင်ရာပြောင်းလဲစဉ်)
 
-နမူနာအေနျဖင့္ ေအာက္တြင္ေဖာ္ၿပထားသည္။
+နမူနာအနေဖြင့် အောက်တွင်ဖော်ပြထားသည်။
 
 sudo bash
 
-'gksudo'ကို Graphical Application ေတြဖြင့္ရာမွာ 'sudo' အစားRun Command 
-မွလည္းေကာင္း(သို႕)မီႏူးမ်ားမွလည္းေကာင္း အသံုးျပဳႏိုင္ပါတယ္။
+'gksudo'ကို Graphical Application တွေဖွင့်ရာမှာ 'sudo' အစားRun Command 
+မှလည်းကောင်း(သို့)မီနူးများမှလည်းကောင်း အသုံးပြုနိုင်ပါတယ်။
 
-နမူနာအေနျဖင့္ ေအာက္တြင္ေဖာ္ၿပထားသည္။
+နမူနာအနေဖြင့် အောက်တွင်ဖော်ပြထားသည်။
 
 gksudo gedit  / etc / apt / sources. list
 
-ဖိုင္အမ်ားစုရဲ႕ ခန္႕ခြဲမႈေတြကို ရင္းျမစ္ျပင္ဆင္ခြင့္ရွိတဲ့ Admin  အခြင့္ (root Administrative
-privileges)ႏွင့္ Nautilus file မန္ေနဂ်ာကဲ့သို႕ အသံုးျပဳကာနဲ႕ ေဆာင္ရြက္ႏိုင္ပါသည္။Munu 
-မွတဆင့္ အသံုးျပဳမယ္ဆိုရင္ 'gksudo' ကိုအသံုးျပဳပါ။
+ဖိုင်အများစုရဲ့ ခန့်ခွဲမှုတွေကို ရင်းမြစ်ပြင်ဆင်ခွင့်ရှိတဲ့ Admin  အခွင့် (root Administrative
+privileges)နှင့် Nautilus file မန်နေဂျာကဲ့သို့ အသုံးပြုကာနဲ့ ဆောင်ရွက်နိုင်ပါသည်။Munu 
+မှတဆင့် အသုံးပြုမယ်ဆိုရင် 'gksudo' ကိုအသုံးပြုပါ။
 
 gksudo nautilus
 
-                  သို႕မဟုတ္
+                  သို့မဟုတ်
 
 sudo nautilus
 
-man ကေတာ့ ကြန္မန္းေတြအတြက္ အကူအညီလိုလာၿပီဆိုရင္ အသံုးျပဳႏိုင္ပါတယ္။နမူနာအေနနဲ႕ man 
-sudo လို႕ရိုက္ထည့္လိုက္မယ္ဆိုရင္ sudo ကြန္မန္းနဲ႕ဆိုင္တဲ့
-လက္စြဲဖိုင္စာမ်က္ႏွာေတြကိုျမင္ေတြ႕ရမွာျဖစ္ပါသည္။
+man ကတော့ ကွန်မန်းတွေအတွက် အကူအညီလိုလာပြီဆိုရင် အသုံးပြုနိုင်ပါတယ်။နမူနာအနေနဲ့ man 
+sudo လို့ရိုက်ထည့်လိုက်မယ်ဆိုရင် sudo ကွန်မန်းနဲ့ဆိုင်တဲ့
+လက်စွဲဖိုင်စာမျက်နှာတွေကိုမြင်တွေ့ရမှာဖြစ်ပါသည်။
 
 man sudo
 
-apt-get  ႏွင့္ aptitude ေတြကို ပရိုဂရမ္ေတြ ပက္ေက့ (package) ေတြ
-ထည့္သြင္းရာမွာအျမန္ဆံုးနည္းအေနနဲ႕ အသံုးျပဳပါတယ္။ GUI ထည့္သြင္းမႈအတြက္ Synaptic Package 
-Manager ကိုလဲအသံုးျပဳႏိုင္ပါတယ္။ဒါေပမယ့္ ပရိုဂရမ္ေတြ ပက္ေက့ (package) အမ်ားစုဟာ apt-get
-install ႏွင့္ေရာ Synaptic Package Manager ႏွင့္ပါ ထည့္သြင္းႏိုင္ပါသည္။အခုလမ္းညႊန္မွာ 
-ျမင္ေတြ႕ႏိုင္ပါသည္။
+apt-get  နှင့် aptitude တွေကို ပရိုဂရမ်တွေ ပက်ကေ့ (package) တွေ
+ထည့်သွင်းရာမှာအမြန်ဆုံးနည်းအနေနဲ့ အသုံးပြုပါတယ်။ GUI ထည့်သွင်းမှုအတွက် Synaptic Package 
+Manager ကိုလဲအသုံးပြုနိုင်ပါတယ်။ဒါပေမယ့် ပရိုဂရမ်တွေ ပက်ကေ့ (package) အများစုဟာ apt-get
+install နှင့်ရော Synaptic Package Manager နှင့်ပါ ထည့်သွင်းနိုင်ပါသည်။အခုလမ်းညွှန်မှာ 
+မြင်တွေ့နိုင်ပါသည်။
 
 sudo apt-get  install  package 
 
-Synaptic မွာပက္ေက့ေတြ (package) ကိုရွာေဖြပံုနဲ႕ ထည့္သြင္းပံုက ဤသို႕ျဖစ္ပါသည္။
-အမိန္႕ေပးမႈအမ်ားအျပားကို nano စာသား အယ္ဒီတာ အသံုးျပဳခိုင္းေစပါတယ္။နာႏိုက
-လင္းနက္တိုင္းမွာ ရရွိတဲ့ အယ္ဒီတာျဖစ္ပါသည္။တစ္ခါတရံမွာ ဦးဘြန္တုမွာပါတဲ့ gedit
-ထက္အသံုးျပဳရတာပိုလြယ္ပါတယ္။
-Menu ဆိုတာကေတာ့ desktop အေပၚဘက္မွာရွိ မီႏူးဘားကို ရည္ညႊန္းပါတယ္။ မိုက္ခရိုေဆာ့ဖ္၀င္းဒိုးမွာရွိတဲ့
-Start menu ၊ Apple Macintosh မွာရွိတဲ့ Menu bar ေတြနဲ႕တူတူပါပဲ။
-တကယ္လို႕ ၆၄ ဘစ္ ဗားရွင္းစနစ္ကို အသံုးျပဳမယ္ဆိုရင္ i386 ကို amd64 နဲ႕ အစားထိုးရမွာ ျဖစ္ပါသည္။
+Synaptic မှာပက်ကေ့တွေ (package) ကိုရှာဖွေပုံနဲ့ ထည့်သွင်းပုံက ဤသို့ဖြစ်ပါသည်။
+အမိန့်ပေးမှုအများအပြားကို nano စာသား အယ်ဒီတာ အသုံးပြုခိုင်းစေပါတယ်။နာနိုက
+လင်းနက်တိုင်းမှာ ရရှိတဲ့ အယ်ဒီတာဖြစ်ပါသည်။တစ်ခါတရံမှာ ဦးဘွန်တုမှာပါတဲ့ gedit
+ထက်အသုံးပြုရတာပိုလွယ်ပါတယ်။
+Menu ဆိုတာကတော့ desktop အပေါ်ဘက်မှာရှိ မီနူးဘားကို ရည်ညွှန်းပါတယ်။ မိုက်ခရိုဆော့ဖ်ဝင်းဒိုးမှာရှိတဲ့
+Start menu ၊ Apple Macintosh မှာရှိတဲ့ Menu bar တွေနဲ့တူတူပါပဲ။
+တကယ်လို့ ၆၄ ဘစ် ဗားရှင်းစနစ်ကို အသုံးပြုမယ်ဆိုရင် i386 ကို amd64 နဲ့ အစားထိုးရမှာ ဖြစ်ပါသည်။
 
 Other Versions
 
 How to find out whict version of Ubuntu your're using
 
-Terminal ေပၚမွာ ဒီလိုရိုက္ထည့္ၿပီး Enter ႏွိပ္ပါ။
+Terminal ပေါ်မှာ ဒီလိုရိုက်ထည့်ပြီး Enter နှိပ်ပါ။
 
 1sb_release -a
 
@@ -71,10 +71,10 @@ uname -a
 
 Newer Versions  of Ubuntu 
 
-Ubuntu ကို ၆လလွ်င္တစ္ႀကိမ္ထုတ္ေ၀ၿပီး ႏွစ္စဥ္ ဧၿပီလႏွင့္ေအာက္တိုဘာလတို႕တြင္ ထုတ္ေ၀ပါသည္။
-Oneiric Ocelot (11.10) (http://ubuntuguide.org/wiki/Ubuntu:Oneiric) ,မ်ားမႀကာမီ ေနာက္ဆံုး
-ထြက္ေပၚမည့္ Oneiric ကို ၂၀၁၁ခုႏွစ္ ေအာက္တိုဘာလတြင္ အခမဲ့ ရယူႏိုင္မည္ျဖစ္ပါသည္။သို႕ရာတြင္
-၄င္းသည္ ကာလရွည္ႀကာ ေထာက္ပံ့မႈေပးသည့္ LTS Version မဟုတ္ပါ။
+Ubuntu ကို ၆လလျှင်တစ်ကြိမ်ထုတ်ဝေပြီး နှစ်စဉ် ဧပြီလနှင့်အောက်တိုဘာလတို့တွင် ထုတ်ဝေပါသည်။
+Oneiric Ocelot (11.10) (http://ubuntuguide.org/wiki/Ubuntu:Oneiric) ,များမကြာမီ နောက်ဆုံး
+ထွက်ပေါ်မည့် Oneiric ကို ၂၀၁၁ခုနှစ် အောက်တိုဘာလတွင် အခမဲ့ ရယူနိုင်မည်ဖြစ်ပါသည်။သို့ရာတွင်
+၎င်းသည် ကာလရှည်ကြာ ထောက်ပံ့မှုပေးသည့် LTS Version မဟုတ်ပါ။
 
 Older Versions of Ubuntu
 
@@ -88,27 +88,27 @@ Maverick Meerkat (10.10) (http://................................
 
 Other Resources 
 
-Ubuntu Forums (http://ubuntuforums.org/) တြင္ အြန္လိုင္းေျဖရွင္းခ်က္မ်ားႏွင့္
-အျခားေသာအေသးစိတ္အခ်က္အလက္မ်ားကို ကူညီေပးရန္ အဖြဲ႕အစည္းမ်ားစြာ ရွိပါသည္။
-ျပည္တြင္း အဖြဲ႕အစည္းအေနျဖင့္ Ubuntu for Myanmar (u4mm) (http://u4mm.com/) ရွိၿပီး
-ျမန္မာဘာသာျဖင့္ Ubuntu အေႀကာင္းေလ့လာႏိုင္ပါမည္။
+Ubuntu Forums (http://ubuntuforums.org/) တွင် အွန်လိုင်းဖြေရှင်းချက်များနှင့်
+အခြားသောအသေးစိတ်အချက်အလက်များကို ကူညီပေးရန် အဖွဲ့အစည်းများစွာ ရှိပါသည်။
+ပြည်တွင်း အဖွဲ့အစည်းအနေဖြင့် Ubuntu for Myanmar (u4mm) (http://u4mm.com/) ရှိပြီး
+မြန်မာဘာသာဖြင့် Ubuntu အကြောင်းလေ့လာနိုင်ပါမည်။
 
 Ubuntu Resources 
 
 Unity Desktop 
 
-Unity (http://en.wikipedia.org/wiki/Unity_%28desktop_environment%29) ဆိုသည္မွာ Ubuntu 
-တြင္ အသံုးျပဳသည့္ နဂိုမူလပါေသာ Desktop ပံုစံျဖစ္ပါသည္။ (Gnome) ဂႏုမ္းမွ အသံုးျပဳသည့္ GTK 
-ပလက္ေဖာင္းျဖင့္ အဆင္ေျပသင့္ေတာ္ပါသည္။netbook မ်ားတြင္ အသံုးျပဳရန္ ဒီဇိုင္းျပဳလုပ္ထားေသာ္လည္း
-အျခားေသာ စက္ပစၥည္းအမ်ိဳးအစားမ်ားတြင္ပါ အသံုး၀င္ေစရန္ canonical မွ ျပင္ဆင္ေပးထားပါသည္။
+Unity (http://en.wikipedia.org/wiki/Unity_%28desktop_environment%29) ဆိုသည်မှာ Ubuntu 
+တွင် အသုံးပြုသည့် နဂိုမူလပါသော Desktop ပုံစံဖြစ်ပါသည်။ (Gnome) ဂနုမ်းမှ အသုံးပြုသည့် GTK 
+ပလက်ဖောင်းဖြင့် အဆင်ပြေသင့်တော်ပါသည်။netbook များတွင် အသုံးပြုရန် ဒီဇိုင်းပြုလုပ်ထားသော်လည်း
+အခြားသော စက်ပစ္စည်းအမျိုးအစားများတွင်ပါ အသုံးဝင်စေရန် canonical မှ ပြင်ဆင်ပေးထားပါသည်။
 
 
 Gnome Project 
 
-Gnome 3 (http://www.gnome.org/) သည္ Ubuntu အတြက္ ပံုစံအသစ္အေနျဖင့္ ရယူႏိုင္ပါသည္။ Gnome 
-လုပ္ငန္းစဥ္မ်ား(http://projects.gnome.org/) ႀကည့္႐ႈ ရယူႏိုင္ပါသည္။
+Gnome 3 (http://www.gnome.org/) သည် Ubuntu အတွက် ပုံစံအသစ်အနေဖြင့် ရယူနိုင်ပါသည်။ Gnome 
+လုပ်ငန်းစဉ်များ(http://projects.gnome.org/) ကြည့်ရှု ရယူနိုင်ပါသည်။
 
-      installation ျပဳလုပ္ပံု ၁ (https://launchpad.net/~gnome3-team/+archive/gnome3) :
+      installation ပြုလုပ်ပုံ ၁ (https://launchpad.net/~gnome3-team/+archive/gnome3) :
 
 sudo add-apt-repository ppa : gnome3-team/gnome 3
 sudo apt-get update
@@ -116,7 +116,7 @@ sudo apt-get dist-upgrade
 sudo apt-get install gnome-shell
 
         
-      installation ျပဳလုပ္ပံု ၂ (https://launchpad.net/~ubuntugnometeam) :
+      installation ပြုလုပ်ပုံ ၂ (https://launchpad.net/~ubuntugnometeam) :
 
 sudo add-apt-repository ppa : ubuntugonmeteam/gnome3
 sudo add-apt-repository ppa : ubuntugonmeteam/ppa-gen
@@ -131,13 +131,13 @@ What is Ubuntu? (http://www.ubuntu.com/ubuntu)
 Ubuntu 11.04 Unity Desktop (http://www.youtube.com/watch/v=HMztaKt_1_E) and
 other YouTube videos (http://www.youtube.com/results?
 search-query=ubuntu+11.04aq=f).
-မႀကာမီ ျမန္မာဘာသာ သင္ႀကားပို႕ခ်ခ်က္မ်ား ထည့္သြင္းမည္။
+မကြာမီ မြန်မာဘာသာ သင်ကြားပို့ချချက်များ ထည့်သွင်းမည်။
 
 News Application Resources 
 
-GetDeb (http://www.getdeb.net)- ေနာက္ဆံုးထြက္ရွိေသာ software မ်ားကို
-တရား၀င္ထိန္းသိမ္းထားရာ ေနရာမ်ားကဲ့သို႕ ရရွိႏိုင္ျခင္း(သို႕) မရရွိႏိုင္ျခင္း အတူတူျဖစ္သည္။ .deb ဖိုင္ပံုစံ
-ျဖင့္ထည့္သြင္းရန္လြယ္ကူပါသည္။(ဤေနရာတြင္ ဆက္လက္ေလ့လာပါ။Apt and Package Basics).
+GetDeb (http://www.getdeb.net)- နောက်ဆုံးထွက်ရှိသော software များကို
+တရားဝင်ထိန်းသိမ်းထားရာ နေရာများကဲ့သို့ ရရှိနိုင်ခြင်း(သို့) မရရှိနိုင်ခြင်း အတူတူဖြစ်သည်။ .deb ဖိုင်ပုံစံ
+ဖြင့်ထည့်သွင်းရန်လွယ်ကူပါသည်။(ဤနေရာတွင် ဆက်လက်လေ့လာပါ။Apt and Package Basics).
 Top 100 Open source Applications http://ubuntulinuxhelp.com/top-100-of-the-best-
 useful-opensource-applications/)
 Linux Alternatives (http://www.linuxalt.com/)
@@ -145,66 +145,66 @@ See our full list of add-on applications.
 
 Other *buntu guides and help manuals
 
-Kubuntuguide (http://www.kubuntuguide.info)--Kubuntu သည္ နာမည္ေက်ာ္ႀကားေသာ KDE 
-desktop ကို အသံုးျပဳထားပါသည္။
+Kubuntuguide (http://www.kubuntuguide.info)--Kubuntu သည် နာမည်ကျော်ကြားသော KDE 
+desktop ကို အသုံးပြုထားပါသည်။
 
 !---* Xubuntu (http://www.xubuntuguide.org)--Xubuntu can run with as little as 256 Mb RAM.It is
 better for older machines with limited resources.---
 
-Lubuntu (https://wiki.ubuntu.com/Lubuntu)--သည္ RAM 256Mb ႏွင့္ပင္ အသံုးျပဳႏိုင္ပါသည္၊
-အိုေဟာင္းေနေသာ စက္မ်ားႏွင့္ပင္ သင့္ေတာ္ပါသည္။
+Lubuntu (https://wiki.ubuntu.com/Lubuntu)--သည် RAM 256Mb နှင့်ပင် အသုံးပြုနိုင်ပါသည်၊
+အိုဟောင်းနေသော စက်များနှင့်ပင် သင့်တော်ပါသည်။
 offical Ubuntu Server  Guide  (https://help.ubuntu.com/10.04/serverguide/C/index.html) --
-Ubuntu server လမ္းညႊန္ - server packages မ်ားအတြက္ ေကာင္းမြန္ေသာ ကိုးကားမႈျဖစ္ပါသည္။
+Ubuntu server လမ်းညွှန် - server packages များအတွက် ကောင်းမွန်သော ကိုးကားမှုဖြစ်ပါသည်။
 Ubuntu Dectors Guide (http://www.ubuntudoctorsguild.org/) --
-က်န္းမာေရးႏွင့္သက္ဆိုင္ေသာ ေနရာမ်ားတြင္သံုးေသာ (K)ubuntu Linux မ်ားအတြက္
-စုစည္းထားေသာလမ္းညႊန္ခ်က္မ်ား
+ကျန်းမာရေးနှင့်သက်ဆိုင်သော နေရာများတွင်သုံးသော (K)ubuntu Linux များအတွက်
+စုစည်းထားသောလမ်းညွှန်ချက်များ
 SkoleLinux (http://www.slx.no/en/take-a-tour) -- Debian/Ubuntu Linux (open-source)
-မ်ားအတြက္ ပညာရပ္ဆိုင္ရာမ်ား စုစည္းထားမႈ
+များအတွက် ပညာရပ်ဆိုင်ရာများ စုစည်းထားမှု
 
 Installing Ubuntu
 
 Hardware Requirements
 
-Ubuntu ထည့္သြင္းအသံုးျပဳႏိုင္ရန္ လိုအပ္ခ်က္မ်ား
+Ubuntu ထည့်သွင်းအသုံးပြုနိုင်ရန် လိုအပ်ချက်များ
 
-Ubuntu Natty Narwhal သည္ 384 Mb ပမာဏသည္ RAM ရွိရံဳမွ်ျဖင့္ ေကာင္းစြာလည္ပတ္ႏိုင္သည္။ (GUI
-installer ျဖင့္ထည့္သြင္းလွ်င္ အနည္းဆံုး 256 Mb ပမာဏလိုအပ္ၿပီး၊စာသားျဖင့္သာေဖာ္ၿပေသာ installer ကို
-သံုးလွ်င္ 192 Mb ပမာဏသာလိုအပ္သည္)။ Notebooks မ်ားတြင္ Ubuntu Natty Narwhal ကိုေကာင္းစြာ
-အသံုးျပဳႏိုင္သည္။
+Ubuntu Natty Narwhal သည် 384 Mb ပမာဏသည် RAM ရှိရုံမျှဖြင့် ကောင်းစွာလည်ပတ်နိုင်သည်။ (GUI
+installer ဖြင့်ထည့်သွင်းလျှင် အနည်းဆုံး 256 Mb ပမာဏလိုအပ်ပြီး၊စာသားဖြင့်သာဖော်ပြသော installer ကို
+သုံးလျှင် 192 Mb ပမာဏသာလိုအပ်သည်)။ Notebooks များတွင် Ubuntu Natty Narwhal ကိုကောင်းစွာ
+အသုံးပြုနိုင်သည်။
 
-Ubuntu ထည့္သြင္းျခင္းသည္ Harddisk ေနရာလြတ္ 3-4 Gb မွ်သာ အသံုးျပဳၿပီး အဆင္ေျပစြာ အသံုးျပဳႏိုင္ရန္
-8-10Gb သာ လိုအပ္သည္။
+Ubuntu ထည့်သွင်းခြင်းသည် Harddisk နေရာလွတ် 3-4 Gb မျှသာ အသုံးပြုပြီး အဆင်ပြေစွာ အသုံးပြုနိုင်ရန်
+8-10Gb သာ လိုအပ်သည်။
 
-အကယ္၍ သင့္ကြန္ပ်ဴတာ၏ memory ပမာဏသည္ ယခုေဖာ္ၿပခဲ့သည္ထက္ နည္းပါးေနပါက အျခားေသာ
-ဆင္တူ OS မ်ားျဖစ္ေသာ ေအာက္ပါ OS မ်ားကို အသံုးျပဳႏိုင္သည္။ Lubuntu 
-(https://wiki.ubuntu.com/Lubuntu) (၁၆၀ Mb RAM ပမာဏရွိရံုျဖင့္ အသံုးျပဳႏိုင္သည္။) PuppyLinux
-(http://www.puppylinux.org/) (၂၅၆ Mb RAM ပမာဏရွိရံုျဖင့္ အသံုးျပဳႏိုင္သည္။)သို႕မဟုတ္ DSL 
-(http://damnsmallinux.org) (အနည္းဆံုး RAM ပမာဏ၊Harddisk ေနရာလြတ္ အနည္းငယ္သာရွိရံု၊
-USB drive မွ အသံုးျပဳရန္၊ သို႕မဟုတ္ အျခား Operation System မ်ား အတြင္းမွ softwareတစ္ခုကဲ့သို႕
-အသံုးျပဳရန္)။
+အကယ်၍ သင့်ကွန်ပျူတာ၏ memory ပမာဏသည် ယခုဖော်ပြခဲ့သည်ထက် နည်းပါးနေပါက အခြားသော
+ဆင်တူ OS များဖြစ်သော အောက်ပါ OS များကို အသုံးပြုနိုင်သည်။ Lubuntu 
+(https://wiki.ubuntu.com/Lubuntu) (၁၆၀ Mb RAM ပမာဏရှိရုံဖြင့် အသုံးပြုနိုင်သည်။) PuppyLinux
+(http://www.puppylinux.org/) (၂၅၆ Mb RAM ပမာဏရှိရုံဖြင့် အသုံးပြုနိုင်သည်။)သို့မဟုတ် DSL 
+(http://damnsmallinux.org) (အနည်းဆုံး RAM ပမာဏ၊Harddisk နေရာလွတ် အနည်းငယ်သာရှိရုံ၊
+USB drive မှ အသုံးပြုရန်၊ သို့မဟုတ် အခြား Operation System များ အတွင်းမှ softwareတစ်ခုကဲ့သို့
+အသုံးပြုရန်)။
 
 Fresh Installation
 
-Ubuntu တစ္ခုတည္း သီးသန္႕ထည့္သြင္းျခင္း
+Ubuntu တစ်ခုတည်း သီးသန့်ထည့်သွင်းခြင်း
 
-(http://www.ubuntu.com/download/ubuntu/download)မွ Ubuntu ၏
-ေနာက္ဆံုးထြက္ရွိထားေသာ IOS အား download ဆြဲယူပါ။
+(http://www.ubuntu.com/download/ubuntu/download)မှ Ubuntu ၏
+နောက်ဆုံးထွက်ရှိထားသော IOS အား download ဆွဲယူပါ။
 
-ထို IOS အား CD ေပၚသို႕ Ubuntu installation CD (LiveCD) အျဖစ္ အသံုးျပဳႏိုင္ရန္ မည္သို႕ေရးသားရမည္ကို
-How To (https://help.ubuntu.com/community/BurningIsoHowto) တြင္ လမ္းညႊန္ထားသည္။
+ထို IOS အား CD ပေါ်သို့ Ubuntu installation CD (LiveCD) အဖြစ် အသုံးပြုနိုင်ရန် မည်သို့ရေးသားရမည်ကို
+How To (https://help.ubuntu.com/community/BurningIsoHowto) တွင် လမ်းညွှန်ထားသည်။
 
-ထိုလမ္းညႊန္ခ်က္အတိုင္း ျပဳလုပ္ထားသည့္ Live CD ကို Ubuntu ထည့္သြင္းရန္အတြက္ အသံုးျပဳသည္။
+ထိုလမ်းညွှန်ချက်အတိုင်း ပြုလုပ်ထားသည့် Live CD ကို Ubuntu ထည့်သွင်းရန်အတွက် အသုံးပြုသည်။
 
-အျခားနည္းလမ္းတစ္ခုအေနျဖင့္ Server version ကို အရင္ထည့္သြင္းၿပီးမွ Ubuntu desktop version 
-ကို ထည့္သြင္း၍ အသံုးျပဳႏိုင္သည္။
+အခြားနည်းလမ်းတစ်ခုအနေဖြင့် Server version ကို အရင်ထည့်သွင်းပြီးမှ Ubuntu desktop version 
+ကို ထည့်သွင်း၍ အသုံးပြုနိုင်သည်။
 
-Server version ကဲ့သို႕ ပိုမိုျမန္ဆန္သည့္ စာသားျဖင့္သာေဖာ္ၿပေသာ installer ကို အသံုးျပဳထားသည့္ ISO 
+Server version ကဲ့သို့ ပိုမိုမြန်ဆန်သည့် စာသားဖြင့်သာဖော်ပြသော installer ကို အသုံးပြုထားသည့် ISO 
 file ကို Alternative Download (http://www.ubuntu.com/download/ubuntu/alternative-
-download) တြင္ ရယူႏိုင္သည္။ ထို ISO တြင္Desktop CD(Regular Download) ထက္
-ေရြးခ်ယ္ႏိုင္ေသာ installation လုပ္ငန္းစဥ္မ်ား ပိုမိုပါ၀င္သည္။
+download) တွင် ရယူနိုင်သည်။ ထို ISO တွင်Desktop CD(Regular Download) ထက်
+ရွေးချယ်နိုင်သော installation လုပ်ငန်းစဉ်များ ပိုမိုပါဝင်သည်။
 
-LiveCD ကို USB flashdrive ေပၚသို႕ (usb-creater-gtk) အသံုးျပဳ၍ ထည့္သြင္းၿပီး ထို flashdrive ကို
-CD drive မပါ၀င္သည့္ ကြန္ပ်ဴတာမ်ားေပၚတြင္ Ubuntu ထည့္သြင္းရန္ အသံုးျပဳႏိုင္သည္။
+LiveCD ကို USB flashdrive ပေါ်သို့ (usb-creater-gtk) အသုံးပြု၍ ထည့်သွင်းပြီး ထို flashdrive ကို
+CD drive မပါဝင်သည့် ကွန်ပျူတာများပေါ်တွင် Ubuntu ထည့်သွင်းရန် အသုံးပြုနိုင်သည်။
 
 Ubuntu Community documentation
 (https://help.ubuntu.com/community/Installation/FromUSBStick)
@@ -212,259 +212,259 @@ Ubuntu Community documentation
 
 Dual-Botting Windows and Ubuntu
 
-Windows ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
+Windows နှင့် Ubuntu ကို ကွန်ပျူတာတစ်လုံးထဲပေါ်တွင် ယှဉ်တွဲတင်ခြင်း
 
-ကြန္ပ်ဴတာတစ္လံုးထဲေပၚတြင္ Windows ႏွင့္ Ubuntu ယွဥ္တြဲတင္ရာတြင္ အခက္အခဲမ်ားႀကံဳေတြ႕ရႏိုင္ပါသည္။
-Windows ၏ bootloader သည္ Windows သီးသန္႕ကိုသာ ေထာက္ပံ့သည့္အတြက္ ကြန္ပ်ဴတာေပၚတြင္
-Windows ကို ဦးစြာထည့္သြင္းရပါမည္။ပံုမွန္ Windows ထည့္သြင္းသည့္လုပ္ငန္းစဥ္တြင္ Hard drive ၏
-ေနရာရွိသမွ်ကို အသံုးျပဳသည့္အတြက္ Ubuntu ထည့္သြင္းရန္ ေနရာလြတ္ရရွိရန္ဆိုပါက Windows
-မွအသံုးျပဳထားသည့္ Hard drive ကိုခ်ံဳ႕ေပးရန္ လိုအပ္ပါသည္။(Hard drive ပမာဏကိုမေျပာင္းလဲခင္ ဦးစြာ
-မလိုအပ္ေသာ ဖိုင္မ်ားကို ရွင္းလင္း၍ ဖိုင္ၿပန္စီေသာ လုပ္ငန္းစဥ္ကို လုပ္ေဆာင္ထားပါ။)
+ကွန်ပျူတာတစ်လုံးထဲပေါ်တွင် Windows နှင့် Ubuntu ယှဉ်တွဲတင်ရာတွင် အခက်အခဲများကြုံတွေ့ရနိုင်ပါသည်။
+Windows ၏ bootloader သည် Windows သီးသန့်ကိုသာ ထောက်ပံ့သည့်အတွက် ကွန်ပျူတာပေါ်တွင်
+Windows ကို ဦးစွာထည့်သွင်းရပါမည်။ပုံမှန် Windows ထည့်သွင်းသည့်လုပ်ငန်းစဉ်တွင် Hard drive ၏
+နေရာရှိသမျှကို အသုံးပြုသည့်အတွက် Ubuntu ထည့်သွင်းရန် နေရာလွတ်ရရှိရန်ဆိုပါက Windows
+မှအသုံးပြုထားသည့် Hard drive ကိုချုံ့ပေးရန် လိုအပ်ပါသည်။(Hard drive ပမာဏကိုမပြောင်းလဲခင် ဦးစွာ
+မလိုအပ်သော ဖိုင်များကို ရှင်းလင်း၍ ဖိုင်ပြန်စီသော လုပ်ငန်းစဉ်ကို လုပ်ဆောင်ထားပါ။)
 
-Windows ၏ Hard drive partition ကိုခ်ံဳ႕ၿပီးပါက  Ubuntu ကို ထည့္သြင္းရန္သို႕မဟုတ္ Hard disk 
-partition မ်ားကို ထပ္မံျပဳျပင္ေျပာင္းလဲႏိုင္ရန္အတြက္ ကြန္ပ်ဴတာကို reboot ျပန္လုပ္ေပးရပါမည္။
-ဤသို႕ျပဳလုပ္ျခင္းအားျဖင့္ Windows စနစ္မွ အသစ္ျပဳျပင္လုပ္ေဆာင္ထားေသာ    Hard drive ကို သိရွိေစၿပီး
-(Windows XP တြင္ chkdsk ကိုအသံုးျပဳၿပီး ေနာက္ပိုင္းထြက္ရွိလာေသာ Windows စနစ္မ်ားတြင္ အျခားေသာ
-Hard drive ကိုစစ္ေဆးသည့္ utilities မ်ားကို အသံုးျပဳသည္။)ထို႕အျပင္ bootup ဖိုင္မ်ားကို
-ေျပာင္းလဲေရးသားေစသည္။ (ထိုကဲ့သို႕ reboot မျပဳလုပ္ခဲ့ပါက Windows အသံုးျပဳေသာ Hard drive partition
-၏ bootup ဖိုင္မ်ားကို Windows Recovery Console အသံုးျပဳ၍ ကိုယ္တိုင္ ျပင္ဆင္ေပးရမည္ျဖစ္သည္။
+Windows ၏ Hard drive partition ကိုချုံ့ပြီးပါက  Ubuntu ကို ထည့်သွင်းရန်သို့မဟုတ် Hard disk 
+partition များကို ထပ်မံပြုပြင်ပြောင်းလဲနိုင်ရန်အတွက် ကွန်ပျူတာကို reboot ပြန်လုပ်ပေးရပါမည်။
+ဤသို့ပြုလုပ်ခြင်းအားဖြင့် Windows စနစ်မှ အသစ်ပြုပြင်လုပ်ဆောင်ထားသော    Hard drive ကို သိရှိစေပြီး
+(Windows XP တွင် chkdsk ကိုအသုံးပြုပြီး နောက်ပိုင်းထွက်ရှိလာသော Windows စနစ်များတွင် အခြားသော
+Hard drive ကိုစစ်ဆေးသည့် utilities များကို အသုံးပြုသည်။)ထို့အပြင် bootup ဖိုင်များကို
+ပြောင်းလဲရေးသားစေသည်။ (ထိုကဲ့သို့ reboot မပြုလုပ်ခဲ့ပါက Windows အသုံးပြုသော Hard drive partition
+၏ bootup ဖိုင်များကို Windows Recovery Console အသုံးပြု၍ ကိုယ်တိုင် ပြင်ဆင်ပေးရမည်ဖြစ်သည်။
 
-Windows စနစ္ထည့္သြင္းျခင္းနည္းသစ္မ်ားတြင္ Hard drive primary partition ၂ခုအသံုးျပဳသည္
-(Windows စနစ္စတင္ရန partition  အေသး၁ခုႏွင့္ Windows စနစ္တစ္ခုလံုးအတြက္ partition အႀကီးတစ္ခု)။
-Ubuntu Linux စနစ္ထည့္သြင္းရာတြင္လည္း Hard drive partition ၂ခုလိုအပ္ပါသည္ -- (linus-swap
-partitionႏွင့္ စနစ္တစ္ခုလံုးအတြက္ partition)။ Linux အတြက္ Hard drive partition မ်ားခြဲရာတြင္
-primary partition သို႕မဟုတ္ primary partition ေပၚမွ ျပန္ခြဲေ၀ထားေသာ logical partition  ၂ခု
-အသံုးျပဳရမည္။အခ်ိဳ႕ကြန္ပ်ဴတာေရာင္းခ်သူမ်ားသည္ Hard drive ၏ primary partition ၄ခုလံုးကို
-အသံုးျပဳထားတတ္သည့္အတြက္ Ubuntu  ထည့္သြင္းရန္အတြက္ partition ေနရာလြတ္မရွိေႀကာင္း
-ေဖာ္ျပေနတတ္သည္။Hard drive ၏ primary partition ၁ခုရွိလွ်င္ ထို primary partition  ေပၚတြင္ logical
-partition မ်ားထပ္မံခြဲ၍ Ubuntu  ကိုထည့္သြင္းႏိုင္သည္။ (Ubuntu အတြက္ primary  partition ျဖစ္ေစ
-logical partition ျဖစ္ေစ အသံုးျပဳႏိုင္သည္။)
+Windows စနစ်ထည့်သွင်းခြင်းနည်းသစ်များတွင် Hard drive primary partition ၂ခုအသုံးပြုသည်
+(Windows စနစ်စတင်ရန partition  အသေး၁ခုနှင့် Windows စနစ်တစ်ခုလုံးအတွက် partition အကြီးတစ်ခု)။
+Ubuntu Linux စနစ်ထည့်သွင်းရာတွင်လည်း Hard drive partition ၂ခုလိုအပ်ပါသည် -- (linus-swap
+partitionနှင့် စနစ်တစ်ခုလုံးအတွက် partition)။ Linux အတွက် Hard drive partition များခွဲရာတွင်
+primary partition သို့မဟုတ် primary partition ပေါ်မှ ပြန်ခွဲဝေထားသော logical partition  ၂ခု
+အသုံးပြုရမည်။အချို့ကွန်ပျူတာရောင်းချသူများသည် Hard drive ၏ primary partition ၄ခုလုံးကို
+အသုံးပြုထားတတ်သည့်အတွက် Ubuntu  ထည့်သွင်းရန်အတွက် partition နေရာလွတ်မရှိကြောင်း
+ဖော်ပြနေတတ်သည်။Hard drive ၏ primary partition ၁ခုရှိလျှင် ထို primary partition  ပေါ်တွင် logical
+partition များထပ်မံခွဲ၍ Ubuntu  ကိုထည့်သွင်းနိုင်သည်။ (Ubuntu အတွက် primary  partition ဖြစ်စေ
+logical partition ဖြစ်စေ အသုံးပြုနိုင်သည်။)
 
-အကယ္၍ Hard drive ေပၚတြင္ primary partition ၂ခုသာရွိပါက (ထို၂ခုတြင္ ေနရာလြတ္မ်ားစြာရွိေနလွ်င္)
-Ubuntu ကို ဒုတိယ operation system  အျဖစ္ထည့္သြင္းရာတြင္ အခက္အခဲရွိမည္မဟုတ္ပါ။ Ubuntu LiveCD
-ကို "largest available free space" တြင္ ထည့္သြင္းရန္ခြင့္ျပဳလိုက္ရံုျဖင့္ အလိုအေလွ်ာက္ ျပဳလုပ္သြားႏိုင္သည္။
-အျခား Partition ၁ခုတြင္ ေနရာလြတ္ အမ်ားအျပားရွိေနပါက Ubuntu LiveCD သည္ Ubuntu ကို " largest
-available free space" တြင္ ထည့္သြင္းေပးလိမ့္မည္ျဖစ္သည္။
+အကယ်၍ Hard drive ပေါ်တွင် primary partition ၂ခုသာရှိပါက (ထို၂ခုတွင် နေရာလွတ်များစွာရှိနေလျှင်)
+Ubuntu ကို ဒုတိယ operation system  အဖြစ်ထည့်သွင်းရာတွင် အခက်အခဲရှိမည်မဟုတ်ပါ။ Ubuntu LiveCD
+ကို "largest available free space" တွင် ထည့်သွင်းရန်ခွင့်ပြုလိုက်ရုံဖြင့် အလိုအလျှောက် ပြုလုပ်သွားနိုင်သည်။
+အခြား Partition ၁ခုတွင် နေရာလွတ် အများအပြားရှိနေပါက Ubuntu LiveCD သည် Ubuntu ကို " largest
+available free space" တွင် ထည့်သွင်းပေးလိမ့်မည်ဖြစ်သည်။
 
-မူလ Windows စနစ္၏ partition သည္ အနည္းဆံုး 20GB  (Vista ႏွင့္ Windows 7 ဆိုလွ်င္ 30GB)
-ရွိရမည္ျဖစ္ၿပီး Ubuntu အတြက္ partition သည္ အနည္းဆံုး 10GB (20GB ေပးႏိုင္ရင္ပိုေကာင္းပါသည္။)
-ရွိရမည္ျဖစ္သည္။သင့္တြင္ Hard drive  ေနရာလြတ္မ်ားစြာရွိေနလွ်င္ သင္ႀကိဳက္သည့္ operation system ကို
-ေနရာႀကိဳက္သေလာက္ ပိုေပးႏိုင္ပါသည္။
+မူလ Windows စနစ်၏ partition သည် အနည်းဆုံး 20GB  (Vista နှင့် Windows 7 ဆိုလျှင် 30GB)
+ရှိရမည်ဖြစ်ပြီး Ubuntu အတွက် partition သည် အနည်းဆုံး 10GB (20GB ပေးနိုင်ရင်ပိုကောင်းပါသည်။)
+ရှိရမည်ဖြစ်သည်။သင့်တွင် Hard drive  နေရာလွတ်များစွာရှိနေလျှင် သင်ကြိုက်သည့် operation system ကို
+နေရာကြိုက်သလောက် ပိုပေးနိုင်ပါသည်။
 
-အျပန္အလွန္အားျဖင့္ သင့္ကြန္ပ်ဴတာတြင္ Ubuntu ကို အရင္ထည့္သြင္းၿပီးမွ GParted ျဖင့္ primary NTFS
-partition တစ္ခု ဖန္တီး၍ Windows စနစ္ကို ထည့္သြင္းႏိုင္ပါသည္။ (GParted ကို LiveCD/USB တစ္ခုမွေန၍
-အသံုးျပဳ၇ပါမည္။)ထို primary NTFS partition ကိုဖန္တီးၿပီးပါက သင္၏ Windows CD/DVD မွ boot
-လုပ္၍ Windows စနစ္ကိုထို NTFS partition တြင္ထည့္သြင္းရန္ ေရြးခ်ယ္ရမည္။ထည့္သြင္းျခင္း လုပ္ငန္းစဥ္
-ၿပီးဆံုးပါက ကြန္ပ်ဴတာပံုမွန္ အလုပ္လုပ္ေဆာင္ႏိုင္ေစရန္ reboot ျပန္လုပ္ပါ။ထိုလုပ္ငန္းစဥ္အားလံုး
-ၿပီးဆံုးသြားလွ်င္ Ubuntu LiveCD/USB ကိုသံုး၍ GRUBကို MBR တြင္ျပန္လည္ထည့္သြင္းပါ။
-(အဘယ္ေႀကာင့္ဆိုေသာ္ Windows သည္MBR ကိုျပဳျပင္၍ သူ၏ကိုယ္ပိုင္ bootloader ကို master 
-bootloader အျဖစ္ေျပာင္းလဲသြား၍ျဖစ္ပါသည္။) GRUB ကိုထည့္သြင္းၿပီးပါက သင္ႏွစ္သက္ရာ OS ျဖင့္ boot
-လုပ္ႏိုင္မည္ျဖစ္သည္။
+အပြန်အလှန်အားဖြင့် သင့်ကွန်ပျူတာတွင် Ubuntu ကို အရင်ထည့်သွင်းပြီးမှ GParted ဖြင့် primary NTFS
+partition တစ်ခု ဖန်တီး၍ Windows စနစ်ကို ထည့်သွင်းနိုင်ပါသည်။ (GParted ကို LiveCD/USB တစ်ခုမှနေ၍
+အသုံးပြု၇ပါမည်။)ထို primary NTFS partition ကိုဖန်တီးပြီးပါက သင်၏ Windows CD/DVD မှ boot
+လုပ်၍ Windows စနစ်ကိုထို NTFS partition တွင်ထည့်သွင်းရန် ရွေးချယ်ရမည်။ထည့်သွင်းခြင်း လုပ်ငန်းစဉ်
+ပြီးဆုံးပါက ကွန်ပျူတာပုံမှန် အလုပ်လုပ်ဆောင်နိုင်စေရန် reboot ပြန်လုပ်ပါ။ထိုလုပ်ငန်းစဉ်အားလုံး
+ပြီးဆုံးသွားလျှင် Ubuntu LiveCD/USB ကိုသုံး၍ GRUBကို MBR တွင်ပြန်လည်ထည့်သွင်းပါ။
+(အဘယ်ကြောင့်ဆိုသော် Windows သည်MBR ကိုပြုပြင်၍ သူ၏ကိုယ်ပိုင် bootloader ကို master 
+bootloader အဖြစ်ပြောင်းလဲသွား၍ဖြစ်ပါသည်။) GRUB ကိုထည့်သွင်းပြီးပါက သင်နှစ်သက်ရာ OS ဖြင့် boot
+လုပ်နိုင်မည်ဖြစ်သည်။
 
-အျခားေသာWindows ႏွင့္ Ubuntu ယွဥ္တြဲ ထည့္သြင္းျခင္း နည္းလမ္းမ်ား
+အခြားသောWindows နှင့် Ubuntu ယှဉ်တွဲ ထည့်သွင်းခြင်း နည်းလမ်းများ
 
 `
 Wubi(http://www.ubuntu.com/getubuntu/download-wubi) (Windows-based Ubuntu
-Installer), Ubuntu ကို Windows စနစ္ေပၚတြင္  Hard drive အတုတစ္ခုဖန္တီး၍ အသံုးျပဳႏိုင္ရန္
-လုပ္ေဆာင္ေပးေသာ dual-boot installer ၁ခုျဖစ္သည္ (သို႕ေသာ္Ubuntu ၏စြမ္းေဆာင္ရည္
-က်ဆင္းႏိုင္ပါသည္။ Windows စနစ္ေပၚတြင္ အသံုးျပဳရသည့္အတြက္ ဤနည္းလမ္းကို Ubuntu ကို
-ယာယီ အသံုးျပဳရန္အတြက္သာ သံုးရန္သင့္ေတာ္ပါသည္။ Ubuntu ကိုအျမဲတမ္း အသံုးျပဳမည္ဆိုပါက
-သီးသန္႕ partition,သီးသန္ု႕ filesystem ေပၚတြင္ ထည္႕သြင္းျခင္းသာ အေကာင္းဆံုးနည္းလမ္း
-ျဖစ္ပါသည္။
+Installer), Ubuntu ကို Windows စနစ်ပေါ်တွင်  Hard drive အတုတစ်ခုဖန်တီး၍ အသုံးပြုနိုင်ရန်
+လုပ်ဆောင်ပေးသော dual-boot installer ၁ခုဖြစ်သည် (သို့သော်Ubuntu ၏စွမ်းဆောင်ရည်
+ကျဆင်းနိုင်ပါသည်။ Windows စနစ်ပေါ်တွင် အသုံးပြုရသည့်အတွက် ဤနည်းလမ်းကို Ubuntu ကို
+ယာယီ အသုံးပြုရန်အတွက်သာ သုံးရန်သင့်တော်ပါသည်။ Ubuntu ကိုအမြဲတမ်း အသုံးပြုမည်ဆိုပါက
+သီးသန့် partition,သီးသန်ု့ filesystem ပေါ်တွင် ထည့်သွင်းခြင်းသာ အကောင်းဆုံးနည်းလမ်း
+ဖြစ်ပါသည်။
 
-Easy BCD (http://neosmart.net/dl.php?id=1),Windows စနစ္ေပၚတြင္ အသံုးျပဳရသည့္ အခမဲ့
-Program တစ္ခုျဖစ္သည္။ Windows 7/Vista ၏ bootloader ကို ျပဳျပင္ေျပာင္းလဲျခင္းျဖင့္ Windows 
-7/Vista ႏွင့္ Ubuntu (တျခား operation systems မ်ားအတြက္လည္း အသံုးျပဳႏိုင္သည္။)
-ကြန္ပ်ဴတာ ၁လံုးတည္းေပၚတြင္ အသံုးျပဳႏိုင္ေစသည္။
+Easy BCD (http://neosmart.net/dl.php?id=1),Windows စနစ်ပေါ်တွင် အသုံးပြုရသည့် အခမဲ့
+Program တစ်ခုဖြစ်သည်။ Windows 7/Vista ၏ bootloader ကို ပြုပြင်ပြောင်းလဲခြင်းဖြင့် Windows 
+7/Vista နှင့် Ubuntu (တခြား operation systems များအတွက်လည်း အသုံးပြုနိုင်သည်။)
+ကွန်ပျူတာ ၁လုံးတည်းပေါ်တွင် အသုံးပြုနိုင်စေသည်။
 
 Installing multiple OS on a single computer
 
-ကြန္ပ်ဴတာတစ္လံုးတည္းေပၚတြင္ Operation System မ်ား ၁ခုထက္ပို၍ အသံုးျပဳျခင္း
+ကွန်ပျူတာတစ်လုံးတည်းပေါ်တွင် Operation System များ ၁ခုထက်ပို၍ အသုံးပြုခြင်း
 
-သတိျပဳရန္ း း Ubuntu ထည့္သြင္းေသာလုပ္ငန္းစဥ္အတြင္း ေရြးခ်ယ္စရာအဆင့္တစ္ခုရွိပါသည္ (Ready to
-install > Advanced)။ ၄င္းမွာ GRUBF2 bootloader ကို MBR (Master Boot Record) အား
-ေျပာင္းလဲျခင္းမျပဳလုပ္ပဲ (K)Ubuntu OS ထည့္သြင္းထားေသာ Harddisk Partition အတြင္း ထည့္သြင္းရန္
-ေရြးခ်ယ္ျခင္းျဖစ္သည္။ထိုအဆင့္ကိုလုပ္ေဆာင္ရာတြင္ အထူးသတိျပဳရန္လိုအပ္ေသာအခ်က္မွာ သင္၏
-ကြန္ပ်ဴတာစနစ္တြင္ boot လုပ္ရန္အတြက္ သီးျခား Harddisk Partition တစ္ခု(သို႕) Operation System
-၂ခုထပ္ပို၍ အသံုးျပဳထားျခင္း (သို႕) chainloads bootloaders မ်ား အသံုးျပဳထားျခင္းရွိမရွိပင္ ျဖစ္သည္။
-ထိုသို႕ေသာစနစ္မ်ားတြင္ MBR ကိုျပဳျပင္ေျပာင္းလဲျခင္းမလုပ္သည္မွာ အေကာင္းဆံုးပင္ျဖစ္သည္။
+သတိပြုရန် း း Ubuntu ထည့်သွင်းသောလုပ်ငန်းစဉ်အတွင်း ရွေးချယ်စရာအဆင့်တစ်ခုရှိပါသည် (Ready to
+install > Advanced)။ ၎င်းမှာ GRUBF2 bootloader ကို MBR (Master Boot Record) အား
+ပြောင်းလဲခြင်းမပြုလုပ်ပဲ (K)Ubuntu OS ထည့်သွင်းထားသော Harddisk Partition အတွင်း ထည့်သွင်းရန်
+ရွေးချယ်ခြင်းဖြစ်သည်။ထိုအဆင့်ကိုလုပ်ဆောင်ရာတွင် အထူးသတိပြုရန်လိုအပ်သောအချက်မှာ သင်၏
+ကွန်ပျူတာစနစ်တွင် boot လုပ်ရန်အတွက် သီးခြား Harddisk Partition တစ်ခု(သို့) Operation System
+၂ခုထပ်ပို၍ အသုံးပြုထားခြင်း (သို့) chainloads bootloaders များ အသုံးပြုထားခြင်းရှိမရှိပင် ဖြစ်သည်။
+ထိုသို့သောစနစ်များတွင် MBR ကိုပြုပြင်ပြောင်းလဲခြင်းမလုပ်သည်မှာ အကောင်းဆုံးပင်ဖြစ်သည်။
 
-ဥပမာ: : Destop version GUI installer ကိုအသံုးျပဳ၍ installation ျပဳလုပ္ေနစဥ္အတြင္း အဆင့္တစ္ခုတြင္
-ေအာက္ပါအတိုင္းေပၚလာမည္ျဖစ္သည္။
+ဥပမာ: : Destop version GUI installer ကိုအသုံးပြု၍ installation ပြုလုပ်နေစဉ်အတွင်း အဆင့်တစ်ခုတွင်
+အောက်ပါအတိုင်းပေါ်လာမည်ဖြစ်သည်။
 
 Summary > Advanced > Device for boot loader installation: /dev/sda6
 
-အထက္ပါ ဥပမာတြင္ ထိုအေျခအေနအတိုင္း ထားရွိပါက GRUB2 bootloader သည္ /dev/sda6 ((K)Ubuntu
-OS ထည့္သြင္းထားသည့္ Harddisk Partition ) အတြင္းသို႕သာ ေရာက္ရွိသြားမည္ျဖစ္ၿပီး MBR (Master Boot
-Record) ကိုေျပာင္းလဲမည္မဟုတ္ပါ။သို႕ေသာ္ /dev/sda ၏ default setting တြင္ထားရွိလိုက္ပါက GRUB2
-သည္ /dev/sda6((K)Ubuntu OS ထည့္သြင္းထားသည့္ Harddisk Partition ) အတြင္းသို႕
-ေရာက္ရွိသြားမည္ ျဖစ္သည့္အျပင္ MBR  (Master Boot Record) ကိုလည္း ျပဳျပင္ေျပာင္းလဲသြားပါမည္။
-ထိုအခါ GRUB2 သည္ ကြန္ပ်ဴတာေပၚတြင္ ထည့္သြင္းထားသည့္ Operation System  အားလံုး၏ master
-bootloader အျဖစ္ေျပာင္းလဲသြားမည္ျဖစ္သည္။အျခားေသာ bootloader (GRUB2 မဟုတ္သည့္) မ်ားကို
-အသံုးျပဳေနသူျဖစ္လွ်င္ ထိုအေျခအေနသည္ အဆင္ေျပမည္မဟုတ္ပါ။
+အထက်ပါ ဥပမာတွင် ထိုအခြေအနေအတိုင်း ထားရှိပါက GRUB2 bootloader သည် /dev/sda6 ((K)Ubuntu
+OS ထည့်သွင်းထားသည့် Harddisk Partition ) အတွင်းသို့သာ ရောက်ရှိသွားမည်ဖြစ်ပြီး MBR (Master Boot
+Record) ကိုပြောင်းလဲမည်မဟုတ်ပါ။သို့သော် /dev/sda ၏ default setting တွင်ထားရှိလိုက်ပါက GRUB2
+သည် /dev/sda6((K)Ubuntu OS ထည့်သွင်းထားသည့် Harddisk Partition ) အတွင်းသို့
+ရောက်ရှိသွားမည် ဖြစ်သည့်အပြင် MBR  (Master Boot Record) ကိုလည်း ပြုပြင်ပြောင်းလဲသွားပါမည်။
+ထိုအခါ GRUB2 သည် ကွန်ပျူတာပေါ်တွင် ထည့်သွင်းထားသည့် Operation System  အားလုံး၏ master
+bootloader အဖြစ်ပြောင်းလဲသွားမည်ဖြစ်သည်။အခြားသော bootloader (GRUB2 မဟုတ်သည့်) များကို
+အသုံးပြုနေသူဖြစ်လျှင် ထိုအခြေအနေသည် အဆင်ပြေမည်မဟုတ်ပါ။
 
 Use Startup Manager to change Grub settings
 
-Start Manager ကို အသံုးျပဳ၍ Grub ၏ setting မ်ားကို ေျပာင္းလဲျခင္း
+Start Manager ကို အသုံးပြု၍ Grub ၏ setting များကို ပြောင်းလဲခြင်း
 
-Grub သည္ (Operation System ၁ခုထပ္ပို၍ ထည့္သြင္းထားေသာ ကြန္ပ်ဴတာမ်ားတြင္) မည္သည့္ OS ကို ပံုမွန္
-ဦးစားေပးအေနျဖင့္ စတင္လည္ပတ္ေစမည္ကို သတ္မွတ္ျခင္းႏွင့္ အျခားေသာ bootup setting မ်ားကို
-ထိန္းခ်ဳပ္သည့္ bootup utility ၁ခုျဖစ္သည္။ Startup Manager (http://sourceforge.net/projects/startup-
-manager/) ကို အသံုးျပဳ၍ Grub ၏ setting  မ်ားကို ေျပာင္းလဲႏိုင္သည္။ Startup Manager သည္ Grub 
-(Grub Legacy ), Grub 2, Usplash, and Splashy စသည့္ bootloader မ်ား၏ setting မ်ားကို ကြပ္ကဲရာတြင္
-အသံုးျပဳသည့္ software ျဖစ္သည္။ Startup Manager အသံုးျပဳပံုကို 
-[(https://help.ubuntu.com/community/StartUpManager Startup Manager Help)] တြင္
-ႀကည့္ရွုႏိုင္သည္။ Startup Manager ထည့္သြင္းရန္အတြက္
+Grub သည် (Operation System ၁ခုထပ်ပို၍ ထည့်သွင်းထားသော ကွန်ပျူတာများတွင်) မည်သည့် OS ကို ပုံမှန်
+ဦးစားပေးအနေဖြင့် စတင်လည်ပတ်စေမည်ကို သတ်မှတ်ခြင်းနှင့် အခြားသော bootup setting များကို
+ထိန်းချုပ်သည့် bootup utility ၁ခုဖြစ်သည်။ Startup Manager (http://sourceforge.net/projects/startup-
+manager/) ကို အသုံးပြု၍ Grub ၏ setting  များကို ပြောင်းလဲနိုင်သည်။ Startup Manager သည် Grub 
+(Grub Legacy ), Grub 2, Usplash, and Splashy စသည့် bootloader များ၏ setting များကို ကွပ်ကဲရာတွင်
+အသုံးပြုသည့် software ဖြစ်သည်။ Startup Manager အသုံးပြုပုံကို 
+[(https://help.ubuntu.com/community/StartUpManager Startup Manager Help)] တွင်
+ကြည့်ရှုနိုင်သည်။ Startup Manager ထည့်သွင်းရန်အတွက်
 
 sudo apt-get install startupmanager menu
 
-Startup Manager လည္ပတ္ေစရန္
+Startup Manager လည်ပတ်စေရန်
 
 Menu > System > Administration > Startup Manasger
 
-မွတ္ခ်က္။ ။ Grub setting မ်ားကို command-line interface မွလည္း ေျပာင္းလဲျပင္ဆင္ႏိုင္သည္။
+မှတ်ချက်။ ။ Grub setting များကို command-line interface မှလည်း ပြောင်းလဲပြင်ဆင်နိုင်သည်။
 
 Dual-Booting Mac OS X and Ubuntu
 
-Mac OS X ႏွင့္ Ubuntu ကို ကြန္ပ်ဴတာတစ္လံုးတည္းေပၚတြင္ ယွဥ္တြဲတင္ျခင္း
+Mac OS X နှင့် Ubuntu ကို ကွန်ပျူတာတစ်လုံးတည်းပေါ်တွင် ယှဉ်တွဲတင်ခြင်း
 
-Mac OS X သည္ Linux ႏွင့္ တည္ေဆာက္ပံု ဆင္တူသည္ (Max OS X သည္ BSD Unix ကို
-အေျခခံထားျခင္းျဖစ္သည္။) Mac OS X ႏွင့္ Ubuntu ကို ယွဥ္တြဲတင္ျခင္းႏွင့္ ပတ္သတ္ေသာ
-အေသးစိတ္လမ္းညႊန္ခ်က္မ်ားကို (http://help.ubuntu.com/community/MacBook) တြင္
-ေလ့လာႏိုင္သည္။
+Mac OS X သည် Linux နှင့် တည်ဆောက်ပုံ ဆင်တူသည် (Max OS X သည် BSD Unix ကို
+အခြေခံထားခြင်းဖြစ်သည်။) Mac OS X နှင့် Ubuntu ကို ယှဉ်တွဲတင်ခြင်းနှင့် ပတ်သတ်သော
+အသေးစိတ်လမ်းညွှန်ချက်များကို (http://help.ubuntu.com/community/MacBook) တွင်
+လေ့လာနိုင်သည်။
 
 Installing Mac OS X after Ubuntu
 
-Ubuntu ရွိၿပီးသား ကြန္ပ်ဴတာေပၚတြင္ Mac OS X တင္ျခင္း
+Ubuntu ရှိပြီးသား ကွန်ပျူတာပေါ်တွင် Mac OS X တင်ခြင်း
 
-Ubuntu ကို Mac OS X ႏွင့္ ယွဥ္တြဲတင္မည္ဆိုပါက Ubuntu ကို ထည့္သြင္းမည့္ Harddisk Partition ကို ext2
-ကို ေရြးခ်ယ္ပါ။ (ထိုလုပ္ငန္းစဥ္အတြက္ Super Grub Disk CD သည္ အသံုး၀င္ေသာ utility ျဖစ္သည္။) Super
-Grub ISO ဖိုင္ကို forjamari.linex.org (http://supergrub.forjamari.linex.org) တြင္ download
-ရယူႏိုင္သည္။
+Ubuntu ကို Mac OS X နှင့် ယှဉ်တွဲတင်မည်ဆိုပါက Ubuntu ကို ထည့်သွင်းမည့် Harddisk Partition ကို ext2
+ကို ရွေးချယ်ပါ။ (ထိုလုပ်ငန်းစဉ်အတွက် Super Grub Disk CD သည် အသုံးဝင်သော utility ဖြစ်သည်။) Super
+Grub ISO ဖိုင်ကို forjamari.linex.org (http://supergrub.forjamari.linex.org) တွင် download
+ရယူနိုင်သည်။
 
-Ubuntu ကို ထည့္သြင္းၿပီးပါက Grub start-up list ကို ျပင္ဆင္ေျပာင္းလဲပါ။
+Ubuntu ကို ထည့်သွင်းပြီးပါက Grub start-up list ကို ပြင်ဆင်ပြောင်းလဲပါ။
 
 sudo nano /boot/ grub/menu.1st
 
-ထို႕ေနာက္ ေအာက္ပါစာေႀကာင္းမ်ားကို ထပ္ေပါင္းထည့္ပါ။
+ထို့နောက် အောက်ပါစာကြောင်းများကို ထပ်ပေါင်းထည့်ပါ။
 
 title Mac OS X root (hd0,0) makeactive chainloader + 1
 
-ၿပီးလွ်င္ Mac ကို reboot လုပ္၍ Mac OS X  တြင္ပါ၀င္ေသာ Terminal ကို သြားပါ။ (boot လုပ္ရာတြင္
-အခက္အခဲရွိပါက Mac OS X DVD ကိုအသံုးျပဳ၍ boot လုပ္ပါ။) F8 ကိုႏွိပ္၍ -s ဟု ရိုက္ထည့္ပါ။ ထို႕ေနာက္ 
-ရိုက္ထည့္ရမည့္စာေႀကာင္းမ်ားမွာ 
+ပြီးလျှင် Mac ကို reboot လုပ်၍ Mac OS X  တွင်ပါဝင်သော Terminal ကို သွားပါ။ (boot လုပ်ရာတွင်
+အခက်အခဲရှိပါက Mac OS X DVD ကိုအသုံးပြု၍ boot လုပ်ပါ။) F8 ကိုနှိပ်၍ -s ဟု ရိုက်ထည့်ပါ။ ထို့နောက် 
+ရိုက်ထည့်ရမည့်စာကြောင်းများမှာ 
 
-fdiskn -e /dev/rdisk0 flag 2 (flag 2သည္ ယခုဥပမာ၏ Harddisk Partition number 2ျဖစ္သည္။ သင္၏
-Mac တြင္ အသံုးျပဳထားသည့္ Partition number ေပၚတြင္ လိုက္၍ေျပာင္းလဲႏိုင္သည္။) quit y reboot
+fdiskn -e /dev/rdisk0 flag 2 (flag 2သည် ယခုဥပမာ၏ Harddisk Partition number 2ဖြစ်သည်။ သင်၏
+Mac တွင် အသုံးပြုထားသည့် Partition number ပေါ်တွင် လိုက်၍ပြောင်းလဲနိုင်သည်။) quit y reboot
 
-ပံုမွန္အလုပ္ လုပ္ေဆာင္ႏိုင္ၿပီဟု မေသခ်ာေသးပါက Super Grub Disk CD ကို အသံုးျပဳ၍ Grub ကို active 
-လုပ္ပါ။
+ပုံမှန်အလုပ် လုပ်ဆောင်နိုင်ပြီဟု မသေချာသေးပါက Super Grub Disk CD ကို အသုံးပြု၍ Grub ကို active 
+လုပ်ပါ။
 
 Installing Ubuntu after Mac 0S X 
 
-Mac OS X ရွိၿပီးသား ကြန္ပ်ဴတာေပၚတြင္ Ubuntu တင္ျခင္း
+Mac OS X ရှိပြီးသား ကွန်ပျူတာပေါ်တွင် Ubuntu တင်ခြင်း
 
-Booth လုပ္ေနစဥ္အတြင္း boothloader တြင္ ပံုမွန္လုပ္ေဆာင္ေနျခင္းမရွိဟု သတင္းပို႕ခ်က္ (ဥပမာ HFS+error)
-မ်ားေပၚလာပါက Super Grub ကိုအသံုးျပဳ၍ Linux GRUB ႏွင့္ MBR (Master Boot Record) ကို
-ျပန္လည္ျပင္ဆင္ႏိုင္သည္။
+Booth လုပ်နေစဉ်အတွင်း boothloader တွင် ပုံမှန်လုပ်ဆောင်နေခြင်းမရှိဟု သတင်းပို့ချက် (ဥပမာ HFS+error)
+များပေါ်လာပါက Super Grub ကိုအသုံးပြု၍ Linux GRUB နှင့် MBR (Master Boot Record) ကို
+ပြန်လည်ပြင်ဆင်နိုင်သည်။
 
-Ubuntu ကို ထည့္သြင္းၿပီးပါက Grub start-up list ကိုျပင္ဆင္ေျပာင္းလဲပါ။
+Ubuntu ကို ထည့်သွင်းပြီးပါက Grub start-up list ကိုပြင်ဆင်ပြောင်းလဲပါ။
 
 sudo nano /boot/grub/menu.1st
 
-ထို႕ေနာက္ ထပ္ေပါင္းထည့္ရမည့္ စာေႀကာင္းမ်ားမွာ
+ထို့နောက် ထပ်ပေါင်းထည့်ရမည့် စာကြောင်းများမှာ
 
 title Mac OS X root (hd0,0) makeactive chainloader +1
 
-အကယ္၍ သင္သည္GRUB တြင္ Mac OS X သို႕မဟုတ္ Windows ႏွင့္ပတ္သတ္၍ အခက္အခဲျဖစ္ေနပါက
-Mac OS X ၏ Grub ရွိ entry ကို "root (hd0,1) သို႕ေျပာင္းလဲပါ။ထိုသို႕ေျပာင္းလဲျခင္းျဖင့္
-သင္၏ကြန္ပ်ဴတာသည္ Partition number 1 ကို boot လုပ္ပါလိမ့္မည္။Grub
-မွန္ကန္စြာအလုပ္လုပ္ေဆာင္ႏိုင္သည္အထိ partition number ကိုေျပာင္းလဲႏိုင္သည္။
+အကယ်၍ သင်သည်GRUB တွင် Mac OS X သို့မဟုတ် Windows နှင့်ပတ်သတ်၍ အခက်အခဲဖြစ်နေပါက
+Mac OS X ၏ Grub ရှိ entry ကို "root (hd0,1) သို့ပြောင်းလဲပါ။ထိုသို့ပြောင်းလဲခြင်းဖြင့်
+သင်၏ကွန်ပျူတာသည် Partition number 1 ကို boot လုပ်ပါလိမ့်မည်။Grub
+မှန်ကန်စွာအလုပ်လုပ်ဆောင်နိုင်သည်အထိ partition number ကိုပြောင်းလဲနိုင်သည်။
 
 
 Package Installation and Updates
 
 Apt and Package Basics 
 
-Add Extra Repositories ကိုဖတ္ပါ။
+Add Extra Repositories ကိုဖတ်ပါ။
 
-Ubuntu အသံုးျပဳသူအမ်ားစုသည္ Synaptic Package Manager ကို package မ်ားထည့္သြင္းရန္ 
-အသံုးျပဳႀကပါသည္။ ေအာက္ပါ ညႊန္ျပခ်က္မ်ားသည္ package မ်ားကို ကိုpackage မ်ားထည့္သြင္းရန္
-အသံုးျပဳႀကပါသည္။ေအာက္ပါညႊန္ျပခ်က္မ်ားသည္ package မ်ားကို command-line Terminal အသံုးျပဳ၍
-ထည့္သြင္းရန္ နည္းလမ္းမ်ားျဖစ္ပါသည္။ Terminal ကိုစတင္ရန္ : Menu -> Application -> Accessories
+Ubuntu အသုံးပြုသူအများစုသည် Synaptic Package Manager ကို package များထည့်သွင်းရန် 
+အသုံးပြုကြပါသည်။ အောက်ပါ ညွှန်ပြချက်များသည် package များကို ကိုpackage များထည့်သွင်းရန်
+အသုံးပြုကြပါသည်။အောက်ပါညွှန်ပြချက်များသည် package များကို command-line Terminal အသုံးပြု၍
+ထည့်သွင်းရန် နည်းလမ်းများဖြစ်ပါသည်။ Terminal ကိုစတင်ရန် : Menu -> Application -> Accessories
 -> Terminal
 
-packages မ်ားထည့္သြင္းရန္  :
+packages များထည့်သွင်းရန်  :
 
 sudo apt-get install *packagename* .ဥပမာ : sudo apt-get install mpd sbackup
 
-package မ်ား ဖယ္ရွားရန္  :
+package များ ဖယ်ရှားရန်  :
 
 sudo apt-get remove *packagename*
 
-package ႏွင့္တကြ ထို package ႏွင့္ သက္ဆိုင္သည္မ်ားအားလံုး ဖယ္ရွားရန္ :
+package နှင့်တကွ ထို package နှင့် သက်ဆိုင်သည်များအားလုံး ဖယ်ရှားရန် :
 
 sudo apt-get autoremove . ဥပမာ : sudo apt-get remove mpd sbackup
 
-package မ်ားရွာေဖြရန္ :
+package များရှာဖွေရန် :
 
 apt-cache search < keywords> .ဥပမာ : apt-cache search  Music MP3 apt-cache search "Text
 Editor"
 
-addting/removing repositories ျပဳလုပ္ၿပီး package ၏ database မ်ားကို အဆင့္ၿမႇင့္တင္ရန္ :
+addting/removing repositories ပြုလုပ်ပြီး package ၏ database များကို အဆင့်မြှင့်တင်ရန် :
 
 sudo apt-get update
 
-package မ်ားကို ugrade လုပ္ရန္ :
+package များကို ugrade လုပ်ရန် :
 
 sudo apt-get upgrade
 
-Ubuntu စနစ္တစ္ခုလံုးကို upgrade  လုပ္ရန္ (ဥပမာ : Maverick မွ Natty)
+Ubuntu စနစ်တစ်ခုလုံးကို upgrade  လုပ်ရန် (ဥပမာ : Maverick မှ Natty)
 
 sudo apt-get dist-upgrade
 
 Installing .deb packages
 
-deb package မ်ားထည့္သြင္းျခင္း
+deb package များထည့်သွင်းခြင်း
 
-Debian (.deb) package မ်ားသည္ (Windows ေပၚတြင္installer .exe msi package မ်ား
-အလုပ္လုပ္သကဲ့သို႕) Ubuntu ေပၚတြင္ အသံုးျပဳေသာ package မ်ားျဖစ္သည္။ Ubuntu စနစ္ေပၚတြင္ မည္သည့္
-.deb package ကိုမဆို ထည့္သြင္းႏိုင္သည္။ Ubuntu စနစ္တြင္ မူလပါရွိေသာ installer ႏွင့္ .deb package
-မ်ားကို ဆက္သြယ္ႏိုင္ရန္ ျပဳလုပ္ထားသျဖင့္ .deb ဖိုင္မ်ားကို file manager (Nautilus) တြင္ click ျခင္းျဖင့္
-လြယ္ကူစြာထည့္သြင္းႏိုင္သည္။ ေအာက္ေဖာ္ၿပပါ ညႊန္ျပခ်က္မ်ားမွာ command-line terminal (Terminal) ကို
-အသံုးျပဳႇ၍ package မ်ား ထည့္သြင္းခ်င္သူမ်ားအတြက္ ျဖစ္ပါသည္။
+Debian (.deb) package များသည် (Windows ပေါ်တွင်installer .exe msi package များ
+အလုပ်လုပ်သကဲ့သို့) Ubuntu ပေါ်တွင် အသုံးပြုသော package များဖြစ်သည်။ Ubuntu စနစ်ပေါ်တွင် မည်သည့်
+.deb package ကိုမဆို ထည့်သွင်းနိုင်သည်။ Ubuntu စနစ်တွင် မူလပါရှိသော installer နှင့် .deb package
+များကို ဆက်သွယ်နိုင်ရန် ပြုလုပ်ထားသဖြင့် .deb ဖိုင်များကို file manager (Nautilus) တွင် click ခြင်းဖြင့်
+လွယ်ကူစွာထည့်သွင်းနိုင်သည်။ အောက်ဖော်ပြပါ ညွှန်ပြချက်များမှာ command-line terminal (Terminal) ကို
+အသုံးပြုှ၍ package များ ထည့်သွင်းချင်သူများအတွက် ဖြစ်ပါသည်။
 
-အင္တာနက္မွ ဆြဲယူထားေသာ Debian (Ubuntu) package (.deb) ၁ခု ထည့္သြင္းရန္ :
+အင်တာနက်မှ ဆွဲယူထားသော Debian (Ubuntu) package (.deb) ၁ခု ထည့်သွင်းရန် :
 
 sudo dpkg -i packagename.deb
 
-Debian (Ubuntu) package (.deb) ကိုဖယ္ရွားရန္ :
+Debian (Ubuntu) package (.deb) ကိုဖယ်ရှားရန် :
 
 sudo dpkg -r packagename . ဥပမာ : sudo dpkg-reconfigure mpd
 
 
 Handling (Tar/GZip) and (Tar/Bzip2) archives
 
-(Tar/GZip) ရဲ႕ extension က .tar.gz ျဖစ္ပါသည္။ (Tar/Bzip2) ရဲ႕ extension က .tar.bz2 ျဖစ္ပါသည္။
-Terminal မွ အသံုးျပဳနည္းမ်ားကို ေအာက္ပါအတိုင္းေဖာ္ျပလိုက္ပါသည္။
+(Tar/GZip) ရဲ့ extension က .tar.gz ဖြစ်ပါသည်။ (Tar/Bzip2) ရဲ့ extension က .tar.bz2 ဖြစ်ပါသည်။
+Terminal မှ အသုံးပြုနည်းများကို အောက်ပါအတိုင်းဖော်ပြလိုက်ပါသည်။
 
-ျဖည္ရန္ :
+ဖြည်ရန် :
 
 tar xvf  packagename . tar . gz
 
--x (ျဖည္ရန္) -v ( ) -f ( )
+-x (ဖြည်ရန်) -v ( ) -f ( )
 
-.gz ကိုျဖည္ျခင္း
+.gz ကိုဖြည်ခြင်း
 
 gunzip filename .gz
 
-.bz2 ကိုျဖည္ျခင္း
+.bz2 ကိုဖြည်ခြင်း
 
-.gz အျဖစ္ ႏွစ္သက္ရာဖိုင္ကို compress လုပ္ျခင္း
+.gz အဖြစ် နှစ်သက်ရာဖိုင်ကို compress လုပ်ခြင်း
 
 tar cvfs packagename  .tar.gz folder
 
-.bz2 အျဖစ္ ႏွစ္သက္ရာဖိုင္ကို compress လုပ္ျခင္း
+.bz2 အဖြစ် နှစ်သက်ရာဖိုင်ကို compress လုပ်ခြင်း
 
 tar cvfj packagename.tar.bz2 folder
 
@@ -516,75 +516,75 @@ The selected programs(s) will be automatically installed, along with its depende
 
 Ubuntu Software Center (Add/Remove Programs)
 
-Package မ်ားအားလံုးသည္ Terminal (apt-get, aptitude, and Synaptic Package Manager)
-မွာအဆင္သင့္ မရရွိႏိုင္ေသာ္လည္းပဲ Ubuntu Software Center မွရရွိႏိုင္ပါသည္.မည္သို႕ျဖစ္ေစ ၊ Ubuntu
-စတင္အသံုးျပဳသူမ်ား အေနျဖင့္ အလြယ္ကူဆံုး ျမင္ကြင္းမွ packages မ်ားအား ေအာက္ပါအတိုင္း
-ထည့္သြင္းႏိုင္သည္။
+Package များအားလုံးသည် Terminal (apt-get, aptitude, and Synaptic Package Manager)
+မှာအဆင်သင့် မရရှိနိုင်သော်လည်းပဲ Ubuntu Software Center မှရရှိနိုင်ပါသည်.မည်သို့ဖြစ်စေ ၊ Ubuntu
+စတင်အသုံးပြုသူများ အနေဖြင့် အလွယ်ကူဆုံး မြင်ကွင်းမှ packages များအား အောက်ပါအတိုင်း
+ထည့်သွင်းနိုင်သည်။
 
 Menu -Application - Ubuntu Software Center
 
-သင္ထည့္သြင္းလိုေသာ Program အခ်ိဳ႕အား ရွာေဖြႏိုင္သည္။ဥပမာ -mp3ဟုရိုက္လွ်င္ mp3
-software စာရင္းမ်ား ျမင္ရမည္။
+သင်ထည့်သွင်းလိုသော Program အချို့အား ရှာဖွေနိုင်သည်။ဥပမာ -mp3ဟုရိုက်လျှင် mp3
+software စာရင်းများ မြင်ရမည်။
 
-Installation ျပဳလုပ္လိုေသာ program အားေရြးခ်ယ္ပါ -Apply ႏွိပ္ပါ။
+Installation ပြုလုပ်လိုသော program အားရွေးချယ်ပါ -Apply နှိပ်ပါ။
 
-ေရြးခ်ယ္ထားေသာ program(s) မ်ားသည္ အလိုအေလ်ာက္ install ျပဳလုပ္သြားမည္။
+ရွေးချယ်ထားသော program(s) များသည် အလိုအလျောက် install ပြုလုပ်သွားမည်။
 
 Manual Updates
 
-General Notes ကိုဖတ္ပါ။
-Add Extra Repositories ကိုဖတ္ပါ။
+General Notes ကိုဖတ်ပါ။
+Add Extra Repositories ကိုဖတ်ပါ။
 
-Terminal မွ တဆင့္ ကိုယ္ကိုတိုင္ျပဳလုပ္ရန္အတြက္ (Command Line Interface ):
+Terminal မှ တဆင့် ကိုယ်ကိုတိုင်ပြုလုပ်ရန်အတွက် (Command Line Interface ):
 
 sudo apt-get update
 sudo apt-get upgrade
 
-သို႕မဟုတ္
+သို့မဟုတ်
 
-Synptic Package Manager ကို အသံုးခ်နည္း
+Synptic Package Manager ကို အသုံးချနည်း
 
 Menu -System -Administration - Synaptic Package Manager -Reload then Mark all
 upgrades
 
-အကယ္၍ package က updating လုပ္ဖို႕ အဆင္သင့္ျဖစ္ေနမယ္ဆိုရင္ ခ်က္ျခင္း install လုပ္သင့္ပါတယ္။
+အကယ်၍ package က updating လုပ်ဖို့ အဆင်သင့်ဖြစ်နေမယ်ဆိုရင် ချက်ခြင်း install လုပ်သင့်ပါတယ်။
 
 Automated Updates
 
-Synaptic Package Manager ကို အသံုးခ်ျခင္း
+Synaptic Package Manager ကို အသုံးချခြင်း
 
 Menu - System - Administration - Synaptic Manager - Settings - Preferences - General -
 Reloading Outdated Package Information - Automatic
 
 Desktop Add-ons
 
-GNOME Desktop အတြက္ အဆင္သင့္အသံုးျပဳႏိုင္တဲ့ Add-on icons ေတြ themes နဲ႕ Wallpapers မ်ား 3-D
-effects မ်ားႏွင့္အတူ အျခားေသာ ကိုယ္ကိုယ္တိုင္ ေရြးခ်ယ္ႏိုင္တာေတြ ရွိပါတယ္။
+GNOME Desktop အတွက် အဆင်သင့်အသုံးပြုနိုင်တဲ့ Add-on icons တွေ themes နဲ့ Wallpapers များ 3-D
+effects များနှင့်အတူ အခြားသော ကိုယ်ကိုယ်တိုင် ရွေးချယ်နိုင်တာတွေ ရှိပါတယ်။
 
 Gnome Eye-Candy Resources 
 
-Gnome Look (http://www.gnome-look.org) တြင္ wallpapers ေတြ splash screens ေတြ icons
-ေတြနဲ႕အတူ  Windows Mangers အတြက္ (Metacity နဲ႕ Compiz ပါ၀င္သည့္) themes မ်ားႏွင့္
-အျခားေသာ အသံုးျပဳ ေဆာ့၀ဲေတြ (appalication) မ်ားပါရွိပါသည္။
+Gnome Look (http://www.gnome-look.org) တွင် wallpapers တွေ splash screens တွေ icons
+တွေနဲ့အတူ  Windows Mangers အတွက် (Metacity နဲ့ Compiz ပါဝင်သည့်) themes များနှင့်
+အခြားသော အသုံးပြု ဆော့ဝဲတွေ (appalication) များပါရှိပါသည်။
 
 Ubuntu Wallpaper
 
 Maverick Meerkat wallpaper (https://wiki.ubuntu.com/Artwork/Incoming/Maverick)
-ဆိုဒ္မွ အခမဲ့သြားေရာက္ Download ျပဳလုပ္ႏိုင္ပါတယ္။
+ဆိုဒ်မှ အခမဲ့သွားရောက် Download ပြုလုပ်နိုင်ပါတယ်။
 
 
 Change Plymouth Splash Screen 
 
-Bootup မွာျမင္ရတဲ့ဟာက ကနဦး Splash Screen ျဖစ္ၿပီး အျခားေသာ Plymouth Themes ေတြကို Package
-Manger မွာသြားေရာက္ ရွာေဖြႏိုင္ပါတယ္။ အသစ္တစ္ခုကို Install ျပဳလုပ္ခ်င္ရင္ေတာ့
+Bootup မှာမြင်ရတဲ့ဟာက ကနဦး Splash Screen ဖြစ်ပြီး အခြားသော Plymouth Themes တွေကို Package
+Manger မှာသွားရောက် ရှာဖွေနိုင်ပါတယ်။ အသစ်တစ်ခုကို Install ပြုလုပ်ချင်ရင်တော့
 
 sudo update-alternatives --config default.plymouth
 sudo update-initramfs -u
 
-မိမိႀကိဳက္ႏွစ္သက္ရာ Theme ကို ေရြးခ်ယ္၍ တင္ႏိုင္ပါသည္။
+မိမိကြိုက်နှစ်သက်ရာ Theme ကို ရွေးချယ်၍ တင်နိုင်ပါသည်။
 
-Plymouth ကေတာ့ Bootup ျပဳလုပ္ေနတဲ့အခ်ိန္မွာ မႀကာခဏ Blacnk Screen မ်ားေပၚေပါက္ျခင္းနဲ႕ nVidia
-Drivers ေတြ ခ်က္ျခင္း အလုပ္မလုပ္ေဆာင္ႏိုင္ေသးပါဘူး။
+Plymouth ကတော့ Bootup ပြုလုပ်နေတဲ့အချိန်မှာ မကြာခဏ Blacnk Screen များပေါ်ပေါက်ခြင်းနဲ့ nVidia
+Drivers တွေ ချက်ခြင်း အလုပ်မလုပ်ဆောင်နိုင်သေးပါဘူး။
 
 Change USplash Boot Screen
 
@@ -601,29 +601,29 @@ sudo apt-get install splashy splashy-themes---
 
 Metacity
 
-Metacity ဆိုတာက Gnome မွာပါတဲ့ မူလ Desktop Compositing Manager ပါ။ သူက ေပါ့ပါးျခင္း၊
-ခ်က္ျခင္းေျပာင္းလြဲျခင္း (streamlined) ေတြနဲ႕အတူ မ်ားမ်ားစားစားလဲ ျပဳျပင္ေျပာင္းလြဲစရာမလိုတဲ့ Options
-ေတြပါ၀င္သလို Gnome Look မွာေတာ့ Multiple Themes ေတြ ခ်က္ျခင္းေဆာင္ရြက္ႏိုင္ျပန္တယ္။
+Metacity ဆိုတာက Gnome မှာပါတဲ့ မူလ Desktop Compositing Manager ပါ။ သူက ပေါ့ပါးခြင်း၊
+ချက်ခြင်းပြောင်းလွဲခြင်း (streamlined) တွေနဲ့အတူ များများစားစားလဲ ပြုပြင်ပြောင်းလွဲစရာမလိုတဲ့ Options
+တွေပါဝင်သလို Gnome Look မှာတော့ Multiple Themes တွေ ချက်ခြင်းဆောင်ရွက်နိုင်ပြန်တယ်။
 
 
 Compiz Fusion 
 
-Compiz Fusion က window manager နဲ႕ သီးျခားကြဲျပားပါတယ္။ သူက Desktop effects ေတြကို 
-အဆင့္ျမင့္ ေျပာင္းလြဲႏိုင္တာျဖစ္ၿပီး Cube တံုးသဖြယ္မ်ိဳး Desktop ကို ေျပာင္းလဲဖန္တီးႏိုင္တာေတြလဲ
-ပါ၀င္ပါတယ္။Ubuntu Users ေတာ္ေတာ္မ်ားမ်ားက Compiz ကိုေရြးခ်ယ္ အသံုးျပဳႀကပါတယ္။ဒါကို Ubuntu
-မွာ အခ်ိန္ခဏေလးနဲ႕ အလြယ္တကူ Install ျပဳခ်င္ရင္ေတာ့
+Compiz Fusion က window manager နဲ့ သီးခြားကွဲပြားပါတယ်။ သူက Desktop effects တွေကို 
+အဆင့်မြင့် ပြောင်းလွဲနိုင်တာဖြစ်ပြီး Cube တုံးသဖွယ်မျိုး Desktop ကို ပြောင်းလဲဖန်တီးနိုင်တာတွေလဲ
+ပါဝင်ပါတယ်။Ubuntu Users တော်တော်များများက Compiz ကိုရွေးချယ် အသုံးပြုကြပါတယ်။ဒါကို Ubuntu
+မှာ အချိန်ခဏလေးနဲ့ အလွယ်တကူ Install ပြုချင်ရင်တော့
 
 sudo apt-get install compiz compizconfig-settings-manager compiz-fusion-plugins-main
 compiz-fusion-plugins-extra emerald librsvg2-common
 
-Compiz ကို Window Manager အျဖစ္ထားခ်င္ရင္ေတာ့
+Compiz ကို Window Manager အဖြစ်ထားချင်ရင်တော့
 
-Compiz Configuration မွာ ေအာက္ကအတိုင္း သြားေရာက္ေရြးခ်ယ္ေပးယံုပါပဲ
+Compiz Configuration မှာ အောက်ကအတိုင်း သွားရောက်ရွေးချယ်ပေးယုံပါပဲ
 
 Menu - System -Preferences - CompizConfig Settings Manager
 
-မွတ္ခ်က္ ။ ေျပာင္းလြဲထားတာေတြကို အဆင္ေျပဖို႕က Process ၿပီးသြားရင္ Logout လုပ္ၿပီးေတာ့ Login
-ျပန္လုပ္မွသာ ေျပာင္းလြဲျခင္း effect ကို ျမင္ရမွာျဖစ္ပါတယ္။
+မှတ်ချက် ။ ပြောင်းလွဲထားတာတွေကို အဆင်ပြေဖို့က Process ပြီးသွားရင် Logout လုပ်ပြီးတော့ Login
+ပြန်လုပ်မှသာ ပြောင်းလွဲခြင်း effect ကို မြင်ရမှာဖြစ်ပါတယ်။
 
 Virtualization
 
@@ -635,26 +635,26 @@ See Moonlight plugin for Firefox
 
 Java
 
-Java install လုပ္ရန္
+Java install လုပ်ရန်
 
 sudo apt-get install default-jre
 
 DosBox
 
-DosBox (http://www.dosbox.com/) သည္ DOS-emulator (ဆက္စပ္ကိရိယာ) program တစ္ခုျဖစ္သည္။
-၄င္းသည္ CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS,
-Tandy/Hercules/CGA/EGA/VGA/VESA grahpics ႏွင့္ SoundBlaster/Gravis Ultra Sound
-card (ယခင္ဂိမ္းအေဟာင္းမ်ား၏ အသံျဖင့္လိုက္ေလ်ာညီေထြျဖစ္ေစရန္) အသံုးျပဳသည္။ သင္သည္
-ယခုေခတ္ကြန္ပ်ဴတာမ်ားေပၚတြင္ ေဆာ့မရေတာ့ေသာ ယခင္ဂႏၶၶၶ၀င္ ဂိမ္းမ်ားအား
-ျပန္လည္အသက္သြင္းႏိုင္ပါလိမ့္မည္။
+DosBox (http://www.dosbox.com/) သည် DOS-emulator (ဆက်စပ်ကိရိယာ) program တစ်ခုဖြစ်သည်။
+၎င်းသည် CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS,
+Tandy/Hercules/CGA/EGA/VGA/VESA grahpics နှင့် SoundBlaster/Gravis Ultra Sound
+card (ယခင်ဂိမ်းအဟောင်းများ၏ အသံဖြင့်လိုက်လျောညီထွေဖြစ်စေရန်) အသုံးပြုသည်။ သင်သည်
+ယခုခေတ်ကွန်ပျူတာများပေါ်တွင် ဆော့မရတော့သော ယခင်ဂန္ဓ္ဓ္ဓဝင် ဂိမ်းများအား
+ပြန်လည်အသက်သွင်းနိုင်ပါလိမ့်မည်။
 
 sudo apt-get install dosbox
 
 Scumm VM
 
-Scumm VM (http://scummvm.org/) သည္ ရုပ္ပံုမ်ားအားညႊန္ၿပျခင္း ၊Click လုပ္ျခင္းစသည့္
-ဂိမ္းေဟာင္းမ်ားအား လက္ခံ၍ run ေပးပါသည္။(သင့္တြင္ ၄င္းတို႕၏ ေဒတာဖိုင္မ်ားရွိရပါမည္။) Scumm VM
-သည္ executables shipped မ်ားတြင္ ေနရာယူ၍ ဂိမ္းမ်ားကို Linux OSတြင္ ကစားခြင့္ေပးမွာျဖစ္ပါတယ္။
+Scumm VM (http://scummvm.org/) သည် ရုပ်ပုံများအားညွှန်ပြခြင်း ၊Click လုပ်ခြင်းစသည့်
+ဂိမ်းဟောင်းများအား လက်ခံ၍ run ပေးပါသည်။(သင့်တွင် ၎င်းတို့၏ ဒေတာဖိုင်များရှိရပါမည်။) Scumm VM
+သည် executables shipped များတွင် နေရာယူ၍ ဂိမ်းများကို Linux OSတွင် ကစားခွင့်ပေးမှာဖြစ်ပါတယ်။
 
 sudo apt-get install scummvm
 
@@ -665,7 +665,7 @@ Edutainment Applications
 
 ..........................................
 
-...........................................p-26(မရိုက္ထား)
+...........................................p-26(မရိုက်ထား)
 
 ...........................................
 
@@ -673,258 +673,258 @@ Edutainment Applications
 
 Google Earth
 
-Google Earth (http://earth.google.com/) မွ သင့္အား ကၽြႏ္ုပ္တို႕ကမၻာၿဂိဳလ္ႀကီးကို အေပၚစီးက
-ျမင္ေတြ႕ခြင့္ေပးမွာျဖစ္ပါတယ္။ဒီ software ဟာ အခမဲ့ package ျဖစ္ပါတယ္။ (ဒီ package ကိုအသံုးျပဳဖို႕အတြက္
-License ကို accept လုပ္ရမွာျဖစ္ပါတယ္။)
+Google Earth (http://earth.google.com/) မှ သင့်အား ကျွန်ုပ်တို့ကမ္ဘာဂြိုလ်ကြီးကို အပေါ်စီးက
+မြင်တွေ့ခွင့်ပေးမှာဖြစ်ပါတယ်။ဒီ software ဟာ အခမဲ့ package ဖြစ်ပါတယ်။ (ဒီ package ကိုအသုံးပြုဖို့အတွက်
+License ကို accept လုပ်ရမှာဖြစ်ပါတယ်။)
 
 sudo apt-get install googleearth-package
 make-googleearth-package --force
 
-ရရွိလာတဲ့ .deb file ကို click ၂ခ်က္ႏွိပ္ပါ။
+ရရှိလာတဲ့ .deb file ကို click ၂ချက်နှိပ်ပါ။
 
---သို႕မဟုတ္--
+--သို့မဟုတ်--
 
-Linux အတြက္ ေနာက္ဆံုးထြက္ရွိထားတဲ့ package ကို install လုပ္ရန္အတြက္ Google Earth downloads
-(http://earth.google.com/intl/en/download-earth.html) ကိုသြားၿပီး Download ဆြဲပါ။ၿပီးရင္ ေအာက္က
-command နဲ႕ install လုပ္ပါ။  wget http://dl.google.com/GoogleEarthLinux.bin/
+Linux အတွက် နောက်ဆုံးထွက်ရှိထားတဲ့ package ကို install လုပ်ရန်အတွက် Google Earth downloads
+(http://earth.google.com/intl/en/download-earth.html) ကိုသွားပြီး Download ဆွဲပါ။ပြီးရင် အောက်က
+command နဲ့ install လုပ်ပါ။  wget http://dl.google.com/GoogleEarthLinux.bin/
 
 chmod  +x GoogleEarthLinux.bin
 ./GoogleEarthLinux.bin
 
-အသံုးျပဳရန္
+အသုံးပြုရန်
 
 Menu - Application -Internet -Google Earth 3D planet viewer
 
-သင့္အေနနဲ႕ Google Earth -View -မွာရွိတဲ့ Atmosphere setting ကို turn off လုပ္ထားသင့္ပါတယ္။
-ဘာေႀကာင့္လဲဆိုေတာ့ တိမ္ေတြဖံုးေနတာေႀကာင့္ ေျမျပင္ကို ျပမွာမဟုတ္လို႕ပါဘဲ။
+သင့်အနေနဲ့ Google Earth -View -မှာရှိတဲ့ Atmosphere setting ကို turn off လုပ်ထားသင့်ပါတယ်။
+ဘာကြောင့်လဲဆိုတော့ တိမ်တွေဖုံးနေတာကြောင့် မြေပြင်ကို ပြမှာမဟုတ်လို့ပါဘဲ။
 
 Troubleshooting
 
-Troubleshooting (ျပင္ဆင္ျခင္း) အကယ္၍ Google Earth ကိုဖြင့္လိုက္တယ္။Loading ျပဳလုပ္တယ္။ loading ျပဳလုပ္တဲ့ screen 
-တတ္လာၿပီး error ျပမယ္။ဒါမွမဟုတ္ ဘာမွမေပၚေတာ့ဘူးဆိုရင္ေတာ့ သင္ဟာ ျဖစ္ေလ့ျဖစ္ထရွိတဲ့ error 
-တတ္ျခင္းကိုေတြ႕ႀကံဳေနရပါၿပီ။အဲဒီလိုျဖစ္ေနခ်ိန္မွာ Google Earth ကို Terminal ကေန ~/google-
-earth/googleearth လို႕ရိုက္ၿပီး run လိုက္ရင္ ./googleearth-bin: relocation error:
+Troubleshooting (ပြင်ဆင်ခြင်း) အကယ်၍ Google Earth ကိုဖွင့်လိုက်တယ်။Loading ပြုလုပ်တယ်။ loading ပြုလုပ်တဲ့ screen 
+တတ်လာပြီး error ပြမယ်။ဒါမှမဟုတ် ဘာမှမပေါ်တော့ဘူးဆိုရင်တော့ သင်ဟာ ဖြစ်လေ့ဖြစ်ထရှိတဲ့ error 
+တတ်ခြင်းကိုတွေ့ကြုံနေရပါပြီ။အဲဒီလိုဖြစ်နေချိန်မှာ Google Earth ကို Terminal ကနေ ~/google-
+earth/googleearth လို့ရိုက်ပြီး run လိုက်ရင် ./googleearth-bin: relocation error:
 /usr/lib/i686/cmov/libssl.so.0.9.8: symbol BIO-test-flags, version OPENSSL-0.9.8 not defined
-in file libcrypto.so.0.9.8 with link time reference ဆိုတဲ့ error ကိုျပပါလိမ့္မယ္။
+in file libcrypto.so.0.9.8 with link time reference ဆိုတဲ့ error ကိုပြပါလိမ့်မယ်။
 
-ဒီၿပႆနာကိုေျဖရွင္းဖို႕အတြက္ : သင္ Google Earth ကိုသြင္းထားတဲ့ Folder ကိုဖြင့္လိုက္ပါ။ပံုမွန္အားျဖင့္ေတာ့
-Google Earth ဟာ သင့္ home folder ထဲမွာပဲ ရွိေနတတ္ပါတယ္။ ၿပီးရင္ libcrypto.so.0.9.8 ကိုရွာၿပီး
-libcrypto.so.0.9.8.bak လို႕ေျပာင္းလိုက္ပါ။ Google Earth ဟာ ပံုမွန္အတိုင္း သံုးလို႕ရသြားပါလိ္မ့္မယ္။
+ဒီပြဿနာကိုဖြေရှင်းဖို့အတွက် : သင် Google Earth ကိုသွင်းထားတဲ့ Folder ကိုဖွင့်လိုက်ပါ။ပုံမှန်အားဖြင့်တော့
+Google Earth ဟာ သင့် home folder ထဲမှာပဲ ရှိနေတတ်ပါတယ်။ ပြီးရင် libcrypto.so.0.9.8 ကိုရှာပြီး
+libcrypto.so.0.9.8.bak လို့ပြောင်းလိုက်ပါ။ Google Earth ဟာ ပုံမှန်အတိုင်း သုံးလို့ရသွားပါလိမ့်မယ်။
 
 cd ~/google-earth
 sudo mv libcrypto.so.0.9.8 libcrypto.so.0.9.8.bak
 sudo In -s /usr/lib/libcrypto.so.0.9.8~/google-earth/libcrypto.so.0.9.8
 
-(သတိျပဳရန္ : သင့္အေနနဲ႕ ~/google-earth လို႕ရိုက္မယ့္အစား /home/user/google-earth
-လို႕လဲရိုက္ႏိုင္ပါတယ္)
+(သတိပြုရန် : သင့်အနေနဲ့ ~/google-earth လို့ရိုက်မယ့်အစား /home/user/google-earth
+လို့လဲရိုက်နိုင်ပါတယ်)
 
-အျခား ျပႆနာေတြအတြက္ကိုေတာ့ Ubuntu help pages on Google Earth
-(https://help.ubuntu.com/community/GoogleEarth) မွာႀကည့္႐ႈႏိုင္ပါတယ္။
+အခြား ပြဿနာတွေအတွက်ကိုတော့ Ubuntu help pages on Google Earth
+(https://help.ubuntu.com/community/GoogleEarth) မှာကြည့်ရှုနိုင်ပါတယ်။
 
 Uninstall Google Earth
 
-Google Earth အား Uninstall ျပဳလုပ္ရန္
+Google Earth အား Uninstall ပြုလုပ်ရန်
 
-Uninstall ျပဳလုပ္ဖို႕အတြက္ /home/user/google-earth Folder (သင္ Google-earth ကို install ထားတဲ့
-္folder) မွာရွိတဲ့ uninstall shell script ကို run ပါ။
+Uninstall ပြုလုပ်ဖို့အတွက် /home/user/google-earth Folder (သင် Google-earth ကို install ထားတဲ့
+်folder) မှာရှိတဲ့ uninstall shell script ကို run ပါ။
 
 FBReader (e-book reader)
 
-FBReader(http://www.fbreader.org/) သည္ GTK platform ကို အေျခခံထားၿပီး အျခား platform
-မ်ားတြင္ပါ အသံုးျပဳႏိုင္သည့္ အခမဲ့ e-book reader တစ္ခုျဖစ္သည္။ install ျပဳလုပ္ရန္ :
+FBReader(http://www.fbreader.org/) သည် GTK platform ကို အခြေခံထားပြီး အခြား platform
+များတွင်ပါ အသုံးပြုနိုင်သည့် အခမဲ့ e-book reader တစ်ခုဖြစ်သည်။ install ပြုလုပ်ရန် :
 
 sudo apt-get install fbreader
 
 Calibre (e-book reader)
 
-Calibre (http://calibre-ebook.com) သည္ e-book reader ျဖစ္ၿပီး library manager အျဖစ္လည္း
-အသံုးျပဳႏိုင္သည္။Install ျပဳလုပ္ပံုကို ဤေနရာတြင္ (http://calibre-ebook.com/download-linux)
-ႀကည့္ပါ။
+Calibre (http://calibre-ebook.com) သည် e-book reader ဖြစ်ပြီး library manager အဖြစ်လည်း
+အသုံးပြုနိုင်သည်။Install ပြုလုပ်ပုံကို ဤနေရာတွင် (http://calibre-ebook.com/download-linux)
+ကြည့်ပါ။
 
 Games 
 
-ဂိမ္းမ်ား (K)Ubuntu Linux အတြက္ သဘာ၀က်တဲ့ ဂိမ္းေတြရွိပါတယ္။
+ဂိမ်းများ (K)Ubuntu Linux အတွက် သဘာဝကျတဲ့ ဂိမ်းတွေရှိပါတယ်။
 
 Ubuntu Community Wiki -- Games (http://help.ubuntu.com/community/Games).
 Best Linux Games for 2008 (http://whdb.com/2008/top-25-linux-games-for-2008/).
 Best 25 Linux Games of 2007 (http://rangit.com/software/top-8-linux-games-of-2007/).
 
-(K)Ubuntu မွာ ရာေပါင္းမ်ားစြာေသာ အခမဲ့, open-source ဂိမ္းေတြရွိပါတယ္။KDE Games collection
-(http://www.kde.org/application/games/) နဲ႕ Gnome Games
-(http://live.gnome.org/GnomeGames/)collection အပါအ၀င္) အေတာ္မ်ားမ်ားကို သင့္ရဲ႕ Package 
-Manager ထဲက Games Section မွတဆင့္ ရယူႏိုင္ပါတယ္။
+(K)Ubuntu မှာ ရာပေါင်းများစွာသော အခမဲ့, open-source ဂိမ်းတွေရှိပါတယ်။KDE Games collection
+(http://www.kde.org/application/games/) နဲ့ Gnome Games
+(http://live.gnome.org/GnomeGames/)collection အပါအဝင်) အတော်များများကို သင့်ရဲ့ Package 
+Manager ထဲက Games Section မှတဆင့် ရယူနိုင်ပါတယ်။
 
-ဥပမာတစ္ခ်ိဳ႕ေပးရမယ္ဆိုရင္ :
+ဥပမာတစ်ချို့ပေးရမယ်ဆိုရင် :
 
-PouetChess (http://pouetchess.sourceforge.net/) --ၿပီးျပည့္စံုတဲ့ 3-D ခ်က္ထိုးတဲ့ Game တစ္ခုပါ။
-Install ျပဳလုပ္ရန္
+PouetChess (http://pouetchess.sourceforge.net/) --ပြီးပြည့်စုံတဲ့ 3-D ချက်ထိုးတဲ့ Game တစ်ခုပါ။
+Install ပြုလုပ်ရန်
 
 sudo apt-get install pouetchess
 
-PokerTH (http://www.pokerth.net/) --အလြန္ကစားရေကာင္းတဲ့ Texas Hold 'Em Poker ပိုကာ
-Game ပါ။ (PPA repository (https://launchpad.net/~pkg-games/+archive/ppa) အသံုးျပဳၿပီး
-install လုပ္ႏိုင္ပါတယ္။)
-Kajongg (http://packages.ubuntu.com/maverick/kajongg)-- လူေတြနဲ႕ပဲျဖစ္ျဖစ္၊
-စက္ရုပ္ေတြနဲ႕ပဲျဖစ္ျဖစ္ တြဲဖက္/ယွဥ္ၿပိဳင္ကစားရမယ့္ MahJongg (မာေက်ာက္)ကစားနည္းစစ္စစ္ပါပဲ။
-Install ျပဳလုပ္ရန္
+PokerTH (http://www.pokerth.net/) --အလွန်ကစားရကောင်းတဲ့ Texas Hold 'Em Poker ပိုကာ
+Game ပါ။ (PPA repository (https://launchpad.net/~pkg-games/+archive/ppa) အသုံးပြုပြီး
+install လုပ်နိုင်ပါတယ်။)
+Kajongg (http://packages.ubuntu.com/maverick/kajongg)-- လူတွေနဲ့ပဲဖြစ်ဖြစ်၊
+စက်ရုပ်တွေနဲ့ပဲဖြစ်ဖြစ် တွဲဖက်/ယှဉ်ပြိုင်ကစားရမယ့် MahJongg (မာကျောက်)ကစားနည်းစစ်စစ်ပါပဲ။
+Install ပြုလုပ်ရန်
 
 sudo apt-get install kajongg
 
-Planet Penguin Racer (http://en.wikipedia.org/wiki/Tux-Racer)--ပင္ဂြင္းငွက္ကေလးဟာ
-သံုးဖက္ျမင္ (3-D) အေနအထားနဲ႕ ႏွင္းေလွ်ာစီးသြားမယ္။ငါးေတြကို ဖမ္းရမွာျဖစ္ပါတယ္။ (Extreme Tux
-Racer (http://extremetuxracer.com/) ကေတာ့ ေနာက္ေပၚ ဗားရွင္းျဖစ္ေပမယ့္ 32-bit
-မွာပဲအလုပ္လုပ္ပါတယ္)
-KsirK (http://games.kde.org/game.php?game=ksirk)-- ကြန္ပ်ဴတာနဲ႕ပဲျဖစ္ျဖစ္
-သူငယ္ခ်င္းနဲ႕ခ်ိတ္ဆက္ၿပီးပဲျဖစ္ျဖစ္ သဲထိတ္ရင္ဖိုေဆာ့ကစားရမဲ့ ဂိမ္းပါ။Install ျပဳလုပ္ရန္ sudo apt-get
+Planet Penguin Racer (http://en.wikipedia.org/wiki/Tux-Racer)--ပင်ဂွင်းငှက်ကလေးဟာ
+သုံးဖက်မြင် (3-D) အနေအထားနဲ့ နှင်းလျှောစီးသွားမယ်။ငါးတွေကို ဖမ်းရမှာဖြစ်ပါတယ်။ (Extreme Tux
+Racer (http://extremetuxracer.com/) ကတော့ နောက်ပေါ် ဗားရှင်းဖြစ်ပေမယ့် 32-bit
+မှာပဲအလုပ်လုပ်ပါတယ်)
+KsirK (http://games.kde.org/game.php?game=ksirk)-- ကွန်ပျူတာနဲ့ပဲဖြစ်ဖြစ်
+သူငယ်ချင်းနဲ့ချိတ်ဆက်ပြီးပဲဖြစ်ဖြစ် သဲထိတ်ရင်ဖိုဆော့ကစားရမဲ့ ဂိမ်းပါ။Install ပြုလုပ်ရန် sudo apt-get
 install kdegames
-Racer (http://www.racer.nl/)-- တကယ့္ကို စိန္ေခၚယွဥ္ၿပိဳင္ႏိုင္တဲ့ 3-D ၿပိဳင္ကားဂိမ္းပါ။ (Binary
-install ကိုဒီမွာ (http://www.racer.nl/dl_beta_linux.htm)ေတြ႕ႏိုင္ပါတယ္။ ေျပးလမ္းအသစ္နဲ႕
-extra add-ons (http://www.racer.nl/dl_content.htm) ေတြလည္းရွိပါတယ္။
-TORCS (http://torcs.sourceforge.net/)--3-D ၿပိဳင္ကားဂိမ္းျဖစ္ပါတယ္။Install လုပ္ရန္
+Racer (http://www.racer.nl/)-- တကယ့်ကို စိန်ခေါ်ယှဉ်ပြိုင်နိုင်တဲ့ 3-D ပြိုင်ကားဂိမ်းပါ။ (Binary
+install ကိုဒီမှာ (http://www.racer.nl/dl_beta_linux.htm)တွေ့နိုင်ပါတယ်။ ပြေးလမ်းအသစ်နဲ့
+extra add-ons (http://www.racer.nl/dl_content.htm) တွေလည်းရှိပါတယ်။
+TORCS (http://torcs.sourceforge.net/)--3-D ပြိုင်ကားဂိမ်းဖြစ်ပါတယ်။Install လုပ်ရန်
 
 sudo apt-get install torcs
 
-Supertuxkart (http://supertuxkart.sourceforge.net/) --ၿပိဳင္ကား
-အေသးစားေလးမ်ားကို ေမာင္းႏွင္ရတဲ့ ဂိမ္းျဖစ္ပါတယ္။ Install ျပဳလုပ္ရန္
+Supertuxkart (http://supertuxkart.sourceforge.net/) --ပြိုင်ကား
+အသေးစားလေးများကို မောင်းနှင်ရတဲ့ ဂိမ်းဖြစ်ပါတယ်။ Install ပြုလုပ်ရန်
 
 sudo apt-get install supertuxkart
 
-Pingus (http://pingus.seul.org/) --ရဲ႕ညီအစ္ကိုျဖစ္တဲ့ Lemming (လီမင္) အစား
-ပင္ဂြင္းငွက္ကေလးေတြကို အသံုးျပဳထားတာပါ။Install ျပဳလုပ္ရန္
+Pingus (http://pingus.seul.org/) --ရဲ့ညီအစ်ကိုဖြစ်တဲ့ Lemming (လီမင်) အစား
+ပင်ဂွင်းငှက်ကလေးတွေကို အသုံးပြုထားတာပါ။Install ပြုလုပ်ရန်
 
 sudo apt-get install pingus
 
-Frozen Bubble (http://www.frozen-bubble.org/)--ပူေပါင္းေဖာက္ ကစားနည္းတစ္ခုပါ။Install
-ျပဳလုပ္ရန္
+Frozen Bubble (http://www.frozen-bubble.org/)--ပူပေါင်းဖောက် ကစားနည်းတစ်ခုပါ။Install
+ပြုလုပ်ရန်
 
 sudo apt-get install frozen-bubble
 
-Frets on Fire (http://fretsonfire.sourceforge.net/)--Guitar Hero  နဲ႕ ဆင္တူပါတယ္သင့္အေနနဲ႕
-Community Site ေတြကေနတဆင့္ Guitar Hero
-(http://www.geetarfreaks.webs.com/Viva%20La%20Music.html)ထဲက သီခ်င္းေတြကို
-သြင္းယူႏိုင္ပါတယ္။community sites (http://fretsonfire.wikidot.com/custom-songs) မွာလဲ
-အေသးစိတ္ဖတ္ႏိုင္ပါတယ္။Install ျပဳလုပ္ရန္
+Frets on Fire (http://fretsonfire.sourceforge.net/)--Guitar Hero  နဲ့ ဆင်တူပါတယ်သင့်အနေနဲ့
+Community Site တွေကနေတဆင့် Guitar Hero
+(http://www.geetarfreaks.webs.com/Viva%20La%20Music.html)ထဲက သီချင်းတွေကို
+သွင်းယူနိုင်ပါတယ်။community sites (http://fretsonfire.wikidot.com/custom-songs) မှာလဲ
+အသေးစိတ်ဖတ်နိုင်ပါတယ်။Install ပြုလုပ်ရန်
 
 sudo apt-get install fretsonfire
 
-Scorched3d (http://www.scorched3d.co.uk/)--ႏွစ္ဘက္ျမင္ကို သံုးဖက္ျမင္ (3-
-D) အျဖစ္ ကစားႏိုင္မယ့္ အေျမာက္ပစ္ဂိမ္းပါ။Install လုပ္ရန္
+Scorched3d (http://www.scorched3d.co.uk/)--နှစ်ဘက်မြင်ကို သုံးဖက်မြင် (3-
+D) အဖြစ် ကစားနိုင်မယ့် အမြောက်ပစ်ဂိမ်းပါ။Install လုပ်ရန်
 
 sudo apt-get install scorched3d
 
-Pyscrabble (http://pyscrabble.sourceforge.net/) (ႏွင့္ pyscrabble-server)-- Online Scrabble(
-စကားလံုးမိတ္ဆက္) ဂိမ္းနဲ႕ server ျဖစ္ပါတယ္။ Install ျပဳလုပ္ရန္
+Pyscrabble (http://pyscrabble.sourceforge.net/) (နှင့် pyscrabble-server)-- Online Scrabble(
+စကားလုံးမိတ်ဆက်) ဂိမ်းနဲ့ server ဖြစ်ပါတယ်။ Install ပြုလုပ်ရန်
 
 sudo apt-get install pyscrabble pyscrabble-server
 
-(Lexulou နဲ႕ Internet Scrabble Club တို႕မွာလည္း Scrabble နဲ႕ပံုစံတူ browser-based online
-ဂိမ္းေတြရွိပါတယ္။Internet Scrabble Club ကေတာ့ Java ကို install လုပ္ထားဖို႕လိုအပ္ပါတယ္။Java install
-လုပ္ရန္
+(Lexulou နဲ့ Internet Scrabble Club တို့မှာလည်း Scrabble နဲ့ပုံစံတူ browser-based online
+ဂိမ်းတွေရှိပါတယ်။Internet Scrabble Club ကတော့ Java ကို install လုပ်ထားဖို့လိုအပ်ပါတယ်။Java install
+လုပ်ရန်
 
 sudo apt-get install default-jre
 
 Wing Commander Privateer
 
-Wing Commander Linux (http://priv.solsector.net/) ရဲ႕ အခမဲ့ဗားရွင္းကို Binary ဖိုင္အျဖစ္
-ဒီမွာ Download (http://sourceforge.net/projects/privateer/)ယူႏိုင္ပါၿပီ။
+Wing Commander Linux (http://priv.solsector.net/) ရဲ့ အခမဲ့ဗားရှင်းကို Binary ဖိုင်အဖြစ်
+ဒီမှာ Download (http://sourceforge.net/projects/privateer/)ယူနိုင်ပါပြီ။
 
 Vdrift
 
-Vdrift (http://vdrift.net/) သည္ အခမဲ့ open source ျဖစ္ၿပီး Need For Speed ကဲ့သို႕ေသာ realistic
-physics, multiple drift tracks, and multiplayer မ်ားပါ၀င္ေသာ 3-D ၿပိဳင္ကားဂိမ္းတစ္ခုျဖစ္သည္။
-Joysticks မ်ားျဖင့္ေသာ္လည္းေကာင္း Mice ႏွင့္ keyboard ျဖင့္ေသာ္လည္းေကာင္း အသံုးျပဳႏိုင္သည္။ Linux 
-အတြက္ Binary package အား ထို website မွ download လုပ္၍ ရယူႏိုင္ပါသည္။
+Vdrift (http://vdrift.net/) သည် အခမဲ့ open source ဖြစ်ပြီး Need For Speed ကဲ့သို့သော realistic
+physics, multiple drift tracks, and multiplayer များပါဝင်သော 3-D ပြိုင်ကားဂိမ်းတစ်ခုဖြစ်သည်။
+Joysticks များဖြင့်သော်လည်းကောင်း Mice နှင့် keyboard ဖြင့်သော်လည်းကောင်း အသုံးပြုနိုင်သည်။ Linux 
+အတွက် Binary package အား ထို website မှ download လုပ်၍ ရယူနိုင်ပါသည်။
 
 Action
 
-အံ့အားသင့္ဖြယ္ရာ အက္ရွင္ဂိမ္းေတြကို (Top 25 မွ ဂိမ္းမ်ားအပါအ၀င္) Ubuntu မွာ ရရွိႏိုင္ပါတယ္။
-အေတာ္မ်ားမ်ားကို
+အံ့အားသင့်ဖွယ်ရာ အက်ရှင်ဂိမ်းတွေကို (Top 25 မှ ဂိမ်းများအပါအဝင်) Ubuntu မှာ ရရှိနိုင်ပါတယ်။
+အတော်များများကို
 
 Menu - Application - Ubuntu Software Center - Games
 
-ကေနၿပီး install လုပ္ႏိုင္ပါတယ္။ 
+ကနေပြီး install လုပ်နိုင်ပါတယ်။ 
 
-Example အခ်ိဳ႕ကေတာ့-
+Example အချို့ကတော့-
 
 Alien Arena (http://icculus.org/alienarena/rpa/about.html) --multi-player first person
-shooter အက္ရွင္ဂိမ္းျဖစ္ၿပီး အခမဲ့ server မ်ားနဲ႕ ေဆာ့ကစားႏိုင္ပါတယ္။ (Package : alien- arena)
+shooter အက်ရှင်ဂိမ်းဖြစ်ပြီး အခမဲ့ server များနဲ့ ဆော့ကစားနိုင်ပါတယ်။ (Package : alien- arena)
 (Server : alien-arena-server)
 
 sudo apt-get install alien-arena
 sudo apt-get install alien-arena-server
 
 OpenArena(http://www.openarena.ws/)-- Open-Source multi-player first person shooter
-အက္ရွင္ဂိမ္းျဖစ္ၿပီး အခမဲ့ server မ်ားနဲ႕ ေဆာ့ကစားႏိုင္ပါတယ္။
+အက်ရှင်ဂိမ်းဖြစ်ပြီး အခမဲ့ server များနဲ့ ဆော့ကစားနိုင်ပါတယ်။
 
 sudo apt-get install openaren
 sudo apt-get install openarena-server
 
-Tremulous (http://www.tremulous.net) -- Halo နဲ႕ဆင္တူၿပီး multiplayer first person shooter
-action ဂိမ္းျဖစ္ပါတယ္။ ေနာက္ဆံုးထြက္ ဗားရွင္းအတြက္ Repositories ရွိပါတယ္။
+Tremulous (http://www.tremulous.net) -- Halo နဲ့ဆင်တူပြီး multiplayer first person shooter
+action ဂိမ်းဖြစ်ပါတယ်။ နောက်ဆုံးထွက် ဗားရှင်းအတွက် Repositories ရှိပါတယ်။
 
 sudo apt-get install tremulous
 sudo apt-get install tremulous-server
 
-Sauerbraten (http://sauerbraten.org/) - Cuber မွျဖစ္ၿပီး Graphic ေကာင္းေကာင္းနဲ႕ multiplayer
-ေဆာ့ႏိုင္တဲ့ First person shooter game ျဖစ္ပါတယ္။
+Sauerbraten (http://sauerbraten.org/) - Cuber မှဖြစ်ပြီး Graphic ကောင်းကောင်းနဲ့ multiplayer
+ဆော့နိုင်တဲ့ First person shooter game ဖြစ်ပါတယ်။
 
 sudo apt-get install sauerbraten
 sudo apt-get install sauerbraten-server
 
-Nexuiz (http://www.alientrap.org/nexuiz/) -- (ၿပိဳင္ပြဲမ်ား) ပါ၀င္တဲ့ open-source multi-player
-First person shooter game ျဖစ္ၿပီး free servers မ်ားနဲ႕ေဆာ့ကစားႏိုင္ပါတယ္။
+Nexuiz (http://www.alientrap.org/nexuiz/) -- (ပြိုင်ပွဲများ) ပါဝင်တဲ့ open-source multi-player
+First person shooter game ဖြစ်ပြီး free servers များနဲ့ဆော့ကစားနိုင်ပါတယ်။
 
 sudo apt-get install nexuiz
 sudo apt-get install nexuiz-server
 
-ေျမပံု ၃၅ခုပါတဲ့ add-on community pack ကိုေတာ့ ဒီေနရာမွာ
-(http://www.alientrap.org/nexuiz/downloads.php) ရရွိႏိုင္ပါတယ္။ အဲတာကို install လုပ္ခ်င္ရင္ေတာ့
-map pack ကို /home/username/.nexuiz/data (ဒါမွမဟုတ္~ /.nexuiz/data)မွာ ျဖည္ခ်ေပးပါ။ မွတ္ခ်က္။
-ဒီထဲက ဂိမ္းေတာ္ေတာ္မ်ားမ်ားဟာ graphics လိုအပ္ခ်က္ေတြရွိပါတယ္။ ဒါေတြကို ေဆာ့မယ္ဆိုရင္ေတာ့
-သင့္အေနနဲ႕ hardware driver ေတြကို လံုလံုေလာက္ေလာက္ activate လုပ္ထားရပါမယ္။
+မြေပုံ ၃၅ခုပါတဲ့ add-on community pack ကိုတော့ ဒီနေရာမှာ
+(http://www.alientrap.org/nexuiz/downloads.php) ရရှိနိုင်ပါတယ်။ အဲတာကို install လုပ်ချင်ရင်တော့
+map pack ကို /home/username/.nexuiz/data (ဒါမှမဟုတ်~ /.nexuiz/data)မှာ ဖြည်ချပေးပါ။ မှတ်ချက်။
+ဒီထဲက ဂိမ်းတော်တော်များများဟာ graphics လိုအပ်ချက်တွေရှိပါတယ်။ ဒါတွေကို ဆော့မယ်ဆိုရင်တော့
+သင့်အနေနဲ့ hardware driver တွေကို လုံလုံလောက်လောက် activate လုပ်ထားရပါမယ်။
 
 Urban Terror
 
-Urban Terror (http://www.urbanterror.net) သည္ multiplayer first person shooter အက္ရွင္ဂိမ္း
-(ဆာဗာထည့္သြင္းၿပီး) ျဖစ္သည္။ ၄င္းသည္ open-source quake 3 engine ကိုအသံုးျပဳထားၿပီး တကယ့္
-လက္နက္မ်ား၏ အသံုးျပဳႏိုင္မႈမ်ားအား ထည့္သြင္းေပးထားသည္။အခမဲ့ server မ​်ားျဖင့္ multi-player
-ေဆာ့ႏိုင္ေစရန္ ျပဳလုပ္ေပးထားသည္။ဂ်ာမနီႏိုင္ငံတြင္ လူငယ္မ်ားေဆာ့ကစားခြင့္အား ပိတ္ပင္ထားပါသည္။
-Download ျပဳလုပ္ၿပီး ဤအညႊန္း (http://www.urbanterror.info/docs/texts/110) ကိုအသံုးျပဳကာ install
-လုပ္ႏိုင္ပါသည္။
+Urban Terror (http://www.urbanterror.net) သည် multiplayer first person shooter အက်ရှင်ဂိမ်း
+(ဆာဗာထည့်သွင်းပြီး) ဖြစ်သည်။ ၎င်းသည် open-source quake 3 engine ကိုအသုံးပြုထားပြီး တကယ့်
+လက်နက်များ၏ အသုံးပြုနိုင်မှုများအား ထည့်သွင်းပေးထားသည်။အခမဲ့ server များဖြင့် multi-player
+ဆော့နိုင်စေရန် ပြုလုပ်ပေးထားသည်။ဂျာမနီနိုင်ငံတွင် လူငယ်များဆော့ကစားခွင့်အား ပိတ်ပင်ထားပါသည်။
+Download ပြုလုပ်ပြီး ဤအညွှန်း (http://www.urbanterror.info/docs/texts/110) ကိုအသုံးပြုကာ install
+လုပ်နိုင်ပါသည်။
 
 Domm
 
-Skulltag ရဲ႕ZDoom (http://zdoom.org/wiki/Compile_ZDoom_on_Linux) နဲ႕ ProBoom (Freedoom)
-တို႕ဟာ Doom2 ရဲ႕ ဗားရွင္းခြဲေတြျဖစ္ပါတယ္။ Doom3 အတြက္ကိုေတာ့ Ubuntu ေပၚက Doom3
-(http://help.ubuntu.com/community/Doom3) မွာ ႀကည့္႐ႈႏိုင္ပါတယ္။
+Skulltag ရဲ့ZDoom (http://zdoom.org/wiki/Compile_ZDoom_on_Linux) နဲ့ ProBoom (Freedoom)
+တို့ဟာ Doom2 ရဲ့ ဗားရှင်းခွဲတွေဖြစ်ပါတယ်။ Doom3 အတွက်ကိုတော့ Ubuntu ပေါ်က Doom3
+(http://help.ubuntu.com/community/Doom3) မှာ ကြည့်ရှုနိုင်ပါတယ်။
 
 Skulltag
 
-Skulltag(http://skulltag.net/wiki/Installation_for_Ubuntu) သည္ ZDoom
-(http://zdoom.org/wiki/Compile_ZDoom_on_Linux) ကို အဆင့္ၿမႇင့္တင္ထားေသာ  ဗားရွင္းျဖစ္ၿပီး
-network play ကစားႏိုင္ပါသည္။ (K)Ubuntu တြင္ install လုပ္နည္းအား website 
-(http://skulltage.net/wiki/Installation_for_Ubuntu)တြင္ ႀကည့္႐ႈႏိုင္ပါသည္။(အကယ္၍သင့္တြင္ မူလ
-Doom2.wad မရွိပါက ေအာက္တြင္ ေဖာ္ၿပထားေသာ Freedom Iwad ကို အသံုးျပဳႏိုင္ပါသည္။) မွတ္ခ်က္
-Modules အေတာ္မ်ားမ်ားသည္ Universe repositories မွ သီးျခားလိုအပ္ပါသည္။သင့္အေနျဖင့္ Universe
-repositories ကို enable ျပဳလုပ္ထားရန္လိုအပ္သည္။ Synaptic Package Manager -Settings -
+Skulltag(http://skulltag.net/wiki/Installation_for_Ubuntu) သည် ZDoom
+(http://zdoom.org/wiki/Compile_ZDoom_on_Linux) ကို အဆင့်မြှင့်တင်ထားသော  ဗားရှင်းဖြစ်ပြီး
+network play ကစားနိုင်ပါသည်။ (K)Ubuntu တွင် install လုပ်နည်းအား website 
+(http://skulltage.net/wiki/Installation_for_Ubuntu)တွင် ကြည့်ရှုနိုင်ပါသည်။(အကယ်၍သင့်တွင် မူလ
+Doom2.wad မရှိပါက အောက်တွင် ဖော်ပြထားသော Freedom Iwad ကို အသုံးပြုနိုင်ပါသည်။) မှတ်ချက်
+Modules အတော်များများသည် Universe repositories မှ သီးခြားလိုအပ်ပါသည်။သင့်အနေဖြင့် Universe
+repositories ကို enable ပြုလုပ်ထားရန်လိုအပ်သည်။ Synaptic Package Manager -Settings -
 Repositories - Edit Software Sources - Community-maintained Open Source software (universe)
--(အမွန္ျခစ္ေပးပါ။))
+-(အမှန်ခြစ်ပေးပါ။))
 
 Install prerequisites:
 
-Install ျပဳလုပ္ရန္ ႀကိဳတင္ျပင္ဆင္မႈ
+Install ပြုလုပ်ရန် ကြိုတင်ပြင်ဆင်မှု
 
 sudo apt-get install timidity timidity-interfaces-extra
 
-ထို႕ေနာက္ skulltage ၏ repositories မ်ား update မ်ားထည့္၍ skulltage ႏွင့္ DoomSeeker(Skulltag 
-online server) အား install ျပဳလုပ္ပါ။
+ထို့နောက် skulltage ၏ repositories များ update များထည့်၍ skulltage နှင့် DoomSeeker(Skulltag 
+online server) အား install ပြုလုပ်ပါ။
 
 echo deb http://skulltag.net/download/files/release/deb/ jaunty multiverse / sudo tee /etc/apt/sour
 sudo apt-get update
 sudo apt-get install skulltage doomseeker-skulltag
 
-အကယ္၍ သင့္တြင္ doom2.wad,tnt.wad သို႕မဟုတ္ plutonia.wad မရွိပါက freedoom.wad ကိုသင့္
-~/.skulltag folder သို႕ copy လုပ္ႏိုင္ပါသည္။
+အကယ်၍ သင့်တွင် doom2.wad,tnt.wad သို့မဟုတ် plutonia.wad မရှိပါက freedoom.wad ကိုသင့်
+~/.skulltag folder သို့ copy လုပ်နိုင်ပါသည်။
 
 cd ~/.skulltag
 wget http:/mirror.cinquix.com/pub/savannah/freedoom/freedoom-iwad/freedoom-iwad-0.6.4.zip/
@@ -932,91 +932,91 @@ unzip freedoom-iwad-0.6.4.zip
 cp freedoom+/doom2.wad.
 rm freedoom-iwad-0.6.4.zip
 
-အကယ္၍ သင့္တြင္ (skulltag-server,firewalls ႏွင့္ skulltag ျဖင့္ port forwarding
-ျပဳလုပ္ျခင္းတို႕အတြက္)အကူအညီမ်ားလိုအပ္ပါက ဤထပ္တိုး လမ္းညႊန္ခ်က္မ်ားအား ႀကည့္ပါ။
+အကယ်၍ သင့်တွင် (skulltag-server,firewalls နှင့် skulltag ဖြင့် port forwarding
+ပြုလုပ်ခြင်းတို့အတွက်)အကူအညီများလိုအပ်ပါက ဤထပ်တိုး လမ်းညွှန်ချက်များအား ကြည့်ပါ။
 
-Skulltag ကို မည္သည့္ platform, မည္သည့္ graphics, မည္သည့္ စက္တြင္မဆိုအသံုးျပဳႏိုင္ပါသည္။
-၄င္းတြင္ ေထာင္ေပါင္းမ်ားစြာေသာ add-on မ်ား၊ေျမပံုမ်ား၊ gameplay mode မ်ားအား
-ေရြးခ်ယ္မကုန္ႏိုင္ေအာင္ အသံုးျပဳကစားႏိုင္ပါသည္။
+Skulltag ကို မည်သည့် platform, မည်သည့် graphics, မည်သည့် စက်တွင်မဆိုအသုံးပြုနိုင်ပါသည်။
+၎င်းတွင် ထောင်ပေါင်းများစွာသော add-on များ၊မြေပုံများ၊ gameplay mode များအား
+ရွေးချယ်မကုန်နိုင်အောင် အသုံးပြုကစားနိုင်ပါသည်။
 
 PrBoom
 
-PrBoom (http://prboom.sourceforge.net/) သည္ မူလ first person shooter action game ျဖစ္သည့္
-Doom2 (http://en.wikipedia.org/wiki/Doom_II) သည္ အခမဲ့ open source port ျဖစ္သည္။၄င္းတြင္
-ZDoom ၏ advanced option  မ်ားပါ၀င္ျခင္းမရွိပါ။Freedoom သည္မူလ Doom2,wad ကိုေနရာယူမည့္ 
-အခမဲ့ Iwad (ေျမပံုစု)ျဖစ္ပါသည္။
+PrBoom (http://prboom.sourceforge.net/) သည် မူလ first person shooter action game ဖြစ်သည့်
+Doom2 (http://en.wikipedia.org/wiki/Doom_II) သည် အခမဲ့ open source port ဖြစ်သည်။၎င်းတွင်
+ZDoom ၏ advanced option  များပါဝင်ခြင်းမရှိပါ။Freedoom သည်မူလ Doom2,wad ကိုနေရာယူမည့် 
+အခမဲ့ Iwad (မြေပုံစု)ဖြစ်ပါသည်။
 
 sudo apt-get install prboom freedoom timidity timidity-interfaces-extra
 
-ဤဂိမ္းအတြက္ ေထာင္ေပါင္းမ်ားစြာေသာ ေျမပံု (Wads)
-(http://www.doomword.com/10years/bestwads/) ရွိပါသည္။သင့္ home directory သည္ သင့္
-ေျမပံု (wads) မ်ား သိမ္းဆည္းရန္ အလြယ္ကူဆံုးေနရာျဖစ္ပါသည္။
+ဤဂိမ်းအတွက် ထောင်ပေါင်းများစွာသော မြေပုံ (Wads)
+(http://www.doomword.com/10years/bestwads/) ရှိပါသည်။သင့် home directory သည် သင့်
+မြေပုံ (wads) များ သိမ်းဆည်းရန် အလွယ်ကူဆုံးနေရာဖြစ်ပါသည်။
 
 mkdir /home/user/wads
 
-သို႕မဟုတ္ အေျပာင္းအလဲအေနျဖင့္ /user/share/games/doom folder, ကိုအသံုးျပဳ၍ folder
-အားမည္သူမဆို အသံုးျပဳႏိုင္ေႀကာင္း ေျပာင္းလဲသတ္မွတ္ေပးႏိုင္ပါသည္။
+သို့မဟုတ် အပြောင်းအလဲအနေဖြင့် /user/share/games/doom folder, ကိုအသုံးပြု၍ folder
+အားမည်သူမဆို အသုံးပြုနိုင်ကြောင်း ပြောင်းလဲသတ်မှတ်ပေးနိုင်ပါသည်။
 
 chmod -R 777/usr/share/games/doom
 
-သင့္မူလဂိမ္းထဲမွ doom2.wad,tnt.wad,ႏွင့္ plutonia.wad တို႕အား ဤ folder ထဲတြင္ထည့္ပါ။
-အကယ္ဤသင့္တြင္မရွိပါက usr/share/games/freedoom version မွ doom2.wad ကို ဤ 
-folder သို႕ copy လုပ္ႏိုင္ပါသည္။သင္ internet မွ Download လုပ္ထားေသာ .wad ဖိုင္အသစ္မ်ားကိုလည္း ဤ
-folder ထဲတြင္ပင္ ထည့္သြင္းပါ။ ၿပီးေနာက္ ဂိမ္းအား မူလ ေျမပံုျဖင့္ျဖစ္ေစ၊သင့္ .wad ေျမပံုသစ္ျဖင့္ျဖစ္ေစ
-ကစားႏိုင္ပါသည္။
+သင့်မူလဂိမ်းထဲမှ doom2.wad,tnt.wad,နှင့် plutonia.wad တို့အား ဤ folder ထဲတွင်ထည့်ပါ။
+အကယ်ဤသင့်တွင်မရှိပါက usr/share/games/freedoom version မှ doom2.wad ကို ဤ 
+folder သို့ copy လုပ်နိုင်ပါသည်။သင် internet မှ Download လုပ်ထားသော .wad ဖိုင်အသစ်များကိုလည်း ဤ
+folder ထဲတွင်ပင် ထည့်သွင်းပါ။ ပြီးနောက် ဂိမ်းအား မူလ မြေပုံဖြင့်ဖြစ်စေ၊သင့် .wad မြေပုံသစ်ဖြင့်ဖြစ်စေ
+ကစားနိုင်ပါသည်။
 
 prboom -iwad /home/user/wads/doom2.wad-file /home/user/wads/new_wad.wad
 
-မွတ္ခ်က္။ doom2,wad,tnt.wad, သို႕မဟုတ္ plutonia.wad တို႕ကိုသာလွ်င္ iwad အျဖစ္အသံုးျပဳ၍ ရပါသည္။
-သင့္အေနျဖင့္ wad အသစ္ထည့္သြင္းအသံုးျပဳလိုပါက အထက္ပါ၃ခုမွ တစ္ခုရွိရပါမည္။ျပႆနာရွိလာပါက
-doom2.wad ကိုသံုးပါ။
+မှတ်ချက်။ doom2,wad,tnt.wad, သို့မဟုတ် plutonia.wad တို့ကိုသာလျှင် iwad အဖြစ်အသုံးပြု၍ ရပါသည်။
+သင့်အနေဖြင့် wad အသစ်ထည့်သွင်းအသုံးပြုလိုပါက အထက်ပါ၃ခုမှ တစ်ခုရှိရပါမည်။ပြဿနာရှိလာပါက
+doom2.wad ကိုသုံးပါ။
 
-မွတ္ခ်က္။ဤဂိမ္းအား Menu -Applications - Ubuntu Software Center -Games ရွိ Freedom မွ
-install လုပ္ယူႏိုင္ပါသည္။ သို႕ေသာ္ timidity ႏွင့္ timidity-interfaces-extra ကို install 
-ျပဳလုပ္ရန္လိုအပ္ပါသည္။
+မှတ်ချက်။ဤဂိမ်းအား Menu -Applications - Ubuntu Software Center -Games ရှိ Freedom မှ
+install လုပ်ယူနိုင်ပါသည်။ သို့သော် timidity နှင့် timidity-interfaces-extra ကို install 
+ပြုလုပ်ရန်လိုအပ်ပါသည်။
 
 MMORPG
 
 Spring
 
-The Spring Project  (http://spring,clan-sy.com) သည္ Star Wars Imperial Winter
-(http://www.imperialwinter.com/) ႏွင့္ Complete Annihilation (http://spring.clan-
-sy.com/wiki/Complete_Annihilation#Introduction) တို႕ကဲ့သို႕ အခမဲ့ multiplayer ဂိမ္းမ်ားအား
-ေရးဆြဲျခင္း၊ကစားျခင္းတို႕အတြက္ scripting engine platform ျဖစ္သည္။Install ျပဳလုပ္ရန္
+The Spring Project  (http://spring,clan-sy.com) သည် Star Wars Imperial Winter
+(http://www.imperialwinter.com/) နှင့် Complete Annihilation (http://spring.clan-
+sy.com/wiki/Complete_Annihilation#Introduction) တို့ကဲ့သို့ အခမဲ့ multiplayer ဂိမ်းများအား
+ရေးဆွဲခြင်း၊ကစားခြင်းတို့အတွက် scripting engine platform ဖြစ်သည်။Install ပြုလုပ်ရန်
 
 sudo apt-get install spring
 
 Regnum Online
 
-Regnum Online MMPORG (http://www.regnumonline.com.ar/index.php?sec=61=1) အတြက္
-အကူအညီလိုအပ္ပါက အေျခခံ installation (http://ubuntuforums.org/showthread.php?t=615246)
-ဲျပဳလုပ္နည္းႏွင့္ help forum (http://www.regnumonline.com.ar/forum/forumdisplay.php?f=15)
-တြင္ႀကည့္ပါ။
+Regnum Online MMPORG (http://www.regnumonline.com.ar/index.php?sec=61=1) အတွက်
+အကူအညီလိုအပ်ပါက အခြေခံ installation (http://ubuntuforums.org/showthread.php?t=615246)
+ဲပြုလုပ်နည်းနှင့် help forum (http://www.regnumonline.com.ar/forum/forumdisplay.php?f=15)
+တွင်ကြည့်ပါ။
 
 PlaneShift 
 
-PlaneShift (http://www.planeshift.it/) သည္ စိတ္ကူးယဥ္မႈေတြ ျပည့္သိပ္ႏွစ္ၿမဳပ္ေနသည့္ online fantasy
-ဂိမ္းတစ္ခုျဖစ္သည္။Client ႏွင့္ patches မ်ားအား ဒီေနရာတြင္ download
-(http://www.planeshift.it/download.html) လုပ္ႏိုင္ပါသည္။
+PlaneShift (http://www.planeshift.it/) သည် စိတ်ကူးယဉ်မှုတွေ ပြည့်သိပ်နှစ်မြုပ်နေသည့် online fantasy
+ဂိမ်းတစ်ခုဖြစ်သည်။Client နှင့် patches များအား ဒီနေရာတွင် download
+(http://www.planeshift.it/download.html) လုပ်နိုင်ပါသည်။
 
-Download လုပ္ထားေသာ Binary Installation ဖိုင္အား executable ျဖစ္ေအာင္ျပဳလုပ္ပါ။
+Download လုပ်ထားသော Binary Installation ဖိုင်အား executable ဖြစ်အောင်ပြုလုပ်ပါ။
 
 cd /directory_where_downloaded
 chmod +x PlaneShift-v0.5.4-x64.bin
 
-root အေနျဖင့္ executable လုပ္ထားေသာဖိုင္အား run ပါ။
+root အနေဖြင့် executable လုပ်ထားသောဖိုင်အား run ပါ။
 
 sudo  ./PlaneShift-v0.5.4-x64.bin
 
-Install လုပ္ရမည့္လမ္းညႊန္ခ်က္မ်ားအား လိုက္နာပါ။Whether to manually set permissions
-ဟုေမးလာပါက no ဟုေျဖေပးပါ။
-Install ျပဳလုပ္ေနစဥ္တြင္ အသံုးျပဳသူေတာ္ေတာ္မ်ားမ်ားသည္ ဂိမ္းအား User အားလံုးအသံုးျပဳႏိုင္ရန္ /opt
-တြင္ install လုပ္ျခင္းထက္ user တစ္ဦးတည္း အသံုးျပဳႏိုင္မည့္ /home directory တြင္  install 
-ျပဳလုပ္ျခင္းကို ပိုအေလးေပးႀကသည္။ /opt တြင္install လုပ္ျခင္းသည္ အလုပ္ပိုျခင္းေႀကာင့္ျဖစ္သည္။
-သင့္ user account အား Games Group တြင္ထည့္သြင္းပါ။
+Install လုပ်ရမည့်လမ်းညွှန်ချက်များအား လိုက်နာပါ။Whether to manually set permissions
+ဟုမေးလာပါက no ဟုဖြေပေးပါ။
+Install ပြုလုပ်နေစဉ်တွင် အသုံးပြုသူတော်တော်များများသည် ဂိမ်းအား User အားလုံးအသုံးပြုနိုင်ရန် /opt
+တွင် install လုပ်ခြင်းထက် user တစ်ဦးတည်း အသုံးပြုနိုင်မည့် /home directory တွင်  install 
+ပြုလုပ်ခြင်းကို ပိုအလေးပေးကြသည်။ /opt တွင်install လုပ်ခြင်းသည် အလုပ်ပိုခြင်းကြောင့်ဖြစ်သည်။
+သင့် user account အား Games Group တွင်ထည့်သွင်းပါ။
 
 Menu - System - Administration - Users and Groups - user- Manager Groups -games-
-Properties - Group Members -user (အမွန္ျခစ္ပါ)-OK
+Properties - Group Members -user (အမှန်ခြစ်ပါ)-OK
 
 Download the updater patch psupdaterlinux64.zip and unzip it to your download directory.
 Run the updater as root:
@@ -1025,34 +1025,34 @@ chmod +x psupdater
 chmod +x psupdater.bin
 sudo ./psupdater---
 
-PlaneShift Registration (http://www.planeshift.it/register.html)တြင္ စာရင္းသြင္း၍ အခမဲ့
-အေကာင့္တစ္ခုလုပ္ပါ။
-အကယ္၍ သင္သည္ game ကို menu တြင္ထည့္သြင္းထားပါက
+PlaneShift Registration (http://www.planeshift.it/register.html)တွင် စာရင်းသွင်း၍ အခမဲ့
+အကောင့်တစ်ခုလုပ်ပါ။
+အကယ်၍ သင်သည် game ကို menu တွင်ထည့်သွင်းထားပါက
 
 Menu - Applications - Lost Found - Client and Setup
-တြင္ရွိပါလိမ့္မည္။
+တွင်ရှိပါလိမ့်မည်။
 
-Menu မွ run ခ်င္ပါက Run in terminal ကို အမွန္ျခစ္လုပ္ေပးရပါမည္။ Command-line Terminal မွ run
-ခ်င္ပါက
+Menu မှ run ချင်ပါက Run in terminal ကို အမှန်ခြစ်လုပ်ပေးရပါမည်။ Command-line Terminal မှ run
+ချင်ပါက
 
 sudo /opt/PlaneShift/pssetup
 sudo /opt/PlaneShift/psclient
 
-မွတ္ခ်က္။DSL connection ျဖင့္ 32-bit ဗားရွင္း အသံုးျပဳပါက ေလးပါသည္။
+မှတ်ချက်။DSL connection ဖြင့် 32-bit ဗားရှင်း အသုံးပြုပါက လေးပါသည်။
 
 Internet Applications
 
-သင့္ရဲ႕ Internet connection အား Internet applications မ်ားျဖင့္ အျပည့္အ၀အသံုးျပဳႏိုင္သည္။Web
-browsers,Email clients, Instant Messengers, ႏွင့္ အမ်ိဳးအစားအမ်ားပါ၀င္သည္။
+သင့်ရဲ့ Internet connection အား Internet applications များဖြင့် အပြည့်အဝအသုံးပြုနိုင်သည်။Web
+browsers,Email clients, Instant Messengers, နှင့် အမျိုးအစားအများပါဝင်သည်။
 
 Web Browsers
 
 Mozilla Firefox 
 
-Mozilla Firefox (http://www.mozilla.com/en-US/) သည္ေနရာအမ်ားတြင္ ေတြ႕ရသည့္ web browser
-ျဖစ္သည္။ open source components တြင္ အေျခခံထားေသာ္လည္း သင္၏ အမည္ သို႕မဟုတ္ ကုန္အမွတ္တံဆိပ္
-ပါ၀င္ထားၿပီး တခုခုေျပာင္းလဲထားျခင္းျဖင့္ ထပ္မံ ျဖန္႕ျဖဴးႏိုင္မည္မဟုတ္ပါ။ လက္ရွိသံုးေနေသာ version
-အားတင္ရန္ :
+Mozilla Firefox (http://www.mozilla.com/en-US/) သည်နေရာအများတွင် တွေ့ရသည့် web browser
+ဖြစ်သည်။ open source components တွင် အခြေခံထားသော်လည်း သင်၏ အမည် သို့မဟုတ် ကုန်အမှတ်တံဆိပ်
+ပါဝင်ထားပြီး တခုခုပြောင်းလဲထားခြင်းဖြင့် ထပ်မံ ဖြန့်ဖြူးနိုင်မည်မဟုတ်ပါ။ လက်ရှိသုံးနေသော version
+အားတင်ရန် :
 
 sudo apt-get install firefox
 
@@ -1060,35 +1060,35 @@ Firefox Plug-ins
 
 Adblock Plus plug-in (block ads in a web page)
 
-Adblock Plus (http://adblockplus.org/en/)ျဖင့္ web pages မ်ားတြင္ Blocks ads လုပ္ႏိုင္သည္။
-သင့္အေနနဲ႕ subscribe လုပ္ျခင္းျဖင့္ အခမဲ႕ Filter Service ႏွင့္ ေႀကာ္ၿငာမ်ားကို တစ္ခ်က္တည္းႏွင့္ပိတ္ရန္
-အတြက္ထပ္ေပါင္းႏိုင္ပါသည္။
+Adblock Plus (http://adblockplus.org/en/)ဖြင့် web pages များတွင် Blocks ads လုပ်နိုင်သည်။
+သင့်အနေနဲ့ subscribe လုပ်ခြင်းဖြင့် အခမဲ့ Filter Service နှင့် ကြော်ငြာများကို တစ်ချက်တည်းနှင့်ပိတ်ရန်
+အတွက်ထပ်ပေါင်းနိုင်ပါသည်။
 
 sudo apt-get install xul-ext-adblock-plus
 
-သင့္အေနနဲ႕ ၄င္း extension အား add ရန္ Firefox Tools - Add -on -Get Add -ons -Search All
-Add-ons-AdBlock Plus. (ထိုကဲ့သို႕ လုပ္ေဆာင္လွ်င္ firefox အေနျဖင့္ automatic updates
-လုပ္ေဆာင္ေပးလိမ့္မည္။)
+သင့်အနေနဲ့ ၎င်း extension အား add ရန် Firefox Tools - Add -on -Get Add -ons -Search All
+Add-ons-AdBlock Plus. (ထိုကဲ့သို့ လုပ်ဆောင်လျှင် firefox အနေဖြင့် automatic updates
+လုပ်ဆောင်ပေးလိမ့်မည်။)
 
-Noscript (http://noscript.net/) သည္ Internet ေပၚတြင္ browsing လုပ္ရာတြင္ Sercuriy တိုင္းတာခ်က္အရ
-အေရးႀကီးပါ၀င္မႈ တစ္ခုျဖစ္သည္။Scripts မ်ားျဖင့္ Internet မွတဆင့္ Viruses မ်ားႏွင့္ Trojans တို႕သည္
-computers သို႕ေရာက္ရွိသည္။၄င္း plugin ျဖင့္ မည္သည့္ scripts အား Allow ႏွင့္ blocks the rest လုပ္မည္ကို
-ေရြးခ်ယ္ႏိုင္သည္။
+Noscript (http://noscript.net/) သည် Internet ပေါ်တွင် browsing လုပ်ရာတွင် Sercuriy တိုင်းတာချက်အရ
+အရေးကြီးပါဝင်မှု တစ်ခုဖြစ်သည်။Scripts များဖြင့် Internet မှတဆင့် Viruses များနှင့် Trojans တို့သည်
+computers သို့ရောက်ရှိသည်။၎င်း plugin ဖြင့် မည်သည့် scripts အား Allow နှင့် blocks the rest လုပ်မည်ကို
+ရွေးချယ်နိုင်သည်။
 
-၄င္း extension အား add ရန္ Firefox - Tools - Add -ons -Get Add-ons -Search All Add -ons-
-Noscript. (ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates လုပ္ေဆာင္ေပးလိမ့္မည္။)
+၎င်း extension အား add ရန် Firefox - Tools - Add -ons -Get Add-ons -Search All Add -ons-
+Noscript. (ထိုကဲ့သို့လုပ်ဆောင်လျင် firefox အနေဖြင့် automatic updates လုပ်ဆောင်ပေးလိမ့်မည်။)
 
 RefreshBlocker plug-in (prevents redirects)
 
-RefreshBlocker (https://addons.mozilla.org/en-US/firefox/addon/refreshblocker/) သည္ မည္သည့္
-website(and pages)အား redirect(based on  META tags within the webpage)ျပဳလုပ္ရန္အတြက္ user
-မ်ားအား ဆံုးျဖတ္ေပးသည္။သို႕ေပေသာ္လည္း Firefox (as of version 3.5) တြင္ အားလံုး directs လုပ္ျခင္းကို
-blocks လုပ္သည္မွာ default ျဖစ္သည္။ စိတ္ႀကိဳက္မဟုတ္သည့္အတြက္ေႀကာင့္ firefox redirect control အား 
-turnoff လုပ္ၿပီး ၄င္းအစား RefreshBlocker သံုးသည္။
+RefreshBlocker (https://addons.mozilla.org/en-US/firefox/addon/refreshblocker/) သည် မည်သည့်
+website(and pages)အား redirect(based on  META tags within the webpage)ပြုလုပ်ရန်အတွက် user
+များအား ဆုံးဖြတ်ပေးသည်။သို့ပေသော်လည်း Firefox (as of version 3.5) တွင် အားလုံး directs လုပ်ခြင်းကို
+blocks လုပ်သည်မှာ default ဖြစ်သည်။ စိတ်ကြိုက်မဟုတ်သည့်အတွက်ကြောင့် firefox redirect control အား 
+turnoff လုပ်ပြီး ၎င်းအစား RefreshBlocker သုံးသည်။
 
-သင့္အေနနဲ႕ ၄င္း extension အား add ရန္ Firefox -Tool -Add-ons-Get Add-ons -Search All
-Add-ons-RefreshBlocker.(ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates
-လုပ္ေဆာင္ေပးလိမ့္မည္။
+သင့်အနေနဲ့ ၎င်း extension အား add ရန် Firefox -Tool -Add-ons-Get Add-ons -Search All
+Add-ons-RefreshBlocker.(ထိုကဲ့သို့လုပ်ဆောင်လျင် firefox အနေဖြင့် automatic updates
+လုပ်ဆောင်ပေးလိမ့်မည်။
 
 Turn off the Firefox  automatic redirect bloker  
 
@@ -1097,200 +1097,200 @@ accessibility:blockautorefresh - Toggle to change the value from true to false
 
 User Agent Switcher plug-in for Firefox
 
-User Agent Switcher (http://chrispederick.com/work/user-agent-switcher/) သည္ အျခားေသာ
-browser  ကဲ့သို႕ အေယာင္ေဆာင္ျခင္းကို ျပဳလုပ္သည္ခြင့္ျပဳျခင္း (အခ်ိန္လြန္) broser-specific
-ပါရွိေသာအေႀကာင္းအရာမ်ားကို displayed ျပဳလုပ္ရန္။
+User Agent Switcher (http://chrispederick.com/work/user-agent-switcher/) သည် အခြားသော
+browser  ကဲ့သို့ အယောင်ဆောင်ခြင်းကို ပြုလုပ်သည်ခွင့်ပြုခြင်း (အချိန်လွန်) broser-specific
+ပါရှိသောအကြောင်းအရာများကို displayed ပြုလုပ်ရန်။
 
-သင့္အေနနဲက ၄င္း extension အား add ရန္ Firefox -Tool -Add-ons-GetAdd-ons- Search All
-Auto-ons-User Agent Switcher. (ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox  အေနျဖင့္ automatic updates
-လုပ္ေဆာင္ေပးလိမ့္မည္။
+သင့်အနေနဲက ၎င်း extension အား add ရန် Firefox -Tool -Add-ons-GetAdd-ons- Search All
+Auto-ons-User Agent Switcher. (ထိုကဲ့သို့လုပ်ဆောင်လျင် firefox  အနေဖြင့် automatic updates
+လုပ်ဆောင်ပေးလိမ့်မည်။
 
 Video DownloadHelper plug-in for Firefox
 
-Video DownloadHelper (http://addons.mozilla.org/en-US/firefox/addon3006)သည္ youtube
-ကဲ့သို႕ေသာ site မ်ားမွ videos (Flash Videos အပါအ၀င္) ကို download ရယူရန္ျဖစ္သည္။
+Video DownloadHelper (http://addons.mozilla.org/en-US/firefox/addon3006)သည် youtube
+ကဲ့သို့သော site များမှ videos (Flash Videos အပါအဝင်) ကို download ရယူရန်ဖြစ်သည်။
 
-သင့္အေနနဲ႕ ၄င္းextension အား add ရန္ Fierfox -Tools -Add -ons- Get Add -ons-Search All
-Add-ons-Video DownloadHelper. (ထိုကဲ့သို႕ လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic 
-updates လုပ္ေဆာင္ေပးလိမ့္မည္။) 
+သင့်အနေနဲ့ ၎င်းextension အား add ရန် Fierfox -Tools -Add -ons- Get Add -ons-Search All
+Add-ons-Video DownloadHelper. (ထိုကဲ့သို့ လုပ်ဆောင်လျင် firefox အနေဖြင့် automatic 
+updates လုပ်ဆောင်ပေးလိမ့်မည်။) 
 
 Unplug Download Management
 
-UnPlug (https://addons.mozilla.org/en.US/firefox/addon/2254)add-on သည္ webpag ေပၚတြင္
-embedded လုပ္ထားေသာ video ႏွင့္ Audio မ်ားကို Save လုပ္ယူႏိုင္သည္။
+UnPlug (https://addons.mozilla.org/en.US/firefox/addon/2254)add-on သည် webpag ပေါ်တွင်
+embedded လုပ်ထားသော video နှင့် Audio များကို Save လုပ်ယူနိုင်သည်။
 
-သင့္အေနျဖင့္ ၄င္း extension အား add ရန္ Firefox -Tool- Add-ons-Get Add-ons-Browse
-All Add-ons.(ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates
-လုပ္ေဆာင္ေပးလိမ့္မည္။)
+သင့်အနေဖြင့် ၎င်း extension အား add ရန် Firefox -Tool- Add-ons-Get Add-ons-Browse
+All Add-ons.(ထိုကဲ့သို့လုပ်ဆောင်လျင် firefox အနေဖြင့် automatic updates
+လုပ်ဆောင်ပေးလိမ့်မည်။)
 
 Lucifox (eBook reader  extension)
 
-Lucifox (https://addons.mozilla.org/en-US/firefox/addon/lucifox/) (Lucidor for Firefox) သည္ညe-
-book မ်ားကို ဖတ္ရန္ႏွင့္ Firefox window မွေန catalogs မ်ားကို browsed လုပ္ေပးႏိုင္ရန္ျဖစ္သည္။
+Lucifox (https://addons.mozilla.org/en-US/firefox/addon/lucifox/) (Lucidor for Firefox) သည်ညe-
+book များကို ဖတ်ရန်နှင့် Firefox window မှနေ catalogs များကို browsed လုပ်ပေးနိုင်ရန်ဖြစ်သည်။
 
-Install ျပဳလုပ္ရန္ယ website သို႕သြားၿပီး ေနာက္ Dwownload Now ေနရာတြင္ရယူႏိုင္သည္။
+Install ပြုလုပ်ရန်ယ website သို့သွားပြီး နောက် Dwownload Now နေရာတွင်ရယူနိုင်သည်။
 
 Java Runtime Environment (JRE) for Firefox plug-in
 
-ယခု package သည္ Java Runtime Enviroment install ႏွင့္တူညီသည္။(OpenOffice Installed ေသာအခါ
-or ubuntu-restricted -extras installed ေသာအခါ JRE  ပါ၀င္သည္။)
+ယခု package သည် Java Runtime Enviroment install နှင့်တူညီသည်။(OpenOffice Installed သောအခါ
+or ubuntu-restricted -extras installed သောအခါ JRE  ပါဝင်သည်။)
 
 sudo apt-get install sun-java6-jre sun-java6-plugin
 
-မွတ္ခ်က္ : သင့္အေနျဖင့္ product ကိုအသံုးျပဳရန္ product license အား မလြဲမေသြ လက္ခံရမည္။
+မှတ်ချက် : သင့်အနေဖြင့် product ကိုအသုံးပြုရန် product license အား မလွဲမသွေ လက်ခံရမည်။
 
 Adobe Acrobat Reader for Firefox Plug-in
 
-၄င္း pluging သည္ Adobe Acrobat(pdf) files မ်ားကို firefox browser တြင္ ႀကည့္ရန္ျဖစ္သည္။
+၎င်း pluging သည် Adobe Acrobat(pdf) files များကို firefox browser တွင် ကြည့်ရန်ဖြစ်သည်။
 
 Read Add Extra Kubuntu Repositories and enable the Natty partner repository :
 
 deb nowikihttp://archive.canonical.com/ubuntu natty partner/nowiki
 
-ၿပီးပါက Adobe Reader ထည့္သြင္းရန္ :
+ပြီးပါက Adobe Reader ထည့်သွင်းရန် :
 
 sudo apt-get install acroread
 
-သို႕မဟုတ္ပါက ၄င္း plugin အား the Medibuntu repository list တြင္လည္း ရရွိႏိုင္သည္။
-Medibuntu repository အား သင့္ရဲ႕ repository list တြင္ထည့္ရန္ :
+သို့မဟုတ်ပါက ၎င်း plugin အား the Medibuntu repository list တွင်လည်း ရရှိနိုင်သည်။
+Medibuntu repository အား သင့်ရဲ့ repository list တွင်ထည့်ရန် :
 
 deb nowikihttp://packages.medibuntu.org//nowiki natty free non-free
 
-ၿပီးပါက Adober Reader ထည့္သြင္းရန္ :
+ပြီးပါက Adober Reader ထည့်သွင်းရန် :
 
 sudo apt-get install acroread mozilla-acroread acroread-plugins acroread-fonts
 
 Adobe Flash Player for Firefox Plug-in
 
-Firefox အတြက္ offical Adobe Flash Plugin 10 အား တင္ရန္ :
+Firefox အတွက် offical Adobe Flash Plugin 10 အား တင်ရန် :
 
 sudo apt-get install adobe-flashplugin
 
 Gnash Plug-in (Open source Flash Player replacement)
 
-Gnash(http://www.gnashdev.org/) သည္ 32-bit version ကဲ့သို႕ 64-version အတြက္လည္း
-ရယူႏိုင္သည္။၄င္းသည္ Adobe Flashplayer အတြက္ source အား ေျပာင္းလဲႏိုင္သည္။
+Gnash(http://www.gnashdev.org/) သည် 32-bit version ကဲ့သို့ 64-version အတွက်လည်း
+ရယူနိုင်သည်။၎င်းသည် Adobe Flashplayer အတွက် source အား ပြောင်းလဲနိုင်သည်။
 
 sudo apt-get install gnash
 
-installing ၿပီးေနာက္, သင့္ web browser ရဲ႕ Preference - Application ထဲရွိ SWF and SPL files မွားကို
-Gnash ျဖင့္သံုးမည္ဟု ေႀကၿငာရမည္။
+installing ပြီးနောက်, သင့် web browser ရဲ့ Preference - Application ထဲရှိ SWF and SPL files မှားကို
+Gnash ဖြင့်သုံးမည်ဟု ကြေငြာရမည်။
 
 VLC plug-in for Firefox
 
-၄င္း package သည္ ယခုလက္ရွိ အသံုးမ်ားေသာ VIC player အား Firefox browser ရွိ play media 
-တြင္ အသံုးျပဳသည္။
+၎င်း package သည် ယခုလက်ရှိ အသုံးများသော VIC player အား Firefox browser ရှိ play media 
+တွင် အသုံးပြုသည်။
 
 sudo apt-get install mozilla-plugin-vlc
 
 Gecko MediaPlayer Plug-in for Firefox
 
-Gecko MediaPlayer (http://kdekorte.googlepages.com/gecko-mediaplayer) သည္ Gecko-based
-broswers (Firefox,SeaMonkey,IceApe,Opera) မ်ားတြင္ Mplayer မွ multimedia သို႕ သံုးျပဳသည္။
+Gecko MediaPlayer (http://kdekorte.googlepages.com/gecko-mediaplayer) သည် Gecko-based
+broswers (Firefox,SeaMonkey,IceApe,Opera) များတွင် Mplayer မှ multimedia သို့ သုံးပြုသည်။
 
 sudo apt-get install gecko-mediaplayer
 
-ေနာက္တစ္ခုအေနျဖင့္ Firefox အတြက္ mplayer အားသံုးျပဳႏိုင္သည္။
+နောက်တစ်ခုအနေဖြင့် Firefox အတွက် mplayer အားသုံးပြုနိုင်သည်။
 
 sudo apt-get install mozilla-mplayer
 
 Kaffeine Plug-in for Firefox
 
-၄င္း package ျဖစ္သည့္ the Kaffeine media player (often used in KDE-based desktops) သည္ Firefox 
-browser တြင္ multimedia အျဖစ္လုပ္ေဆာင္သည ္။
+၎င်း package ဖြစ်သည့် the Kaffeine media player (often used in KDE-based desktops) သည် Firefox 
+browser တွင် multimedia အဖြစ်လုပ်ဆောင်သည ်။
 
 sudo apt-get install kaffeine-mozilla
 
 Helix player plug-in for Firefox
 
-၄င္း package ျဖစ္သည့္ Helix player (https://helixcommunity.org/) (the open source player that
-plays Real Player content in Linux) သည္ Firefox browser တြင္ RealMedia အျဖစ္လုပ္ေဆာင္သည္။
+၎င်း package ဖြစ်သည့် Helix player (https://helixcommunity.org/) (the open source player that
+plays Real Player content in Linux) သည် Firefox browser တွင် RealMedia အဖြစ်လုပ်ဆောင်သည်။
 
 sudo apt-get install mozilla-helix-player
 
 Moonlight plugin for Firefox
 
- Moonlight (http://www.go-mono.com/moonlight) သည္ Silverlight (the Microsoft multimedia
-presentation platform) အား open source အျဖစ္လုပ္ေဆာင္ရန္ ႀကိဳးစားေနေသာ the Novell Mono ၏
-project ျဖစ္သည္။၄င္းသည္ FFMpeg အမ်ိဳးအစားျဖစ္သည္။ Firefox 3 web browser တြင္
-ေကာင္းေကာင္းသံုးႏိုင္ရန္ျပဳလုပ္ထားၿပီး, plugin ကဲ့သို႕(အျခားေသာ mozilla browsers
-ေကာင္းေကာင္းသံုးႏိုင္ရန္ျပဳလုပ္ထားၿပီး, plugin ကဲ့သို႕(အျခားေသာ mozilla browsers
-မ်ားတြင္လည္းလုပ္ႏိုင္သည္။)mozilla-based browsers ျဖစ္ေသာ Version 2.3 တြင္လည္း plugin အျဖစ္
-လုပ္ေဆာင္ႏိုင္သည္။
+ Moonlight (http://www.go-mono.com/moonlight) သည် Silverlight (the Microsoft multimedia
+presentation platform) အား open source အဖြစ်လုပ်ဆောင်ရန် ကြိုးစားနေသော the Novell Mono ၏
+project ဖြစ်သည်။၎င်းသည် FFMpeg အမျိုးအစားဖြစ်သည်။ Firefox 3 web browser တွင်
+ကောင်းကောင်းသုံးနိုင်ရန်ပြုလုပ်ထားပြီး, plugin ကဲ့သို့(အခြားသော mozilla browsers
+ကောင်းကောင်းသုံးနိုင်ရန်ပြုလုပ်ထားပြီး, plugin ကဲ့သို့(အခြားသော mozilla browsers
+များတွင်လည်းလုပ်နိုင်သည်။)mozilla-based browsers ဖြစ်သော Version 2.3 တွင်လည်း plugin အဖြစ်
+လုပ်ဆောင်နိုင်သည်။
 
 sudo apt-get install moonlight-plugin-mozilla
 
-stable version 2.4 အား ဒီေနရာတြင္ (http://www.go=mono.com/moonlight/stable.aspx)
-ရႏိုင္သည္။ The Moonlight 3.99 plugin (compatible with most Silverlight 3/4 content) အား
-ဒီေနရာတြင္ (http://www.go--mono.com/moonlight/prerelease.aspx) ရႏိုင္သည္။
+stable version 2.4 အား ဒီနေရာတွင် (http://www.go=mono.com/moonlight/stable.aspx)
+ရနိုင်သည်။ The Moonlight 3.99 plugin (compatible with most Silverlight 3/4 content) အား
+ဒီနေရာတွင် (http://www.go--mono.com/moonlight/prerelease.aspx) ရနိုင်သည်။
 
 Netflix under Moonlight
 
-Netflix streaming အတြက္လိုအပ္ခ်က္ႏွစ္ခုမွာ the capabilities of Silverlight 2.0 ႏွင့္ Digital Rights
-Management modules ျဖစ္သည္။သို႕ေပေသာ္လည္း လက္ရွိအမ်ိဳးအစားျဖစ္ေသာ Moonlight 2.0 တြင္လည္း
-Silverlight content (including Netflix content) သံုးႏိုင္သည္ ,linux အတြက္ Digital Rights 
-Management modules အား Netfilix မွ အဆင္သင့္မျဖစ္ေသးပါ။ေက်းဇူးျပဳၿပီး Netflix
-(http://www.netflix.com/ContactUs) သို႕တိုက္ရိုက္ဆက္သြယ္ၿပီး သတင္းရယူႏိုင္ပါသည္။သို႕မဟုတ္
-ဤေနရာတြင္ မွတ္ပံုတင္ၿပီး (http://www.petitiononline.com/Linflix) ေတာင္းဆိုႏိုင္ပါသည္။
+Netflix streaming အတွက်လိုအပ်ချက်နှစ်ခုမှာ the capabilities of Silverlight 2.0 နှင့် Digital Rights
+Management modules ဖြစ်သည်။သို့ပေသော်လည်း လက်ရှိအမျိုးအစားဖြစ်သော Moonlight 2.0 တွင်လည်း
+Silverlight content (including Netflix content) သုံးနိုင်သည် ,linux အတွက် Digital Rights 
+Management modules အား Netfilix မှ အဆင်သင့်မဖြစ်သေးပါ။ကျေးဇူးပြုပြီး Netflix
+(http://www.netflix.com/ContactUs) သို့တိုက်ရိုက်ဆက်သွယ်ပြီး သတင်းရယူနိုင်ပါသည်။သို့မဟုတ်
+ဤနေရာတွင် မှတ်ပုံတင်ပြီး (http://www.petitiononline.com/Linflix) တောင်းဆိုနိုင်ပါသည်။
 
-(Chrome browser အတြက္Google မွျပဳလုပ္ေနေသာ)An HTML5 Netflix plugin မႀကာမီ
-သံုးစြဲႏိုင္ေတာ့မည္။အျခားေသာ နည္းလမ္းတစ္ခုအေနနဲ႕ Netflix Android app အား virtual
-Android environment တြင္လည္း သံုးစြဲႏိုင္ေတာ့မည္ျဖစ္သည္။
+(Chrome browser အတွက်Google မှပြုလုပ်နေသော)An HTML5 Netflix plugin မကြာမီ
+သုံးစွဲနိုင်တော့မည်။အခြားသော နည်းလမ်းတစ်ခုအနေနဲ့ Netflix Android app အား virtual
+Android environment တွင်လည်း သုံးစွဲနိုင်တော့မည်ဖြစ်သည်။
 
 FireFTP for Firefox
 
-FireFTP (http://fireftp.mozdev.org/) သည္ Firefox extension တြင္ FTP transfers အတြက္ျဖစ္သည္။
+FireFTP (http://fireftp.mozdev.org/) သည် Firefox extension တွင် FTP transfers အတွက်ဖြစ်သည်။
 
 Firefox Widgets
 
 Turn off browser bar drop-down list in Firefox
 
-Firefox တြင္ drop-down list ရွိ browser bar အားပိတ္ထားရန္။
+Firefox တွင် drop-down list ရှိ browser bar အားပိတ်ထားရန်။
 
-၎သည္ Firefox တြင္ တစ္ခါတစ္ရံမွသာ ျဖစ္ေပၚတတ္ေသာ ျပႆနာ ျဖစ္သည္။ drop-down list ရွိ location
-browser bar အား ပိတ္ထားရန္ (http://kb.mozillazine.org/Browser.urlbar.maxRichResults)
-(ထိုသို႕ျပဳလုပ္ျခင္းျဖင့္ သင့္ browsing history အားျပသေတာ့မည္မဟုတ္ပါ။)
+၎င်းသည် Firefox တွင် တစ်ခါတစ်ရံမှသာ ဖြစ်ပေါ်တတ်သော ပြဿနာ ဖြစ်သည်။ drop-down list ရှိ location
+browser bar အား ပိတ်ထားရန် (http://kb.mozillazine.org/Browser.urlbar.maxRichResults)
+(ထိုသို့ပြုလုပ်ခြင်းဖြင့် သင့် browsing history အားပြသတော့မည်မဟုတ်ပါ။)
 
 Firefox - about:config (in the location browser bar) - browser.urlbar.maxRichResults-
 right-click-Modify-set value to 0 
 
 IceCat
 
-IceCat (http://en.wikipedia.org/wiki/GNU_IceCat) သည္ Mozilla ၏ ကုန္အမွတ္တံဆိပ္ မူပိုင္ခြင့္၊
-တားျမစ္ခ်က္မ်ားမရွိေသာ Firefox အေျချပဳ Browser တစ္ခုျဖစ္သည္။Debian project မွေထာက္ပံ႕ေပးသည္။
-ယခင္က IceWeasel နာမည္ႏွင့္ျဖစ္ၿပီး၊ယခု IceApe Browser နာမည္သို႕ ေျပာင္းလိုက္သည္။ေနာက္ဆံုး
-version ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+IceCat (http://en.wikipedia.org/wiki/GNU_IceCat) သည် Mozilla ၏ ကုန်အမှတ်တံဆိပ် မူပိုင်ခွင့်၊
+တားမြစ်ချက်များမရှိသော Firefox အခြေပြု Browser တစ်ခုဖြစ်သည်။Debian project မှထောက်ပံ့ပေးသည်။
+ယခင်က IceWeasel နာမည်နှင့်ဖြစ်ပြီး၊ယခု IceApe Browser နာမည်သို့ ပြောင်းလိုက်သည်။နောက်ဆုံး
+version ကို Install လုပ်ဆောင်ရန် Terminal တွင် အောက်ပါအတိုင်းရိုက်ထည့်ပါ။
 
 sudo apt-get install iceape-browser
 
 SeaMonkey
 
-SeaMonkey (http://www.seamonkey-project.org/) သည္ web browser, IM (IRC) client, Email
-client,RSS/News reader ႏွင့္ အျခား web development tools မ်ားပါ၀င္ေသာ အင္တာနက္ application
-တစ္ခုျဖစ္ပါသည္။Mozilla ၏ ထုတ္ကုန္မ်ားကို အေျခခံထားၿပီး၊ Mozilla ၏ မူပိုင္ခြင့္၊ ျဖန္႕ေ၀သံုးစြဲခြင့္မ်ားႏွင့္
-ဆက္စပ္ေနသည္။ Thunderbird ႏွင့္ Firefox ကဲ့သို႕ Seamonkey အတြက္ Plugins အေျမာက္အမ်ားရွိသည္။
-Seamonkey ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+SeaMonkey (http://www.seamonkey-project.org/) သည် web browser, IM (IRC) client, Email
+client,RSS/News reader နှင့် အခြား web development tools များပါဝင်သော အင်တာနက် application
+တစ်ခုဖြစ်ပါသည်။Mozilla ၏ ထုတ်ကုန်များကို အခြေခံထားပြီး၊ Mozilla ၏ မူပိုင်ခွင့်၊ ဖြန့်ဝေသုံးစွဲခွင့်များနှင့်
+ဆက်စပ်နေသည်။ Thunderbird နှင့် Firefox ကဲ့သို့ Seamonkey အတွက် Plugins အမြောက်အများရှိသည်။
+Seamonkey ကို Install လုပ်ဆောင်ရန် Terminal တွင် အောက်ပါအတိုင်းရိုက်ထည့်ပါ။
 
 sudo apt-get install seamonkey
 
 IceApe
 
-IceApe (http://en.wikipedia.org/wiki/Naming_conflict_between_Debian_and_Mozilla) သည္
-web browser, IM (IRC) client, Email client, RSS/News reader ႏွင့္ web development tools
-မ်ားပါ၀င္ေသာ open-source အင္တာနက္ application တစ္ခုျဖစ္သည္။ Seamonkey ကို အေျခခံထားၿပီး၊
-မူပိုင္ခြင့္ ကန္႕သတ္ထားျခင္းမ်ားမရွိေပ။ Debian project မွေထာက္ပံ႕ေပးထားေသာ application ျဖစ္သည္။
-ေနာက္ဆံုး version ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္းရိုက္ထည့္ပါ။
+IceApe (http://en.wikipedia.org/wiki/Naming_conflict_between_Debian_and_Mozilla) သည်
+web browser, IM (IRC) client, Email client, RSS/News reader နှင့် web development tools
+များပါဝင်သော open-source အင်တာနက် application တစ်ခုဖြစ်သည်။ Seamonkey ကို အခြေခံထားပြီး၊
+မူပိုင်ခွင့် ကန့်သတ်ထားခြင်းများမရှိပေ။ Debian project မှထောက်ပံ့ပေးထားသော application ဖြစ်သည်။
+နောက်ဆုံး version ကို Install လုပ်ဆောင်ရန် Terminal တွင် အောက်ပါအတိုင်းရိုက်ထည့်ပါ။
 
 sudo apt-get install iceape
 
 Opera
 
-Opera (http://www.opera.com/) သည္ မူပိုင္ခြင့္ကန္႕သတ္ခ်က္ရွိေသာ proprietary browser, internet
-suite တစ္ခုျဖစ္သည္။ Mobile devices အခ်ိဳ႕ႏွင့္ game consoles မ်ားတြင္လဲ အသံုးျပဳႏိုင္သည္။ Email,
-address book, IRC chat, integrated BitTorrent ႏွင့္ webfeeds မ်ားပါ၀င္သည္။ Plugins
-အနည္းငယ္လဲရွိသည္။ Install လုပ္ေဆာင္ရန္ Opera ၏ website မွ Download
-(http://www.opera.com/browser/download/) လုပ္ၿပီး၊ လမ္းညႊန္ခ်က္မ်ား ဆက္လုပ္ပါ။ သို႕မဟုတ္
-ေအာက္ပါ command မ်ားကို အသံုးျပဳၿပီး Opera repository မွတဆင့္ Install လုပ္ႏိုင္သည္။
+Opera (http://www.opera.com/) သည် မူပိုင်ခွင့်ကန့်သတ်ချက်ရှိသော proprietary browser, internet
+suite တစ်ခုဖြစ်သည်။ Mobile devices အချို့နှင့် game consoles များတွင်လဲ အသုံးပြုနိုင်သည်။ Email,
+address book, IRC chat, integrated BitTorrent နှင့် webfeeds များပါဝင်သည်။ Plugins
+အနည်းငယ်လဲရှိသည်။ Install လုပ်ဆောင်ရန် Opera ၏ website မှ Download
+(http://www.opera.com/browser/download/) လုပ်ပြီး၊ လမ်းညွှန်ချက်များ ဆက်လုပ်ပါ။ သို့မဟုတ်
+အောက်ပါ command များကို အသုံးပြုပြီး Opera repository မှတဆင့် Install လုပ်နိုင်သည်။
 
 echo nowikideb http://deb.opera.com/opera//nowiki stable non-free I sudo tee /etc/apt/sources.list .
 wget -o -nowikihttp://deb.opera.com/archive.key/nowiki I sudo apt-key add - 
@@ -1298,143 +1298,143 @@ sudo apt-get install opera
 
 Chromium
 
-Chromium (http://dev.chromium.org/) သည္ Google Chrome browser ကို အေျခခံထားေသာ open-
-source browser တစ္ခုျဖစ္သည္။ Chromium ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါအတိုင္း
-ရိုက္ထည့္ပါ။
+Chromium (http://dev.chromium.org/) သည် Google Chrome browser ကို အခြေခံထားသော open-
+source browser တစ်ခုဖြစ်သည်။ Chromium ကို Install လုပ်ရန် Terminal တွင် အောက်ပါအတိုင်း
+ရိုက်ထည့်ပါ။
 
 sudo apt-get install chromium-browser
 
-Chromium ကို အသံုးျပဳရန္ ေအာက္ပါအတိုင္းသြားပါ။
+Chromium ကို အသုံးပြုရန် အောက်ပါအတိုင်းသွားပါ။
 
 Menu - Applications - Internet - Chromium Web Browser
 
 Google Chrome
 
-Google Chrome (http://www.google.com/chrome) သည္ Google မွထုတ္ေသာ browser
-တစ္ခုျဖစ္သည္။ Chromium browser ကိုအေျခခံထားၿပီး၊ Google ၏ နာမည္၊ လိုဂိုအမွတ္တံဆိပ္၊
-GoogleUpdate ဟုေခၚသည့္ အလိုအေလ်ာက္ Update စနစ္၊RZL ႏွင့္ အျခား Google add-ons
-မ်ားပါ၀င္သည္။ Google Chrome ကို ဤေနရာမွ (http://www.google.com/chrome/eula.html)
-ေဒါင္းလုတ္လုပ္ၿပီး၊ install လုပ္ပါ။
+Google Chrome (http://www.google.com/chrome) သည် Google မှထုတ်သော browser
+တစ်ခုဖြစ်သည်။ Chromium browser ကိုအခြေခံထားပြီး၊ Google ၏ နာမည်၊ လိုဂိုအမှတ်တံဆိပ်၊
+GoogleUpdate ဟုခေါ်သည့် အလိုအလျောက် Update စနစ်၊RZL နှင့် အခြား Google add-ons
+များပါဝင်သည်။ Google Chrome ကို ဤနေရာမှ (http://www.google.com/chrome/eula.html)
+ဒေါင်းလုတ်လုပ်ပြီး၊ install လုပ်ပါ။
 
 Download Managers
 
-Browsers မ်ားထက္ ေဒါင္းလုတ္လုပ္ငန္းစဥ္ လြယ္ကူၿပီး၊ပိုမိုျမန္ဆန္ေစရန္၊ အမွားနည္းေစရန္ ျပဳလုပ္ထားေသာ
-ေဆာ့လ္၀ဲမ်ားျဖစ္သည္။အခ်ိဳ႕ Download Managers မ်ားတြင္ အင္တာနက္ ကြန္နက္ရွင္မေကာင္းပါက
-ခဏရပ္တန္႕ထားၿပီး၊ ေနာင္ ကြန္နက္ရွင္ျပန္ေကာင္းမွ ဆက္လက္ေဒါင္းလုတ္ႏိုင္ေသာ Resuming Downloads
-Option လဲပါ၀င္သည္။
+Browsers များထက် ဒေါင်းလုတ်လုပ်ငန်းစဉ် လွယ်ကူပြီး၊ပိုမိုမြန်ဆန်စေရန်၊ အမှားနည်းစေရန် ပြုလုပ်ထားသော
+ဆော့လ်ဝဲများဖြစ်သည်။အချို့ Download Managers များတွင် အင်တာနက် ကွန်နက်ရှင်မကောင်းပါက
+ခဏရပ်တန့်ထားပြီး၊ နောင် ကွန်နက်ရှင်ပြန်ကောင်းမှ ဆက်လက်ဒေါင်းလုတ်နိုင်သော Resuming Downloads
+Option လဲပါဝင်သည်။
 
 MultiGet
 
-MultiGet (http://multiget.sourceforge.net/) သည္ ေဒါင္းလုတ္လုပ္ငန္းစဥ္မ်ား လြယ္ကူေစရန္
-အသံုးျပဳႏိုင္သည့္ Download Manager တစ္ခုျဖစ္သည္။ GTK ကို အေျခခံထားၿပီး GUI (Graphical User
-Interface) ႏွင့္ျဖစ္သည္။ HTTP/FTP စနစ္တို႕ကို ေထာက္ပံ႕ၿပီး၊ Resuming Downloads ကိုလဲ
-လုပ္ေဆာင္ႏိုင္သည္။ SOCKS 4,4a,5 proxy, ftp proxy, http proxy တို႕ႏွင့္လဲ အသံုးျပဳႏိုင္သည္။ MultiGet
-ကို Install လုပ္ေဆာင္ရန္ Terminal တြင္ ေအာက္ပါ command ကိုရိုက္ထည့္ပါ။
+MultiGet (http://multiget.sourceforge.net/) သည် ဒေါင်းလုတ်လုပ်ငန်းစဉ်များ လွယ်ကူစေရန်
+အသုံးပြုနိုင်သည့် Download Manager တစ်ခုဖြစ်သည်။ GTK ကို အခြေခံထားပြီး GUI (Graphical User
+Interface) နှင့်ဖြစ်သည်။ HTTP/FTP စနစ်တို့ကို ထောက်ပံ့ပြီး၊ Resuming Downloads ကိုလဲ
+လုပ်ဆောင်နိုင်သည်။ SOCKS 4,4a,5 proxy, ftp proxy, http proxy တို့နှင့်လဲ အသုံးပြုနိုင်သည်။ MultiGet
+ကို Install လုပ်ဆောင်ရန် Terminal တွင် အောက်ပါ command ကိုရိုက်ထည့်ပါ။
 
 sudo apt-get install multiget
 
 Usenet Clients
 
-Usenet Clients ဆိုသည္မွာ ယခင္တုန္းက အသံုးျပဳႀကေသာ အင္တာနက္ေပၚရွိ Discussions Group
-တစ္ခုျဖစ္သည္။ယခုေခတ္ အသံုးမ်ားႀကေသာ ဖိုရမ္မ်ား၏ ေရွ႕ေဆာင္လမ္းျပတစ္ခုျဖစ္သည္။ ဖိုရမ္မ်ားကဲ့သို႕ပင္
-ပို႕စ္မ်ားတင္ျခင္း၊ အျခားသူမ်ားတင္ထားေသာ ပို႕စ္မ်ားကို ဖတ္႐ႈျခင္းမ်ား ျပဳလုပ္ႏိုင္သည္။ေဆြးေႏြးခ်က္မ်ား၊
-ပို႕စ္မ်ားကို သက္ဆိုင္ရာ က႑အသီးသီးအလိုက္ စုစည္းထားၿပီး newsgroupဟုေခၚသည္။
-ေဆြးေႏြးခ်က္မ်ားကိုလည္း Threads မ်ားခြဲထားသည္။ Usenet Discussion Group မွ ေဆြးေႏြးခ်က္မ်ားကို 
-ဖတ္႐ႈရန္ Usenet Clients ဟုေခၚေသာ ေဆာ့လ္၀ဲမ်ားသံုးရန္ လိုအပ္သည္။
+Usenet Clients ဆိုသည်မှာ ယခင်တုန်းက အသုံးပြုကြသော အင်တာနက်ပေါ်ရှိ Discussions Group
+တစ်ခုဖြစ်သည်။ယခုခေတ် အသုံးများကြသော ဖိုရမ်များ၏ ရှေ့ဆောင်လမ်းပြတစ်ခုဖြစ်သည်။ ဖိုရမ်များကဲ့သို့ပင်
+ပို့စ်များတင်ခြင်း၊ အခြားသူများတင်ထားသော ပို့စ်များကို ဖတ်ရှုခြင်းများ ပြုလုပ်နိုင်သည်။ဆွေးနွေးချက်များ၊
+ပို့စ်များကို သက်ဆိုင်ရာ ကဏ္ဍအသီးသီးအလိုက် စုစည်းထားပြီး newsgroupဟုခေါ်သည်။
+ဆွေးနွေးချက်များကိုလည်း Threads များခွဲထားသည်။ Usenet Discussion Group မှ ဆွေးနွေးချက်များကို 
+ဖတ်ရှုရန် Usenet Clients ဟုခေါ်သော ဆော့လ်ဝဲများသုံးရန် လိုအပ်သည်။
 
 Pan 
 
-Pan (http://pan.rebelbase.com/) Pan သည္ Usenet မွ ေဆြးေႏြးခ်က္မ်ားကို ဖတ္႐ႈရန္ အသံုးျပဳႏိုင္သည့္
-Gnome-based ေဆာ့လ္၀ဲလ္တစ္ခုျဖစ္သည္။ nzb (http://en.wikipedia.org/wiki/Nzb) binary downloader
-တစ္ခုလဲ ျဖစ္သည္။ Pan ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command ကိုရိုက္ထည့္ပါ။
+Pan (http://pan.rebelbase.com/) Pan သည် Usenet မှ ဆွေးနွေးချက်များကို ဖတ်ရှုရန် အသုံးပြုနိုင်သည့်
+Gnome-based ဆော့လ်ဝဲလ်တစ်ခုဖြစ်သည်။ nzb (http://en.wikipedia.org/wiki/Nzb) binary downloader
+တစ်ခုလဲ ဖြစ်သည်။ Pan ကို Install လုပ်ရန် Terminal တွင် အောက်ပါ Command ကိုရိုက်ထည့်ပါ။
 
 sudo apt-get install pan 
 
 Kwooty
 
-Kwooty (http://kwooty.sourceforge.net/) သည္ Usenet မွ ေဆြးေႏြးခ်က္မ်ား ဖတ္႐ႈရန္အတြက္ KDE4
-တြင္အသံုးျပဳႏိုင္သည့္ ေဆာ့လ္၀ဲတစ္ခုျဖစ္သည္။ nzb (http://en.wikipedia.org/wiki/Nzb) binary
-downloader တစ္ခုလဲျဖစ္သည္။ Kwooty ကို Install လုပ္ေဆာင္ရန္အတြက္ လိုအပ္ေသာ Files မ်ား၊ PPA 
-repositories မ်ား၊လမ္းညႊန္ခ်က္မ်ားကို Kwooty website တြင္ ႀကည့္႐ႈႏိုင္ပါသည္။
+Kwooty (http://kwooty.sourceforge.net/) သည် Usenet မှ ဆွေးနွေးချက်များ ဖတ်ရှုရန်အတွက် KDE4
+တွင်အသုံးပြုနိုင်သည့် ဆော့လ်ဝဲတစ်ခုဖြစ်သည်။ nzb (http://en.wikipedia.org/wiki/Nzb) binary
+downloader တစ်ခုလဲဖြစ်သည်။ Kwooty ကို Install လုပ်ဆောင်ရန်အတွက် လိုအပ်သော Files များ၊ PPA 
+repositories များ၊လမ်းညွှန်ချက်များကို Kwooty website တွင် ကြည့်ရှုနိုင်ပါသည်။
 
 Instant Messengers
 
-mIRC, Gtalk ကဲ့သို႕ ခ်က္တင္လုပ္ျခင္း၊ စကားေျပာျခင္း၊video calling မ်ားလုပ္ေဆာင္ႏိုင္ေသာ
-ေဆာ့လ္၀ဲတစ္မ်ိဳးျဖစ္သည္။
+mIRC, Gtalk ကဲ့သို့ ချက်တင်လုပ်ခြင်း၊ စကားပြောခြင်း၊video calling များလုပ်ဆောင်နိုင်သော
+ဆော့လ်ဝဲတစ်မျိုးဖြစ်သည်။
 
 Empathy
 
-Empathy (http://live.gnome.org/Empathy) ဆိုသည္မွာ Open Source IM ေဆာ့လ္၀ဲလ္တစ္ခုျဖစ္ပါသည္။
-ဤေဆာ့လ္၀ဲသည္ Ubuntu (Gnome) အသံုးျပဳေသာ desktop မ်ားတြင္ ပံုမွန္ပါ၀င္ေသာ
-ေဆာ့လ္၀ဲတစ္ခုလည္းျဖစ္သည္။
+Empathy (http://live.gnome.org/Empathy) ဆိုသည်မှာ Open Source IM ဆော့လ်ဝဲလ်တစ်ခုဖြစ်ပါသည်။
+ဤဆော့လ်ဝဲသည် Ubuntu (Gnome) အသုံးပြုသော desktop များတွင် ပုံမှန်ပါဝင်သော
+ဆော့လ်ဝဲတစ်ခုလည်းဖြစ်သည်။
 
 sudo apt-get install empathy
 
 Pidgin
 
-Pidgin (http://www.pidgin.im/) ေဆာ့လ္၀ဲလ္သည္ Open Source IM ေဆာ့လ္၀ဲလ္တစ္ခုျဖစ္သည္။ ဤေဆာ့လ္၀ဲလ္သည္
-Ubuntu (Gnome) အသံုးျပဳေသာ desktop မ်ားတြင္ ပံုမွန္ပါ၀င္ေသာ ေဆာ့လ္၀ဲလ္တစ္ခုလည္းျဖစ္သည္။ ယခုလက္ရွိ
-Empathy ကိုသာ ပံုမွန္ အစားထိုးသံုးလ်က္ရွိေသာ္လည္း ျမန္မာျပည္၏ MPT လိုင္းႏွင့္ အျခားေသာ Proxy
-ထည့္သြင္းရေသာ လိုင္းမ်ားအတြက္သင့္ေတာ္သည္။
+Pidgin (http://www.pidgin.im/) ဆော့လ်ဝဲလ်သည် Open Source IM ဆော့လ်ဝဲလ်တစ်ခုဖြစ်သည်။ ဤဆော့လ်ဝဲလ်သည်
+Ubuntu (Gnome) အသုံးပြုသော desktop များတွင် ပုံမှန်ပါဝင်သော ဆော့လ်ဝဲလ်တစ်ခုလည်းဖြစ်သည်။ ယခုလက်ရှိ
+Empathy ကိုသာ ပုံမှန် အစားထိုးသုံးလျက်ရှိသော်လည်း မြန်မာပြည်၏ MPT လိုင်းနှင့် အခြားသော Proxy
+ထည့်သွင်းရသော လိုင်းများအတွက်သင့်တော်သည်။
 
 sudo apt-get install pidgin
 
-အသံုးျပဳပံု
+အသုံးပြုပုံ
 
 Accounts=Add :
 protocol XMPP
-username gmailaccount (@gmail ျဖည့္ရန္မလိုပါ)
+username gmailaccount (@gmail ဖြည့်ရန်မလိုပါ)
 Domain gmail.com
 
-Advanced Force old (port 5223)SSL ကိုအမွန္ျခစ္ေပးပါ။
-connect port တြင္ 443 ျဖည့္ပါ။
-connect server တြင္ talk.google.com ျဖည့္ပါ။
-အားလံုးၿပီးလွ်င္ Add ကိုႏွိပ္ပါ။
-ၿပီးလွ်င္ ခ်ိတ္ဆက္ အသံုးျပဳႏိုင္ပါသည္။
+Advanced Force old (port 5223)SSL ကိုအမှန်ခြစ်ပေးပါ။
+connect port တွင် 443 ဖြည့်ပါ။
+connect server တွင် talk.google.com ဖြည့်ပါ။
+အားလုံးပြီးလျှင် Add ကိုနှိပ်ပါ။
+ပြီးလျှင် ချိတ်ဆက် အသုံးပြုနိုင်ပါသည်။
 
 Kopete
 
-Kopete (http://kopete.kde.org/) ဆိုသည္မွာ Kubuntu Os (KDE) အတြက္ default ပါ၀င္ေသာ ခ်က္တင္
-ေဆာ့လ္၀ဲျဖစ္သည္။
+Kopete (http://kopete.kde.org/) ဆိုသည်မှာ Kubuntu Os (KDE) အတွက် default ပါဝင်သော ချက်တင်
+ဆော့လ်ဝဲဖြစ်သည်။
 
 sudo apt-get install kopete
 
 Kopete Styles
 
-Kopete အတြက္ ပံုစံ (http://www.kde-look.org/index.php?xcontentmode=24x26) ကို ထည့္သြင္းၿပီး
-Kopete တြင္ မိမိႏွစ္သက္ရာ ပံုစံမ်ားကို ေအာက္ေဖာ္ျပပါေနရာတြင္ ေျပာင္းလဲႏိုင္ပါသည္။
+Kopete အတွက် ပုံစံ (http://www.kde-look.org/index.php?xcontentmode=24x26) ကို ထည့်သွင်းပြီး
+Kopete တွင် မိမိနှစ်သက်ရာ ပုံစံများကို အောက်ဖော်ပြပါနေရာတွင် ပြောင်းလဲနိုင်ပါသည်။
 
 Kopete - Settings - Configure - Chat Windows -Style -Get New...
 
 GoogleTalk on Kopete
 
-Kopete ကိုအသံုးျပဳၿပီး GoogleTalk (http://www.google.com/talk/about.html) Instant Messaging
-အသံုးျပဳႏိုင္ေသာ္လည္း VOIP ကို အသံုးမျပဳႏိုင္သျဖင့္ အသံဆက္သြယ္ျခင္းရမည္မဟုတ္ပါ။ Jabber Protocol
-ကိုသံုးထားသည္။ဤေနရာတြင္ေလ့လာပါ။GoogleTalk instructions
+Kopete ကိုအသုံးပြုပြီး GoogleTalk (http://www.google.com/talk/about.html) Instant Messaging
+အသုံးပြုနိုင်သော်လည်း VOIP ကို အသုံးမပြုနိုင်သဖြင့် အသံဆက်သွယ်ခြင်းရမည်မဟုတ်ပါ။ Jabber Protocol
+ကိုသုံးထားသည်။ဤနေရာတွင်လေ့လာပါ။GoogleTalk instructions
 (http://www.google.com/support/talk/bin/answer.py?answer=57557).
 
 Konversation (IRC client)
 
-Konversation (http://konversation.kde.org/) သည္ kubuntu တြင္ default ပါ၀င္ေသာ IRC ခ်က္
-ေဆာ့လ္၀ဲလ္ျဖစ္သည္။ mIRC အလားတူေဆာ့လ္၀ဲလ္ တစ္ခုျဖစ္သည္။
+Konversation (http://konversation.kde.org/) သည် kubuntu တွင် default ပါဝင်သော IRC ချက်
+ဆော့လ်ဝဲလ်ဖြစ်သည်။ mIRC အလားတူဆော့လ်ဝဲလ် တစ်ခုဖြစ်သည်။
 
 sudo apt-get install konversation
 
 aMSN
 
-aMSN သည္ MSN ရဲ႕ client ေဆာ့၀ဲကဲ့သို႔   အသံုးျပဳႏိုင္ေသာ ေဆာ့၀ဲတစ္ခုျဖစ္သည္။ Pidgin တြင္လည္း
-အလားတူသံုးႏိုင္သည္။
+aMSN သည် MSN ရဲ့ client ဆော့ဝဲကဲ့သို့   အသုံးပြုနိုင်သော ဆော့ဝဲတစ်ခုဖြစ်သည်။ Pidgin တွင်လည်း
+အလားတူသုံးနိုင်သည်။
 
 sudo apt - get install amsn
 
-သင့္အင္တာနက္လိုင္းအေနျဖင့္ အဆင္ေျပႏိုင္မေျပႏိုင္ မသိေသာ္လည္း ဖိုင္မ်ား လြယ္ကူစြာ
-ဆြဲယူကူးေျပာင္းႏိုင္မႈကို Ubuntu Geek (http://www.ubuntugeek.com/how-to-enable-drag-and-drop-
-capabilities-to-amsn.html) တြင္ ဖတ္ရႈႏို္င္သည္။
+သင့်အင်တာနက်လိုင်းအနေဖြင့် အဆင်ပြေနိုင်မပြေနိုင် မသိသော်လည်း ဖိုင်များ လွယ်ကူစွာ
+ဆွဲယူကူးပြောင်းနိုင်မှုကို Ubuntu Geek (http://www.ubuntugeek.com/how-to-enable-drag-and-drop-
+capabilities-to-amsn.html) တွင် ဖတ်ရှုနိုင်သည်။
 
 Emesence
 
-Emesence (http://www.emesene.org/) သည္ ရိုးရွင္းေသာပံုစံျဖင့္ ျပဳလုပ္ထားေသာ MSN messager
-တစ္ခုျဖစ္သည္။ အလားတူပင္ [#Pidgin l Pidgin] တြင္လည္း အသံုးျပဳႏိုင္ပါသည္။
+Emesence (http://www.emesene.org/) သည် ရိုးရှင်းသောပုံစံဖြင့် ပြုလုပ်ထားသော MSN messager
+တစ်ခုဖြစ်သည်။ အလားတူပင် [#Pidgin l Pidgin] တွင်လည်း အသုံးပြုနိုင်ပါသည်။
 
 sudo apt - get install emesene
 
@@ -1447,39 +1447,39 @@ for a small fee.
 
 Ekiga
 
-ယခင္ Gnomemeeting ဟုသိခဲ့ၾကသည့္ Ekiga(http://www.gnomemeeting.org/) သည္ SIP အား 
-အျပည့္အ၀လိုက္နာသည့္ function အျပည့္အစံုပါ VOIP ႏွင့္ Video စနစ္ပါ အသံုးျပဳႏိုင္ေသာ ပရိုဂရမ္ျဖစ္သည္။
+ယခင် Gnomemeeting ဟုသိခဲ့ကြသည့် Ekiga(http://www.gnomemeeting.org/) သည် SIP အား 
+အပြည့်အဝလိုက်နာသည့် function အပြည့်အစုံပါ VOIP နှင့် Video စနစ်ပါ အသုံးပြုနိုင်သော ပရိုဂရမ်ဖြစ်သည်။
 
 sudo apt - get install ekiga
 
 
 Skype
 
-Skype (http://www.skype.com/) သည္ Ekiga ကဲ့သို႔ VOIP ႏွင့္ Video စနစ္သံုး ဆက္သြယ္ေရး
-ပရိုဂရမ္ျဖစ္ေသာ္လည္း Open-Source မဟုတ္ပါ။ Skype ဆက္သြယ္မႈမ်ားအား အသံသြင္းယူျခင္း
+Skype (http://www.skype.com/) သည် Ekiga ကဲ့သို့ VOIP နှင့် Video စနစ်သုံး ဆက်သွယ်ရေး
+ပရိုဂရမ်ဖြစ်သော်လည်း Open-Source မဟုတ်ပါ။ Skype ဆက်သွယ်မှုများအား အသံသွင်းယူခြင်း
 (http://help.ubuntu.com/community.SkypeRecordingHowto)
 
 
-	Install ျပဳလုပ္ရန္ ၾကိဳတင္ျပင္ဆင္ပါ
+      Install ပြုလုပ်ရန် ကြိုတင်ပြင်ဆင်ပါ
 
 sudo apt - get install libqt4-dbus libqt4-network libqt4-xml
 
-	-ေနာက္ဆံုးထြက္ ဗားရွင္းအား ရယူရန္ႏွင့္ 32 -bit ဗားရွင္းအား download ႏွင့္ install ျပဳလုပ္ရန္
+      -နောက်ဆုံးထွက် ဗားရှင်းအား ရယူရန်နှင့် 32 -bit ဗားရှင်းအား download နှင့် install ပြုလုပ်ရန်
 
 wget - G skype - ubuntu - current _ i386 . deb nowikihttp://www.skype.com/go/get skype - linux - beta - ubuntu - 32/n
 sudo dpkg - i skype - ubuntu - current _ i386 . deb
 sudo rm skype - ubuntu - current _ i386 . deb
 
 
-	-ယခင္က အခ်ဳိ႕ သံုးစြဲသူမ်ားသည္ ၎တို႔၏ မိုက္ခရိုဖုန္းမ်ားအား 2.1.0.47 ေနာက္ပိုင္း ဗားရွင္းမ်ားတြင္ 
-	သံုးစြဲ၍ မရေသာေၾကာင့္ ေအာက္ေဖာ္ျပပါ command မ်ား သံုးခဲ့ၾကသည္။
+      -ယခင်က အချို့ သုံးစွဲသူများသည် ၎င်းတို့၏ မိုက်ခရိုဖုန်းများအား 2.1.0.47 နောက်ပိုင်း ဗားရှင်းများတွင် 
+      သုံးစွဲ၍ မရသောကြောင့် အောက်ဖော်ပြပါ command များ သုံးခဲ့ကြသည်။
 
 
 wget - O skype - ubuntu - current _i386.deb nowikihttp://download.skype.com/linux/skype-debian_2,1.0.47-1
 sudo dpkg - i skype - ubuntu - current _ i386 .deb
 sudo rm skype - ubuntu - current_ i386.deb
 
-ေနာက္တစ္နည္း
+နောက်တစ်နည်း
 
 wget - O skype - ubuntu - current _ amd64 . deb nowikihttp://download.skype.com/linux/skype-ubuntu-intrepid
 sudo dpkg - i skype - ubuntu - current _amd64.deb
@@ -1488,20 +1488,20 @@ sudo rm skype - ubuntu -current _ amd64.deb
 
 How to install Skype on a 64-bit system
 
-Skype အား 64-bit system မ်ားတြင္ install ျပဳလုပ္နည္း 64-bit system အတြက္ Skype ၏ လက္ရွိ version 
-သည္ 32 bit module အား 64 အတြက္ အသံုးျပဳထားျခင္းျဖစ္သည္။ 64 bit system တြင္ install
-ျပဳလုပ္ရန္အတြက္ အျခား package မ်ားအား ဦးစြာ install ျပဳလုပ္ရန္ လိုအပ္သည္။
+Skype အား 64-bit system များတွင် install ပြုလုပ်နည်း 64-bit system အတွက် Skype ၏ လက်ရှိ version 
+သည် 32 bit module အား 64 အတွက် အသုံးပြုထားခြင်းဖြစ်သည်။ 64 bit system တွင် install
+ပြုလုပ်ရန်အတွက် အခြား package များအား ဦးစွာ install ပြုလုပ်ရန် လိုအပ်သည်။
 
 sudo apt - get install ia32 - libs lib32asound2 libqt4 - core libqt4 - gui
 
-	ၿပီးေနာက္ လက္ရွိ Skype version ၏ .deb package အား Skype website မွ download ျပဳလုပ္၍ 
-	install ျပဳလုပ္ပါ။
+      ပြီးနောက် လက်ရှိ Skype version ၏ .deb package အား Skype website မှ download ပြုလုပ်၍ 
+      install ပြုလုပ်ပါ။
 
 wget - O skype _ ubuntu - current _ amd64 . deb nowikihttp://www.skype.com/go/getskype - linux - beta - ubuntu - 64/
 sudo dpkg - i skype - ubuntu - current _ amd64.deb
 sudo rm skype - ubuntu - current _ amd64.deb
 
-အကယ္၍ 64-bit version သည္ သင့္အတြက္ အလုပ္မလုပ္ပါက 32-bit version အား အသံုးျပဳႏိုင္သည္။
+အကယ်၍ 64-bit version သည် သင့်အတွက် အလုပ်မလုပ်ပါက 32-bit version အား အသုံးပြုနိုင်သည်။
 
 wget - O skype - ubuntu - current _i386.deb nowikihttp://www.skype.com/go/getskype - beta - ubuntu - 32/n
 sudo dpkg - i -- force - architecture skype - ubuntu - current _ i386.deb
@@ -1509,15 +1509,15 @@ sudo rm skype - ubuntu - current_i386.deb
 
 Installing Skype respository
 
-Skype ၏ respository ထည့္သြင္းျခင္းအားျဖင့္လည္း Skype အား install လုပ္ႏုိင္ပါသည္။
-ဤသို႔ျပဳလုပ္ျခင္းျဖင့္ auto update ျပဳလုပ္ေပးသည့္ အက်ဳိးေက်းဇူးရွိပါသည္။
+Skype ၏ respository ထည့်သွင်းခြင်းအားဖြင့်လည်း Skype အား install လုပ်နိုင်ပါသည်။
+ဤသို့ပြုလုပ်ခြင်းဖြင့် auto update ပြုလုပ်ပေးသည့် အကျိုးကျေးဇူးရှိပါသည်။
 
-	-Resopsitory security key အား install လုပ္ရန္ (key server အတြက္ သင့္ firewall ၏ port 11371
-	အား ဖြင့္ထားရန္လိုအပ္သည္။
+      -Resopsitory security key အား install လုပ်ရန် (key server အတွက် သင့် firewall ၏ port 11371
+      အား ဖွင့်ထားရန်လိုအပ်သည်။
 
 sudo apt - key adv -- keyserver pgp.mit.edu --recv -keys 0xd66b746e
 
-	-Skype repository,update ထည့္ျခင္းႏွင့္ Skype အား install ျပဳလုပ္ျခင္း။
+      -Skype repository,update ထည့်ခြင်းနှင့် Skype အား install ပြုလုပ်ခြင်း။
 
 echo nowikideb http://download.skype.com/linux/repos,debian//nowiki stable non - free l   sudo tee - a
 sudo apt -get update
@@ -1528,87 +1528,87 @@ sudo apt -get install skype
 
 Proprietary Extras
 
-မူပိုင္ခြင့္အရ မွတ္ပံုတင္ထားေသာ ထပ္ေဆာင္း package မ်ား
+မူပိုင်ခွင့်အရ မှတ်ပုံတင်ထားသော ထပ်ဆောင်း package များ
 
-ူမူပိုင္ခြင့္အရ မွတ္ပံုတင္ထားသည့္ software မ်ားသည္ အင္တာနက္ အသံုးျပဳရာတြင္ 
-မ်ားစြာအေထာက္အကူျပဳပါလိမ့္မည္။ သို႔ေသာ္ လြတ္လပ္စြာ ရယူသံုးစြဲခြင့္မရွိပါ ။ Multimedia Codecs မ်ား၊
-Java Runtime Environment ႏွင့္ Firefox အတြက္ plug-in မ်ားသည္ ထိုကဲ့သို႔ေသာ software မ်ားျဖစ္သည္။
+ူမူပိုင်ခွင့်အရ မှတ်ပုံတင်ထားသည့် software များသည် အင်တာနက် အသုံးပြုရာတွင် 
+များစွာအထောက်အကူပြုပါလိမ့်မည်။ သို့သော် လွတ်လပ်စွာ ရယူသုံးစွဲခွင့်မရှိပါ ။ Multimedia Codecs များ၊
+Java Runtime Environment နှင့် Firefox အတွက် plug-in များသည် ထိုကဲ့သို့သော software များဖြစ်သည်။
 
 Restricted Extras
 
-ကန္႔သတ္ထားေသာ ထပ္ေဆာင္း package မ်ား
+ကန့်သတ်ထားသော ထပ်ဆောင်း package များ
 
-Ubuntu တြင္ ကန္႔သတ္ထားေသာ ထပ္ေဆာင္း package မ်ားကို ထည့္သြင္းလိုလွ်င္ command-line Terminal 
-တြင္  command တစ္ခုတည္း ရိုက္ထည့္ရံုျဖင့္ လုပ္ေဆာင္ႏုိ္င္ပါသည္။ ထုိ package မ်ားတြင္ Adobe Flash 
-Player, Jave Runtime Environment (JRE) (sun-java-jre) ႏွင့္ Firefox plug-in (icedtea) မ်ား ,
-Microsoft မွ ထုတ္ေ၀ေသာ Font တခ်ဳိ႔ (msttcorefonts) ,multimedia codecs (w32codecs or
+Ubuntu တွင် ကန့်သတ်ထားသော ထပ်ဆောင်း package များကို ထည့်သွင်းလိုလျှင် command-line Terminal 
+တွင်  command တစ်ခုတည်း ရိုက်ထည့်ရုံဖြင့် လုပ်ဆောင်နိုင်ပါသည်။ ထို package များတွင် Adobe Flash 
+Player, Jave Runtime Environment (JRE) (sun-java-jre) နှင့် Firefox plug-in (icedtea) များ ,
+Microsoft မှ ထုတ်ဝေသော Font တချို့ (msttcorefonts) ,multimedia codecs (w32codecs or
 w64codecs), mp3 compatible encoding (lame), FFMpeg, extra Gstreamer codecs, DVD
-decoding အတြက္ package မ်ား (libdvdread4,သို႔ေသာ္ အျခား decoder ျဖစ္သည့္ libdvdcss2 ကို
-ရယူလိုပါက ဤေနရာတြင္ၾကည့္ပါ။) ,unrar archiver,odbc ႏွင့္ cabextract  မ်ားပါ၀င္သည္။ ထို႔အျပင္
-အျခားေသာ အက်ဳိးအျမတ္ရယူသည့္ codecs မ်ားႏွင့္ avutils (libavcodec - unstripped - 52 ႏွင့္ libavutil-
-unstripped - 49) မ်ားကိုလည္း ထည့္သြင္းေပးမည္ျဖစ္သည္။
+decoding အတွက် package များ (libdvdread4,သို့သော် အခြား decoder ဖြစ်သည့် libdvdcss2 ကို
+ရယူလိုပါက ဤနေရာတွင်ကြည့်ပါ။) ,unrar archiver,odbc နှင့် cabextract  များပါဝင်သည်။ ထို့အပြင်
+အခြားသော အကျိုးအမြတ်ရယူသည့် codecs များနှင့် avutils (libavcodec - unstripped - 52 နှင့် libavutil-
+unstripped - 49) များကိုလည်း ထည့်သွင်းပေးမည်ဖြစ်သည်။
 
 sudo apt -get install ubuntu - restricted - extras  
 
-မွတ္ခ်က္ : ထည့္သြင္းျခင္း လုပ္ငန္းစဥ္အတြက္ command-line Terminal တြင္ လုပ္ေဆာင္ခ်က္မ်ား
-ၿပီးဆံုးမွသာ ျပည့္စံု၍ အလုပ္လုပ္ေဆာင္ႏုိင္မည္ျဖစ္သည္။  ယခုေဖာ္ျပထားေသာ package အားလံုးကို Package
-Manager အသံုးျပဳ၍ ထည့္သြင္းပါက ျပည့္စံုမည္မဟုတ္ပါ။
+မှတ်ချက် : ထည့်သွင်းခြင်း လုပ်ငန်းစဉ်အတွက် command-line Terminal တွင် လုပ်ဆောင်ချက်များ
+ပြီးဆုံးမှသာ ပြည့်စုံ၍ အလုပ်လုပ်ဆောင်နိုင်မည်ဖြစ်သည်။  ယခုဖော်ပြထားသော package အားလုံးကို Package
+Manager အသုံးပြု၍ ထည့်သွင်းပါက ပြည့်စုံမည်မဟုတ်ပါ။
 
 Photos and Graphics
 
-သင္၏ဓာတ္ပံုမ်ားကို ျပင္ဆင္ထိန္းသိမ္းျခင္း၊ ရင္သပ္ရႈေမာဖြယ္ 3D ပံုမ်ားႏွင့္ ဂရပ္ဖစ္မ်ားကို ဖန္တီးျခင္္း
-သို႔မဟုတ္ Format ဖိုင္အမ်ဳိးအစား ေျပာင္းလဲျခင္းမ်ား ျပဳလုပ္ရန္။
+သင်၏ဓာတ်ပုံများကို ပြင်ဆင်ထိန်းသိမ်းခြင်း၊ ရင်သပ်ရှုမောဖွယ် 3D ပုံများနှင့် ဂရပ်ဖစ်များကို ဖန်တီးခြင်း
+သို့မဟုတ် Format ဖိုင်အမျိုးအစား ပြောင်းလဲခြင်းများ ပြုလုပ်ရန်။
 
 GIMP (Image Manipulator)
 
-Gimp (http://www.gimp.org/) သည္ အစြမ္းထက္ေသာ စြမ္းရည္ျပည့္၀သည့္ free open-source ျဖစ္ပါသည္။
-ဂရစ္ဖစ္မ်ားႏွင့္ ဓာတ္ပံုမ်ားျပင္ဆင္သည့္ Adobe Photoshop ႏွင့္  ဆင္တူေသာ ေဆာ့ဖ္၀ဲျဖစ္ပါသည္။
+Gimp (http://www.gimp.org/) သည် အစွမ်းထက်သော စွမ်းရည်ပြည့်ဝသည့် free open-source ဖြစ်ပါသည်။
+ဂရစ်ဖစ်များနှင့် ဓာတ်ပုံများပြင်ဆင်သည့် Adobe Photoshop နှင့်  ဆင်တူသော ဆော့ဖ်ဝဲဖြစ်ပါသည်။
 
 sudo apt - get install gimp
 
-GIMP အတြက္ သီးသန္႔ brushe မ်ား palette မ်ားႏွင့္ gradiend မ်ားရိွပါသည္။
+GIMP အတွက် သီးသန့် brushe များ palette များနှင့် gradiend များရှိပါသည်။
 
 sudo apt - get install gimp - data - extras
 
 
 Dia (Diagram editor)
  
-Dia (http://live.gnome.org/Dia) သည္ Gnome အတြက္ ျပဳလုပ္ထားသည့္ GTK အေျခခံ diagram
-ဖန္တီးသည့္ open source ပရိုဂရမ္ျဖစ္ပါသည္။ Visio ႏွင့္  ဆင္တူပါသည္။
+Dia (http://live.gnome.org/Dia) သည် Gnome အတွက် ပြုလုပ်ထားသည့် GTK အခြေခံ diagram
+ဖန်တီးသည့် open source ပရိုဂရမ်ဖြစ်ပါသည်။ Visio နှင့်  ဆင်တူပါသည်။
 
 sudo apt - get install dia
 
 
 Kivio (Diagram editor)
 
-Kivio (http://www.koffice.org/kivio/) သည္ flow-chat မ်ားႏွင့္ diagram မ်ားကို ဖန္တီးသည့္  open
-source ပရိုဂရမ္ျဖစ္ၿပီး KDE အတြက္ ျပဳလုပ္ထားသည့္ KOffice Suite တြင္ ပါ၀င္ပါသည္။ Dia
-ဖေယာင္းမိတၱဴမ်ား ျပဳလုပ္၍ ရပါသည္။
+Kivio (http://www.koffice.org/kivio/) သည် flow-chat များနှင့် diagram များကို ဖန်တီးသည့်  open
+source ပရိုဂရမ်ဖြစ်ပြီး KDE အတွက် ပြုလုပ်ထားသည့် KOffice Suite တွင် ပါဝင်ပါသည်။ Dia
+ဖယောင်းမိတ္တူများ ပြုလုပ်၍ ရပါသည်။
 
 sudo apt - get install kivio
 
 
 Inkscape  Vector Illustrator
 
-Inkscape Vector Illustrator (http://www.inkscape.org/) သည္ Illustrator ၊CorelDraw စသည္တုိ႔ႏွင့္ 
-တူညီသည့္ open source  ပံုဆြဲပရိုဂရမ္ျဖစ္ပါသည္။
+Inkscape Vector Illustrator (http://www.inkscape.org/) သည် Illustrator ၊CorelDraw စသည်တို့နှင့် 
+တူညီသည့် open source  ပုံဆွဲပရိုဂရမ်ဖြစ်ပါသည်။
 
 sudo apt - get install inkscape
 
 
 Digikam (Photo Organiser)
 
-Digikam (http://www.digikam.org) သည္ ဒစ္ဂ်စ္တယ္ ဓာတ္ပံုမ်ားကို ျပင္ဆင္ စုစည္းသိမ္းဆည္းဖို႔
-အလြန္အဆင္ေျပေသာ open source ျဖစ္ပါသည္။ install လုပ္လိုလွ်င္
+Digikam (http://www.digikam.org) သည် ဒစ်ဂျစ်တယ် ဓာတ်ပုံများကို ပြင်ဆင် စုစည်းသိမ်းဆည်းဖို့
+အလွန်အဆင်ပြေသော open source ဖြစ်ပါသည်။ install လုပ်လိုလျှင်
 
 sudo apt - get install digikam kipi - plugins digikam - doc
 
 
 F -spot (Photo Organiser)
 
-F -spot (http://htpp://f-spot.org/) သည္ ဒစ္ဂ်စ္တယ္ဓာတ္ပံုမ်ားကို ျပင္ဆင္စုစည္းသိမ္းဆည္းဖို႔
-အလြန္အဆင္ေျပေသာ Gnome Desktop အတြက္ ျပဳလုပ္ထားသည့္ open source ျဖစ္သည္။ install
-လုပ္လိုပါက:
+F -spot (http://htpp://f-spot.org/) သည် ဒစ်ဂျစ်တယ်ဓာတ်ပုံများကို ပြင်ဆင်စုစည်းသိမ်းဆည်းဖို့
+အလွန်အဆင်ပြေသော Gnome Desktop အတွက် ပြုလုပ်ထားသည့် open source ဖြစ်သည်။ install
+လုပ်လိုပါက:
 
 sudo apt -get install f-spot
 
@@ -1616,20 +1616,20 @@ sudo apt -get install f-spot
 Google Picasa (Photo Organiser)
 
 
-Google Picasa (http://picasa.google.com.mm/linux/) သည္ Digikam ကဲ့သို႔ ပင္
-ဓာတ္ပံုျပင္ဆင္သိမ္းဆည္းရန္ျဖစ္ပါသည္။ အြန္လိုင္းအသံုးျပဳထားပါက Google web server သုိ႔ 
-တိုက္ရိုက္ပံုမ်ားကို upload လုပ္ႏုိင္ပါသည္။ အေသးစိ္တ္သိလိုပါက Picasa for Linux FAQ
-(http://picasa.google.com/linux/faq.html) တြင္ ၾကည့္ပါ ။ Picasa 2.7 Download
-(http://picasa.google.com/linux/download.html#picasa27) ေနရာတြင္ ကုိယ္တိုင္ install လုပ္ႏုိင္သည့္
-.deb ဖိုင္ရရွိႏိုင္ပါသည္။
+Google Picasa (http://picasa.google.com.mm/linux/) သည် Digikam ကဲ့သို့ ပင်
+ဓာတ်ပုံပြင်ဆင်သိမ်းဆည်းရန်ဖြစ်ပါသည်။ အွန်လိုင်းအသုံးပြုထားပါက Google web server သို့ 
+တိုက်ရိုက်ပုံများကို upload လုပ်နိုင်ပါသည်။ အသေးစိတ်သိလိုပါက Picasa for Linux FAQ
+(http://picasa.google.com/linux/faq.html) တွင် ကြည့်ပါ ။ Picasa 2.7 Download
+(http://picasa.google.com/linux/download.html#picasa27) နေရာတွင် ကိုယ်တိုင် install လုပ်နိုင်သည့်
+.deb ဖိုင်ရရှိနိုင်ပါသည်။
 
 Shotwell (Photo Organiser)
 
-Shotwell (http://www.yorba.org/shotwell/) အလြယ္တကူ ၾကည့္ရႈ ထိန္းခ်ဳပ္ႏိုင္မည့္
-ေဆာ့၀ဲတစ္ခုျဖစ္ပါသည္။  ဤေနရာ (http://www.youba.org/shotwell/install/) တြင္ အေသးစိတ္
-ၾကည့္ရႈႏိုင္ပါသည္။
+Shotwell (http://www.yorba.org/shotwell/) အလွယ်တကူ ကြည့်ရှု ထိန်းချုပ်နိုင်မည့်
+ဆော့ဝဲတစ်ခုဖြစ်ပါသည်။  ဤနေရာ (http://www.youba.org/shotwell/install/) တွင် အသေးစိတ်
+ကြည့်ရှုနိုင်ပါသည်။
 
-	Terminal မွ သြင္းရန္
+      Terminal မှ သွင်းရန်
 
 sudo add - apt - repository ppa:yorba/ppa
 sudo apt - get update
@@ -1638,42 +1638,42 @@ sudo apt - get install shotwell
 
 Tesseract (Optical Character Reader)
 
-Tesseract (http://code.google.com/p/tesseract-ocr/) သည္ command-line ျဖင့္ အသံုးျပဳႏိုင္သည့္ optical
-character reader တစ္ခုျဖစ္ပါသည္။ Install  ျပဳလုပ္ရန္:
+Tesseract (http://code.google.com/p/tesseract-ocr/) သည် command-line ဖြင့် အသုံးပြုနိုင်သည့် optical
+character reader တစ်ခုဖြစ်ပါသည်။ Install  ပြုလုပ်ရန်:
 
 sudo apt - get install tesseract -ocr
 
 
-Ocropus (http://code.google.com/p/ocropus/) သည္ Tesseract ကို အသံုးျပဳထားသည့္ document -
-analysis engine တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္:
+Ocropus (http://code.google.com/p/ocropus/) သည် Tesseract ကို အသုံးပြုထားသည့် document -
+analysis engine တစ်ခုဖြစ်သည်။ Install ပြုလုပ်ရန်:
 
 sudo apt -get install ocropus
 
 
 Xsane (Scanning utility)
 
-Xsane (http://www.xsane.org/) သည္ Scan ဖတ္ရန္ အသံုးျပဳႏိုင္သည့္ ေဆာ့၀ဲလ္တစ္မ်ဳိးျဖစ္ပါသည္။
-Xsane ကို  Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command ကို ရိုက္ထည့္ေပးပါ။
+Xsane (http://www.xsane.org/) သည် Scan ဖတ်ရန် အသုံးပြုနိုင်သည့် ဆော့ဝဲလ်တစ်မျိုးဖြစ်ပါသည်။
+Xsane ကို  Install လုပ်ရန် Terminal တွင် အောက်ပါ Command ကို ရိုက်ထည့်ပေးပါ။
 
 sudo apt - get install xsane
 
 
 Gnome - Scan (Scanning Utility)
 
-Gnome - Scan (http://projects.gnome.org/gnome-scan/) သည္ Scan ဖတ္ရန္ အသံုးျပဳႏိုင္သည့္
-ေဆာ့၀ဲလ္တစ္မ်ဳိးျဖစ္ပါသည္။ Gnome - Scan ကို Install လုပ္ရန္ Terminal တြင္ ေအာက္ပါ Command
-ကို ရိုက္ထည့္ပါ။
+Gnome - Scan (http://projects.gnome.org/gnome-scan/) သည် Scan ဖတ်ရန် အသုံးပြုနိုင်သည့်
+ဆော့ဝဲလ်တစ်မျိုးဖြစ်ပါသည်။ Gnome - Scan ကို Install လုပ်ရန် Terminal တွင် အောက်ပါ Command
+ကို ရိုက်ထည့်ပါ။
 
 sudo apt - get install gnomescan 
 
 
 Gwenview (Image Manipulator)
 
-Gwenview (http://gwenview.sourceforget.net/) သည္ KDE တြင္ ဓာတ္ပံုမ်ားၾကည့္ရန္ အသံုးျပဳႏုိင္ေသာ
-ေဆာ့လ္၀ဲ တစ္မ်ဳိးျဖစ္သည္။ ပံုမ်ားကို rotate လုပ္ျခင္း၊ crop လုပ္ျခင္း၊ resize လုပ္ျခင္း စသည့္
-အေျခခံတည္းျဖတ္မႈမ်ားလည္း ျပဳလုပ္ႏုိင္သည္။ Gwenview ကို Kubuntu တြင္ default
-အေနႏွင့္ ထည့္သြင္းထားသည္။ (K menu - Graphics - Gwenview Image Viewer) Gwenview ကို Install
-လုပ္လိုပါက Terminal တြင္ ေအာက္ပါ Command ကို ရိုက္ထည့္ပါ။
+Gwenview (http://gwenview.sourceforget.net/) သည် KDE တွင် ဓာတ်ပုံများကြည့်ရန် အသုံးပြုနိုင်သော
+ဆော့လ်ဝဲ တစ်မျိုးဖြစ်သည်။ ပုံများကို rotate လုပ်ခြင်း၊ crop လုပ်ခြင်း၊ resize လုပ်ခြင်း စသည့်
+အခြေခံတည်းဖြတ်မှုများလည်း ပြုလုပ်နိုင်သည်။ Gwenview ကို Kubuntu တွင် default
+အနေနှင့် ထည့်သွင်းထားသည်။ (K menu - Graphics - Gwenview Image Viewer) Gwenview ကို Install
+လုပ်လိုပါက Terminal တွင် အောက်ပါ Command ကို ရိုက်ထည့်ပါ။
 
 sudo apt - get install openclipart
 

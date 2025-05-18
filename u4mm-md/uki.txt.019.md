@@ -1,53 +1,53 @@
-is an open source wiki engin used by many small to medium size companies internally. မၾကာမွီျပင္ဆင္ျဖည့္စြတ္မည္။
+is an open source wiki engin used by many small to medium size companies internally. မကြာမှီပြင်ဆင်ဖြည့်စွတ်မည်။
 
 	sudo  apt-get  install   twiki
 
 ####Moin Moin
 
-[Moin Moin](http://moinmo.in/) is free ,open source (GPL-Licensed) wiki မၾကမွီျပင္ဆင္ျဖည့္စြတ္မည္။
+[Moin Moin](http://moinmo.in/) is free ,open source (GPL-Licensed) wiki မကြမှီပြင်ဆင်ဖြည့်စွတ်မည်။
 
 	sudo  apt-get  install  python-moinmoin
 
 ####Tiddly  Wiki
 
-[Tiddly Wiki](http://www.tiddlywiki.com/)is an open source personal wiki. မၾကာမွီျပင္ဆင္ ျဖည့္စြတ္မည္။
+[Tiddly Wiki](http://www.tiddlywiki.com/)is an open source personal wiki. မကြာမှီပြင်ဆင် ဖြည့်စွတ်မည်။
 
 ###Wed  Publishing
 
 ####Drupal (Web  content  publishing)
 
-[Drupal](http://drupal.org/)သည္ website မ်ားဖန္တီးျခင္းႏွင့္ပူးေပါင္းေဆာင္ရြက္ျခင္းတို႕တြင္္ 
-အသံုးျပဳေနၾကသည္႕tool  မ်ားထဲတြင္ ထိပ္ဆံုးမွရပ္တည္ေနသည္႕ open-source  တစ္ခုျဖစ္သည္။ရုိးရွင္းေသာ  website  မ်ားမွသည္အလြန္ရႈပ္ေထြးေသာ website မ်ားအထိ အခ်ိန္အနည္းငယ္ေပးေလ့လာရံုျဖင့္ ဖန္တီးေရးဆြဲႏို္င္သည့္ module အေျချပဳ wetside ဖန္တီးသည့္ toolျဖစ္သည္။ စတင္သံုးစြဲနည္းတြင္ သတင္းအခ်က္အလက္မ်ား စံုစံုလင္လင္ ရာယူႏို္င္ပါသည္။ Drupal အသံုးျပဳရန္အတြက္ LAMP server အား 
-(Install မလုပ္ရေသးပါက Install ျပဳလုပ္ရန္လိုအပ္ၿပီး Drupal ႏွင့္ တပါတည္း Install  ျပဳလုပ္ႏုိင္ပါသည္။ Drupal ကို MySQL database (LAMP ရွိ M) ႏွင့္အလြယ္တကူ အသံုးျပဳႏုိ္င္ၿပီး PostgreSQL( Install 
-ျပဳလုပ္ထားပါက ) ႏွင့္လည္း အသံုးျပဳႏုိင္ပါသည္။
+[Drupal](http://drupal.org/)သည် website များဖန်တီးခြင်းနှင့်ပူးပေါင်းဆောင်ရွက်ခြင်းတို့တွင် 
+အသုံးပြုနေကြသည့်tool  များထဲတွင် ထိပ်ဆုံးမှရပ်တည်နေသည့် open-source  တစ်ခုဖြစ်သည်။ရိုးရှင်းသော  website  များမှသည်အလွန်ရှုပ်ထွေးသော website များအထိ အချိန်အနည်းငယ်ပေးလေ့လာရုံဖြင့် ဖန်တီးရေးဆွဲနိုင်သည့် module အခြေပြု wetside ဖန်တီးသည့် toolဖြစ်သည်။ စတင်သုံးစွဲနည်းတွင် သတင်းအချက်အလက်များ စုံစုံလင်လင် ရာယူနိုင်ပါသည်။ Drupal အသုံးပြုရန်အတွက် LAMP server အား 
+(Install မလုပ်ရသေးပါက Install ပြုလုပ်ရန်လိုအပ်ပြီး Drupal နှင့် တပါတည်း Install  ပြုလုပ်နိုင်ပါသည်။ Drupal ကို MySQL database (LAMP ရှိ M) နှင့်အလွယ်တကူ အသုံးပြုနိုင်ပြီး PostgreSQL( Install 
+ပြုလုပ်ထားပါက ) နှင့်လည်း အသုံးပြုနိုင်ပါသည်။
 
 
 #####Drupal 17
 
-Drupal 17 ၏ Debian package အား [ဤေနရာတြင္](https://packages.debian.org/sid/all/drupal7/) ရရွိႏုိင္ပါသည္။ သင့္ system (32 bit သို႔မဟုတ္ 64 bit) အတြက္ package အား download ျပဳလုပ္ကာ package
-အား Synaptic သုိ႔မဟုတ္ Kpackage Kit စသည့္ package manager မ်ား အသံုးျပဳၿပီး  Install ျပဳလုပ္ႏုိ္င္သည္။ (K) Ubuntu OS အသစ္တြင္ တိုက္ရိုက္ Install ျပဳလုပ္ႏုိင္ရံုသာမက Debian respository ကိုပါ (Download
-page တြင္ ေဖာ္ျပထားသည့္ လမ္းညႊန္ခ်က္အတိုင္း ) ထည့္သြင္းႏိုင္ၿပီး Install ျပဳလုပ္ႏို္င္သည္။
+Drupal 17 ၏ Debian package အား [ဤနေရာတွင်](https://packages.debian.org/sid/all/drupal7/) ရရှိနိုင်ပါသည်။ သင့် system (32 bit သို့မဟုတ် 64 bit) အတွက် package အား download ပြုလုပ်ကာ package
+အား Synaptic သို့မဟုတ် Kpackage Kit စသည့် package manager များ အသုံးပြုပြီး  Install ပြုလုပ်နိုင်သည်။ (K) Ubuntu OS အသစ်တွင် တိုက်ရိုက် Install ပြုလုပ်နိုင်ရုံသာမက Debian respository ကိုပါ (Download
+page တွင် ဖော်ပြထားသည့် လမ်းညွှန်ချက်အတိုင်း ) ထည့်သွင်းနိုင်ပြီး Install ပြုလုပ်နိုင်သည်။
 
--Drupal6 မွ Drupal7 သို႔ေျပာင္းလဲရန္အတြက္ [ဤလမ္းညႊန္ခ်က္](http://drupal.org/node/570162) မ်ားအတိုင္း ျပဳလုပ္ႏို္င္ပါသည္။
+-Drupal6 မှ Drupal7 သို့ပြောင်းလဲရန်အတွက် [ဤလမ်းညွှန်ချက်](http://drupal.org/node/570162) များအတိုင်း ပြုလုပ်နိုင်ပါသည်။
 
 
 #####Drupal6 (Web content publishing)
 
-Drupal6 အား package အျဖစ္ရယူႏိုင္ၿပီး  `command - line terminal` မွ လည္းရရွိႏိုင္သည္။
+Drupal6 အား package အဖြစ်ရယူနိုင်ပြီး  `command - line terminal` မှ လည်းရရှိနိုင်သည်။
 
 	sudo apt-get install drupal6
 
-install ျပဳလုပ္ၿပီးပါက( ျဖစ္လာႏုိင္သည့္  ျပသနာအနည္းငယ္အား ေအာက္တြင္ေဖာ္ျပထားသည္ ) apache2
-server အား restart ျပဳလုပ္ပါ။
+install ပြုလုပ်ပြီးပါက( ဖြစ်လာနိုင်သည့်  ပြသနာအနည်းငယ်အား အောက်တွင်ဖော်ပြထားသည် ) apache2
+server အား restart ပြုလုပ်ပါ။
 
 	sudo/etc/init.d/apache2 restart
 
-သင့္ browser မွတစ္ဆင့္ installation အား အၿပီးသတ္ေပးပါ။
+သင့် browser မှတစ်ဆင့် installation အား အပြီးသတ်ပေးပါ။
 
 	http://localhost/drupal6/install.php
 
-Install ျပဳလုပ္ျခင္းအတြက္ သင့္ browser မွ တစ္ဆင့္ ဤ installation tips မ်ားအားဖတ္ရႈပါ။ ၿပီးေနာက္ Durpal site building tip မ်ားအား ၾကည့္ရႈပါ။ Drupal /Ubuntu အသံုးျပဳသည့္ Group အား Drubuntu တြင္
-ေတြ႔ရွိႏုိင္ပါသည္။
+Install ပြုလုပ်ခြင်းအတွက် သင့် browser မှ တစ်ဆင့် ဤ installation tips များအားဖတ်ရှုပါ။ ပြီးနောက် Durpal site building tip များအား ကြည့်ရှုပါ။ Drupal /Ubuntu အသုံးပြုသည့် Group အား Drubuntu တွင်
+တွေ့ရှိနိုင်ပါသည်။
 
 
 ###Installation quirks
@@ -64,46 +64,45 @@ then libgd2-xpm can be installed.---
 
 ####Exim vs. Postfix
 
-[Exim](http://www.exim.org/) ႏွင့္ [Postfix](http://www.postfix.org/) တို႔သည္ mail ထိန္းခ်ဳပ္သည့္ software မ်ားျဖစ္ပါသည္။ Drupal6 သည္ Exim ကို အသံုးျပဳထားသည့္အတြက္  Postifix အား install ျပဳလုပ္ထားပါက ျဖဳတ္ပစ္ၿပီး Exim ကို အသံုးျပဳထားသည့္အတြက္ Postfix ကို အသံုးျပဳထားေသာ 
-mail server တြင္ Drupal6 အား အသံုးမျပဳပါက ပိုေကာင္းပါသည္။
+[Exim](http://www.exim.org/) နှင့် [Postfix](http://www.postfix.org/) တို့သည် mail ထိန်းချုပ်သည့် software များဖြစ်ပါသည်။ Drupal6 သည် Exim ကို အသုံးပြုထားသည့်အတွက်  Postifix အား install ပြုလုပ်ထားပါက ဖြုတ်ပစ်ပြီး Exim ကို အသုံးပြုထားသည့်အတွက် Postfix ကို အသုံးပြုထားသော 
+mail server တွင် Drupal6 အား အသုံးမပြုပါက ပိုကောင်းပါသည်။
 
 ####WordPress
 
-[WordPress](http://wordpress.org/) သည္ အစပိုင္းတြင္ Blog ေရးရာတြင္ အသံုးျပဳသည့္ tool အျဖစ္မွ ေနာက္ပိုင္းတြင္ online စာေပေရးသားထုတ္ျပန္ရာတြင္ လိုအပ္သည့္ လိုအပ္ခ်က္မ်ားကိုပါ ေပါင္းစပ္ေပးထားေသာ လူၾကိဳက္မ်ားသည့္ open source web content manager တစ္ခုျဖစ္သည္။ Blogger မ်ားႏွင့္ website အေသးစားမွ အလယ္အလတ္ အရြယ္အစားမ်ားအတြက္ Wordpress မွ ျမန္ႏႈန္းျမင့္ install ျပဳလုပ္ျခင္းႏွင့္ module မ်ားျဖင့္ တန္ဆာဆင္ျခင္းမ်ားအား ေထာက္ပံ့ေပးထားပါသည္။ Wordpress အတြက္
-LAMP server အား ဦးစြာ install ျပဳလုပ္ထားရန္လိုအပ္ပါသည္။ ထို႔ေနာက္ install လုပ္ရန္
+[WordPress](http://wordpress.org/) သည် အစပိုင်းတွင် Blog ရေးရာတွင် အသုံးပြုသည့် tool အဖြစ်မှ နောက်ပိုင်းတွင် online စာပေရေးသားထုတ်ပြန်ရာတွင် လိုအပ်သည့် လိုအပ်ချက်များကိုပါ ပေါင်းစပ်ပေးထားသော လူကြိုက်များသည့် open source web content manager တစ်ခုဖြစ်သည်။ Blogger များနှင့် website အသေးစားမှ အလယ်အလတ် အရွယ်အစားများအတွက် Wordpress မှ မြန်နှုန်းမြင့် install ပြုလုပ်ခြင်းနှင့် module များဖြင့် တန်ဆာဆင်ခြင်းများအား ထောက်ပံ့ပေးထားပါသည်။ Wordpress အတွက်
+LAMP server အား ဦးစွာ install ပြုလုပ်ထားရန်လိုအပ်ပါသည်။ ထို့နောက် install လုပ်ရန်
 
 	sudo apt-get install wordpress
 
--Wordpress ႏွင့္ တြဲဖက္အသံုးျပဳရန္အတြက္ သင့္ Apache2 ၏ www folder မွ install ျပဳလုပ္မည့္ 
-folder သို႔ သေကၤတ link ျပဳလုပ္ရမည္ျဖစ္ၿပီး  Localhost အမည္ျဖင့္ MySQL database
-အသစ္ေဆာက္ရန္ လိုအပ္မည္ျဖစ္ပါသည္။
+-Wordpress နှင့် တွဲဖက်အသုံးပြုရန်အတွက် သင့် Apache2 ၏ www folder မှ install ပြုလုပ်မည့် 
+folder သို့ သင်္ကေတ link ပြုလုပ်ရမည်ဖြစ်ပြီး  Localhost အမည်ဖြင့် MySQL database
+အသစ်ဆောက်ရန် လိုအပ်မည်ဖြစ်ပါသည်။
 
 	sudo in -s /usr/share/wordpress/var/www/wordpress
 	sudo bash/usr/share/doc/wordpress/examples/setup-mysql -n wordpress local host
 
--မွတ္ခ်က္။ အကယ္၍ Wordpress အတြက္ သင့္ (virtual )host URL အမည္ကို သိၿပီးသားဆိုပါက 
-localhost အစား သင့္ (virtual)host URL အမည္ကို ထည့္သြင္းပါ။
+-မှတ်ချက်။ အကယ်၍ Wordpress အတွက် သင့် (virtual )host URL အမည်ကို သိပြီးသားဆိုပါက 
+localhost အစား သင့် (virtual)host URL အမည်ကို ထည့်သွင်းပါ။
 
-ဥပမာ သင့္ URL သည္ `mysite_x.homeserve.org` ျဖစ္သည္ဆိုပါစုိ႔ ။သင္ေရးရမည့္ command သည္ 
+ဥပမာ သင့် URL သည် `mysite_x.homeserve.org` ဖြစ်သည်ဆိုပါစို့ ။သင်ရေးရမည့် command သည် 
 
 	sudo bash/usr/share/doc/wordpress/examples/setup-mysql-n wordpress mysite_x.homeserve.org
 
--အကယ္၍ virtual host တစ္ခုမွ သင့္ Wordpress server အားခ်ိတ္ဆက္လိုပါက `/etc/apache 2/site-available folder` တြင္ သင့္ virtual host အတြက္ configuration ဖိုင္တစ္ခု ဖန္တီးပါ။  ဖိုင္အား ဖန္တီးတည္းျဖတ္ၿပီးပါက ထိုဖိုင္မွ `/etc/apache 2/sites-enabled folder` သို႔ သေကၤတ link 
-ျပဳလုပ္ေပးပါ။ Apache 2 အား restart ျပဳလုပ္ပါ။
+-အကယ်၍ virtual host တစ်ခုမှ သင့် Wordpress server အားချိတ်ဆက်လိုပါက `/etc/apache 2/site-available folder` တွင် သင့် virtual host အတွက် configuration ဖိုင်တစ်ခု ဖန်တီးပါ။  ဖိုင်အား ဖန်တီးတည်းဖြတ်ပြီးပါက ထိုဖိုင်မှ `/etc/apache 2/sites-enabled folder` သို့ သင်္ကေတ link 
+ပြုလုပ်ပေးပါ။ Apache 2 အား restart ပြုလုပ်ပါ။
 
 	sudo/etc/init.d/apache 2 restart
 
-Browser မွ တဆင့္ Wordpress အား Install ျပဳလုပ္ပါ။
+Browser မှ တဆင့် Wordpress အား Install ပြုလုပ်ပါ။
 
 	http://localhost/wordpress
 
-သို႔မဟုတ္ သင့္ virtual host မွ တဆင့္ install
+သို့မဟုတ် သင့် virtual host မှ တဆင့် install
 
 	http://mysite_x.homeserve.org/wordpress
 
--မွတ္ခ်က္။ Jaunty expositories တြင္ version 2.7.1 ပါရွိၿပီး Security Worm အျဖစ္သတ္မွတ္ ခံထားရပါမည္။ အကယ္၍ ထို version အား install ျပဳလုပ္ထားပါက Tools - Upgrade menu မွ လက္ရွိ version သို႔ ခ်က္ခ်င္း Update ျပဳလုပ္ေပးပါ။ (သို႔မဟုတ္ website မွတဆင့္ လက္ရွိ version အား install ျပဳလုပ္ပါ)
+-မှတ်ချက်။ Jaunty expositories တွင် version 2.7.1 ပါရှိပြီး Security Worm အဖြစ်သတ်မှတ် ခံထားရပါမည်။ အကယ်၍ ထို version အား install ပြုလုပ်ထားပါက Tools - Upgrade menu မှ လက်ရှိ version သို့ ချက်ချင်း Update ပြုလုပ်ပေးပါ။ (သို့မဟုတ် website မှတဆင့် လက်ရှိ version အား install ပြုလုပ်ပါ)
 
-အလိုအေလ်ာက္ update ျပဳလုပ္လိုပါက Wordpress ၏ files မ်ားႏွင့္ Subfolder မ်ားကို www- data(apache 2 လုပ္ေဆာင္ခ်က္မ်ားအား ပိုင္ဆိုင္သည္) မွ update ျပဳလုပ္ရန္ ပိုင္ဆိုင္ရန္ လိုအပ္ပါသည္။
+အလိုအလျောက် update ပြုလုပ်လိုပါက Wordpress ၏ files များနှင့် Subfolder များကို www- data(apache 2 လုပ်ဆောင်ချက်များအား ပိုင်ဆိုင်သည်) မှ update ပြုလုပ်ရန် ပိုင်ဆိုင်ရန် လိုအပ်ပါသည်။
 
 	sudo chown-R www-data/usr/share/wordpress
-

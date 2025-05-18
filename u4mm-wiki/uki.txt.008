@@ -1,81 +1,81 @@
-﻿��း အခမဲ့ server မ်ားနဲ႕ ေဆာ့ကစားႏိုင္ပါတယ္။ (Package : alien- arena)
+﻿��း အခမဲ့ server များနဲ့ ဆော့ကစားနိုင်ပါတယ်။ (Package : alien- arena)
 (Server : alien-arena-server)
 
 sudo apt-get install alien-arena
 sudo apt-get install alien-arena-server
 
 OpenArena(http://www.openarena.ws/)-- Open-Source multi-player first person shooter
-အက္ရွင္ဂိမ္းျဖစ္ၿပီး အခမဲ့ server မ်ားနဲ႕ ေဆာ့ကစားႏိုင္ပါတယ္။
+အက်ရှင်ဂိမ်းဖြစ်ပြီး အခမဲ့ server များနဲ့ ဆော့ကစားနိုင်ပါတယ်။
 
 sudo apt-get install openaren
 sudo apt-get install openarena-server
 
-Tremulous (http://www.tremulous.net) -- Halo နဲ႕ဆင္တူၿပီး multiplayer first person shooter
-action ဂိမ္းျဖစ္ပါတယ္။ ေနာက္ဆံုးထြက္ ဗားရွင္းအတြက္ Repositories ရွိပါတယ္။
+Tremulous (http://www.tremulous.net) -- Halo နဲ့ဆင်တူပြီး multiplayer first person shooter
+action ဂိမ်းဖြစ်ပါတယ်။ နောက်ဆုံးထွက် ဗားရှင်းအတွက် Repositories ရှိပါတယ်။
 
 sudo apt-get install tremulous
 sudo apt-get install tremulous-server
 
-Sauerbraten (http://sauerbraten.org/) - Cuber မွျဖစ္ၿပီး Graphic ေကာင္းေကာင္းနဲ႕ multiplayer
-ေဆာ့ႏိုင္တဲ့ First person shooter game ျဖစ္ပါတယ္။
+Sauerbraten (http://sauerbraten.org/) - Cuber မှဖြစ်ပြီး Graphic ကောင်းကောင်းနဲ့ multiplayer
+ဆော့နိုင်တဲ့ First person shooter game ဖြစ်ပါတယ်။
 
 sudo apt-get install sauerbraten
 sudo apt-get install sauerbraten-server
 
-Nexuiz (http://www.alientrap.org/nexuiz/) -- (ၿပိဳင္ပြဲမ်ား) ပါ၀င္တဲ့ open-source multi-player
-First person shooter game ျဖစ္ၿပီး free servers မ်ားနဲ႕ေဆာ့ကစားႏိုင္ပါတယ္။
+Nexuiz (http://www.alientrap.org/nexuiz/) -- (ပြိုင်ပွဲများ) ပါဝင်တဲ့ open-source multi-player
+First person shooter game ဖြစ်ပြီး free servers များနဲ့ဆော့ကစားနိုင်ပါတယ်။
 
 sudo apt-get install nexuiz
 sudo apt-get install nexuiz-server
 
-ေျမပံု ၃၅ခုပါတဲ့ add-on community pack ကိုေတာ့ ဒီေနရာမွာ
-(http://www.alientrap.org/nexuiz/downloads.php) ရရွိႏိုင္ပါတယ္။ အဲတာကို install လုပ္ခ်င္ရင္ေတာ့
-map pack ကို /home/username/.nexuiz/data (ဒါမွမဟုတ္~ /.nexuiz/data)မွာ ျဖည္ခ်ေပးပါ။ မွတ္ခ်က္။
-ဒီထဲက ဂိမ္းေတာ္ေတာ္မ်ားမ်ားဟာ graphics လိုအပ္ခ်က္ေတြရွိပါတယ္။ ဒါေတြကို ေဆာ့မယ္ဆိုရင္ေတာ့
-သင့္အေနနဲ႕ hardware driver ေတြကို လံုလံုေလာက္ေလာက္ activate လုပ္ထားရပါမယ္။
+မြေပုံ ၃၅ခုပါတဲ့ add-on community pack ကိုတော့ ဒီနေရာမှာ
+(http://www.alientrap.org/nexuiz/downloads.php) ရရှိနိုင်ပါတယ်။ အဲတာကို install လုပ်ချင်ရင်တော့
+map pack ကို /home/username/.nexuiz/data (ဒါမှမဟုတ်~ /.nexuiz/data)မှာ ဖြည်ချပေးပါ။ မှတ်ချက်။
+ဒီထဲက ဂိမ်းတော်တော်များများဟာ graphics လိုအပ်ချက်တွေရှိပါတယ်။ ဒါတွေကို ဆော့မယ်ဆိုရင်တော့
+သင့်အနေနဲ့ hardware driver တွေကို လုံလုံလောက်လောက် activate လုပ်ထားရပါမယ်။
 
 Urban Terror
 
-Urban Terror (http://www.urbanterror.net) သည္ multiplayer first person shooter အက္ရွင္ဂိမ္း
-(ဆာဗာထည့္သြင္းၿပီး) ျဖစ္သည္။ ၄င္းသည္ open-source quake 3 engine ကိုအသံုးျပဳထားၿပီး တကယ့္
-လက္နက္မ်ား၏ အသံုးျပဳႏိုင္မႈမ်ားအား ထည့္သြင္းေပးထားသည္။အခမဲ့ server မ​်ားျဖင့္ multi-player
-ေဆာ့ႏိုင္ေစရန္ ျပဳလုပ္ေပးထားသည္။ဂ်ာမနီႏိုင္ငံတြင္ လူငယ္မ်ားေဆာ့ကစားခြင့္အား ပိတ္ပင္ထားပါသည္။
-Download ျပဳလုပ္ၿပီး ဤအညႊန္း (http://www.urbanterror.info/docs/texts/110) ကိုအသံုးျပဳကာ install
-လုပ္ႏိုင္ပါသည္။
+Urban Terror (http://www.urbanterror.net) သည် multiplayer first person shooter အက်ရှင်ဂိမ်း
+(ဆာဗာထည့်သွင်းပြီး) ဖြစ်သည်။ ၎င်းသည် open-source quake 3 engine ကိုအသုံးပြုထားပြီး တကယ့်
+လက်နက်များ၏ အသုံးပြုနိုင်မှုများအား ထည့်သွင်းပေးထားသည်။အခမဲ့ server များဖြင့် multi-player
+ဆော့နိုင်စေရန် ပြုလုပ်ပေးထားသည်။ဂျာမနီနိုင်ငံတွင် လူငယ်များဆော့ကစားခွင့်အား ပိတ်ပင်ထားပါသည်။
+Download ပြုလုပ်ပြီး ဤအညွှန်း (http://www.urbanterror.info/docs/texts/110) ကိုအသုံးပြုကာ install
+လုပ်နိုင်ပါသည်။
 
 Domm
 
-Skulltag ရဲ႕ZDoom (http://zdoom.org/wiki/Compile_ZDoom_on_Linux) နဲ႕ ProBoom (Freedoom)
-တို႕ဟာ Doom2 ရဲ႕ ဗားရွင္းခြဲေတြျဖစ္ပါတယ္။ Doom3 အတြက္ကိုေတာ့ Ubuntu ေပၚက Doom3
-(http://help.ubuntu.com/community/Doom3) မွာ ႀကည့္႐ႈႏိုင္ပါတယ္။
+Skulltag ရဲ့ZDoom (http://zdoom.org/wiki/Compile_ZDoom_on_Linux) နဲ့ ProBoom (Freedoom)
+တို့ဟာ Doom2 ရဲ့ ဗားရှင်းခွဲတွေဖြစ်ပါတယ်။ Doom3 အတွက်ကိုတော့ Ubuntu ပေါ်က Doom3
+(http://help.ubuntu.com/community/Doom3) မှာ ကြည့်ရှုနိုင်ပါတယ်။
 
 Skulltag
 
-Skulltag(http://skulltag.net/wiki/Installation_for_Ubuntu) သည္ ZDoom
-(http://zdoom.org/wiki/Compile_ZDoom_on_Linux) ကို အဆင့္ၿမႇင့္တင္ထားေသာ  ဗားရွင္းျဖစ္ၿပီး
-network play ကစားႏိုင္ပါသည္။ (K)Ubuntu တြင္ install လုပ္နည္းအား website 
-(http://skulltage.net/wiki/Installation_for_Ubuntu)တြင္ ႀကည့္႐ႈႏိုင္ပါသည္။(အကယ္၍သင့္တြင္ မူလ
-Doom2.wad မရွိပါက ေအာက္တြင္ ေဖာ္ၿပထားေသာ Freedom Iwad ကို အသံုးျပဳႏိုင္ပါသည္။) မွတ္ခ်က္
-Modules အေတာ္မ်ားမ်ားသည္ Universe repositories မွ သီးျခားလိုအပ္ပါသည္။သင့္အေနျဖင့္ Universe
-repositories ကို enable ျပဳလုပ္ထားရန္လိုအပ္သည္။ Synaptic Package Manager -Settings -
+Skulltag(http://skulltag.net/wiki/Installation_for_Ubuntu) သည် ZDoom
+(http://zdoom.org/wiki/Compile_ZDoom_on_Linux) ကို အဆင့်မြှင့်တင်ထားသော  ဗားရှင်းဖြစ်ပြီး
+network play ကစားနိုင်ပါသည်။ (K)Ubuntu တွင် install လုပ်နည်းအား website 
+(http://skulltage.net/wiki/Installation_for_Ubuntu)တွင် ကြည့်ရှုနိုင်ပါသည်။(အကယ်၍သင့်တွင် မူလ
+Doom2.wad မရှိပါက အောက်တွင် ဖော်ပြထားသော Freedom Iwad ကို အသုံးပြုနိုင်ပါသည်။) မှတ်ချက်
+Modules အတော်များများသည် Universe repositories မှ သီးခြားလိုအပ်ပါသည်။သင့်အနေဖြင့် Universe
+repositories ကို enable ပြုလုပ်ထားရန်လိုအပ်သည်။ Synaptic Package Manager -Settings -
 Repositories - Edit Software Sources - Community-maintained Open Source software (universe)
--(အမွန္ျခစ္ေပးပါ။))
+-(အမှန်ခြစ်ပေးပါ။))
 
 Install prerequisites:
 
-Install ျပဳလုပ္ရန္ ႀကိဳတင္ျပင္ဆင္မႈ
+Install ပြုလုပ်ရန် ကြိုတင်ပြင်ဆင်မှု
 
 sudo apt-get install timidity timidity-interfaces-extra
 
-ထို႕ေနာက္ skulltage ၏ repositories မ်ား update မ်ားထည့္၍ skulltage ႏွင့္ DoomSeeker(Skulltag 
-online server) အား install ျပဳလုပ္ပါ။
+ထို့နောက် skulltage ၏ repositories များ update များထည့်၍ skulltage နှင့် DoomSeeker(Skulltag 
+online server) အား install ပြုလုပ်ပါ။
 
 echo deb http://skulltag.net/download/files/release/deb/ jaunty multiverse / sudo tee /etc/apt/sour
 sudo apt-get update
 sudo apt-get install skulltage doomseeker-skulltag
 
-အကယ္၍ သင့္တြင္ doom2.wad,tnt.wad သို႕မဟုတ္ plutonia.wad မရွိပါက freedoom.wad ကိုသင့္
-~/.skulltag folder သို႕ copy လုပ္ႏိုင္ပါသည္။
+အကယ်၍ သင့်တွင် doom2.wad,tnt.wad သို့မဟုတ် plutonia.wad မရှိပါက freedoom.wad ကိုသင့်
+~/.skulltag folder သို့ copy လုပ်နိုင်ပါသည်။
 
 cd ~/.skulltag
 wget http:/mirror.cinquix.com/pub/savannah/freedoom/freedoom-iwad/freedoom-iwad-0.6.4.zip/
@@ -83,34 +83,34 @@ unzip freedoom-iwad-0.6.4.zip
 cp freedoom+/doom2.wad.
 rm freedoom-iwad-0.6.4.zip
 
-အကယ္၍ သင့္တြင္ (skulltag-server,firewalls ႏွင့္ skulltag ျဖင့္ port forwarding
-ျပဳလုပ္ျခင္းတို႕အတြက္)အကူအညီမ်ားလိုအပ္ပါက ဤထပ္တိုး လမ္းညႊန္ခ်က္မ်ားအား ႀကည့္ပါ။
+အကယ်၍ သင့်တွင် (skulltag-server,firewalls နှင့် skulltag ဖြင့် port forwarding
+ပြုလုပ်ခြင်းတို့အတွက်)အကူအညီများလိုအပ်ပါက ဤထပ်တိုး လမ်းညွှန်ချက်များအား ကြည့်ပါ။
 
-Skulltag ကို မည္သည့္ platform, မည္သည့္ graphics, မည္သည့္ စက္တြင္မဆိုအသံုးျပဳႏိုင္ပါသည္။
-၄င္းတြင္ ေထာင္ေပါင္းမ်ားစြာေသာ add-on မ်ား၊ေျမပံုမ်ား၊ gameplay mode မ်ားအား
-ေရြးခ်ယ္မကုန္ႏိုင္ေအာင္ အသံုးျပဳကစားႏိုင္ပါသည္။
+Skulltag ကို မည်သည့် platform, မည်သည့် graphics, မည်သည့် စက်တွင်မဆိုအသုံးပြုနိုင်ပါသည်။
+၎င်းတွင် ထောင်ပေါင်းများစွာသော add-on များ၊မြေပုံများ၊ gameplay mode များအား
+ရွေးချယ်မကုန်နိုင်အောင် အသုံးပြုကစားနိုင်ပါသည်။
 
 PrBoom
 
-PrBoom (http://prboom.sourceforge.net/) သည္ မူလ first person shooter action game ျဖစ္သည့္
-Doom2 (http://en.wikipedia.org/wiki/Doom_II) သည္ အခမဲ့ open source port ျဖစ္သည္။၄င္းတြင္
-ZDoom ၏ advanced option  မ်ားပါ၀င္ျခင္းမရွိပါ။Freedoom သည္မူလ Doom2,wad ကိုေနရာယူမည့္ 
-အခမဲ့ Iwad (ေျမပံုစု)ျဖစ္ပါသည္။
+PrBoom (http://prboom.sourceforge.net/) သည် မူလ first person shooter action game ဖြစ်သည့်
+Doom2 (http://en.wikipedia.org/wiki/Doom_II) သည် အခမဲ့ open source port ဖြစ်သည်။၎င်းတွင်
+ZDoom ၏ advanced option  များပါဝင်ခြင်းမရှိပါ။Freedoom သည်မူလ Doom2,wad ကိုနေရာယူမည့် 
+အခမဲ့ Iwad (မြေပုံစု)ဖြစ်ပါသည်။
 
 sudo apt-get install prboom freedoom timidity timidity-interfaces-extra
 
-ဤဂိမ္းအတြက္ ေထာင္ေပါင္းမ်ားစြာေသာ ေျမပံု (Wads)
-(http://www.doomword.com/10years/bestwads/) ရွိပါသည္။သင့္ home directory သည္ သင့္
-ေျမပံု (wads) မ်ား သိမ္းဆည္းရန္ အလြယ္ကူဆံုးေနရာျဖစ္ပါသည္။
+ဤဂိမ်းအတွက် ထောင်ပေါင်းများစွာသော မြေပုံ (Wads)
+(http://www.doomword.com/10years/bestwads/) ရှိပါသည်။သင့် home directory သည် သင့်
+မြေပုံ (wads) များ သိမ်းဆည်းရန် အလွယ်ကူဆုံးနေရာဖြစ်ပါသည်။
 
 mkdir /home/user/wads
 
-သို႕မဟုတ္ အေျပာင္းအလဲအေနျဖင့္ /user/share/games/doom folder, ကိုအသံုးျပဳ၍ folder
-အားမည္သူမဆို အသံုးျပဳႏိုင္ေႀကာင္း ေျပာင္းလဲသတ္မွတ္ေပးႏိုင္ပါသည္။
+သို့မဟုတ် အပြောင်းအလဲအနေဖြင့် /user/share/games/doom folder, ကိုအသုံးပြု၍ folder
+အားမည်သူမဆို အသုံးပြုနိုင်ကြောင်း ပြောင်းလဲသတ်မှတ်ပေးနိုင်ပါသည်။
 
 chmod -R 777/usr/share/games/doom
 
-သင့္မူလဂိမ္းထဲမွ doom2.wad,tnt.wad,ႏွင့္ plutonia.wad တို႕အား ဤ folder ထဲတြင္ထည့္ပါ။
-အကယ္ဤသင့္တြင္မရွိပါက usr/share/games/freedoom version မွ doom2.wad ကို ဤ 
-folder သို႕ copy လုပ္ႏိုင္ပါသည္။သင္ internet မွ Download လုပ္ထားေသာ .wad ဖိုင္အသစ္မ်ားကိုလည္း ဤ
-folder ထဲတြင္ပင္ ထည့္သြင္းပါ။ ၿပီးေနာက္ ဂိမ္းအား မူလ ေျမပံုျဖင့္ျဖစ္ေစ၊သင့္ .wad ေျမပံုသစ္ျဖင့္ျဖစ
+သင့်မူလဂိမ်းထဲမှ doom2.wad,tnt.wad,နှင့် plutonia.wad တို့အား ဤ folder ထဲတွင်ထည့်ပါ။
+အကယ်ဤသင့်တွင်မရှိပါက usr/share/games/freedoom version မှ doom2.wad ကို ဤ 
+folder သို့ copy လုပ်နိုင်ပါသည်။သင် internet မှ Download လုပ်ထားသော .wad ဖိုင်အသစ်များကိုလည်း ဤ
+folder ထဲတွင်ပင် ထည့်သွင်းပါ။ ပြီးနောက် ဂိမ်းအား မူလ မြေပုံဖြင့်ဖြစ်စေ၊သင့် .wad မြေပုံသစ်ဖြင့်ဖြစ

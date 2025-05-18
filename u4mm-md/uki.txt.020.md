@@ -1,23 +1,23 @@
 
 ####Joomla (Web content publishing)
 
-[Joomla](http://www.joomla.org/) သည္ website မ်ား ျပဳလုပ္ရာတြင္ ရိုးရွင္းသည့္ ပံုစံမ်ားမွ ရႈပ္ေထြးေသာ ပူးေပါင္းေဆာင္ရြက္မ်ားအထိ အသံုးျပဳႏိုင္ေသာ စြမ္းအားျမင့္ open source tool ျဖစ္သည္။ စတင္အသံုးျပဳရန္ [info for beginners](http://docs.joomla.org/Beginners) ကို ၾကည့္ရႈသင့္သည္။
+[Joomla](http://www.joomla.org/) သည် website များ ပြုလုပ်ရာတွင် ရိုးရှင်းသည့် ပုံစံများမှ ရှုပ်ထွေးသော ပူးပေါင်းဆောင်ရွက်များအထိ အသုံးပြုနိုင်သော စွမ်းအားမြင့် open source tool ဖြစ်သည်။ စတင်အသုံးပြုရန် [info for beginners](http://docs.joomla.org/Beginners) ကို ကြည့်ရှုသင့်သည်။
 
 ####Scribus (Desktop publishing)
 
-[Scribus](http://www.scribus.net/) သည္ desktop publishing အတြက္ professional တစ္ခုအျဖစ္ အသံုးျပဳႏိုင္ေသာ open-source package တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္
+[Scribus](http://www.scribus.net/) သည် desktop publishing အတွက် professional တစ်ခုအဖြစ် အသုံးပြုနိုင်သော open-source package တစ်ခုဖြစ်သည်။ Install ပြုလုပ်ရန်
 
 	sudo apt-get install scribus
 
 #### Plone (Content Management System)
 
-[Plone](https://plone.org/) သည္ ကမ ၻာအႏွံ႔ရွိ လုပ္ငန္းႀကီးမ်ားတြင္ အသံုးျပဳေနသည့္ content management system ျဖစ္ၿပီး platform မ်ဳိးစံုတြင္ အခမဲ့ အသံုးျပဳႏို္င္ေသာ open source (GPL - licensed ) system ျဖစ္သည္။ Installer ကို [ဒီေနရာ](http://plone.org/products/plone) တြင္ ရယူႏိုင္သည္။ Python ကို ေျပာင္းလဲထားေသာေၾကာင့္ အခ်ဳိ႕အသံုးျပဳသူမ်ားအေနျဖင့္ Jaunty တြင္ အခက္အခဲေတြ႔ႏိုင္ပါသည္။
+[Plone](https://plone.org/) သည် ကမ ္ဘာအနှံ့ရှိ လုပ်ငန်းကြီးများတွင် အသုံးပြုနေသည့် content management system ဖြစ်ပြီး platform မျိုးစုံတွင် အခမဲ့ အသုံးပြုနိုင်သော open source (GPL - licensed ) system ဖြစ်သည်။ Installer ကို [ဒီနေရာ](http://plone.org/products/plone) တွင် ရယူနိုင်သည်။ Python ကို ပြောင်းလဲထားသောကြောင့် အချို့အသုံးပြုသူများအနေဖြင့် Jaunty တွင် အခက်အခဲတွေ့နိုင်ပါသည်။
 
 ####Gallery (Photo album website)
 
-[Gallery](http://gallery.menalto.com/) သည္ PHP ကို အေျချပဳထားၿပီး ဓာတ္ပံု အယ္လ္ဘမ္မ်ားအား website တြင္ ျပသႏိုင္ေအာင္ ျပဳလုပ္ေပးသည့္ tool တစ္ခုျဖစ္သည္။ Drupal အတြက္ Gallery 2 Drupal interface အား ရရွိႏိုင္ပါသည္။ Install ျပဳလုပ္ရန္
+[Gallery](http://gallery.menalto.com/) သည် PHP ကို အခြေပြုထားပြီး ဓာတ်ပုံ အယ်လ်ဘမ်များအား website တွင် ပြသနိုင်အောင် ပြုလုပ်ပေးသည့် tool တစ်ခုဖြစ်သည်။ Drupal အတွက် Gallery 2 Drupal interface အား ရရှိနိုင်ပါသည်။ Install ပြုလုပ်ရန်
 
-[php BB (Forums) php BB](http://www.php BB.com/) သည္ Forum မ်ားတည္ေဆာက္ရန္ အသံုးျပဳသည့္ အခမဲ့ open source platform တစ္ခုျဖစ္သည္။ LAMP server (သို႔မဟုတ္) PostgreSQL database အား install ျပဳလုပ္ထားရန္ လိုအပ္သည္။ Install ျပဳလုပ္ရန္အတြက္ universe repositories အား enable ျပဳလုပ္ထားရန္ အထူးလိုအပ္သည္။ Install ျပဳလုပ္ရန္
+[php BB (Forums) php BB](http://www.php BB.com/) သည် Forum များတည်ဆောက်ရန် အသုံးပြုသည့် အခမဲ့ open source platform တစ်ခုဖြစ်သည်။ LAMP server (သို့မဟုတ်) PostgreSQL database အား install ပြုလုပ်ထားရန် လိုအပ်သည်။ Install ပြုလုပ်ရန်အတွက် universe repositories အား enable ပြုလုပ်ထားရန် အထူးလိုအပ်သည်။ Install ပြုလုပ်ရန်
 
 	sudo apt-get install phpbb3
 
@@ -25,31 +25,31 @@
 
 ####Moodle
 
-Moodle သည္ အြန္လိုင္း သင္ၾကားေရး cource မ်ား hosting ျပဳလုပ္ႏုိင္ရန္အတြက္ အခမဲ့ open source platform တစ္ခုျဖစ္သည္။ Webinar software ျဖင့္လည္း တြဲဖက္အသံုးျပဳႏိုင္သည္။ LAMP server အား Install ျပဳလုပ္ထားရန္ (sudo tasksel install lamp-server) လိုအပ္သည္။ Moodle ၏ အခမဲ့ theme မ်ားအား ဤေနရာတြင္ ရယူႏုိင္သည္။ Install ျပဳလုပ္ရန္
+Moodle သည် အွန်လိုင်း သင်ကြားရေး cource များ hosting ပြုလုပ်နိုင်ရန်အတွက် အခမဲ့ open source platform တစ်ခုဖြစ်သည်။ Webinar software ဖြင့်လည်း တွဲဖက်အသုံးပြုနိုင်သည်။ LAMP server အား Install ပြုလုပ်ထားရန် (sudo tasksel install lamp-server) လိုအပ်သည်။ Moodle ၏ အခမဲ့ theme များအား ဤနေရာတွင် ရယူနိုင်သည်။ Install ပြုလုပ်ရန်
 
 	sudo apt-get moode
 
-Moodle အတြက္ Database server software (mysql-server-) ထည့္သြင္းလိုပါက ေဖာ္ျပပါ လမ္းညႊန္ခ်က္မ်ားအား လုပ္ေဆာင္ပါ။ Moodle အား ထည့္သြင္းထားသည့္ computer ေပၚတြင္ database အား တည္ေဆာက္၍ localhost option အား acept လုပ္ပါ။ လိုအပ္ပါက Moodle configuration အား တည္းျဖတ္ပါ။
+Moodle အတွက် Database server software (mysql-server-) ထည့်သွင်းလိုပါက ဖော်ပြပါ လမ်းညွှန်ချက်များအား လုပ်ဆောင်ပါ။ Moodle အား ထည့်သွင်းထားသည့် computer ပေါ်တွင် database အား တည်ဆောက်၍ localhost option အား acept လုပ်ပါ။ လိုအပ်ပါက Moodle configuration အား တည်းဖြတ်ပါ။
 
 	sudo gedit/etc/moodle/config.php
 
-လုိအပ္ပါက `Moodle apache 2 configuration file` အား တည္းျဖတ္ပါ။
+လိုအပ်ပါက `Moodle apache 2 configuration file` အား တည်းဖြတ်ပါ။
 
 sudo gedit/etc/moodle/apache.conf
 
-Browser မွတဆင့္ install ျပဳလုပ္ျခင္းအား အဆံုးသတ္ပါ။ (unattended install ျပဳလုပ္ျခင္းမွာ ပိုသင့္ေတာ္ပါသည္။)
+Browser မှတဆင့် install ပြုလုပ်ခြင်းအား အဆုံးသတ်ပါ။ (unattended install ပြုလုပ်ခြင်းမှာ ပိုသင့်တော်ပါသည်။)
 
 `http://localhost/moodle/admin` 
 
-စံုလင္စြာေလ့လာရန္အတြက္ အေသးစိတ္အခ်က္အလက္မ်ားတြင္ ၾကည့္ရႈပါ။
+စုံလင်စွာလေ့လာရန်အတွက် အသေးစိတ်အချက်အလက်များတွင် ကြည့်ရှုပါ။
 
 ####Claroline
 
-[Claroline](http://www.claroline.net/) သည္ e-learning course မ်ား hosting ျပဳလုပ္ရန္ႏွင့္ ေက်ာင္းသား/ေက်ာင္းသူမ်ား အြန္လိုင္းတြင္ ပူးေပါင္းလုပ္ေဆာင္ႏုိင္ရန္အတြက္ ျပဳလုပ္ထားသည့္ အခမဲ့ open-source platform တစ္ခုျဖစ္သည္။ Install ျပဳလုပ္ရန္အတြက္ LAMP server အား install ျပဳလုပ္ထားရန္လိုအပ္သည္။ installation အတြက္ source file အား ၎ website တြင္ရယူႏိုင္ၿပီး လမ္းညႊန္ခ်က္မ်ားအား [ဤေနရာတြင္](http://www.claroline.net/documentation/tutorials.html) ေတြ႔ႏုိင္သည္။
+[Claroline](http://www.claroline.net/) သည် e-learning course များ hosting ပြုလုပ်ရန်နှင့် ကျောင်းသား/ကျောင်းသူများ အွန်လိုင်းတွင် ပူးပေါင်းလုပ်ဆောင်နိုင်ရန်အတွက် ပြုလုပ်ထားသည့် အခမဲ့ open-source platform တစ်ခုဖြစ်သည်။ Install ပြုလုပ်ရန်အတွက် LAMP server အား install ပြုလုပ်ထားရန်လိုအပ်သည်။ installation အတွက် source file အား ၎င်း website တွင်ရယူနိုင်ပြီး လမ်းညွှန်ချက်များအား [ဤနေရာတွင်](http://www.claroline.net/documentation/tutorials.html) တွေ့နိုင်သည်။
 
 ####Dokeos
 
-[Dokeos](http://www.dokeos.com/) သည္ အခမဲ့ သင္ၾကားေရး platform တစ္ခုျဖစ္ၿပီး ေဆးပညာဆိုင္ရာ ပံုမ်ား၊ case presentation မ်ားပါ ပါ၀င္သည္။ ဥေရာပတြင္ က်ယ္က်ယ္ျပန္႔ျပန္႔ အသံုးျပဳေနၾကပါသည္။
+[Dokeos](http://www.dokeos.com/) သည် အခမဲ့ သင်ကြားရေး platform တစ်ခုဖြစ်ပြီး ဆေးပညာဆိုင်ရာ ပုံများ၊ case presentation များပါ ပါဝင်သည်။ ဥရောပတွင် ကျယ်ကျယ်ပြန့်ပြန့် အသုံးပြုနေကြပါသည်။
 
 ###Software Development
 

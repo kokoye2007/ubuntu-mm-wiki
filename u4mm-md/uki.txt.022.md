@@ -22,14 +22,14 @@ CD-ROM). You can create a CD-ROM using these [Pendrivelinux instrctions](http://
 
 ######Grub2
 
-Ubuntu 11.04 (Natty) တြင္ boot manager အျဖစ္ (customize လုပ္ရန္ ရႈပ္ေထြးေသာ) [Grub2](http://www.gnu.org/software/grub/maunal/grub.html) ပါလာပါသည္။ (Grub2 ႏွင့္ grub-pc သည္ 
-တစ္မ်ဳိးတည္းသာ ျဖစ္သည္။) Grub2 အတြက္ ညႊန္ၾကားခ်က္မ်ားကို [Ubuntu wiki](http://wiki.ubuntu.com/Grub2) သို႔မဟုတ္ [Ubuntu forums](http://ubuntuforums.org/showthread.php?t=1195275) မ်ားတြင္ ၾကည့္ရႈႏုိင္သည္။ အၾကမ္းအားျဖင့္
+Ubuntu 11.04 (Natty) တွင် boot manager အဖြစ် (customize လုပ်ရန် ရှုပ်ထွေးသော) [Grub2](http://www.gnu.org/software/grub/maunal/grub.html) ပါလာပါသည်။ (Grub2 နှင့် grub-pc သည် 
+တစ်မျိုးတည်းသာ ဖြစ်သည်။) Grub2 အတွက် ညွှန်ကြားချက်များကို [Ubuntu wiki](http://wiki.ubuntu.com/Grub2) သို့မဟုတ် [Ubuntu forums](http://ubuntuforums.org/showthread.php?t=1195275) များတွင် ကြည့်ရှုနိုင်သည်။ အကြမ်းအားဖြင့်
 
 	sudo nano /etc /default /grub
 	sudo grub-mkconfig--output=/boot/grub/grub.cfg
 
 
-အျခားေသာနည္းလမ္းအေနျဖင့္ ေအာက္ပါ command ကို အသံုးျပဳႏိုင္သည္။
+အခြားသောနည်းလမ်းအနေဖြင့် အောက်ပါ command ကို အသုံးပြုနိုင်သည်။
 
 	sudo update-grub
 
@@ -47,74 +47,73 @@ the GRUB configuration as above and add the line:
 
 Grub2 background image,colors,fonts
 
--Grub2 အတြက္ ေနာက္ခံပုံရိပ္မ်ား၊ အေရာင္မ်ား ၊ Font မ်ား [ဤေနရာတြင္](http://ubuntuforums.org/showthread.php?p=10720685#post10720685) ၾကည့္ပါ။
+-Grub2 အတွက် နောက်ခံပုံရိပ်များ၊ အရောင်များ ၊ Font များ [ဤနေရာတွင်](http://ubuntuforums.org/showthread.php?p=10720685#post10720685) ကြည့်ပါ။
 
--Grub2 တြင္ မည္သည့္ ေနာက္ခံပံုကို သံုးသည္ျဖစ္ေစ အသံုးျပဳမည့္ပံုကို `/boot/grub` ဖိုင္တြဲတြင္ ထည့္၍ Grub2 ကို configure လုပ္ျခင္းျဖင့္ အသံုးျပဳႏုိင္သည္။
+-Grub2 တွင် မည်သည့် နောက်ခံပုံကို သုံးသည်ဖြစ်စေ အသုံးပြုမည့်ပုံကို `/boot/grub` ဖိုင်တွဲတွင် ထည့်၍ Grub2 ကို configure လုပ်ခြင်းဖြင့် အသုံးပြုနိုင်သည်။
 
 	sudo update grub
 
-အသံုးျပဳမည့္ပံုသည္ `/etc /default /grub` တြင္ ရွိသည့္ Grub 2 စတင္လုပ္ေဆာင္ရန္ သတ္မွတ္ထားေသာ
-ပံုအရည္အေသြးႏွင့္ တူညီရမည္။ (ဥပမာ 1024 x 768)
+အသုံးပြုမည့်ပုံသည် `/etc /default /grub` တွင် ရှိသည့် Grub 2 စတင်လုပ်ဆောင်ရန် သတ်မှတ်ထားသော
+ပုံအရည်အသွေးနှင့် တူညီရမည်။ (ဥပမာ 1024 x 768)
 
--ေရြးခ်ယ္ထားေသာ splashimage မ်ားကို `/usr/share/image/grub` ဖိုင္တြဲတြင္ ထည့္သြင္း၍ 
-  အသံုးျပဳႏိုင္သည္။
+-ရွေးချယ်ထားသော splashimage များကို `/usr/share/image/grub` ဖိုင်တွဲတွင် ထည့်သွင်း၍ 
+  အသုံးပြုနိုင်သည်။
 
 	sudo apt-get install grub2-splashimages
 
--အသံုးျပဳလိုေသာ ပံုရိပ္တစ္ခုကို `/boot/grub` ဖို္င္တြဲတြင္ ထည့္၍ splashimage အေနျဖင့္အသံုးျပဳႏိုင္သည္။ ဥပမာ
+-အသုံးပြုလိုသော ပုံရိပ်တစ်ခုကို `/boot/grub` ဖိုင်တွဲတွင် ထည့်၍ splashimage အနေဖြင့်အသုံးပြုနိုင်သည်။ ဥပမာ
 
 	sudo in -s /usr /share /images /grub /Plasma-lamp.tga/boot/grub
 	sudo update-grub
 
-#####Grub 2 အား ခ်ဳိးေဖာက္၀င္ေရာက္ျခင္း မျပဳႏုိင္ရန္ ကာကြယ္ျခင္း
+#####Grub 2 အား ချိုးဖောက်ဝင်ရောက်ခြင်း မပြုနိုင်ရန် ကာကွယ်ခြင်း
 
--Grub2 ကို ကာကြယ္ရန္ အေရးႀကီးေသာ အခ်က္မ်ားကို [Grub Manual](http://www.gnu.org/software/grub/manual/grub.html#Security ) တြင္ ၾကည့္ပါ။
+-Grub2 ကို ကာကွယ်ရန် အရေးကြီးသော အချက်များကို [Grub Manual](http://www.gnu.org/software/grub/manual/grub.html#Security ) တွင် ကြည့်ပါ။
 
--စကား၀ွက္ထည့္သြင္းရန္အတြက္ /etc/grut.d/40_custom configuration file တြင္ ေအာက္ပါ command ကို ရိုက္ထည့္ပါ။
+-စကားဝှက်ထည့်သွင်းရန်အတွက် /etc/grut.d/40_custom configuration file တွင် အောက်ပါ command ကို ရိုက်ထည့်ပါ။
 	set superusers=user1
 	password_pbkdf2 user1 grub.pbkdf2.sha512.10000.biglongstring
 	password user1 insecurecleartextpassword
 
 
-စကား၀ွက္ေနရာတြင္ insecurecleartextpassword အစား သင္၏ စကား၀ွက္ ထည့္သြင္းအသံုးျပဳရပါမည္။
-သို႔မဟုတ္ [ဤေနရာ](http://www.gnu.org/software/grub/manual/grub.html#Security) တြင္ ျပထားေသာ pbkdf2-encrypted နည္းလမ္းကို အသံုးျပဳ၍ ကာကြယ္ႏုိင္သည္။ သင္၏ Ubuntu OS Grub2 လံုျခံဳေရးႏွင့္ ပတ္သက္၍ အေသးစိတ္ကို ဤ [Blog](http://www.panoet.com/set-grub-2-password-protection-149) တြင္ ဖတ္ရႈႏိုင္သည္။
+စကားဝှက်နေရာတွင် insecurecleartextpassword အစား သင်၏ စကားဝှက် ထည့်သွင်းအသုံးပြုရပါမည်။
+သို့မဟုတ် [ဤနေရာ](http://www.gnu.org/software/grub/manual/grub.html#Security) တွင် ပြထားသော pbkdf2-encrypted နည်းလမ်းကို အသုံးပြု၍ ကာကွယ်နိုင်သည်။ သင်၏ Ubuntu OS Grub2 လုံခြုံရေးနှင့် ပတ်သက်၍ အသေးစိတ်ကို ဤ [Blog](http://www.panoet.com/set-grub-2-password-protection-149) တွင် ဖတ်ရှုနိုင်သည်။
 
 ####GRUB Legacy
 
-Boot partition တစ္ခုႏွင့္ အသံုးျပဳရန္ GRUB ၏ version အေဟာင္းျဖစ္သည့္ (Grub [Legacy](http://www.gnu.org/software/grub/manual/legacy/grub.html) ကို ရယူႏုိင္သည္။ Grub Legacy ကို ထည့္သြင္းရန္အတြက္
+Boot partition တစ်ခုနှင့် အသုံးပြုရန် GRUB ၏ version အဟောင်းဖြစ်သည့် (Grub [Legacy](http://www.gnu.org/software/grub/manual/legacy/grub.html) ကို ရယူနိုင်သည်။ Grub Legacy ကို ထည့်သွင်းရန်အတွက်
 
 	sudo apt-get install grub
 
--အကယ္၍ သင့္ကြန္ပ်ဴတာတြင္ operation system တစ္ခုထပ္ပိုရွိေနပါက multiple operation systems (OS) ျဖစ္ေနၿပီး သင္သည္ Grub Legacy boot manager ကို သံုးစြဲဖူးၿပီး ျဖစ္ေကာင္းျဖစ္ႏုိင္သည္။ Grub Legacy ၏ option မ်ားကို menu.1st configuration file တြင္ တည္းျဖတ္ျပင္ဆင္ႏုိင္သည္။ အေသးစိတ္ကို ၾကည့္ရႈႏိုင္သည္။
+-အကယ်၍ သင့်ကွန်ပျူတာတွင် operation system တစ်ခုထပ်ပိုရှိနေပါက multiple operation systems (OS) ဖြစ်နေပြီး သင်သည် Grub Legacy boot manager ကို သုံးစွဲဖူးပြီး ဖြစ်ကောင်းဖြစ်နိုင်သည်။ Grub Legacy ၏ option များကို menu.1st configuration file တွင် တည်းဖြတ်ပြင်ဆင်နိုင်သည်။ အသေးစိတ်ကို ကြည့်ရှုနိုင်သည်။
 
 	sudo nano /boot /grub /menu.1st
 
-(text editor အျဖစ္ nano အစား gedit ကို အသံုးျပဳႏိုင္သည္။)
+(text editor အဖြစ် nano အစား gedit ကို အသုံးပြုနိုင်သည်။)
 
-####Grub Legacy မွ data မ်ား ရယူ၍ Grub2 တြင္ ျပန္လည္ အသံုးျပဳျခင္း
+####Grub Legacy မှ data များ ရယူ၍ Grub2 တွင် ပြန်လည် အသုံးပြုခြင်း
 
-Grub Legacy မွ data မ်ားရယူ၍ Grub2 တြင္ အသံုးျပဳရန္အတြက္ Grub Legacy ၏ menu.1st configuration file တြင္ ဤပံုစံျဖင့္ မိမိ OS မ်ားကို ျဖည့္သြင္းပါ။ (menu.1st ဖိုင္ကို boot partition တြင္ သိမ္းဆည္းထားသည္။)
+Grub Legacy မှ data များရယူ၍ Grub2 တွင် အသုံးပြုရန်အတွက် Grub Legacy ၏ menu.1st configuration file တွင် ဤပုံစံဖြင့် မိမိ OS များကို ဖြည့်သွင်းပါ။ (menu.1st ဖိုင်ကို boot partition တွင် သိမ်းဆည်းထားသည်။)
 
 	title Kubuntu Maverisk OS (chainloader)
 	rootnoverity (hdo,6)
 	kernel /boot /grub /core.img
 
-သို႔မဟုတ္
+သို့မဟုတ်
 
 	title Kubuntu Maverick OS (chainloader)
 	rootnoverify  (hdo,6)
 	configfile/boot/grub.cfg
 
 
-#####Grub Legacy ကိုခ်ိဳးေဖာက္၀င္ေရာက္ျခင္းမျပဳႏုိင္ရန္ ကာကြယ္ျခင္း
+#####Grub Legacy ကိုချိုးဖောက်ဝင်ရောက်ခြင်းမပြုနိုင်ရန် ကာကွယ်ခြင်း
 
--Grub Legacy ကိုကာကြယ္ရန္ အေရးၾကီးေသာအခ်က္မ်ားကို this section of [the Grub Manual](http://www.gnu.org/software/grub/manual/legacy/grub.htm#Security) တြင္ ၾကည့္ပါ။
+-Grub Legacy ကိုကာကွယ်ရန် အရေးကြီးသောအချက်များကို this section of [the Grub Manual](http://www.gnu.org/software/grub/manual/legacy/grub.htm#Security) တွင် ကြည့်ပါ။
 
--စကား၀ွက္ထည့္သြင္း ကာကြယ္ရန္အတြက္ `/boot/grub/menu.1st` configuration file တြင္ ေအာက္ပါ  command line ကို uncomment လုပ္ပါ (hash သေကၤတကို ဖယ္ထုတ္ပါ။)
+-စကားဝှက်ထည့်သွင်း ကာကွယ်ရန်အတွက် `/boot/grub/menu.1st` configuration file တွင် အောက်ပါ  command line ကို uncomment လုပ်ပါ (hash သင်္ကေတကို ဖယ်ထုတ်ပါ။)
 
 #####password topsecret
 
-ထို႔ေနာက္ စကား၀ွက္ထည့္သြင္း၍ သို႔မဟုတ္ [ဤေနရာ](http://www.gnu.org/software/grub/manual/legacy/grub.html1#Security ) တြင္ ျပထားေသာ md5-
-encrypted နည္းလမ္းကို အသံုးျပဳ၍ ကာကြယ္ႏုိင္သည္။ menu item မ်ားကို စကား၀ွက္ျဖင့္ ကာကြယ္ရန္ မည္သည့္ item menu ၏ ေခါင္းစဥ္ေအာက္တြင္မဆို ကာကြယ္ထားေၾကာင္း အမွတ္အသားျဖစ္သည့္ lock ကို 
-ထည့္သြင္းျခင္းျဖင့္ လုပ္ေဆာင္ႏိုင္သည္။
-
+ထို့နောက် စကားဝှက်ထည့်သွင်း၍ သို့မဟုတ် [ဤနေရာ](http://www.gnu.org/software/grub/manual/legacy/grub.html1#Security ) တွင် ပြထားသော md5-
+encrypted နည်းလမ်းကို အသုံးပြု၍ ကာကွယ်နိုင်သည်။ menu item များကို စကားဝှက်ဖြင့် ကာကွယ်ရန် မည်သည့် item menu ၏ ခေါင်းစဉ်အောက်တွင်မဆို ကာကွယ်ထားကြောင်း အမှတ်အသားဖြစ်သည့် lock ကို 
+ထည့်သွင်းခြင်းဖြင့် လုပ်ဆောင်နိုင်သည်။

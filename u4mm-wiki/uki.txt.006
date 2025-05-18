@@ -1,13 +1,13 @@
-ဆိုဒ္မွ အခမဲ့သြားေရာက္ Download ျပဳလုပ္ႏိုင္ပါတယ္။
+ဆိုဒ်မှ အခမဲ့သွားရောက် Download ပြုလုပ်နိုင်ပါတယ်။
 
 ###Change Plymouth Splash Screen 
 
-Bootup မွာျမင္ရတဲ့ဟာက ကနဦး Splash Screen ျဖစ္ၿပီး အျခားေသာ Plymouth Themes ေတြကို Package Manger မွာသြားေရာက္ ရွာေဖြႏိုင္ပါတယ္။ အသစ္တစ္ခုကို Install ျပဳလုပ္ခ်င္ရင္ေတာ့
+Bootup မှာမြင်ရတဲ့ဟာက ကနဦး Splash Screen ဖြစ်ပြီး အခြားသော Plymouth Themes တွေကို Package Manger မှာသွားရောက် ရှာဖွေနိုင်ပါတယ်။ အသစ်တစ်ခုကို Install ပြုလုပ်ချင်ရင်တော့
 
 	sudo update-alternatives --config default.plymouth
 	sudo update-initramfs -u
 
-မိမိႀကိဳက္ႏွစ္သက္ရာ Theme ကို ေရြးခ်ယ္၍ တင္ႏိုင္ပါသည္။ Plymouth ကေတာ့ Bootup ျပဳလုပ္ေနတဲ့အခ်ိန္မွာ မႀကာခဏ Blacnk Screen မ်ားေပၚေပါက္ျခင္းနဲ႕ nVidia Drivers ေတြ ခ်က္ျခင္း အလုပ္မလုပ္ေဆာင္ႏိုင္ေသးပါဘူး။
+မိမိကြိုက်နှစ်သက်ရာ Theme ကို ရွေးချယ်၍ တင်နိုင်ပါသည်။ Plymouth ကတော့ Bootup ပြုလုပ်နေတဲ့အချိန်မှာ မကြာခဏ Blacnk Screen များပေါ်ပေါက်ခြင်းနဲ့ nVidia Drivers တွေ ချက်ခြင်း အလုပ်မလုပ်ဆောင်နိုင်သေးပါဘူး။
 
 ###Change USplash Boot Screen
 
@@ -15,22 +15,22 @@ Bootup မွာျမင္ရတဲ့ဟာက ကနဦး Splash Screen 
 
 ###Metacity
 
-Metacity ဆိုတာက Gnome မွာပါတဲ့ မူလ Desktop Compositing Manager ပါ။ သူက ေပါ့ပါးျခင္း၊
-ခ်က္ျခင္းေျပာင္းလြဲျခင္း (streamlined) ေတြနဲ႕အတူ မ်ားမ်ားစားစားလဲ ျပဳျပင္ေျပာင္းလြဲစရာမလိုတဲ့ Options ေတြပါ၀င္သလို Gnome Look မွာေတာ့ Multiple Themes ေတြ ခ်က္ျခင္း ေဆာင္ရြက္ႏိုင္ျပန္တယ္။
+Metacity ဆိုတာက Gnome မှာပါတဲ့ မူလ Desktop Compositing Manager ပါ။ သူက ပေါ့ပါးခြင်း၊
+ချက်ခြင်းပြောင်းလွဲခြင်း (streamlined) တွေနဲ့အတူ များများစားစားလဲ ပြုပြင်ပြောင်းလွဲစရာမလိုတဲ့ Options တွေပါဝင်သလို Gnome Look မှာတော့ Multiple Themes တွေ ချက်ခြင်း ဆောင်ရွက်နိုင်ပြန်တယ်။
 
 ###Compiz Fusion 
 
-Compiz Fusion က window manager နဲ႕ သီးျခားကြဲျပားပါတယ္။ သူက Desktop effects ေတြကို 
-အဆင့္ျမင့္ ေျပာင္းလြဲႏိုင္တာျဖစ္ၿပီး Cube တံုးသဖြယ္မ်ိဳး Desktop ကို ေျပာင္းလဲဖန္တီးႏိုင္တာေတြလဲ
-ပါ၀င္ပါတယ္။Ubuntu Users ေတာ္ေတာ္မ်ားမ်ားက Compiz ကိုေရြးခ်ယ္ အသံုးျပဳႀကပါတယ္။ဒါကို Ubuntu မွာ အခ်ိန္ခဏေလးနဲ႕ အလြယ္တကူ Install ျပဳခ်င္ရင္ေတာ့
+Compiz Fusion က window manager နဲ့ သီးခြားကွဲပြားပါတယ်။ သူက Desktop effects တွေကို 
+အဆင့်မြင့် ပြောင်းလွဲနိုင်တာဖြစ်ပြီး Cube တုံးသဖွယ်မျိုး Desktop ကို ပြောင်းလဲဖန်တီးနိုင်တာတွေလဲ
+ပါဝင်ပါတယ်။Ubuntu Users တော်တော်များများက Compiz ကိုရွေးချယ် အသုံးပြုကြပါတယ်။ဒါကို Ubuntu မှာ အချိန်ခဏလေးနဲ့ အလွယ်တကူ Install ပြုချင်ရင်တော့
 
 	sudo apt-get install compiz compizconfig-settings-manager compiz-fusion-plugins-maincompiz-fusion-plugins-extra emerald librsvg2-common
 
-Compiz ကို Window Manager အျဖစ္ထားခ်င္ရင္ေတာ့ Compiz Configuration မွာ ေအာက္ကအတိုင္း သြားေရာက္ေရြးခ်ယ္ေပးယံုပါပဲ
+Compiz ကို Window Manager အဖြစ်ထားချင်ရင်တော့ Compiz Configuration မှာ အောက်ကအတိုင်း သွားရောက်ရွေးချယ်ပေးယုံပါပဲ
 
 	Menu - System -Preferences - CompizConfig Settings Manager
 
-မွတ္ခ်က္ ။ ေျပာင္းလြဲထားတာေတြကို အဆင္ေျပဖို႕က Process ၿပီးသြားရင္ Logout လုပ္ၿပီးေတာ့ Login ျပန္လုပ္မွသာ ေျပာင္းလြဲျခင္း effect ကို ျမင္ရမွာျဖစ္ပါတယ္။
+မှတ်ချက် ။ ပြောင်းလွဲထားတာတွေကို အဆင်ပြေဖို့က Process ပြီးသွားရင် Logout လုပ်ပြီးတော့ Login ပြန်လုပ်မှသာ ပြောင်းလွဲခြင်း effect ကို မြင်ရမှာဖြစ်ပါတယ်။
 
 ###Virtualization
 
@@ -42,53 +42,53 @@ See Moonlight plugin for Firefox
 
 ###Java
 
-Java install လုပ္ရန္
+Java install လုပ်ရန်
 
 	sudo apt-get install default-jre
 
 ###DosBox
 
-[DosBox](http://www.dosbox.com/) သည္ DOS-emulator (ဆက္စပ္ကိရိယာ) program တစ္ခုျဖစ္သည္။ ၄င္းသည္ `CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA grahpics` ႏွင့္ `SoundBlaster/Gravis Ultra Sound card` (ယခင္ဂိမ္းအေဟာင္းမ်ား၏ အသံျဖင့္လိုက္ေလ်ာညီေထြျဖစ္ေစရန္) အသံုးျပဳသည္။ သင္သည္ယခုေခတ္ ကြန္ပ်ဴတာမ်ားေပၚတြင္ ေဆာ့မရေတာ့ေသာ ယခင္ဂႏၶၶၶ၀င္ ဂိမ္းမ်ားအားျပန္လည္အသက္သြင္းႏိုင္ပါလိမ့္မည္။
+[DosBox](http://www.dosbox.com/) သည် DOS-emulator (ဆက်စပ်ကိရိယာ) program တစ်ခုဖြစ်သည်။ ၎င်းသည် `CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA grahpics` နှင့် `SoundBlaster/Gravis Ultra Sound card` (ယခင်ဂိမ်းအဟောင်းများ၏ အသံဖြင့်လိုက်လျောညီထွေဖြစ်စေရန်) အသုံးပြုသည်။ သင်သည်ယခုခေတ် ကွန်ပျူတာများပေါ်တွင် ဆော့မရတော့သော ယခင်ဂန္ဓ္ဓ္ဓဝင် ဂိမ်းများအားပြန်လည်အသက်သွင်းနိုင်ပါလိမ့်မည်။
 
 	sudo apt-get install dosbox
 
 ###Scumm VM
 
-[Scumm VM](http://scummvm.org/) သည္ ရုပ္ပံုမ်ားအားညႊန္ၿပျခင္း၊ Click လုပ္ျခင္းစသည့္
-ဂိမ္းေဟာင္းမ်ားအား လက္ခံ၍ run ေပးပါသည္။(သင့္တြင္ ၄င္းတို႕၏ ေဒတာဖိုင္မ်ားရွိရပါမည္။) Scumm VM သည္ executables shipped မ်ားတြင္ ေနရာယူ၍ ဂိမ္းမ်ားကို Linux OSတြင္ ကစားခြင့္ေပးမွာျဖစ္ပါတယ္။
+[Scumm VM](http://scummvm.org/) သည် ရုပ်ပုံများအားညွှန်ပြခြင်း၊ Click လုပ်ခြင်းစသည့်
+ဂိမ်းဟောင်းများအား လက်ခံ၍ run ပေးပါသည်။(သင့်တွင် ၎င်းတို့၏ ဒေတာဖိုင်များရှိရပါမည်။) Scumm VM သည် executables shipped များတွင် နေရာယူ၍ ဂိမ်းများကို Linux OSတွင် ကစားခွင့်ပေးမှာဖြစ်ပါတယ်။
 
 	sudo apt-get install scummvm
 
 ###Edutainment Applications 
 
-p-26(မရိုက္ထား)
+p-26(မရိုက်ထား)
 
 ###Google Earth
 
-[Google Earth](http://earth.google.com/) မွ သင့္အား ကၽြႏ္ုပ္တို႕ကမၻာၿဂိဳလ္ႀကီးကို အေပၚစီးက
-ျမင္ေတြ႕ခြင့္ေပးမွာျဖစ္ပါတယ္။ဒီ software ဟာ အခမဲ့ package ျဖစ္ပါတယ္။ (ဒီ package ကိုအသံုးျပဳဖို႕အတြက္ License ကို accept လုပ္ရမွာျဖစ္ပါတယ္။)
+[Google Earth](http://earth.google.com/) မှ သင့်အား ကျွန်ုပ်တို့ကမ္ဘာဂြိုလ်ကြီးကို အပေါ်စီးက
+မြင်တွေ့ခွင့်ပေးမှာဖြစ်ပါတယ်။ဒီ software ဟာ အခမဲ့ package ဖြစ်ပါတယ်။ (ဒီ package ကိုအသုံးပြုဖို့အတွက် License ကို accept လုပ်ရမှာဖြစ်ပါတယ်။)
 
 	sudo apt-get install googleearth-package
 	make-googleearth-package --force
 
-ရရွိလာတဲ့ .deb file ကို click ၂ခ်က္ႏွိပ္ပါ။ (သို႕မဟုတ္) Linux အတြက္ ေနာက္ဆံုးထြက္ရွိထားတဲ့ package ကို install လုပ္ရန္အတြက္ [Google Earth downloads](http://earth.google.com/intl/en/download-earth.html) ကိုသြားၿပီး Download ဆြဲပါ။ ၿပီးရင္ ေအာက္က
-command နဲ႕ install လုပ္ပါ။  
+ရရှိလာတဲ့ .deb file ကို click ၂ချက်နှိပ်ပါ။ (သို့မဟုတ်) Linux အတွက် နောက်ဆုံးထွက်ရှိထားတဲ့ package ကို install လုပ်ရန်အတွက် [Google Earth downloads](http://earth.google.com/intl/en/download-earth.html) ကိုသွားပြီး Download ဆွဲပါ။ ပြီးရင် အောက်က
+command နဲ့ install လုပ်ပါ။  
 
 	wget http://dl.google.com/GoogleEarthLinux.bin/
 	chmod  +x GoogleEarthLinux.bin ./GoogleEarthLinux.bin
 
-####အသံုးျပဳရန္
+####အသုံးပြုရန်
 
 	Menu - Application -Internet -Google Earth 3D planet viewer
 
-သင့္အေနနဲ႕ Google Earth -View မွာရွိတဲ့ Atmosphere setting ကို turn off လုပ္ထားသင့္ပါတယ္။
-ဘာေႀကာင့္လဲဆိုေတာ့ တိမ္ေတြဖံုးေနတာေႀကာင့္ ေျမျပင္ကို ျပမွာမဟုတ္လို႕ပါဘဲ။
+သင့်အနေနဲ့ Google Earth -View မှာရှိတဲ့ Atmosphere setting ကို turn off လုပ်ထားသင့်ပါတယ်။
+ဘာကြောင့်လဲဆိုတော့ တိမ်တွေဖုံးနေတာကြောင့် မြေပြင်ကို ပြမှာမဟုတ်လို့ပါဘဲ။
 
 ####Troubleshooting
 
-Troubleshooting (ျပင္ဆင္ျခင္း) အကယ္၍ Google Earth ကိုဖြင့္လိုက္တယ္။ Loading ျပဳလုပ္တယ္။ loading ျပဳလုပ္တဲ့ screen တတ္လာၿပီး error ျပမယ္။ဒါမွမဟုတ္ ဘာမွမေပၚေတာ့ဘူးဆိုရင္ေတာ့ သင္ဟာ ျဖစ္ေလ့ျဖစ္ထရွိတဲ့ error တတ္ျခင္းကိုေတြ႕ႀကံဳေနရပါၿပီ။အဲဒီလိုျဖစ္ေနခ်ိန္မွာ Google Earth ကို Terminal ကေန `~/google-earth/googleearth` လို႕ရိုက္ၿပီး run လိုက္ရင္ `./googleearth-bin: relocation error:/usr/lib/i686/cmov/libssl.so.0.9.8: symbol BIO-test-flags, version OPENSSL-0.9.8 not defined in file libcrypto.so.0.9.8 with link time reference` ဆိုတဲ့ error ကိုျပပါလိမ့္မယ္။
+Troubleshooting (ပြင်ဆင်ခြင်း) အကယ်၍ Google Earth ကိုဖွင့်လိုက်တယ်။ Loading ပြုလုပ်တယ်။ loading ပြုလုပ်တဲ့ screen တတ်လာပြီး error ပြမယ်။ဒါမှမဟုတ် ဘာမှမပေါ်တော့ဘူးဆိုရင်တော့ သင်ဟာ ဖြစ်လေ့ဖြစ်ထရှိတဲ့ error တတ်ခြင်းကိုတွေ့ကြုံနေရပါပြီ။အဲဒီလိုဖြစ်နေချိန်မှာ Google Earth ကို Terminal ကနေ `~/google-earth/googleearth` လို့ရိုက်ပြီး run လိုက်ရင် `./googleearth-bin: relocation error:/usr/lib/i686/cmov/libssl.so.0.9.8: symbol BIO-test-flags, version OPENSSL-0.9.8 not defined in file libcrypto.so.0.9.8 with link time reference` ဆိုတဲ့ error ကိုပြပါလိမ့်မယ်။
 
-ဒီၿပႆနာကိုေျဖရွင္းဖို႕အတြက္သင္ Google Earth ကိုသြင္းထားတဲ့ Folder ကိုဖြင့္လိုက္ပါ။ပံုမွန္အားျဖင့္ေတာ့ Google Earth ဟာ သင့္ home folder ထဲမွာပဲ ရွိေနတတ္ပါတယ္။ ၿပီးရင္ `libcrypto.so.0.9.8` ကိုရွာၿပီး `libcrypto.so.0.9.8.bak` လို႕ေျပာင္းလိုက္ပါ။ Google Earth ဟာ ပံုမွန္အတိုင္း သံုးလို႕ရသြားပါလိ္မ့္မယ္။
+ဒီပြဿနာကိုဖြေရှင်းဖို့အတွက်သင် Google Earth ကိုသွင်းထားတဲ့ Folder ကိုဖွင့်လိုက်ပါ။ပုံမှန်အားဖြင့်တော့ Google Earth ဟာ သင့် home folder ထဲမှာပဲ ရှိနေတတ်ပါတယ်။ ပြီးရင် `libcrypto.so.0.9.8` ကိုရှာပြီး `libcrypto.so.0.9.8.bak` လို့ပြောင်းလိုက်ပါ။ Google Earth ဟာ ပုံမှန်အတိုင်း သုံးလို့ရသွားပါလိမ့်မယ်။
 
 	cd ~/google-earth
 	sudo mv 

@@ -1,80 +1,80 @@
-﻿�ျပာင္းလဲႏိုင္သည္။
+﻿�ပြာင်းလဲနိုင်သည်။
 
 ##Package Installation and Updates
 
 ###Apt and Package Basics 
 
-**Add Extra Repositories ကိုဖတ္ပါ။**
+**Add Extra Repositories ကိုဖတ်ပါ။**
 
-Ubuntu အသံုးျပဳသူအမ်ားစုသည္ Synaptic Package Manager ကို package မ်ားထည့္သြင္းရန္ 
-အသံုးျပဳႀကပါသည္။ ေအာက္ပါ ညႊန္ျပခ်က္မ်ားသည္ package မ်ားကို ကိုpackage မ်ားထည့္သြင္းရန္
-အသံုးျပဳႀကပါသည္။ေအာက္ပါညႊန္ျပခ်က္မ်ားသည္ package မ်ားကို command-line Terminal အသံုးျပဳ၍ ထည့္သြင္းရန္ နည္းလမ္းမ်ားျဖစ္ပါသည္။ 
+Ubuntu အသုံးပြုသူအများစုသည် Synaptic Package Manager ကို package များထည့်သွင်းရန် 
+အသုံးပြုကြပါသည်။ အောက်ပါ ညွှန်ပြချက်များသည် package များကို ကိုpackage များထည့်သွင်းရန်
+အသုံးပြုကြပါသည်။အောက်ပါညွှန်ပြချက်များသည် package များကို command-line Terminal အသုံးပြု၍ ထည့်သွင်းရန် နည်းလမ်းများဖြစ်ပါသည်။ 
 
-#####Terminal ကိုစတင္ရန္ 
+#####Terminal ကိုစတင်ရန် 
 	Menu -> Application -> Accessories -> Terminal
 
-#####packages မ်ားထည့္သြင္းရန္ 
+#####packages များထည့်သွင်းရန် 
 
 	sudo apt-get install *packagename* 
 	ဥပမာ : sudo apt-get install mpd sbackup
 
-#####package မ်ား ဖယ္ရွားရန္
+#####package များ ဖယ်ရှားရန်
 
 	sudo apt-get remove *packagename*
 
-#####package ႏွင့္တကြ ထို package ႏွင့္ သက္ဆိုင္သည္မ်ားအားလံုး ဖယ္ရွားရန္ 
+#####package နှင့်တကွ ထို package နှင့် သက်ဆိုင်သည်များအားလုံး ဖယ်ရှားရန် 
 
 	sudo apt-get autoremove 
 	ဥပမာ : sudo apt-get remove mpd sbackup
 
-#####package မ်ားရွာေဖြရန္ 
+#####package များရှာဖွေရန် 
 
 	apt-cache search < keywords> 
 	ဥပမာ : apt-cache search  Music MP3 apt-cache search "Text Editor"
 
-#####addting/removing repositories ျပဳလုပ္ၿပီး package ၏ database မ်ားကို အဆင့္ၿမႇင့္တင္ရန္ 
+#####addting/removing repositories ပြုလုပ်ပြီး package ၏ database များကို အဆင့်မြှင့်တင်ရန် 
 
 	sudo apt-get update
 
-#####package မ်ားကို ugrade လုပ္ရန္ :
+#####package များကို ugrade လုပ်ရန် :
 
 	sudo apt-get upgrade
 
-#####Ubuntu စနစ္တစ္ခုလံုးကို upgrade  လုပ္ရန္ (ဥပမာ : Maverick မွ Natty)
+#####Ubuntu စနစ်တစ်ခုလုံးကို upgrade  လုပ်ရန် (ဥပမာ : Maverick မှ Natty)
 
 	sudo apt-get dist-upgrade
 
-#####deb package မ်ားထည့္သြင္းျခင္း
+#####deb package များထည့်သွင်းခြင်း
 
-Debian (.deb) package မ်ားသည္ (Windows ေပၚတြင္installer .exe msi package မ်ား
-အလုပ္လုပ္သကဲ့သို႕) Ubuntu ေပၚတြင္ အသံုးျပဳေသာ package မ်ားျဖစ္သည္။ Ubuntu စနစ္ေပၚတြင္ မည္သည့္ .deb package ကိုမဆို ထည့္သြင္းႏိုင္သည္။ Ubuntu စနစ္တြင္ မူလပါရွိေသာ installer ႏွင့္ .deb package မ်ားကို ဆက္သြယ္ႏိုင္ရန္ ျပဳလုပ္ထားသျဖင့္ .deb ဖိုင္မ်ားကို file manager (Nautilus) တြင္ click ျခင္းျဖင့္ လြယ္ကူစြာထည့္သြင္းႏိုင္သည္။ ေအာက္ေဖာ္ၿပပါ ညႊန္ျပခ်က္မ်ားမွာ command-line terminal (Terminal) ကိုအသံုးျပဳႇ၍ package မ်ား ထည့္သြင္းခ်င္သူမ်ားအတြက္ ျဖစ္ပါသည္။
+Debian (.deb) package များသည် (Windows ပေါ်တွင်installer .exe msi package များ
+အလုပ်လုပ်သကဲ့သို့) Ubuntu ပေါ်တွင် အသုံးပြုသော package များဖြစ်သည်။ Ubuntu စနစ်ပေါ်တွင် မည်သည့် .deb package ကိုမဆို ထည့်သွင်းနိုင်သည်။ Ubuntu စနစ်တွင် မူလပါရှိသော installer နှင့် .deb package များကို ဆက်သွယ်နိုင်ရန် ပြုလုပ်ထားသဖြင့် .deb ဖိုင်များကို file manager (Nautilus) တွင် click ခြင်းဖြင့် လွယ်ကူစွာထည့်သွင်းနိုင်သည်။ အောက်ဖော်ပြပါ ညွှန်ပြချက်များမှာ command-line terminal (Terminal) ကိုအသုံးပြုှ၍ package များ ထည့်သွင်းချင်သူများအတွက် ဖြစ်ပါသည်။
 
-#####အင္တာနက္မွ ဆြဲယူထားေသာ Debian (Ubuntu) package (.deb) ၁ခု ထည့္သြင္းရန္
+#####အင်တာနက်မှ ဆွဲယူထားသော Debian (Ubuntu) package (.deb) ၁ခု ထည့်သွင်းရန်
 
 	sudo dpkg -i packagename.deb
 
-#####Debian (Ubuntu) package (.deb) ကိုဖယ္ရွားရန္ :
+#####Debian (Ubuntu) package (.deb) ကိုဖယ်ရှားရန် :
 
 	sudo dpkg -r packagename . ဥပမာ : sudo dpkg-reconfigure mpd
 
 ##Handling (Tar/GZip) and (Tar/Bzip2) archives
 
-(Tar/GZip) ရဲ႕ extension က .tar.gz ျဖစ္ပါသည္။ (Tar/Bzip2) ရဲ႕ extension က .tar.bz2 ျဖစ္ပါသည္။ Terminal မွ အသံုးျပဳနည္းမ်ားကို ေအာက္ပါအတိုင္းေဖာ္ျပလိုက္ပါသည္။
+(Tar/GZip) ရဲ့ extension က .tar.gz ဖြစ်ပါသည်။ (Tar/Bzip2) ရဲ့ extension က .tar.bz2 ဖြစ်ပါသည်။ Terminal မှ အသုံးပြုနည်းများကို အောက်ပါအတိုင်းဖော်ပြလိုက်ပါသည်။
 
 	tar xvf  packagename . tar . gz
-	-x (ျဖည္ရန္) -v ( ) -f ( )
+	-x (ဖြည်ရန်) -v ( ) -f ( )
 
-#####.gz ကိုျဖည္ျခင္း
+#####.gz ကိုဖြည်ခြင်း
 
 	gunzip filename .gz
 
-#####.bz2 ကိုျဖည္ျခင္း
+#####.bz2 ကိုဖြည်ခြင်း
 
-#####.gz အျဖစ္ ႏွစ္သက္ရာဖိုင္ကို compress လုပ္ျခင္း
+#####.gz အဖြစ် နှစ်သက်ရာဖိုင်ကို compress လုပ်ခြင်း
 
 	tar cvfs packagename  .tar.gz folder
 
-#####.bz2 အျဖစ္ ႏွစ္သက္ရာဖိုင္ကို compress လုပ္ျခင္း
+#####.bz2 အဖြစ် နှစ်သက်ရာဖိုင်ကို compress လုပ်ခြင်း
 
 	tar cvfj packagename.tar.bz2 folder
 
@@ -118,51 +118,50 @@ The selected programs(s) will be automatically installed, along with its depende
 
 ###Ubuntu Software Center (Add/Remove Programs)
 
-Package မ်ားအားလံုးသည္ Terminal (apt-get, aptitude, and Synaptic Package Manager)
-မွာအဆင္သင့္ မရရွိႏိုင္ေသာ္လည္းပဲ Ubuntu Software Center မွရရွိႏိုင္ပါသည္.မည္သို႕ျဖစ္ေစ ၊ Ubuntu စတင္အသံုးျပဳသူမ်ား အေနျဖင့္ အလြယ္ကူဆံုး ျမင္ကြင္းမွ packages မ်ားအား ေအာက္ပါအတိုင္း ထည့္သြင္းႏိုင္သည္။
+Package များအားလုံးသည် Terminal (apt-get, aptitude, and Synaptic Package Manager)
+မှာအဆင်သင့် မရရှိနိုင်သော်လည်းပဲ Ubuntu Software Center မှရရှိနိုင်ပါသည်.မည်သို့ဖြစ်စေ ၊ Ubuntu စတင်အသုံးပြုသူများ အနေဖြင့် အလွယ်ကူဆုံး မြင်ကွင်းမှ packages များအား အောက်ပါအတိုင်း ထည့်သွင်းနိုင်သည်။
 
 	Menu -Application - Ubuntu Software Center
 
-သင္ထည့္သြင္းလိုေသာ Program အခ်ိဳ႕အား ရွာေဖြႏိုင္သည္။ဥပမာ -mp3ဟုရိုက္လွ်င္ mp3
-software စာရင္းမ်ား ျမင္ရမည္။
+သင်ထည့်သွင်းလိုသော Program အချို့အား ရှာဖွေနိုင်သည်။ဥပမာ -mp3ဟုရိုက်လျှင် mp3
+software စာရင်းများ မြင်ရမည်။
 
-	Installation ျပဳလုပ္လိုေသာ program အားေရြးခ်ယ္ပါ -Apply ႏွိပ္ပါ။ေရြးခ်ယ္ထားေသာ program(s) မ်ားသည္ အလိုအေလ်ာက္ install ျပဳလုပ္သြားမည္။
+	Installation ပြုလုပ်လိုသော program အားရွေးချယ်ပါ -Apply နှိပ်ပါ။ရွေးချယ်ထားသော program(s) များသည် အလိုအလျောက် install ပြုလုပ်သွားမည်။
 
 ###Manual Updates
 
-General Notes ကိုဖတ္ပါ။
-Add Extra Repositories ကိုဖတ္ပါ။
+General Notes ကိုဖတ်ပါ။
+Add Extra Repositories ကိုဖတ်ပါ။
 
-#####Terminal မွ တဆင့္ ကိုယ္ကိုတိုင္ျပဳလုပ္ရန္အတြက္ (Command Line Interface ):
+#####Terminal မှ တဆင့် ကိုယ်ကိုတိုင်ပြုလုပ်ရန်အတွက် (Command Line Interface ):
 
 	sudo apt-get update
 	sudo apt-get upgrade
 
-	**သို႕မဟုတ္**
+	**သို့မဟုတ်**
 
-#####Synptic Package Manager ကို အသံုးခ်နည္း
+#####Synptic Package Manager ကို အသုံးချနည်း
 
 	Menu -System -Administration - Synaptic Package Manager -Reload then Mark all upgrades
 
-အကယ္၍ package က updating လုပ္ဖို႕ အဆင္သင့္ျဖစ္ေနမယ္ဆိုရင္ ခ်က္ျခင္း install လုပ္သင့္ပါတယ္။
+အကယ်၍ package က updating လုပ်ဖို့ အဆင်သင့်ဖြစ်နေမယ်ဆိုရင် ချက်ခြင်း install လုပ်သင့်ပါတယ်။
 
 ###Automated Updates
 
-#####Synaptic Package Manager ကို အသံုးခ်ျခင္း
+#####Synaptic Package Manager ကို အသုံးချခြင်း
 
 	Menu - System - Administration - Synaptic Manager - Settings - Preferences - General - Reloading Outdated Package Information - Automatic
 
 ##Desktop Add-ons
 
-GNOME Desktop အတြက္ အဆင္သင့္အသံုးျပဳႏိုင္တဲ့ Add-on icons ေတြ themes နဲ႕ Wallpapers မ်ား 3-D effects မ်ားႏွင့္အတူ အျခားေသာ ကိုယ္ကိုယ္တိုင္ ေရြးခ်ယ္ႏိုင္တာေတြ ရွိပါတယ္။
+GNOME Desktop အတွက် အဆင်သင့်အသုံးပြုနိုင်တဲ့ Add-on icons တွေ themes နဲ့ Wallpapers များ 3-D effects များနှင့်အတူ အခြားသော ကိုယ်ကိုယ်တိုင် ရွေးချယ်နိုင်တာတွေ ရှိပါတယ်။
 
 ###Gnome Eye-Candy Resources 
 
-[Gnome Look](http://www.gnome-look.org) တြင္ wallpapers ေတြ splash screens ေတြ icons ေတြနဲ႕အတူ  Windows Mangers အတြက္ (Metacity နဲ႕ Compiz ပါ၀င္သည့္) themes မ်ားႏွင့္
-အျခားေသာ အသံုးျပဳ ေဆာ့၀ဲေတြ (appalication) မ်ားပါရွိပါသည္။
+[Gnome Look](http://www.gnome-look.org) တွင် wallpapers တွေ splash screens တွေ icons တွေနဲ့အတူ  Windows Mangers အတွက် (Metacity နဲ့ Compiz ပါဝင်သည့်) themes များနှင့်
+အခြားသော အသုံးပြု ဆော့ဝဲတွေ (appalication) များပါရှိပါသည်။
 
 ###Ubuntu Wallpaper
 [Ubuntu wallpaper](https://www.flickr.com/groups/ubuntuwallpaper/)
 [Trusty Tahr Wallpaper](https://www.flickr.com/groups/2535978@N21)
 [Ubuntu Myanmar wallpaper](http://flickr.com/groups/ubuntu-mm-art)
-

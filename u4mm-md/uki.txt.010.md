@@ -2,112 +2,112 @@ alue from true to false
 
 #####User Agent Switcher plug-in for Firefox
 
-[User Agent Switcher](http://chrispederick.com/work/user-agent-switcher/) သည္ အျခားေသာ browser  ကဲ့သို႕ အေယာင္ေဆာင္ျခင္းကို ျပဳလုပ္သည္ခြင့္ျပဳျခင္း (အခ်ိန္လြန္) broser-specific ပါရွိေသာအေႀကာင္းအရာမ်ားကို displayed ျပဳလုပ္ရန္။
+[User Agent Switcher](http://chrispederick.com/work/user-agent-switcher/) သည် အခြားသော browser  ကဲ့သို့ အယောင်ဆောင်ခြင်းကို ပြုလုပ်သည်ခွင့်ပြုခြင်း (အချိန်လွန်) broser-specific ပါရှိသောအကြောင်းအရာများကို displayed ပြုလုပ်ရန်။
 
-သင့္အေနနဲက ၄င္း extension အား add ရန္ Firefox - `Tool -Add-ons-GetAdd-ons- Search All Auto-ons-User Agent Switcher.`(ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox  အေနျဖင့္ automatic updates လုပ္ေဆာင္ေပးလိမ့္မည္။
+သင့်အနေနဲက ၎င်း extension အား add ရန် Firefox - `Tool -Add-ons-GetAdd-ons- Search All Auto-ons-User Agent Switcher.`(ထိုကဲ့သို့လုပ်ဆောင်လျင် firefox  အနေဖြင့် automatic updates လုပ်ဆောင်ပေးလိမ့်မည်။
 
 #####Video DownloadHelper plug-in for Firefox
 
-[Video DownloadHelper](http://addons.mozilla.org/en-US/firefox/addon3006) သည္ youtube ကဲ့သို႕ေသာ site မ်ားမွ videos (Flash Videos အပါအ၀င္) ကို download ရယူရန္ျဖစ္သည္။
+[Video DownloadHelper](http://addons.mozilla.org/en-US/firefox/addon3006) သည် youtube ကဲ့သို့သော site များမှ videos (Flash Videos အပါအဝင်) ကို download ရယူရန်ဖြစ်သည်။
 
-သင့္အေနနဲ႕ ၄င္းextension အား add ရန္ Fierfox - `Tools -Add -ons- Get Add -ons-Search All Add-ons-Video DownloadHelper.` (ထိုကဲ့သို႕ လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic 
-updates လုပ္ေဆာင္ေပးလိမ့္မည္။) 
+သင့်အနေနဲ့ ၎င်းextension အား add ရန် Fierfox - `Tools -Add -ons- Get Add -ons-Search All Add-ons-Video DownloadHelper.` (ထိုကဲ့သို့ လုပ်ဆောင်လျင် firefox အနေဖြင့် automatic 
+updates လုပ်ဆောင်ပေးလိမ့်မည်။) 
 
 #####Unplug Download Management
 
-[UnPlug](https://addons.mozilla.org/en.US/firefox/addon/2254) add-on သည္ webpag ေပၚတြင္ embedded လုပ္ထားေသာ video ႏွင့္ Audio မ်ားကို Save လုပ္ယူႏိုင္သည္။
+[UnPlug](https://addons.mozilla.org/en.US/firefox/addon/2254) add-on သည် webpag ပေါ်တွင် embedded လုပ်ထားသော video နှင့် Audio များကို Save လုပ်ယူနိုင်သည်။
 
-သင့္အေနျဖင့္ ၄င္း extension အား add ရန္ Firefox - `Tool- Add-ons-Get Add-ons-Browse All Add-ons.` (ထိုကဲ့သို႕လုပ္ေဆာင္လ်င္ firefox အေနျဖင့္ automatic updates
-လုပ္ေဆာင္ေပးလိမ့္မည္။)
+သင့်အနေဖြင့် ၎င်း extension အား add ရန် Firefox - `Tool- Add-ons-Get Add-ons-Browse All Add-ons.` (ထိုကဲ့သို့လုပ်ဆောင်လျင် firefox အနေဖြင့် automatic updates
+လုပ်ဆောင်ပေးလိမ့်မည်။)
 
 #####Lucifox (eBook reader  extension)
 
-[Lucifox](https://addons.mozilla.org/en-US/firefox/addon/lucifox/) (Lucidor for Firefox) သည္ e-book မ်ားကို ဖတ္ရန္ႏွင့္ Firefox window မွေန catalogs မ်ားကို browsed လုပ္ေပးႏိုင္ရန္ျဖစ္သည္။ Install ျပဳလုပ္ရန္ယ website သို႕သြားၿပီး ေနာက္ Download Now ေနရာတြင္ရယူႏိုင္သည္။
+[Lucifox](https://addons.mozilla.org/en-US/firefox/addon/lucifox/) (Lucidor for Firefox) သည် e-book များကို ဖတ်ရန်နှင့် Firefox window မှနေ catalogs များကို browsed လုပ်ပေးနိုင်ရန်ဖြစ်သည်။ Install ပြုလုပ်ရန်ယ website သို့သွားပြီး နောက် Download Now နေရာတွင်ရယူနိုင်သည်။
 
 #####Java Runtime Environment (JRE) for Firefox plug-in
 
-ယခု package သည္ Java Runtime Enviroment install ႏွင့္တူညီသည္။ (OpenOffice Installed ေသာအခါ or ubuntu-restricted -extras installed ေသာအခါ JRE  ပါ၀င္သည္။)
+ယခု package သည် Java Runtime Enviroment install နှင့်တူညီသည်။ (OpenOffice Installed သောအခါ or ubuntu-restricted -extras installed သောအခါ JRE  ပါဝင်သည်။)
 
 	sudo apt-get install sun-java6-jre sun-java6-plugin
 
->**မွတ္ခ်က္** သင့္အေနျဖင့္ product ကိုအသံုးျပဳရန္ product license အား မလြဲမေသြ လက္ခံရမည္။
+>**မှတ်ချက်** သင့်အနေဖြင့် product ကိုအသုံးပြုရန် product license အား မလွဲမသွေ လက်ခံရမည်။
 
 #####Adobe Acrobat Reader for Firefox Plug-in
 
-၄င္း pluging သည္ Adobe Acrobat(pdf) files မ်ားကို firefox browser တြင္ ႀကည့္ရန္ျဖစ္သည္။
+၎င်း pluging သည် Adobe Acrobat(pdf) files များကို firefox browser တွင် ကြည့်ရန်ဖြစ်သည်။
 Read Add Extra Kubuntu Repositories and enable the Natty partner repository :
 
 	deb http://archive.canonical.com/ubuntu natty partner/	
 
-ၿပီးပါက Adobe Reader ထည့္သြင္းရန္ :
+ပြီးပါက Adobe Reader ထည့်သွင်းရန် :
 
 	sudo apt-get install acroread
 
-သို႕မဟုတ္ပါက ၄င္း plugin အား the Medibuntu repository list တြင္လည္း ရရွိႏိုင္သည္။
-Medibuntu repository အား သင့္ရဲ႕ repository list တြင္ထည့္ရန္ :
+သို့မဟုတ်ပါက ၎င်း plugin အား the Medibuntu repository list တွင်လည်း ရရှိနိုင်သည်။
+Medibuntu repository အား သင့်ရဲ့ repository list တွင်ထည့်ရန် :
 
 	deb http://packages.medibuntu.org// natty free non-free
 
-ၿပီးပါက Adober Reader ထည့္သြင္းရန္ :
+ပြီးပါက Adober Reader ထည့်သွင်းရန် :
 
 	sudo apt-get install acroread mozilla-acroread acroread-plugins acroread-fonts
 
 #####Adobe Flash Player for Firefox Plug-in
 
-Firefox အတြက္ offical Adobe Flash Plugin 10 အား တင္ရန္ :
+Firefox အတွက် offical Adobe Flash Plugin 10 အား တင်ရန် :
 
 	sudo apt-get install adobe-flashplugin
 
 #####Gnash Plug-in (Open source Flash Player replacement)
 
-[Gnash](http://www.gnashdev.org/) သည္ 32-bit version ကဲ့သို႕ 64-version အတြက္လည္း
-ရယူႏိုင္သည္။ ၄င္းသည္ Adobe Flashplayer အတြက္ source အား ေျပာင္းလဲႏိုင္သည္။
+[Gnash](http://www.gnashdev.org/) သည် 32-bit version ကဲ့သို့ 64-version အတွက်လည်း
+ရယူနိုင်သည်။ ၎င်းသည် Adobe Flashplayer အတွက် source အား ပြောင်းလဲနိုင်သည်။
 
 	sudo apt-get install gnash
 
-installing ၿပီးေနာက္, သင့္ web browser ရဲ႕ Preference - Application ထဲရွိ `SWF and SPL files` မွားကို `Gnash` ျဖင့္သံုးမည္ဟု ေႀကၿငာရမည္။
+installing ပြီးနောက်, သင့် web browser ရဲ့ Preference - Application ထဲရှိ `SWF and SPL files` မှားကို `Gnash` ဖြင့်သုံးမည်ဟု ကြေငြာရမည်။
 
 #####VLC plug-in for Firefox
 
-၄င္း package သည္ ယခုလက္ရွိ အသံုးမ်ားေသာ VIC player အား Firefox browser ရွိ play media 
-တြင္ အသံုးျပဳသည္။
+၎င်း package သည် ယခုလက်ရှိ အသုံးများသော VIC player အား Firefox browser ရှိ play media 
+တွင် အသုံးပြုသည်။
 
 	sudo apt-get install mozilla-plugin-vlc
 
 #####Gecko MediaPlayer Plug-in for Firefox
 
-[Gecko MediaPlayer](http://kdekorte.googlepages.com/gecko-mediaplayer) သည္ Gecko-based broswers (Firefox,SeaMonkey,IceApe,Opera) မ်ားတြင္ Mplayer မွ multimedia သို႕ သံုးျပဳသည္။
+[Gecko MediaPlayer](http://kdekorte.googlepages.com/gecko-mediaplayer) သည် Gecko-based broswers (Firefox,SeaMonkey,IceApe,Opera) များတွင် Mplayer မှ multimedia သို့ သုံးပြုသည်။
 
 	sudo apt-get install gecko-mediaplayer
 
-ေနာက္တစ္ခုအေနျဖင့္ Firefox အတြက္ mplayer အားသံုးျပဳႏိုင္သည္။
+နောက်တစ်ခုအနေဖြင့် Firefox အတွက် mplayer အားသုံးပြုနိုင်သည်။
 
 	sudo apt-get install mozilla-mplayer
 
 #####Kaffeine Plug-in for Firefox
 
-၄င္း package ျဖစ္သည့္ the Kaffeine media player (often used in KDE-based desktops) သည္ Firefox browser တြင္ multimedia အျဖစ္လုပ္ေဆာင္သည ္။
+၎င်း package ဖြစ်သည့် the Kaffeine media player (often used in KDE-based desktops) သည် Firefox browser တွင် multimedia အဖြစ်လုပ်ဆောင်သည ်။
 
 	sudo apt-get install kaffeine-mozilla
 
 #####Helix player plug-in for Firefox
 
-၄င္း package ျဖစ္သည့္ [Helix player](https://helixcommunity.org/) (the open source player that plays Real Player content in Linux) သည္ Firefox browser တြင္ RealMedia အျဖစ္လုပ္ေဆာင္သည္။
+၎င်း package ဖြစ်သည့် [Helix player](https://helixcommunity.org/) (the open source player that plays Real Player content in Linux) သည် Firefox browser တွင် RealMedia အဖြစ်လုပ်ဆောင်သည်။
 
 	sudo apt-get install mozilla-helix-player
 
 #####Moonlight plugin for Firefox
 
-[Moonlight](http://www.go-mono.com/moonlight) သည္ Silverlight (the Microsoft multimedia presentation platform) အား open source အျဖစ္လုပ္ေဆာင္ရန္ ႀကိဳးစားေနေသာ the Novell Mono ၏ project ျဖစ္သည္။၄င္းသည္ FFMpeg အမ်ိဳးအစားျဖစ္သည္။ Firefox 3 web browser တြင္ ေကာင္းေကာင္းသံုးႏိုင္ရန္ျပဳလုပ္ထားၿပီး, plugin ကဲ့သို႕(အျခားေသာ mozilla browsers ေကာင္းေကာင္းသံုးႏိုင္ရန္ျပဳလုပ္ထားၿပီး, plugin ကဲ့သို႕(အျခားေသာ mozilla browsers
-မ်ားတြင္လည္းလုပ္ႏိုင္သည္။)mozilla-based browsers ျဖစ္ေသာ Version 2.3 တြင္လည္း plugin အျဖစ္ လုပ္ေဆာင္ႏိုင္သည္။
+[Moonlight](http://www.go-mono.com/moonlight) သည် Silverlight (the Microsoft multimedia presentation platform) အား open source အဖြစ်လုပ်ဆောင်ရန် ကြိုးစားနေသော the Novell Mono ၏ project ဖြစ်သည်။၎င်းသည် FFMpeg အမျိုးအစားဖြစ်သည်။ Firefox 3 web browser တွင် ကောင်းကောင်းသုံးနိုင်ရန်ပြုလုပ်ထားပြီး, plugin ကဲ့သို့(အခြားသော mozilla browsers ကောင်းကောင်းသုံးနိုင်ရန်ပြုလုပ်ထားပြီး, plugin ကဲ့သို့(အခြားသော mozilla browsers
+များတွင်လည်းလုပ်နိုင်သည်။)mozilla-based browsers ဖြစ်သော Version 2.3 တွင်လည်း plugin အဖြစ် လုပ်ဆောင်နိုင်သည်။
 
 	sudo apt-get install moonlight-plugin-mozilla
 
-stable version 2.4 အား [ဒီေနရာတြင္](http://www.go=mono.com/moonlight/stable.aspx)
-ရႏိုင္သည္။ The Moonlight 3.99 plugin (compatible with most Silverlight 3/4 content) အား
-[ဒီေနရာတြင္](http://www.go--mono.com/moonlight/prerelease.aspx) ရႏိုင္သည္။
+stable version 2.4 အား [ဒီနေရာတွင်](http://www.go=mono.com/moonlight/stable.aspx)
+ရနိုင်သည်။ The Moonlight 3.99 plugin (compatible with most Silverlight 3/4 content) အား
+[ဒီနေရာတွင်](http://www.go--mono.com/moonlight/prerelease.aspx) ရနိုင်သည်။
 
 #####Netflix under Moonlight
 
-Netflix streaming အတြက္လိုအပ္ခ်က္ႏွစ္ခုမွာ the capabilities of Silverlight 2.0 ႏွင့္ Digital Rights Management modules ျဖစ္သည္။သို႕ေပေသာ္လည္း လက္ရွိအမ်ိဳးအစားျဖစ္ေသာ Moonlight 2.0 တြင္လည္း Silverlight content (including Netflix content) သံုးႏိုင္သည္ ,linux အတြက္ Digital Rights Management modules အား Netfilix မွ အဆင္သင့္မျဖစ္ေသးပါ။ ေက်းဇူးျပဳၿပီး [Netflix](http://www.netflix.com/ContactUs) သို႕တိုက္ရိုက္ဆက္သြယ္ၿပီး သတင္းရယူႏိုင္ပါသည္။သို႕မဟုတ္ [ဤေနရာတြင္](http://www.petitiononline.com/Linflix)  မွတ္ပံုတင္ၿပီး ေတာင္းဆိုႏိုင္ပါသည္။ (Chrome browser အတြက္Google မွျပဳလုပ္ေနေသာ)An HTML5 Netflix plugin မႀကာမီ သံုးစြဲႏိုင္ေတာ့မည္။အျခားေသာ နည္းလမ္းတစ္ခုအေနနဲ႕ Netflix Android app အား virtual
-Android environment တြင္လည္း သံုးစြဲႏ\E1\80
+Netflix streaming အတွက်လိုအပ်ချက်နှစ်ခုမှာ the capabilities of Silverlight 2.0 နှင့် Digital Rights Management modules ဖြစ်သည်။သို့ပေသော်လည်း လက်ရှိအမျိုးအစားဖြစ်သော Moonlight 2.0 တွင်လည်း Silverlight content (including Netflix content) သုံးနိုင်သည် ,linux အတွက် Digital Rights Management modules အား Netfilix မှ အဆင်သင့်မဖြစ်သေးပါ။ ကျေးဇူးပြုပြီး [Netflix](http://www.netflix.com/ContactUs) သို့တိုက်ရိုက်ဆက်သွယ်ပြီး သတင်းရယူနိုင်ပါသည်။သို့မဟုတ် [ဤနေရာတွင်](http://www.petitiononline.com/Linflix)  မှတ်ပုံတင်ပြီး တောင်းဆိုနိုင်ပါသည်။ (Chrome browser အတွက်Google မှပြုလုပ်နေသော)An HTML5 Netflix plugin မကြာမီ သုံးစွဲနိုင်တော့မည်။အခြားသော နည်းလမ်းတစ်ခုအနေနဲ့ Netflix Android app အား virtual
+Android environment တွင်လည်း သုံးစွဲန\E1\80

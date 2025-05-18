@@ -1,88 +1,88 @@
-﻿�္စင္မေပးေပ။ တင္သြင္းလိုက္ေသာ ေျပာင္းလဲမႈမ်ား၊ပါ၀င္ေရးသားမႈမ်ားသည္ VMWare ၏ ပိုင္ဆိုင္မႈမ်ားျဖစ္သြားသည္။  [Zimbra wiki](http://wiki.zimbra.com/wiki/Main-Page) ကိုၾကည့္ပါ။ Lucid Lynx 10.04 LTS အတြက္ ဘီတာဗားရွင္းကို ၆၄ဘစ္ အသံုးျပဳသူမ်ားအတြက္ ရရွိႏုိင္ၿပီး အေဟာင္း Hardy 8.04 ကိုလည္းအသံုးျပဳႏုိင္ပါသည္။
+﻿�်စင်မပေးပေ။ တင်သွင်းလိုက်သော ပြောင်းလဲမှုများ၊ပါဝင်ရေးသားမှုများသည် VMWare ၏ ပိုင်ဆိုင်မှုများဖြစ်သွားသည်။  [Zimbra wiki](http://wiki.zimbra.com/wiki/Main-Page) ကိုကြည့်ပါ။ Lucid Lynx 10.04 LTS အတွက် ဘီတာဗားရှင်းကို ၆၄ဘစ် အသုံးပြုသူများအတွက် ရရှိနိုင်ပြီး အဟောင်း Hardy 8.04 ကိုလည်းအသုံးပြုနိုင်ပါသည်။
 
 ####School Tool
 
-[School Tool](http://www.schooltool.org/) သည္ အေျခခံႏွင့္ အလယ္တန္းအဆင့္ ေက်ာင္းမ်ားအတြက္ ျပကၡဒိန္၊ ပညာရည္မွတ္တမ္း ၊ေက်ာင္းေခၚခ်ိန္ ၊ေက်ာင္းသား အခ်က္အလက္ သိမ္းဆည္းရာမ်ားအတြက္ ပြင့္လင္းရင္းျမစ္ အုပ္စုဖြဲ႔ေဆာ့၀ဲလ္ ျဖစ္သည္။ ၎ကို ဦးဘႏၱဳ မွ စပြန္ဆာေပးထားေသာ Shuttleworth ေဖာင္ေဒးရွင္း၏ အကူအညီျဖင့္ ဖန္တီးခဲ့ျခင္းျဖစ္သည္။တပ္ဆင္ရန္အတြက္ ညႊန္ၾကားခ်က္မ်ားကို ၾကည့္ပါ။ 
+[School Tool](http://www.schooltool.org/) သည် အခြေခံနှင့် အလယ်တန်းအဆင့် ကျောင်းများအတွက် ပြက္ခဒိန်၊ ပညာရည်မှတ်တမ်း ၊ကျောင်းခေါ်ချိန် ၊ကျောင်းသား အချက်အလက် သိမ်းဆည်းရာများအတွက် ပွင့်လင်းရင်းမြစ် အုပ်စုဖွဲ့ဆော့ဝဲလ် ဖြစ်သည်။ ၎င်းကို ဦးဘန္တု မှ စပွန်ဆာပေးထားသော Shuttleworth ဖောင်ဒေးရှင်း၏ အကူအညီဖြင့် ဖန်တီးခဲ့ခြင်းဖြစ်သည်။တပ်ဆင်ရန်အတွက် ညွှန်ကြားချက်များကို ကြည့်ပါ။ 
 
 	[installation instructions](http://book.schooltool.org/htmlhelp/install.html)
 
 
 ####Sugar CRM Community Editon
 
-[Sugar CRM](http://www.sugarcrm.com/crm/download) သည္ ေဖာက္သည္ဆိုင္ရာ စီမံခန္႔ခြဲမႈစနစ္ျဖစ္ၿပီးအေရာင္းအင္အားစုမ်ား (အေရာင္း ၊ေစ်းကြက္ျမွင့္တင္ေရး၊ ေထာက္ပံ့ေရး၊ စီမံခန္႔ခြဲမႈ ၊ အခ်ိန္ခြဲေ၀မႈမ်ား) အၾကားတြင္ ေပါင္းစပ္ညွိႏႈိင္းရာတြင္ သံုးေလ့ရွိသည္။ Sugar CRM အဖြဲ႔အစည္းပံုစံကို က်ယ္က်ယ္ျပန္႔ျပန္သံုးစြဲၾကသည္။ LAMP ဆာဗာကို ဦးစြာတပ္ဆင္သင့္သည္။ 
+[Sugar CRM](http://www.sugarcrm.com/crm/download) သည် ဖောက်သည်ဆိုင်ရာ စီမံခန့်ခွဲမှုစနစ်ဖြစ်ပြီးအရောင်းအင်အားစုများ (အရောင်း ၊ဈေးကွက်မြှင့်တင်ရေး၊ ထောက်ပံ့ရေး၊ စီမံခန့်ခွဲမှု ၊ အချိန်ခွဲဝေမှုများ) အကြားတွင် ပေါင်းစပ်ညှိနှိုင်းရာတွင် သုံးလေ့ရှိသည်။ Sugar CRM အဖွဲ့အစည်းပုံစံကို ကျယ်ကျယ်ပြန့်ပြန်သုံးစွဲကြသည်။ LAMP ဆာဗာကို ဦးစွာတပ်ဆင်သင့်သည်။ 
 
 	sudo tasksel install lamp-server 
 
-Sugar CRM ကို `/var/www` သို႔ ျဖည္ထုတ္ပါ။ ထို႔ေနာက္ http://localhost/SUGAR-FOLDER/ သို႔ Login ၀င္ပါ။ အျခားေရြးခ်ယ္စရာအျဖစ္ SugarCRM ဆာဗာအသစ္ကို LAMP ႏွင့္ 
-ွSugarCRM အဖြဲ႔အစည္းပံုစံ အသင့္ပါၿပီး တပ္ဆင္ရန္ (ဘိုင္နာရီ) [instrallation](http://www.sugarcrm.com/crm/download#installers) ပံုစံျဖင့္လည္း ရႏိုင္ပါသည္။
+Sugar CRM ကို `/var/www` သို့ ဖြည်ထုတ်ပါ။ ထို့နောက် http://localhost/SUGAR-FOLDER/ သို့ Login ဝင်ပါ။ အခြားရွေးချယ်စရာအဖြစ် SugarCRM ဆာဗာအသစ်ကို LAMP နှင့် 
+ှSugarCRM အဖွဲ့အစည်းပုံစံ အသင့်ပါပြီး တပ်ဆင်ရန် (ဘိုင်နာရီ) [instrallation](http://www.sugarcrm.com/crm/download#installers) ပုံစံဖြင့်လည်း ရနိုင်ပါသည်။
 
 
 ####Guoupware Clients
 
-အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္မ်ားသည္ Kontact/KMail/, Mozilla Thunderbird (သို႔) SeaMonkey တို႔ျဖင့္ ဆက္သြယ္မႈမ်ား ေဆာင္ရြက္ႏုိင္ၾကသည္။
+အုပ်စုဖွဲ့ ဆော့ဝဲလ်များသည် Kontact/KMail/, Mozilla Thunderbird (သို့) SeaMonkey တို့ဖြင့် ဆက်သွယ်မှုများ ဆောင်ရွက်နိုင်ကြသည်။
 
 ####Evolution Exchange 
 
-Evolution Exchange သည္ MS  Exchange 2000 2003 သို႔ (Outlook Web Access ) ကို အသံုးျပဳ၍ ဆက္သြယ္ႏုိင္သည္။ Install -
+Evolution Exchange သည် MS  Exchange 2000 2003 သို့ (Outlook Web Access ) ကို အသုံးပြု၍ ဆက်သွယ်နိုင်သည်။ Install -
 
 	sudo apt-get install evolution-exchange
 
 ####Kontact Personal Information Manager
 
-Kontact Personal Information Manager တကုိယ္ရည္သံုး အခ်က္အလက္မန္ေနဂ်ာသည္ ဦးဘႏၱဳ တြင္တပါတည္းပါ၀င္ၿပီးျဖစ္ၿပီး အျခားေသာ အစုဖြဲ႔ ေဆာ့၀ဲလ္မ်ားျဖင့္ ေကာင္းစြာအလုပ္လုပ္ႏုိင္သည္။ interfaces with many [groupware servers](http://kontact.kde.org/groupwareservers.php).
+Kontact Personal Information Manager တကိုယ်ရည်သုံး အချက်အလက်မန်နေဂျာသည် ဦးဘန္တု တွင်တပါတည်းပါဝင်ပြီးဖြစ်ပြီး အခြားသော အစုဖွဲ့ ဆော့ဝဲလ်များဖြင့် ကောင်းစွာအလုပ်လုပ်နိုင်သည်။ interfaces with many [groupware servers](http://kontact.kde.org/groupwareservers.php).
 
 ####KDE Groupware Wizard
 
-KDE အုပ္စုဖြဲ႔ေဆာ့၀ဲလ္ အလိုအေလ်ာက္ေဆာင္ရြက္မႈ  Kubuntu သည္ အလိုအေလ်ာက္ေဆာင္ရြက္မႈ (Script) ျဖင့္ အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ဆာဗာႏွင့္ clients (Kontact/Kmail စသည္မ်ား ) ကို ဆက္သြယ္ႏုိင္ေစရန္ ကူညီေပးသည္။ ယခုလက္ရွိ ေထာက္ပံ့ႏို္င္ေသာ အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္မ်ားမွာ Kolab, eGroupware, SUSE Linux Openexchange ႏွင့္ Novell Groupwise တို႔ျဖစ္ၾကသည္။
+KDE အုပ်စုဖွဲ့ဆော့ဝဲလ် အလိုအလျောက်ဆောင်ရွက်မှု  Kubuntu သည် အလိုအလျောက်ဆောင်ရွက်မှု (Script) ဖြင့် အုပ်စုဖွဲ့ ဆော့ဝဲလ်ဆာဗာနှင့် clients (Kontact/Kmail စသည်များ ) ကို ဆက်သွယ်နိုင်စေရန် ကူညီပေးသည်။ ယခုလက်ရှိ ထောက်ပံ့နိုင်သော အုပ်စုဖွဲ့ ဆော့ဝဲလ်များမှာ Kolab, eGroupware, SUSE Linux Openexchange နှင့် Novell Groupwise တို့ဖြစ်ကြသည်။
 
 ####Zimbra Desktop 
 
-[Zimbra Desktop](http://www.zimbra.com/products/desktop.html) သည္ Zimbra ဆာဗာအတြက္အသံုးျပဳႏိုင္သည္။ Zimbra Desktop FQA မ်ား ကို ၾကည့္ပါ။ ပိုမိုသိရွိလိုပါက Ubuntu Forums Zimbra Desktop Installation [thread [1]](http://ubuntuforums.org/showthread.pmp?p=10634207)
+[Zimbra Desktop](http://www.zimbra.com/products/desktop.html) သည် Zimbra ဆာဗာအတွက်အသုံးပြုနိုင်သည်။ Zimbra Desktop FQA များ ကို ကြည့်ပါ။ ပိုမိုသိရှိလိုပါက Ubuntu Forums Zimbra Desktop Installation [thread [1]](http://ubuntuforums.org/showthread.pmp?p=10634207)
 
 ####Oracle Calendar Desktop Client
 
-[Oracle Calendar Desktop Client](http://www.oracle.com/technology/products/cs/user_info/ocalendar/desktop_index.html) သည္ oracle အုပ္စုဖြဲ႔ ေဆာ့၀ဲလ္ ႏွင့္ ေဒတာေဘ့စ္ ႏွင့္ အသံုးျပဳရန္အတြက္ ပုဂၢလိကပိုင္ ျပကၡဒိန္ေဆာ့၀ဲလ္ ျဖစ္သည္။ Oracle Calendar Desktop Client ကို ေဒါင္းလုပ္ဆြဲရန္ 
+[Oracle Calendar Desktop Client](http://www.oracle.com/technology/products/cs/user_info/ocalendar/desktop_index.html) သည် oracle အုပ်စုဖွဲ့ ဆော့ဝဲလ် နှင့် ဒေတာဘေ့စ် နှင့် အသုံးပြုရန်အတွက် ပုဂ္ဂလိကပိုင် ပြက္ခဒိန်ဆော့ဝဲလ် ဖြစ်သည်။ Oracle Calendar Desktop Client ကို ဒေါင်းလုပ်ဆွဲရန် 
 
 	wget  http://ww.k_state.edu/infotech/calendar/oracle_10_clients/DesktopClients/Linux/callinu
 
-ျဖည္ထုတ္ရန္ 
+ဖြည်ထုတ်ရန် 
 
 	tar_xvf cal_linux_1011.tar.gz
 
-ျဖည္ထုတ္ၿပီးေသာ ဖိုင္မ်ားကို ဖိုလ္ဒါထဲသို႔ ေနရာေျပာင္းပါ။
+ဖြည်ထုတ်ပြီးသော ဖိုင်များကို ဖိုလ်ဒါထဲသို့ နေရာပြောင်းပါ။
 
 	cd Cracle Calendar_inst/
 
-ဖိုင္မ်ားကို ျပင္ဆင္ပါ။
+ဖိုင်များကို ပြင်ဆင်ပါ။
 
 	mv cal_linux cal_linux.bak; cat cal_linux.bak l seds/export LD_ASSUME-KERNEL/ #Xport LD_ASSUME_KERN
 
-ခြင့္ျပဳမႈကို ျပင္ဆင္ပါ။
+ခွင့်ပြုမှုကို ပြင်ဆင်ပါ။
 
 	chmod +x gui_install.sh cal_linux
 
-GUI ျဖင့္ ထည့္သြင္းမႈကို စတင္ပါ။
+GUI ဖြင့် ထည့်သွင်းမှုကို စတင်ပါ။
 
 	sudo sh gui_install.sh
 
-####အစုအဖြဲ႔ ျပကၡဒိန္မ်ား
+####အစုအဖွဲ့ ပြက္ခဒိန်များ
 
 #####DAViCal Calendar Server
 
-[DA Vi Cal](http://wiki. davical. org/ w/ Main_ Page) သည္ [CalDAV](http://en.wikipedia.org/wiki/CalDAV), postgre SQL, Apache php တို႔ကို အေျခခံထားၿပီး MozillaThunderbird/Lightning/Sunbird,Evolution ႏွင့္ အျခားေသာ ျပကၡဒိန္ client မ်ားျဖင့္ ေကာင္းစြာအလုပ္လုပ္ႏိုင္သည္။ install-
+[DA Vi Cal](http://wiki. davical. org/ w/ Main_ Page) သည် [CalDAV](http://en.wikipedia.org/wiki/CalDAV), postgre SQL, Apache php တို့ကို အခြေခံထားပြီး MozillaThunderbird/Lightning/Sunbird,Evolution နှင့် အခြားသော ပြက္ခဒိန် client များဖြင့် ကောင်းစွာအလုပ်လုပ်နိုင်သည်။ install-
 
 	sudo apt-get install davical
 
-[အေသးစိတ္အခ်က္အလက္မ်ား](http://wiki.davical.org/w/Ubunty_Maverick)
+[အသေးစိတ်အချက်အလက်များ](http://wiki.davical.org/w/Ubunty_Maverick)
 
 #####Darwin Calendar Server
 
-[Darwin Calendar Server](http://trac.calendarserver.org/) ျပကၡဒိန္ ဆာဗာသည္ Apple ၏ [CalDAV](http://en.wikipedia.org/wiki/CalDAV ) ပြင့္လင္းရင္းျမစ္ port ကို အေျခခံထားေသာ ျပကၡဒိန္ဆာဗာ ျဖစ္ၿပီး  Mozilla Thunderbird/ Lightening/ Sunbird/ Evolution ႏွင့္ အျခားေသာ ျပကၡဒိန္ client မ်ားျဖင့္ ေကာင္းစြာအလုပ္လုပ္ႏုိင္သည္။ ရွင္း ၁.၂ ကို သိမ္းဆည္းထားေသာ ေနရာမ်ားမွ တပ္ဆင္ရန္မွာ (အေသးစိ္တ္ညႊန္ၾကားခ်က္မ်ားကို ၀က္ဘ္ဆိုက္တြင္ ၾကည့္ရႈပါ။ )
+[Darwin Calendar Server](http://trac.calendarserver.org/) ပြက္ခဒိန် ဆာဗာသည် Apple ၏ [CalDAV](http://en.wikipedia.org/wiki/CalDAV ) ပွင့်လင်းရင်းမြစ် port ကို အခြေခံထားသော ပြက္ခဒိန်ဆာဗာ ဖြစ်ပြီး  Mozilla Thunderbird/ Lightening/ Sunbird/ Evolution နှင့် အခြားသော ပြက္ခဒိန် client များဖြင့် ကောင်းစွာအလုပ်လုပ်နိုင်သည်။ ရှင်း ၁.၂ ကို သိမ်းဆည်းထားသော နေရာများမှ တပ်ဆင်ရန်မှာ (အသေးစိတ်ညွှန်ကြားချက်များကို ဝက်ဘ်ဆိုက်တွင် ကြည့်ရှုပါ။ )
 
 	sudo apt-get install calendarserver
 
 
 #####WebCalaendar
 
-[WebCalaendar](http://www.k5n.us/webcalaendar.php?topic=About) သည္ [ICS](http://en.wikipedia.org/wiki/I Calendar) ကို အေျခခံထားေသာ အုပ္စုဖြဲ႔ ျပကၡဒိန္မ်ားအတြက္ ဆာဗာျဖစ္ၿပီး အမ်ဳိးမ်ဳိးေသာ ေဒတာေဘ့မ်ားျဖင့္ တြဲဖက္သုံးႏိုင္သည္။  PHP ျဖင့္ ေရးသားထားၿပီး Sunbird/Thunderbird
+[WebCalaendar](http://www.k5n.us/webcalaendar.php?topic=About) သည် [ICS](http://en.wikipedia.org/wiki/I Calendar) ကို အခြေခံထားသော အုပ်စုဖွဲ့ ပြက္ခဒိန်များအတွက် ဆာဗာဖြစ်ပြီး အမျိုးမျိုးသော ဒေတာဘေ့များဖြင့် တွဲဖက်သုံးနိုင်သည်။  PHP ဖြင့် ရေးသားထားပြီး Sunbird/Thunderbird
 (Lightning) , Apple iCal, and Evolution 
